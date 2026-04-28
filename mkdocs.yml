@@ -1,8 +1,8 @@
 site_name: "Observatory Almanac"
 site_description: "Expert-authored knowledge across 26 subject areas — science, history, environment, philosophy, cooking, health, and more."
-site_url: "https://ind-media.github.io/observatory-almanac"
-repo_url: "https://github.com/ind-media/observatory-almanac"
-repo_name: "ind-media/observatory-almanac"
+site_url: "https://phosphene.github.io/observatory-almanac"
+repo_url: "https://github.com/phosphene/observatory-almanac"
+repo_name: "phosphene/observatory-almanac"
 docs_dir: docs
 site_dir: site
 edit_uri: "edit/main/docs/"

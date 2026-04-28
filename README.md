@@ -1,62 +1,231 @@
 # Observatory Almanac
 
-A structured, git-native mirror of [Observatory.wiki](https://observatory.wiki) — the expert-driven guide to the world produced by the Independent Media Institute.
+A structured, git-native knowledge repository built on [Observatory.wiki](https://observatory.wiki) — the expert-driven guide to the world produced by the [Independent Media Institute](https://ind.media).
 
-The Almanac makes Observatory content versionable, searchable, and composable. Every article, guide, and author profile lives as a plain markdown file with explicit frontmatter. No database. No CMS. Just text that anyone can read, fork, or build on.
-
----
-
-## What the Observatory Is
-
-The Observatory publishes expert-authored articles across 26 subject areas — from Science and Environment to History, Philosophy, and World Affairs. Articles are written by credentialed researchers, journalists, and practitioners. All content is licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-The Almanac's job is to hold that content in a form that is:
-- **Explicit** — every field has a defined meaning (see [SCHEMA.md](SCHEMA.md))
-- **Stable** — git history is the record of truth
-- **Open** — forkable, searchable, composable by anyone
+**Live site:** [ind-media.github.io/observatory-almanac](https://ind-media.github.io/observatory-almanac)
 
 ---
 
-## Structure
+## What This Is
+
+The Observatory publishes expert-authored articles across 26 subject areas — Science, Environment, History, Philosophy, World Affairs, and more. Every article is written by credentialed researchers, journalists, and practitioners, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+The Almanac holds that content in a form that is **structured, versionable, and machine-readable** — without a database, without a CMS, without a platform dependency. Every document is a plain markdown file with explicit YAML frontmatter. Git is the database. The file system is the API.
+
+This is not a scrape dump. The Almanac is a **knowledge architecture**: a system where content, tooling, documentation, and agent intelligence are co-located and mutually reinforcing.
+
+---
+
+## The Architecture
+
+### 1. Frontmatter as the Primary Interface
+
+Every document in this repository begins with a YAML frontmatter block. This is not decoration — it is the contract between content and tooling:
+
+```yaml
+---
+title: "Debt Forgiveness in the Bronze Age"
+area: history
+type: article
+author: Michael Hudson
+author_slug: michael-hudson
+source: The Observatory
+source_url: https://observatory.wiki/Debt_Forgiveness_in_the_Bronze_Age
+license: CC BY-NC-SA 4.0
+published: '2024-09-19'
+updated: '2024-09-19'
+summary: How ancient civilisations used periodic debt cancellations to maintain
+  social stability — and why the modern world has forgotten the lesson.
+tags:
+  - debt
+  - bronze-age
+  - inequality
+  - ancient-history
+---
+```
+
+Every field has a defined meaning, enforced by the Pydantic schema in `lib/python/almanac/src/almanac/schema.py`. Unknown fields fail validation. Missing required fields fail validation. The frontmatter is the document's identity — not its filename, not its position in a tree.
+
+See [SCHEMA.md](SCHEMA.md) for the full specification of all 10 document types.
+
+---
+
+### 2. Frontmatter-Driven RAG
+
+The frontmatter structure enables **Retrieval-Augmented Generation** directly over the file system. Each document is a self-describing unit: it declares its topic (`area`, `tags`), its provenance (`author`, `source_url`, `license`), its temporal position (`published`, `updated`), and its semantic summary (`summary`).
+
+An agent or search system can:
+- Filter by `area` to get domain-scoped context
+- Filter by `tags` for concept-level retrieval
+- Read `summary` for lightweight triage before loading the full body
+- Follow `author_slug` to get author context
+- Verify `license` before any downstream use
+
+The `meta/import-queue.yml` is also frontmatter-driven: a structured YAML manifest that tells the scraper what to fetch and where to put it, decoupling content acquisition from Python logic.
+
+The `meta/SPEC_LOG.md`, `meta/TASKS.md`, and `memory/` files extend this model to agent infrastructure: every decision, task, and operational pattern is a structured document that agents can index, retrieve, and reason over.
+
+---
+
+### 3. MkDocs — The Published Surface
+
+The frontmatter fields `title`, `tags`, and `summary` are read directly by [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) to produce:
+- **Search index** — full-text search over all 190+ documents
+- **Tags taxonomy** — cross-area tag browsing
+- **Social cards** — article-level Open Graph previews
+- **Git revision dates** — last-edited timestamps from commit history
+
+The site is built by GitHub Actions on every push to `main`. The workflow:
+1. Checks out the full git history (required for revision dates)
+2. Installs Python deps and the almanac validation package
+3. Generates area index pages (`scripts/generate_area_indexes.py`)
+4. Builds the `docs/` symlink tree (`scripts/build_docs_tree.py`)
+5. Validates all content against the Pydantic schema
+6. Runs `mkdocs build --strict`
+7. Deploys to GitHub Pages
+
+Content in `areas/` and `authors/` is symlinked into `docs/` at build time — the canonical files live at the repo root, not inside `docs/`. This keeps the content structure clean and the MkDocs configuration minimal.
+
+---
+
+### 4. Agent Infrastructure
+
+This repository is an agent workspace, not just a content repository. Agents working here operate within a defined architecture:
+
+```
+.agents/skills/almanac-content/SKILL.md  — turbo commands, axioms, standards
+memory/feelingflowingbot.md              — Flow's operational memory
+memory/edphos.md                         — Ed Phil's project memory
+meta/CONTEXT_INDEX.md                    — session-start orientation index
+meta/SPEC_LOG.md                         — architectural decisions (append-only)
+meta/TASKS.md                            — task board (E/D/C/I tracks)
+```
+
+**Graduated Discovery** — agents read `meta/CONTEXT_INDEX.md` first, then load only what the task requires. No directory scanning. No guessing. The index is the map.
+
+**Spec Log** — every significant architectural decision is recorded in `meta/SPEC_LOG.md` with its rationale and consequences. Append-only. 18 decisions to date (SPEC-001 through SPEC-018).
+
+**Skill-driven operations** — the content skill (`SKILL.md`) codifies turbo commands for all routine operations: scraping one article (T1), bulk import from queue (T2), validation (T3), test run (T4), site preview (T8). Agents don't improvise; they execute defined patterns.
+
+---
+
+## Repository Structure
 
 ```
 observatory-almanac/
-├── README.md          ← this file
-├── SCHEMA.md          ← article, guide, and author format spec
-├── AREAS.md           ← canonical area taxonomy
-├── areas/             ← articles, one directory per area
+├── .agents/
+│   └── skills/almanac-content/SKILL.md  ← native agent skill
+├── .github/workflows/deploy.yml          ← GitHub Pages CI
+├── areas/                                ← content by subject area (26 areas)
 │   ├── science/
 │   ├── environment/
+│   ├── history/
 │   └── ...
-├── guides/            ← curated multi-article collections
-├── authors/           ← author profiles
-└── meta/              ← index, stats, editorial notes
+├── authors/                              ← author profiles (29 profiles)
+├── docs/                                 ← MkDocs source (symlinked from areas/)
+├── guides/                               ← curated multi-article collections
+├── lib/python/almanac/                   ← validation package
+│   └── src/almanac/
+│       ├── schema.py                     ← Pydantic schema (10 document types)
+│       ├── validator.py                  ← CLI validator (exit codes 0/1/2)
+│       ├── index.py                      ← inventory generator
+│       └── parsing.py                    ← canonical frontmatter extractor
+├── memory/
+│   ├── feelingflowingbot.md              ← Flow's project memory
+│   └── edphos.md                         ← Ed Phil's project memory
+├── meta/
+│   ├── CONTEXT_INDEX.md                  ← session-start orientation (33 entries)
+│   ├── SPEC_LOG.md                       ← architectural decisions
+│   ├── TASKS.md                          ← task board
+│   └── import-queue.yml                  ← OW article scrape queue (49 entries)
+├── scripts/
+│   ├── generate_area_indexes.py          ← area index page generator
+│   └── build_docs_tree.py               ← docs/ symlink tree builder
+├── AGENTS.md                             ← agent init protocol and infrastructure map
+├── AREAS.md                              ← 26 canonical area slugs
+├── mkdocs.yml                            ← MkDocs Material configuration
+├── requirements-docs.txt                 ← Python deps for docs build
+└── SCHEMA.md                             ← human-readable content format spec
 ```
-
-### Articles
-
-Each article is a markdown file in `areas/<area>/`. Filename is the URL slug from observatory.wiki (lowercase, hyphens). Example:
-
-```
-areas/science/why-scientists-are-still-puzzled-by-consciousness.md
-```
-
-### Guides
-
-Guides are editorial collections — a curated set of articles on a theme with an introductory frame. They live in `guides/`.
-
-### Author Profiles
-
-Each author gets one file in `authors/`. It holds their bio, credentials, and a list of their Observatory articles.
 
 ---
 
-## Format
+## Content State
 
-See [SCHEMA.md](SCHEMA.md) for the full specification. The short version: every file starts with YAML frontmatter that makes the article's identity, provenance, and metadata machine-readable. The body is the article content in markdown.
+| Area | OW Articles | Almanac-Native | Total |
+|------|-------------|----------------|-------|
+| science | 8 | 7 | 15 |
+| environment | 7 | 8 | 15 |
+| history | 5 | 4 | 9 |
+| cooking | 0 | 27 | 27 |
+| health | 4 | 22 | 26 |
+| arts-recreation | 0 | 24 | 24 |
+| psychology | 4 | 9 | 13 |
+| philosophy | 4 | 9 | 13 |
+| world-affairs | 2 | 9 | 11 |
+| language | 5 | 4 | 9 |
+| economy | 4 | 0 | 4 |
+| animals | 4 | 0 | 4 |
+| technology | 1 | 6 | 7 |
+| local-peace-economy | 0 | 6 | 6 |
+| human-bridges | 1 | 0 | 1 |
+
+**~190 documents · 29 author profiles · 1 guide · 20 populated areas**
+
+*Last updated: 2026-04-28*
+
+---
+
+## Working With This Repository
+
+### Scrape a new OW article
+```bash
+# Add to the queue
+echo "  - url: https://observatory.wiki/Article_Title\n    area: area-slug" >> meta/import-queue.yml
+
+# Scrape (from workspace root — scraper lives in parent workspace)
+uv run --project ../../lib/python python ../../lib/python/scripts/feelingflowingbot/observatory_scraper.py --bulk
+```
+
+### Validate all content
+```bash
+cd lib/python && uv run python -m almanac.validator --root ..
+```
+
+### Build and preview the site locally
+```bash
+pip install -r requirements-docs.txt
+python scripts/build_docs_tree.py
+mkdocs serve
+```
+
+### Run tests
+```bash
+# Almanac schema/validation tests (50)
+cd lib/python && uv run pytest -q
+
+# Scraper tests (115) — in parent workspace
+cd ../../lib/python && uv run pytest scripts/feelingflowingbot/ -q
+```
+
+---
+
+## Two Content Tracks
+
+**Observatory.wiki articles** (`type: article`, `type: classic`, `type: guide`)
+- Licensed CC BY-NC-SA 4.0 by the Independent Media Institute
+- Scraped and structured by the Observatory Almanac Bot
+- Attribution line mandatory at the end of every document
+
+**Almanac-native content** (`type: almanac`, `type: recipe`, `type: rulebook`, etc.)
+- MIT licensed
+- Reference material, recipes, field guides, factbooks, assessments
+- Authored directly for the Almanac
 
 ---
 
 ## License
 
-All Observatory content is © Independent Media Institute, licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise noted. The Almanac structure and tooling are MIT licensed.
+Observatory.wiki content: © Independent Media Institute, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Almanac structure, tooling, and native content: [MIT](LICENSE)

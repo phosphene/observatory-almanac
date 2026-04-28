@@ -1,0 +1,83 @@
+# Observatory Almanac — OW Import Queue
+#
+# Articles queued for scraping from observatory.wiki.
+# Format: list of {url, area} mappings.
+#
+# Area must be a canonical slug from AREAS.md.
+# To add a new article: append an entry and run:
+#   uv run python lib/python/scripts/feelingflowingbot/observatory_scraper.py --bulk
+#
+# Sections are organisational only — all entries are processed equally.
+
+articles:
+  # Science
+  - url: https://observatory.wiki/Between_Life_and_Death:_What_Near-Death_Experiences_Reveal_About_Consciousness
+    area: science
+  - url: https://observatory.wiki/Bees_Are_Sentient_and_May_Be_Self-Aware
+    area: science
+  - url: https://observatory.wiki/A_Compelling_Theory_to_Explain_a_Key_Trait_of_Modern_Humans
+    area: science
+  - url: https://observatory.wiki/Can_You_Reset_Your_Biological_Age_to_Live_a_Longer,_Healthier_Life%3F
+    area: science
+  - url: https://observatory.wiki/Advances_in_Archaeology_Allow_Us_to_Understand_Political_Evolution_and_Social_Change_in_Deep_Time
+    area: science
+  - url: https://observatory.wiki/An_Ancient_Recipe_for_Social_Success
+    area: science
+  - url: https://observatory.wiki/Archeologists_Join_Geologists_in_the_Quest_to_Define_the_Age_of_Humans
+    area: science
+
+  # Environment
+  - url: https://observatory.wiki/10_Reasons_Why_Hydropower_Dams_Are_a_False_Climate_Solution
+    area: environment
+  - url: https://observatory.wiki/600_Million_Metric_Tons_of_Plastic_May_Fill_Oceans_by_2036_If_We_Don%E2%80%99t_Act_Now
+    area: environment
+  - url: https://observatory.wiki/A_Climate_Change_Solution_No_One%E2%80%99s_Talking_About:_Better_Land_Use
+    area: environment
+  - url: https://observatory.wiki/Afro-Descendant_Communities_Offer_a_Living_Blueprint_for_Amazon_Conservation
+    area: environment
+  - url: https://observatory.wiki/Carbon_Capture_Is_a_Potential_Weapon_Against_Climate_Change,_but_Will_It_Come_Soon_Enough%3F
+    area: environment
+  - url: https://observatory.wiki/Carbon_Farming:_A_Sustainable_Agriculture_Technique_That_Keeps_Soil_Healthy_and_Combats_Climate_Change
+    area: environment
+  - url: https://observatory.wiki/Air_Pollution_Is_Killing_Millions_and_Rising_Exponentially%E2%80%94A_Shift_in_Agriculture_Can_Solve_It
+    area: environment
+
+  # Animals
+  - url: https://observatory.wiki/Cats_Are_Fueling_a_Global_Eco-Crisis,_Pushing_Birds_and_Other_Species_to_Extinction
+    area: animals
+  - url: https://observatory.wiki/Captive_Elephants:_The_Harsh_Reality
+    area: animals
+  - url: https://observatory.wiki/Chickens_Are_Smarter_Than_You_Think
+    area: animals
+  - url: https://observatory.wiki/Are_Plant-Eaters_Smarter_and_More_Empathetic_Than_Meat-Eaters%3F
+    area: animals
+
+  # History
+  - url: https://observatory.wiki/Debt_Forgiveness_in_the_Bronze_Age
+    area: history
+  - url: https://observatory.wiki/Coins_and_Temples_in_the_Ancient_World
+    area: history
+  - url: https://observatory.wiki/Dead_States,_Living_Borders:_Three_Historical_Cases_of_%E2%80%98State_Revival%E2%80%99:_Armenia,_Vietnam,_and_Poland
+    area: history
+  - url: https://observatory.wiki/Archaeology_Is_Flipping_the_Script_on_What_We_Know_About_Ancient_Mesoamerica
+    area: history
+  - url: https://observatory.wiki/Archaeology_Can_Now_Tell_Us_How_People_Have_Muffled_and_Challenged_Economic_Inequality_Across_History
+    area: history
+
+  # Economy
+  - url: https://observatory.wiki/A_Critique_of_Obscene_Wealth
+    area: economy
+  - url: https://observatory.wiki/A_Minimum_Wage%3F_A_Fake_Debate
+    area: economy
+  - url: https://observatory.wiki/Are_Western_Oligarchies_a_Long_Detour_of_Civilization%3F
+    area: economy
+  - url: https://observatory.wiki/A_Circular_Economy
+    area: economy
+
+  # Human Bridges
+  - url: https://observatory.wiki/As_a_Growing_Social_Movement_and_Self-Care_Practice,_Death_Literacy_Is_Fostering_Positive_Conversations_About_the_End
+    area: human-bridges
+
+  # Technology
+  - url: https://observatory.wiki/Agrivoltaics:_The_Farm-to-Solar_Trend_That_Can_Help_Accelerate_the_Renewable_Energy_Transition
+    area: technology

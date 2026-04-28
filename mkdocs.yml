@@ -3,9 +3,9 @@ site_description: "Expert-authored knowledge across 26 subject areas — science
 site_url: "https://ind-media.github.io/observatory-almanac"
 repo_url: "https://github.com/ind-media/observatory-almanac"
 repo_name: "ind-media/observatory-almanac"
-docs_dir: "."
-site_dir: "site"
-edit_uri: "edit/main/"
+docs_dir: docs
+site_dir: site
+edit_uri: "edit/main/docs/"
 
 # ---------------------------------------------------------------------------
 # Theme
@@ -54,8 +54,9 @@ plugins:
       lang: en
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])'
   - tags:
-      tags_file: meta/tags.md
-  - git-revision-dates-localized:
+      tags_file: tags.md
+  - awesome-pages
+  - git-revision-date-localized:
       enable_creation_date: true
       type: date
       fallback_to_build_date: true
@@ -103,99 +104,4 @@ extra:
   generator: false
 
 extra_css:
-  - docs/assets/almanac.css
-
-# ---------------------------------------------------------------------------
-# Exclude non-content paths from the docs tree
-# ---------------------------------------------------------------------------
-exclude_docs: |
-  lib/
-  scripts/
-  site/
-  .git/
-  .github/
-  node_modules/
-  AUTHORS.md
-  CHANGELOG.md
-  meta/CONTEXT_INDEX.md
-  *.toml
-  *.lock
-  *.yml
-  *.yaml
-  *.json
-  *.zip
-  *.sh
-
-# ---------------------------------------------------------------------------
-# Navigation
-# ---------------------------------------------------------------------------
-nav:
-  - Home: docs/index.md
-
-  - Science:
-    - areas/science/index.md
-    - articles: areas/science/
-
-  - Environment:
-    - areas/environment/index.md
-    - articles: areas/environment/
-
-  - History:
-    - areas/history/index.md
-    - articles: areas/history/
-
-  - Economy:
-    - areas/economy/index.md
-    - articles: areas/economy/
-
-  - Animals:
-    - areas/animals/index.md
-    - articles: areas/animals/
-
-  - Health:
-    - areas/health/index.md
-    - articles: areas/health/
-
-  - Cooking:
-    - areas/cooking/index.md
-    - articles: areas/cooking/
-
-  - Philosophy:
-    - areas/philosophy/index.md
-    - articles: areas/philosophy/
-
-  - Psychology:
-    - areas/psychology/index.md
-    - articles: areas/psychology/
-
-  - Arts & Recreation:
-    - areas/arts-recreation/index.md
-    - articles: areas/arts-recreation/
-
-  - World Affairs:
-    - areas/world-affairs/index.md
-    - articles: areas/world-affairs/
-
-  - Technology:
-    - areas/technology/index.md
-    - articles: areas/technology/
-
-  - Language:
-    - areas/language/index.md
-    - articles: areas/language/
-
-  - Local Peace Economy:
-    - areas/local-peace-economy/index.md
-    - articles: areas/local-peace-economy/
-
-  - Human Bridges:
-    - areas/human-bridges/index.md
-    - articles: areas/human-bridges/
-
-  - Authors: authors/
-  - Guides: guides/
-
-  - Meta:
-    - Schema: SCHEMA.md
-    - Areas: AREAS.md
-    - Tags: meta/tags.md
+  - assets/almanac.css

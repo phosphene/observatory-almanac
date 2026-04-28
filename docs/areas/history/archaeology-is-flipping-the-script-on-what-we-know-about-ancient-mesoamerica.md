@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/history/archaeology-is-flipping-the-script-on-what-we-know-about-ancient-mesoamerica.md

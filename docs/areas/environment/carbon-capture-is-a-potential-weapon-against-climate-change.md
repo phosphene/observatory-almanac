@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/environment/carbon-capture-is-a-potential-weapon-against-climate-change.md

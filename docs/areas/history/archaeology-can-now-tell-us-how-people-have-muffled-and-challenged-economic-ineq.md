@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/history/archaeology-can-now-tell-us-how-people-have-muffled-and-challenged-economic-ineq.md

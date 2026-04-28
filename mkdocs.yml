@@ -53,8 +53,7 @@ plugins:
   - search:
       lang: en
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])'
-  - tags:
-      tags_file: tags.md
+  - tags: {}
   - awesome-pages
   # git-revision-date-localized: shows "last updated" dates on pages.
   # fallback_to_build_date: true is REQUIRED — GitHub Actions performs a

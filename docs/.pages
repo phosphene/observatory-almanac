@@ -1,21 +1,5 @@
 nav:
   - index.md
-  - Schema: SCHEMA.md
-  - Areas:
-  - areas/animals
-  - areas/arts-recreation
-  - areas/cooking
-  - areas/economy
-  - areas/environment
-  - areas/health
-  - areas/history
-  - areas/human-bridges
-  - areas/language
-  - areas/local-peace-economy
-  - areas/philosophy
-  - areas/psychology
-  - areas/science
-  - areas/technology
-  - areas/world-affairs
-  - Authors: authors.md
-  - Tags: tags.md
+  - SCHEMA.md
+  - areas
+  - authors

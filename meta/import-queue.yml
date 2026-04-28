@@ -81,3 +81,51 @@ articles:
   # Technology
   - url: https://observatory.wiki/Agrivoltaics:_The_Farm-to-Solar_Trend_That_Can_Help_Accelerate_the_Renewable_Energy_Transition
     area: technology
+
+  # Health
+  - url: https://observatory.wiki/When_Poverty_Makes_You_Sick:_The_Hidden_Cost_of_Neglecting_Youth_Health
+    area: health
+  - url: https://observatory.wiki/Gratitude_Journaling:_A_Guide_for_Caregivers
+    area: health
+  - url: https://observatory.wiki/A_National_Asbestos-Exposure_Registry_of_Veterans_Could_Combat_Misdiagnosis_in_Mesothelioma_Cases_Nationwide
+    area: health
+  - url: https://observatory.wiki/Healing_Through_Words:_How_Creative_Writing_Empowers_Caregivers
+    area: health
+
+  # Psychology
+  - url: https://observatory.wiki/How_Images_Map_Dreams,_Archetypes,_and_the_Collective_Unconscious
+    area: psychology
+  - url: https://observatory.wiki/Understanding_News_Fatigue%E2%80%94and_How_to_Stay_Informed_Without_Overload
+    area: psychology
+  - url: https://observatory.wiki/How_Informal_Caregivers_Use_Storytelling_to_Build_Community_and_Influence_Policy
+    area: psychology
+  - url: https://observatory.wiki/Why_Many_of_Us_Have_Problems_Facing_Death%E2%80%94and_How_to_Get_Through_It
+    area: psychology
+
+  # Philosophy
+  - url: https://observatory.wiki/How_Consciousness_Shapes_Culture,_Communication,_and_Shared_Meaning
+    area: philosophy
+  - url: https://observatory.wiki/How_Ancient_Greek_and_Roman_Philosophers_Understood_Time,_Rebirth,_and_Recurrence
+    area: philosophy
+  - url: https://observatory.wiki/The_Wider_Benefits_of_Choosing_Life_Off_the_Grid
+    area: philosophy
+  - url: https://observatory.wiki/Classics:The_Philosophy_of_Fichte_in_Its_Relation_to_Pragmatism
+    area: philosophy
+
+  # World Affairs
+  - url: https://observatory.wiki/Reparative_Rebirth:_African_Children_at_the_Heart_of_Climate_Justice_and_Sovereignty
+    area: world-affairs
+  - url: https://observatory.wiki/The_New_Cold_War_and_the_Risk_of_Nuclear_Annihilation
+    area: world-affairs
+
+  # Language
+  - url: https://observatory.wiki/How_Losing_Nature_From_Our_Language_Shapes_Our_World
+    area: language
+  - url: https://observatory.wiki/Volap%C3%BCk:_The_Language_Invented_to_Unite_Humanity%E2%80%94and_Failed
+    area: language
+  - url: https://observatory.wiki/How_Accent_Discrimination_Reinforces_America%E2%80%99s_Deepest_Divides
+    area: language
+  - url: https://observatory.wiki/Writing_and_Critical_Thinking:_How_Words_Shape_the_Mind
+    area: language
+  - url: https://observatory.wiki/Necropolitics_and_the_Language_of_Death:_How_Military_Talk_Turns_Recruits_Into_Killers
+    area: language

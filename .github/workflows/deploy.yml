@@ -20,30 +20,47 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # required for git-revision-date plugin
+          # fetch-depth: 0 is required for git-revision-date-localized-plugin.
+          # Without full history, the plugin raises GitCommandError on files
+          # that have no reachable commit. fallback_to_build_date: true in
+          # mkdocs.yml provides a safety net if this ever changes, but we
+          # keep full history to ensure accurate dates.
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
 
-      - name: Install MkDocs dependencies
+      - name: Install docs dependencies
         run: pip install -r requirements-docs.txt
 
       - name: Install almanac Python lib
+        # Installs almanac package + its dependencies (ruamel-yaml, pydantic).
+        # The validator, index generator, and schema models all live here.
         run: pip install -e lib/python/almanac
 
       - name: Generate area indexes
+        # Writes docs/areas/<area>/index.md for each area directory.
+        # Must run before MkDocs build so nav pages are present.
         run: python scripts/generate_area_indexes.py
 
+      - name: Build docs symlink tree
+        # Rebuilds docs/areas/<area>/ symlinks and .pages nav files.
+        # Required after any area content changes.
+        run: python scripts/build_docs_tree.py
+
       - name: Validate content
-        run: |
-          cd lib/python
-          pip install pytest ruamel-yaml pydantic pyyaml
-          python -m almanac.validator --root ../..
-        continue-on-error: true   # report violations but don't block deploy
+        # Run validator and emit a YAML violation report to stdout.
+        # continue-on-error: true — violations are surfaced in CI logs
+        # but do not block the deploy. Promote to continue-on-error: false
+        # when the content is stable enough to enforce as a gate.
+        run: python -m almanac.validator --root .
+        continue-on-error: true
 
       - name: Build MkDocs site
+        # --strict converts warnings to errors; catches broken nav, missing
+        # files, and plugin failures before they reach GitHub Pages.
         run: mkdocs build --strict
 
       - name: Upload Pages artifact

@@ -56,6 +56,12 @@ plugins:
   - tags:
       tags_file: tags.md
   - awesome-pages
+  # git-revision-date-localized: shows "last updated" dates on pages.
+  # fallback_to_build_date: true is REQUIRED — GitHub Actions performs a
+  # shallow clone (fetch-depth: 0 is set in deploy.yml to work around this,
+  # but if the CI config ever changes, without fallback the plugin raises
+  # a GitCommandError on files with no reachable commit history and aborts
+  # the build). Keep fallback enabled permanently.
   - git-revision-date-localized:
       enable_creation_date: true
       type: date

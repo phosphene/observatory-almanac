@@ -1,7 +1,7 @@
 ---
 uri: meta/spec-log
 owner: feelingflowingbot
-updated: 2026-04-28
+updated: 2026-04-29
 description: Architectural decision log for the Observatory Almanac. Every significant design choice recorded here with rationale. Append-only — do not edit past entries.
 ---
 
@@ -173,4 +173,18 @@ Append-only architectural decision register. Format: `[SPEC-NNN]` sequential ID,
 **Rationale:** As the project matures, project-specific skills and contextual memory are better co-located with the content they govern. Agents working exclusively in the almanac repo shouldn't need woodchipper context for routine content tasks.  
 **Consequences:** AGENTS.md updated to reflect this. Woodchipper skills file remains as the infrastructure/scraper skill. Almanac skills cover content operations. Memory files in `memory/` capture project-specific context for each collaborator.  
 **Supersedes:** SPEC-001 (partial — content-only surface is no longer accurate).  
+**Status:** Active.
+
+---
+
+## SPEC-019 — Daily branch workflow for Brittani and Jan requests
+**Date:** 2026-04-29  
+**Decision:** All content and editorial changes requested by Brittani Banks or Jan go onto a daily branch (`brittani/YYYY-MM-DD`), not directly to `main`. Flow opens the branch at the start of each active day, accumulates changes throughout the day, then runs full checks (validator + tests) at EOD and merges to `main` only on a clean pass.  
+**Rationale:** Keeps `main` always deployable. Bundles a day's work into a reviewable unit. Gives Ed Phil and Jan a PR surface to inspect or override before anything goes live. Running checks before merge catches schema drift introduced by content edits.  
+**Consequences:**
+- Morning heartbeat step: `git checkout -b brittani/YYYY-MM-DD` from latest `main` (skip if already exists).
+- All intraday commits land on this branch.
+- EOD heartbeat step: run `almanac.validator` + pytest; if clean → merge branch to `main` → push → delete branch.
+- If checks fail: leave branch open, notify Ed Phil in Research Stable.
+- If no changes were made that day: delete the branch silently, no PR.
 **Status:** Active.

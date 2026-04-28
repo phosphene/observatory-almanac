@@ -20,35 +20,35 @@ hide:
 
 <div class="area-grid" markdown>
 
-**[Science](areas/science/index.md)** · consciousness, evolution, archaeology, paleoanthropology
-
-**[Environment](areas/environment/index.md)** · climate, biodiversity, field guides, oceans
-
-**[History](areas/history/index.md)** · bronze age, deep time, ancient civilizations
-
-**[Economy](areas/economy/index.md)** · inequality, labor, debt, political economy
-
 **[Animals](areas/animals/index.md)** · cognition, welfare, ecology
-
-**[Philosophy](areas/philosophy/index.md)** · I Ching, tarot, folk wisdom, astrology
-
-**[Psychology](areas/psychology/index.md)** · assessments, behavioral biology, relationships
-
-**[Health](areas/health/index.md)** · emergency response, yoga, meditation, navigators
-
-**[Cooking](areas/cooking/index.md)** · 23 world cuisines, wine, cheese, sensory training
 
 **[Arts & Recreation](areas/arts-recreation/index.md)** · 17 game rulebooks, music, film, storytelling
 
-**[World Affairs](areas/world-affairs/index.md)** · factbooks, cultural etiquette, travel
+**[Cooking](areas/cooking/index.md)** · 23 world cuisines, wine, cheese, sensory training
 
-**[Technology](areas/technology/index.md)** · digital life, networking, device setup
+**[Economy](areas/economy/index.md)** · inequality, labor, debt, political economy
+
+**[Environment](areas/environment/index.md)** · climate, biodiversity, field guides, oceans
+
+**[Health](areas/health/index.md)** · emergency response, yoga, meditation, navigators
+
+**[History](areas/history/index.md)** · bronze age, deep time, ancient civilizations
+
+**[Human Bridges](areas/human-bridges/index.md)** · death literacy, social movements
 
 **[Language](areas/language/index.md)** · ASL, survival phrases, untranslatable idioms
 
 **[Local Peace Economy](areas/local-peace-economy/index.md)** · legal forms, Robert's Rules, letters
 
-**[Human Bridges](areas/human-bridges/index.md)** · death literacy, social movements
+**[Philosophy](areas/philosophy/index.md)** · I Ching, tarot, folk wisdom, astrology
+
+**[Psychology](areas/psychology/index.md)** · assessments, behavioral biology, relationships
+
+**[Science](areas/science/index.md)** · consciousness, evolution, archaeology, paleoanthropology
+
+**[Technology](areas/technology/index.md)** · digital life, networking, device setup
+
+**[World Affairs](areas/world-affairs/index.md)** · factbooks, cultural etiquette, travel
 
 </div>
 

@@ -1,4 +1,4 @@
-# Observatory Almanac — Article Schema
+# Observatory Almanac — Document Schema
 
 This document defines the explicit format for every file in the Almanac. The schema is designed so that a contributor can read it once and understand exactly what every field means and why it exists.
 
@@ -134,6 +134,52 @@ One paragraph bio (as it appears on observatory.wiki), followed by a list of the
 - [Why Scientists Are Still Puzzled by Consciousness](../areas/science/why-scientists-are-still-puzzled-by-consciousness.md) — Science
 - [Guide to Artificial Intelligence](../guides/guide-to-artificial-intelligence.md) — Guide
 ```
+
+---
+
+## Almanac Reference Document
+
+**Location:** `areas/<area>/<slug>.md`
+
+Almanac-native reference content (not from observatory.wiki). Includes rulebooks, recipes, field guides, factbooks, assessments, and practical reference material from the Observatory Almanac source.
+
+### Frontmatter
+
+```yaml
+---
+title: "Document Title"
+area: arts-recreation              # canonical area slug (see AREAS.md)
+type: rulebook                     # see type list below
+source: Observatory Almanac
+license: MIT
+updated: 2026-04-28
+summary: >
+  One to three sentence description.
+tags:
+  - games
+  - strategy
+---
+```
+
+### Type values (full list)
+
+| Type | Used for |
+|------|----------|
+| `article` | Observatory.wiki journalism, expert-authored pieces |
+| `guide` | Editorial collections, multi-article curation |
+| `classic` | Canonical long-form journalism |
+| `almanac` | General almanac reference (multi-topic, section-spanning) |
+| `recipe` | Culinary recipes and food preparation |
+| `rulebook` | Game rules and ludology |
+| `factbook` | Country or regional reference profiles |
+| `reference` | Practical reference (emergency, conversions, templates) |
+| `assessment` | Self-knowledge and psychological assessment tools |
+| `field-guide` | Natural history and identification guides |
+
+### License
+
+Almanac-native content: `MIT`
+Observatory.wiki content: `CC BY-NC-SA 4.0`
 
 ---
 

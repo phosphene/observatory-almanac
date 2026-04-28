@@ -30,23 +30,23 @@ Feral and free-roaming pet cats pose a grave threat to wild bird populations aro
 
 ## A Global Eco-Crisis
 
-Estimates suggest that domestic cats (Felis catus) might be killing billions of birds each year. A major 2013 study by the Smithsonian Conservation Biology Institute and the U.S. Fish and Wildlife Service concluded that free-ranging domestic cats kill between 1.3 and 4 billion birds annually in the United States alone. This figure accounts for both feral cats and free-roaming pet cats, with the majority of the bird deaths attributed to cats without human guardians, which includes those cats in feral colonies, also known as community cats.
+Estimates suggest that domestic cats (*Felis catus*) might be killing billions of birds each year. A major 2013 study by the Smithsonian Conservation Biology Institute and the U.S. Fish and Wildlife Service concluded that free-ranging domestic cats kill between 1.3 and 4 billion birds annually in the United States alone. This figure accounts for both feral cats and free-roaming pet cats, with the majority of the bird deaths attributed to cats without human guardians, which includes those cats in feral colonies, also known as community cats.
 
-The global picture is similarly grim. In a 2017 paper published in Frontiers in Ecology and the Environment, ecologist Scott Loss of the Oklahoma State University, and Peter Marra, the former director of the Smithsonian Migratory Bird Center, assert that domestic cats have “contributed to at least 63 vertebrate extinctions, pose a major hazard to threatened vertebrates worldwide, and transmit multiple zoonotic diseases.” They point out that “more than a dozen observational studies, as well as experimental research, provide unequivocal evidence that cats are capable of affecting multiple population-level processes among mainland vertebrates.”
+The global picture is similarly grim. In a 2017 paper published in *Frontiers in Ecology and the Environment*, ecologist Scott Loss of the Oklahoma State University, and Peter Marra, the former director of the Smithsonian Migratory Bird Center, assert that domestic cats have “contributed to at least 63 vertebrate extinctions, pose a major hazard to threatened vertebrates worldwide, and transmit multiple zoonotic diseases.” They point out that “more than a dozen observational studies, as well as experimental research, provide unequivocal evidence that cats are capable of affecting multiple population-level processes among mainland vertebrates.”
 
 In countries like Australia and New Zealand, where many native species evolved without mammalian predators, the impact of introduced cats has been particularly catastrophic. Numerous species of birds, like the piping plover, as well as small mammals and reptiles, have been driven to extinction or near extinction due to cat predation. Islands are especially vulnerable, as their ecosystems tend to be isolated and finely balanced.
 
-Research published in Science in May 2025 reveals that bird populations across North America are declining fastest in areas where they were once most abundant, with three-quarters of nearly 500 species in decline and two-thirds shrinking significantly—raising concerns about ecological collapse even in previously protected strongholds like grasslands, drylands, and the Arctic.
+Research published in *Science* in May 2025 reveals that bird populations across North America are declining fastest in areas where they were once most abundant, with three-quarters of nearly 500 species in decline and two-thirds shrinking significantly—raising concerns about ecological collapse even in previously protected strongholds like grasslands, drylands, and the Arctic.
 
 ## How Cats Affect Bird Populations
 
 The primary threat cats pose to birds is direct predation. Birds are particularly vulnerable during breeding season, when they are tied to specific territories and may have limited mobility while incubating eggs or feeding young. Ground-nesting birds are at incredibly high risk, as they often rely on camouflage and stillness rather than flight to evade threats—tactics that are ineffective against cats’ stealthy and persistent hunting methods.
 
-Birds fortunate enough to evade capture still suffer being in the proximity of outdoor cats. Research indicates that the mere presence of cats can cause stress to birds, impacting their reproductive success and leading to adverse behavioral changes such as increased vigilance, which results in reduced feeding rates and less effective parenting. A 2013 British study published in the Journal of Applied Ecology found that birds may avoid returning to their nests or dens for extended periods to prevent leading predators, such as cats, from getting to their young. This avoidance behavior, driven by the stress of a nearby predator, can reduce the growth rate of young birds by approximately 40 percent. In some cases, birds may abandon nests altogether if they sense persistent danger, especially from cats that return to the same area regularly.
+Birds fortunate enough to evade capture still suffer being in the proximity of outdoor cats. Research indicates that the mere presence of cats can cause stress to birds, impacting their reproductive success and leading to adverse behavioral changes such as increased vigilance, which results in reduced feeding rates and less effective parenting. A 2013 British study published in the *Journal of Applied Ecology* found that birds may avoid returning to their nests or dens for extended periods to prevent leading predators, such as cats, from getting to their young. This avoidance behavior, driven by the stress of a nearby predator, can reduce the growth rate of young birds by approximately 40 percent. In some cases, birds may abandon nests altogether if they sense persistent danger, especially from cats that return to the same area regularly.
 
-By dramatically reducing bird populations, cat predation can also negatively impact plant pollination, forest regeneration, and human health—all of which have detrimental economic consequences. Trophic cascades may even be triggered, causing adverse effects up and down the food chain. In a study published in 2024 in Nature Climate Change, researchers led by ecologist Daisy Dent at the Crowther Lab at ETH Zurich, a Swiss university, showed that when wild birds move freely across tropical forest ecosystems, they boost the carbon storage of regenerating forests by as much as 38 percent. When they consume, excrete, and spread seeds, birds accomplish this invaluable ecosystem service, which the researchers contend is critical to maintaining a minimum of 40 percent forest cover. Put another way, without healthy populations of wild birds, forests in fragmented landscapes cannot recover naturally.
+By dramatically reducing bird populations, cat predation can also negatively impact plant pollination, forest regeneration, and human health—all of which have detrimental economic consequences. Trophic cascades may even be triggered, causing adverse effects up and down the food chain. In a study published in 2024 in *Nature Climate Change*, researchers led by ecologist Daisy Dent at the Crowther Lab at ETH Zurich, a Swiss university, showed that when wild birds move freely across tropical forest ecosystems, they boost the carbon storage of regenerating forests by as much as 38 percent. When they consume, excrete, and spread seeds, birds accomplish this invaluable ecosystem service, which the researchers contend is critical to maintaining a minimum of 40 percent forest cover. Put another way, without healthy populations of wild birds, forests in fragmented landscapes cannot recover naturally.
 
-This expanding ecological crisis has been developing ever since cats were domesticated some 10,000 years ago in the Fertile Crescent of the Middle East. Some scientists have been sounding the alarm for quite some time. “The widespread dissemination of cats in the woods and in the open or farming country, and the destruction of birds by them,” wrote ornithologist Edward Howe Forbush in his 1916 book The Domestic Cat: Bird Killer, Mouser and Destroyer of Wild Life; Means of Utilizing and Controlling It, “is a much more important matter than most people suspect, and is not to be lightly put aside.”
+This expanding ecological crisis has been developing ever since cats were domesticated some 10,000 years ago in the Fertile Crescent of the Middle East. Some scientists have been sounding the alarm for quite some time. “The widespread dissemination of cats in the woods and in the open or farming country, and the destruction of birds by them,” wrote ornithologist Edward Howe Forbush in his 1916 book *The Domestic Cat: Bird Killer, Mouser and Destroyer of Wild Life; Means of Utilizing and Controlling It*, “is a much more important matter than most people suspect, and is not to be lightly put aside.”
 
 In more recent times, ecologists Nico Dauphine and Robert J. Cooper from the Warnell School of Forestry and Natural Resources at the University of Georgia presented a paper in 2008 at the Fourth International Partners in Flight Conference in McAllen, Texas, that highlighted the growing body of evidence that free-ranging cats are pushing some bird species into extinction. “A number of peer-reviewed quantitative studies of the impacts of free-ranging cat predation on native birds in the United States suggest that cat predation on birds may be unsustainable, drives ecological sinks, and may cause local extinctions,” they warned.
 
@@ -76,15 +76,15 @@ Feral cats represent a more complex issue. Often abandoned or born in the wild, 
 
 Addressing the problems caused by outdoor cats requires a multifaceted approach that respects animal welfare while prioritizing ecological integrity.
 
-Keeping Pet Cats Indoors
+***Keeping Pet Cats Indoors***
 
 This is the simplest and most effective solution—and one we’re lucky to have today thanks to the invention of kitty litter, as Alley Cat Allies points out. Indoor cats live longer, healthier lives (avoiding predators of their own and car traffic) and pose no threat to birds. Cat parents can provide enrichment through toys, scratching posts, window perches, and “bird TV” to satisfy their pets’ instincts without exposing them to outdoor dangers.
 
-“Catios”
+***“Catios”***
 
 For guardians who want their cats to enjoy the outdoors safely, enclosed outdoor spaces (“cat patios” or “catios”) are an excellent option. “A catio is an outdoor enclosure that keeps cats and birds and wildlife safe,” writes Cats Safe at Home, a collaboration between the Feral Cat Coalition of Oregon, Bird Alliance of Oregon, Bird Conservation Oregon, and Multnomah and Washington County Animal Services dedicated to protecting both cats and wildlife. “Catios offer cats healthy exercise time as well as safety from outdoor hazards like cars, predators and poisons, while preventing predation on birds. A catio is a win-win solution.” Karen Kraus of the Feral Cat Coalition of Oregon said, “We recognize that outdoor cats predate on wildlife and that we want to see a reduction in outdoor cats to help both wildlife and for the cats.”
 
-Leash training
+***Leash training***
 
 “While indoor cats use an average of 40 square yards in their home, community cats are natural hunters who have been known to roam up to 150 acres,” writes Jeannine Berger, one of the few veterinarians who is board-certified by both the American College of Veterinary Behaviorists and the American College for Animal Welfare.
 
@@ -92,7 +92,7 @@ Leash training
 
 Both catios and leash training allow cats to experience the sights and smells of the outside world without endangering them or wildlife. New York–based company Travel Cat features a blog (check their website or Instagram for announcements of their virtual summit events) sharing tips on safe and effective harness and leash training for cat owners.
 
-Bird-safe collars
+***Bird-safe collars***
 
 Simply placing a bell on your outdoor cat’s collar will give wild birds a chance to escape before being pounced on, as they will hear the bell as a cat approaches. It might only give them a second or two as a warning, but that may be enough time to fly away.
 
@@ -100,7 +100,7 @@ As Ada McVean of the McGill University Office for Science and Society points out
 
 Another option is brightly colored collars, which songbirds can easily see, like the ones made by BirdsBeSafe.com, a product endorsed by the American Bird Conservancy, a nonprofit bird advocacy organization.
 
-Trap-Neuter-Return and Contraception
+***Trap-Neuter-Return and Contraception***
 
 While the subject of much debate, trap-neuter-return (TNR) programs aim to manage feral cat colonies over time and limit population growth by preventing reproduction. Critics argue that TNR does not go far enough to protect wildlife, as neutered outdoor cats still hunt. Still, humanely reduced or managed feral populations are better for birds than an increasing population. Some conservationists advocate for managed colonies being gradually phased out in favor of adoption or placement in enclosed sanctuaries. However, as Jenny Pierson of the Cat Museum of New York City points out, “The cat overpopulation crisis (in tandem with veterinary professional shortages) in cities like New York means that overburdened shelters and rescuers/foster organizations are often already at capacity—meaning TNR may be the only option available to help save birds.”
 
@@ -112,13 +112,13 @@ During the COVID-19 pandemic, spay and neuter surgeries for dogs and cats decrea
 
 “Using the lowest possible dosages, MA and MPA may… be used safely in pet queens as well as (in conjunction with TNR programs) for the control of feral cat colonies,” writes veterinarian Stefano Romagnoli, who teaches animal reproduction at the University of Padova in Italy, in a 2015 paper published in the Journal of Feline Medicine and Surgery.
 
-Public Education
+***Public Education***
 
 Raising awareness is crucial. Many people are unaware of the impact their pets may have on local ecosystems. Educational campaigns can encourage responsible pet guardianship (as opposed to “pet ownership,” which some experts argue can lead to abuse because pets are viewed as objects rather than individuals). Local elected officials and community leaders can promote indoor living for cats and advocate for wildlife-friendly policies at the community level.
 
 A city council member might, for example, partner with a local animal shelter to launch a public awareness campaign called “Safe Indoors, Safe Wildlife.” The campaign could include social media posts, posters in parks, and community workshops promoting the benefits of keeping cats indoors—for both their health and the protection of local wildlife. That official could also sponsor a resolution recognizing the ecological impact of outdoor cats and encouraging residents to commit to indoor cat care.
 
-Legislation and Policy
+***Legislation and Policy***
 
 Some jurisdictions have begun to pass laws restricting the free-roaming of cats or requiring that pets be kept indoors or on leashes. Madison, Wisconsin, for example, requires that cats follow the same rules as pet dogs, and that means being leashed when they are outdoors. “You aren’t allowed to have an animal off your property without it being under your control,” said Madison and Dane County’s public health supervisor, John Hausbeck. The only way to do that with a cat is to put them on a leash.” While enforcement can be challenging, such laws reflect a growing recognition of the seriousness of the issue.
 
@@ -128,9 +128,7 @@ By understanding the scope of the threat and implementing humane, effective, and
 
 Dauphine and Cooper, the ecologists at the University of Georgia who warned of bird extinctions caused by free-roaming cats in 2008, co-wrote another paper three years later. Its title encapsulates this zero-sum game that we are playing with the natural environment: “Pick one: outdoor cats or conservation.” Clearly, we can’t have both.
 
-[Author’s note: I am an enthusiastic cat lover, having participated in three feline “foster fails.” Also, as co-founder and board member of the Cat Museum of New York City, I am a dedicated cat advocate. I am also a longtime avian advocate and volunteer with NYC Bird Alliance, New York City Pigeon Rescue Central, and the Wild Bird Fund to rescue sick and injured wild birds. Cats and birds may not get along; I love them both. Special thanks to avian expert and fellow Observatory author Jim Cubie and Cat Museum of New York City executive director and fellow Observatory co-founder Jenny Pierson for their help with this article.]
-
-<div
+*[Author’s note: I am an enthusiastic cat lover, having participated in three feline “foster fails.” Also, as co-founder and board member of the Cat Museum of New York City, I am a dedicated cat advocate. I am also a longtime avian advocate and volunteer with NYC Bird Alliance, New York City Pigeon Rescue Central, and the Wild Bird Fund to rescue sick and injured wild birds. Cats and birds may not get along; I love them both. Special thanks to avian expert and fellow Observatory author Jim Cubie and* *Cat Museum of New York City executive director and fellow Observatory co-founder* *Jenny Pierson for their help with this article.]*
 
 ---
 *Originally published at [observatory.wiki](https://observatory.wiki/Cats_Are_Fueling_a_Global_Eco-Crisis,_Pushing_Birds_and_Other_Species_to_Extinction). © Independent Media Institute. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

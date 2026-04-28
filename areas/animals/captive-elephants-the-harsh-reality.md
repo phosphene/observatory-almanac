@@ -33,9 +33,9 @@ This article examines the threats to elephants in the wild, the harm caused by c
 
 Elephants are native to two continents, Africa and Asia, and their prehistoric ancestors have roamed the earth for as far back as 40 million years. Today, both species of elephants face a range of threats. Habitat loss, human-elephant conflict, and poaching are among the most significant challenges, leading to Asian and African elephants becoming endangered.
 
-Elephants are divided into two main species—African and Asian—each with distinct subspecies. The African elephant includes the savanna elephant (Loxodonta africana africana), which is the largest and roams the open plains, and the smaller forest elephant (Loxodonta africana cyclotis), adapted to life in Central and West Africa’s dense rainforests. Some scientists now consider the forest elephant a separate species due to significant genetic and physical differences.
+Elephants are divided into two main species—African and Asian—each with distinct subspecies. The African elephant includes the savanna elephant (*Loxodonta africana africana*), which is the largest and roams the open plains, and the smaller forest elephant (*Loxodonta africana cyclotis*), adapted to life in Central and West Africa’s dense rainforests. Some scientists now consider the forest elephant a separate species due to significant genetic and physical differences.
 
-The Asian elephant (Elephas maximus) has several recognized subspecies: the Indian elephant (E. m. indicus), found across mainland Asia; the Sri Lankan elephant (E. m. maximus), which is the largest of the Asian types and often has no tusks; the critically endangered Sumatran elephant (E. m. sumatranus), native to the Indonesian island of Sumatra; and the Bornean elephant (E. m. borneensis), sometimes called the Borneo pygmy elephant, which is smaller and genetically distinct, though its classification remains debated. These subspecies vary in size, habitat, and physical traits, reflecting their adaptation to different environments across Africa and Asia.
+The Asian elephant (*Elephas maximus*) has several recognized subspecies: the Indian elephant (*E. m. indicus*), found across mainland Asia; the Sri Lankan elephant (*E. m. maximus*), which is the largest of the Asian types and often has no tusks; the critically endangered Sumatran elephant (*E. m. sumatranus*), native to the Indonesian island of Sumatra; and the Bornean elephant (*E. m. borneensis*), sometimes called the Borneo pygmy elephant, which is smaller and genetically distinct, though its classification remains debated. These subspecies vary in size, habitat, and physical traits, reflecting their adaptation to different environments across Africa and Asia.
 
 Elephants are frequently poached for their skin and ivory tusks, and in some countries, they are also targeted for sport hunting. Poaching devastates wild populations, particularly African elephants, which are most heavily targeted for their tusks. According to National Geographic, this has resulted in elephants “evolving to lose their tusks.”
 
@@ -99,11 +99,11 @@ According to In Defense of Animals (IDA), approximately 393 elephants are confin
 
 IDA publishes an annual list of North America’s 10 worst zoos for elephants. These zoos are singled out for mistreating elephants, ranging from poor living conditions to unethical breeding practices. The top three offenders in 2024 include:
 
-- Edmonton Valley Zoo: This zoo keeps Lucy, a lone Asian elephant, in harsh Canadian winters with little space and poor medical care. Despite public outcry, the zoo refuses to move her to a sanctuary.
+- **Edmonton Valley Zoo:** This zoo keeps Lucy, a lone Asian elephant, in harsh Canadian winters with little space and poor medical care. Despite public outcry, the zoo refuses to move her to a sanctuary.
 
-- ABQ BioPark Zoo: This zoo in Albuquerque, New Mexico, has had multiple elephant deaths due to an elephant virus, endotheliotropic herpesvirus (EMHV). Despite these deaths, the zoo continues its breeding program.
+- **ABQ BioPark Zoo:** This zoo in Albuquerque, New Mexico, has had multiple elephant deaths due to an elephant virus, endotheliotropic herpesvirus (EMHV). Despite these deaths, the zoo continues its breeding program.
 
-- Cincinnati Zoo: The elephants at this zoo are kept in a small enclosure, which leads to aggressive behavior and psychological stress. In 2024, the Cincinnati Zoo completed the renovations to their “Elephant Trek,” expanding the elephants’ habitat from 1 acre to 5 acres. Yet, this is hardly enough compared to their natural range, which spans up to 25,000 acres. The zoo imported four more elephants from Dublin Zoo, increasing its elephant population to eight, to expand its breeding program and confine yet more elephants to lifetimes in captivity.
+- **Cincinnati Zoo:** The elephants at this zoo are kept in a small enclosure, which leads to aggressive behavior and psychological stress. In 2024, the Cincinnati Zoo completed the renovations to their “Elephant Trek,” expanding the elephants’ habitat from 1 acre to 5 acres. Yet, this is hardly enough compared to their natural range, which spans up to 25,000 acres. The zoo imported four more elephants from Dublin Zoo, increasing its elephant population to eight, to expand its breeding program and confine yet more elephants to lifetimes in captivity.
 
 ## Legal Protections
 
@@ -128,8 +128,6 @@ Sanctuaries provide a much-needed alternative to zoos for elephants that cannot 
 Zoos are not the solution to the conservation crisis facing elephants. Instead, they contribute to the problem by exploiting these animals for profit and, even with legal restrictions in place, manage to remove them from their wild homes.
 
 If we genuinely care about elephants and their future, we need to advocate for their freedom. This means supporting real sanctuaries, opposing zoos, and pushing for stronger legislation to protect elephants from exploitation. By doing so, we can help ensure that future generations of elephants live free, as they were meant to.
-
-<div
 
 ---
 *Originally published at [observatory.wiki](https://observatory.wiki/Captive_Elephants:_The_Harsh_Reality). © Independent Media Institute. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

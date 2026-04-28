@@ -14,7 +14,6 @@ summary: >
 tags:
   - science
   - consciousness
-  - public-health
 ---
 
 # Between Life and Death: What Near-Death Experiences Reveal About Consciousness
@@ -26,7 +25,7 @@ tags:
 
 Near-death experiences (NDEs) are a widely reported yet poorly understood phenomenon. Though there is no agreed-upon definition of an NDE, it has been described as “profound psychological events with transcendental and mystical elements, typically occurring in individuals close to death or in situations of intense physical or emotional danger,” according to a study published in the Yearbook of Intensive Care and Emergency Medicine 2009. NDEs are reported in 4 to 9 percent of the population and among nearly 23 percent of patients who are critically ill. Healthy individuals who think they are in danger may also experience them.
 
-With the improvement of technology and resuscitation techniques, people have become more curious about this topic. The 2012 book Proof of Heaven, written by retired American neurosurgeon Eben Alexander, popularized the concept of NDEs. As he lay close to death, in a coma caused by a brain infection, he had a transformative experience that included traveling through a black void “brimming over with light: a light that seemed to come from a brilliant orb,” he said, according to BBC Science Focus magazine.
+With the improvement of technology and resuscitation techniques, people have become more curious about this topic. The 2012 book *Proof of Heaven*, written by retired American neurosurgeon Eben Alexander, popularized the concept of NDEs. As he lay close to death, in a coma caused by a brain infection, he had a transformative experience that included traveling through a black void “brimming over with light: a light that seemed to come from a brilliant orb,” he said, according to BBC Science Focus magazine.
 
 Such experiences, for which we have only the subjective reports of patients, usually occur when an individual is in “transitory and reversible cardiac arrest,” which is another way of saying, “clinically dead.” Without resuscitation and other interventions, recovery of brain function more than three minutes after a cardiac arrest is rare. For a person to be dead, however, the U.S. Uniform Determination of Death Act requires that physicians decide, by applying prevailing clinical criteria, that cardiorespiratory or brain functions are absent and cannot be restored.
 
@@ -34,9 +33,9 @@ Patients who have had NDEs often report having heard themselves being pronounced
 
 ## Origin of the Term
 
-The term “near-death experience” was coined by physician Raymond Moody in 1975, who used it in the context of out-of-body experiences, although the term had been used three years earlier by John C. Lilly. In his book Life After Life (1976), Moody claimed that 150 near-death survivors reported positive visionary experiences of passing down a dark tunnel toward a bright light. But descriptions of these experiences go back further.
+The term “near-death experience” was coined by physician Raymond Moody in 1975, who used it in the context of out-of-body experiences, although the term had been used three years earlier by John C. Lilly. In his book *Life After Life* (1976), Moody claimed that 150 near-death survivors reported positive visionary experiences of passing down a dark tunnel toward a bright light. But descriptions of these experiences go back further.
 
-The French term expérience de mort imminente (experience of imminent death) was proposed by French psychologist and epistemologist Victor Egger in the 1890s. Such experiences were noted by clinicians based on observations of workers who had fallen from scaffolds, soldiers who had suffered terrible injuries on the battlefield, and climbers who had tumbled from slopes. In 1968, Celia Green published an analysis of 400 first-hand accounts of out-of-body experiences. She was the first to see NDEs as experiences worth investigating rather than as anomalous perceptions or hallucinations.
+The French term *expérience de mort imminente* (experience of imminent death) was proposed by French psychologist and epistemologist Victor Egger in the 1890s. Such experiences were noted by clinicians based on observations of workers who had fallen from scaffolds, soldiers who had suffered terrible injuries on the battlefield, and climbers who had tumbled from slopes. In 1968, Celia Green published an analysis of 400 first-hand accounts of out-of-body experiences. She was the first to see NDEs as experiences worth investigating rather than as anomalous perceptions or hallucinations.
 
 ## Who Reports a Near-Death Experience?
 
@@ -58,7 +57,7 @@ Many scientists, however, believe that even without the limitations Timmerman ci
 
 Significant epileptiform electroencephalographic (EEG) activity, as seen in epilepsy, has also been observed in individuals who reported having an NDE when compared with control patients.
 
-During cardiac arrest, brain activity is assumed to be diminishing. Nonetheless, researchers who conducted studies on rats have found more brain activity than they initially expected, thanks to brain scans that reveal a surge of synchronized gamma oscillations as well as high levels of interregional coherence and feedback connectivity, all of which may account for NDEs. Another theory, shared in the 2017 book Coma and Disorders of Consciousness, edited by Caroline Schnakers and Steven Laureys, suggests that impaired cerebral oxygen levels in the context of a cardiac arrest might lead to a disruption of the physiological balance between conscious and unconscious states, resulting in rapid eye movement (REM) sleep, which could cause visual hallucinations. Some of those who have reported experiencing an NDE have also been found to be more sensitive to being woken during REM sleep and sleep paralysis.
+During cardiac arrest, brain activity is assumed to be diminishing. Nonetheless, researchers who conducted studies on rats have found more brain activity than they initially expected, thanks to brain scans that reveal a surge of synchronized gamma oscillations as well as high levels of interregional coherence and feedback connectivity, all of which may account for NDEs. Another theory, shared in the 2017 book *Coma and Disorders of Consciousness*, edited by Caroline Schnakers and Steven Laureys, suggests that impaired cerebral oxygen levels in the context of a cardiac arrest might lead to a disruption of the physiological balance between conscious and unconscious states, resulting in rapid eye movement (REM) sleep, which could cause visual hallucinations. Some of those who have reported experiencing an NDE have also been found to be more sensitive to being woken during REM sleep and sleep paralysis.
 
 “Of course, the brain does funny things when it’s running out of oxygen,” wrote the neuroscientist Colin Blakemore. He added, “The odd perceptions are just the consequences of confused activity in the temporal lobes.”
 
@@ -70,7 +69,7 @@ Researchers have been unable to determine whether surviving an NDE causes these 
 
 Is it possible that dying or the awareness of impending death can be a triggering factor for an NDE? As the researcher J.E. Owens and his colleagues have written: “[I]t would seem that among individuals who were not near-death, their experiences could be precipitated by the belief that they were.” This is known as the “expectation hypothesis,” which postulates that NDEs originate from an altered state of consciousness triggered by a life-threatening condition that, without medical care, could result in death.
 
-In cases like this, the individual’s system of beliefs and expectations of both dying and a possible afterlife might make the occurrence of an NDE more likely. Another theory, known as the “depersonalization and dissociation hypothesis,” postulates that, upon facing a life-threatening situation, an individual disconnects from the external world and experiences fantasies as a projective defense mechanism to make the imminence of death more comprehensible and less distressing, according to Coma and Disorders of Consciousness.
+In cases like this, the individual’s system of beliefs and expectations of both dying and a possible afterlife might make the occurrence of an NDE more likely. Another theory, known as the “depersonalization and dissociation hypothesis,” postulates that, upon facing a life-threatening situation, an individual disconnects from the external world and experiences fantasies as a projective defense mechanism to make the imminence of death more comprehensible and less distressing, according to *Coma and Disorders of Consciousness*.
 
 ## An Integrative Model
 
@@ -84,7 +83,7 @@ Still, there are disagreements among some experts. International psychedelics ex
 
 ## A First-Person Account of an NDE
 
-The well-known journalist and writer Sebastian Junger (author of the bestselling book The Perfect Storm) recounts his own NDE experience in his 2025 book In My Time of Dying: How I Came Face-to-Face with the Idea of an Afterlife. In an interview with Maria Schriver’s Sunday Paper, he discussed how common NDEs are: “They happen in societies around the world and certainly have happened forever. Our medical knowledge allows doctors to bring people who are dying, like I was, back into the world of the living. We have many more stories of people who are on the threshold and what they remember. There are some medical explanations, but I found them to be not entirely sufficient. Some researchers believe that it’s not proof but evidence of some kind of post-death existence. Then other people who are equally well-informed say nonsense, this is neurochemicals, and it’s blood oxygen, and it’s a form of seizure. So, there are all kinds of straightforward medical explanations for the dying brain having visions.”
+The well-known journalist and writer Sebastian Junger (author of the bestselling book *The Perfect Storm*) recounts his own NDE experience in his 2025 book *In My Time of Dying: How I Came Face-to-Face with the Idea of an Afterlife*. In an interview with Maria Schriver’s Sunday Paper, he discussed how common NDEs are: “They happen in societies around the world and certainly have happened forever. Our medical knowledge allows doctors to bring people who are dying, like I was, back into the world of the living. We have many more stories of people who are on the threshold and what they remember. There are some medical explanations, but I found them to be not entirely sufficient. Some researchers believe that it’s not proof but evidence of some kind of post-death existence. Then other people who are equally well-informed say nonsense, this is neurochemicals, and it’s blood oxygen, and it’s a form of seizure. So, there are all kinds of straightforward medical explanations for the dying brain having visions.”
 
 As he lay dying, he saw his father. “That could have been entirely cooked up by my own dying brain, and it is still comforting. The relationship that we have with the dead continues in our minds until we die. At the very least, the relationship I had in my mind with my father changed. He was very sweet, but he was on the spectrum, and he was hard to reach emotionally as a father. So, I didn’t sort of count on him throughout my life and as a child for that baseline emotional support. But then, there he was, and it really did sort of change things for me.”
 
@@ -92,11 +91,11 @@ His brush with death made him, an atheist, reconsider his beliefs: “but this a
 
 ## A Problem for Research
 
-Some scientists, such as Dr. Bruce Greyson, professor emeritus of psychiatry and neurobehavioral sciences at the University of Virginia and co-author of The Handbook of Near-Death Experiences, think that “NDEs …present us with data that are difficult to explain by current physiological or psychological models,” he wrote in 2013.
+Some scientists, such as Dr. Bruce Greyson, professor emeritus of psychiatry and neurobehavioral sciences at the University of Virginia and co-author of *The Handbook of Near-Death Experiences*, think that “NDEs …present us with data that are difficult to explain by current physiological or psychological models,” he wrote in 2013.
 
 Is it even possible to explain NDEs? Most published works on NDEs are considered both “retrospective and sporadic.” These events pose a particular challenge, as there is no certainty about their occurrence and they are generally not reported soon after they happen but rather days, months, or even years later, which can lead to distortions in personal accounts.
 
-“[T]here is currently no consensual or satisfying scientific explanation for NDEs. … The claims that NDEs are evidence for life after death may have contributed to the reluctance of designing rigorous empirical protocols to study such a ‘pseudoscience’ phenomenon,” states Coma and Disorders of Consciousness. The emerging neurosciences evidence suggests that NDEs can be explained by modifications or alterations of brain functions, leading to an altered state of consciousness in critically ill patients.
+“[T]here is currently no consensual or satisfying scientific explanation for NDEs. … The claims that NDEs are evidence for life after death may have contributed to the reluctance of designing rigorous empirical protocols to study such a ‘pseudoscience’ phenomenon,” states *Coma and Disorders of Consciousness*. The emerging neurosciences evidence suggests that NDEs can be explained by modifications or alterations of brain functions, leading to an altered state of consciousness in critically ill patients.
 
 Because studies of these events have been limited to a few patients, researchers have also found that it is impossible to determine which factors account for these events. The administration of drugs might also trigger the effect during the period of arrest.
 
@@ -116,7 +115,7 @@ Distressing near-death experiences are both fascinating and frustrating as alter
 
 ## Long-Term Effects
 
-How people report NDEs appears to be influenced in many respects by the culture they were raised in—for instance, whether they believe that they have glimpsed heaven or hell. Christians tend to see Jesus or St. Peter, Hindus see Brahma, and Buddhists may see the “bardo,” or transitional states between reincarnations as described in the Tibetan Book of the Dead.
+How people report NDEs appears to be influenced in many respects by the culture they were raised in—for instance, whether they believe that they have glimpsed heaven or hell. Christians tend to see Jesus or St. Peter, Hindus see Brahma, and Buddhists may see the “*bardo*,” or transitional states between reincarnations as described in the *Tibetan Book of the Dead*.
 
 Longitudinal studies have demonstrated long-lasting transformational effects of near-death experiences on a person’s understanding of life and self, social attitudes, and a shift in social customs and religious beliefs. Those survivors who have undergone distressing NDEs, on the other hand, may suffer from long-term trauma. One of the principal components of near-death experiences is the out-of-body experience, which is associated with the partial impairment of consciousness and disruption of normal bodily functions.
 
@@ -139,8 +138,6 @@ In another study, it was found that human lung cells derived from dead organisms
 How these xenobots and anthrobots do these astonishing things is a mystery. Some scientists speculate that a hidden circuit of electrical currents animates them or that they require an adequate supply of nutrients and energy before they are reanimated. Other scientists believe that temperature and environment may play an essential role in the ‘postmortem landscape.” The unusual behavior of specific cells in this third state does hold out the possibility of innovative treatments—to dissolve arterial plaque in atherosclerosis, for instance, or clear mucus in people with cystic fibrosis.
 
 It is unlikely we will ever fully understand the causes of near-death experiences, leaving us to rely on survivors’ accounts. People readily embrace uplifting stories—less so the disturbing ones—because they seem to affirm belief in life after death. While scientists studying NDEs attribute them to neurological causes, even conclusive findings are unlikely to overturn the widespread conviction that clinical death marks not an end, but a beginning.
-
-<div
 
 ---
 *Originally published at [observatory.wiki](https://observatory.wiki/Between_Life_and_Death:_What_Near-Death_Experiences_Reveal_About_Consciousness). © Independent Media Institute. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

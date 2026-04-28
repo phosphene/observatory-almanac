@@ -75,7 +75,5 @@ In fact, for some legacy stakeholders, the renewable energy field appears to be 
 
 Until policymakers, voters, and consumers exercise their muscle to reduce plastic pollution at the source, the petrochemical industry will continue feeding global plastic dependence regardless of the consequences for public health and planetary well-being.
 
-<div
-
 ---
 *Originally published at [observatory.wiki](https://observatory.wiki/600_Million_Metric_Tons_of_Plastic_May_Fill_Oceans_by_2036_If_We_Don%E2%80%99t_Act_Now). © Independent Media Institute. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

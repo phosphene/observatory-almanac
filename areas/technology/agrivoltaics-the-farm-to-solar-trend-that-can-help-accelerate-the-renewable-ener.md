@@ -111,7 +111,5 @@ The USDA has been supporting agrivoltaics research and development through its I
 
 Despite the opposition to rural solar, the trend toward regenerative agriculture and agrivoltaics could provide a counterbalance, by allying solar industry stakeholders with local farmers as well as leading businesses in the global agriculture industry.
 
-<div
-
 ---
 *Originally published at [observatory.wiki](https://observatory.wiki/Agrivoltaics:_The_Farm-to-Solar_Trend_That_Can_Help_Accelerate_the_Renewable_Energy_Transition). © Independent Media Institute. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

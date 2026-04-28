@@ -14,7 +14,6 @@ summary: >
 tags:
   - environment
   - climate-change
-  - carbon
 ---
 
 # Carbon Capture Is a Potential Weapon Against Climate Change
@@ -44,7 +43,7 @@ The other problem is that the technologies currently capable of sucking CO2 from
 
 Peters and Kevin Anderson, the deputy director of the Tyndall Centre for Climate Change Research at the University of Manchester, called the assumption that these technologies and concepts will work to scale in time a “moral hazard,” in a paper published in Science.
 
-However, Roger Aines, chief scientist of the energy program at Lawrence Livermore National Laboratory, disagrees. The “magnitude of the problem” is such, he told Truthout, that “we have to get started” with widely employing technologies capable of removing CO2 from the air. “It’s the question of how to get started,” he said, “that occupies a lot of my time.”
+However, Roger Aines, chief scientist of the energy program at Lawrence Livermore National Laboratory, disagrees. The “magnitude of the problem” is such, he told Truthout, that “we have to get started” with widely employing technologies capable of removing CO2 from the air. “It’s the question of *how to* get started,” he said, “that occupies a lot of my time.”
 
 ## How to Achieve Negative Emissions
 
@@ -89,8 +88,6 @@ Besides BECCS and direct air capture technologies, there are other proposed ways
 “The last 200 years or so, we have lost the equivalent of 500 gigatonnes of carbon dioxide from the carbon content of our agricultural soil. So, it’s reasonable to say, if we use good agricultural practices, that we can return that carbon from the air to the soil,” said Aines. While a variety of negative emissions technologies must be employed together to tackle climate change, better land use practices are the ones most likely to have the “biggest impact,” he added.
 
 Nevertheless, “the reality of this is that it’s like a major war. The next 20 years are going to be pretty bad, from a climate perspective,” Aines said, mirroring the findings of IPCC: that any increase in global temperatures will only worsen the impacts from extreme weather patterns already being felt. And while Aines still believes that “we’re going to figure things out,” what’s now clear is that we only have a dozen or so years to actually do so.
-
-<div
 
 ---
 *Originally published at [observatory.wiki](https://observatory.wiki/Carbon_Capture_Is_a_Potential_Weapon_Against_Climate_Change,_but_Will_It_Come_Soon_Enough%3F). © Independent Media Institute. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

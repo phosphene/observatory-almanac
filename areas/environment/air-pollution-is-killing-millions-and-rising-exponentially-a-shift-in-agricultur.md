@@ -10,10 +10,9 @@ license: CC BY-NC-SA 4.0
 published: 2025-01-03
 updated: 2025-01-03
 summary: >
-  We must find a better way to prevent land use from changing. In 1958, geochemist Charles David Keeling set up the Mauna Loa Global Monitoring Laboratory in Hawaii, which measured carbon dioxide (CO2).
+  We must find a better way to prevent land use from changing. In 1958, geochemist Charles David Keeling set up the Mauna Loa Global Monitoring Laboratory** in Hawaii, which measured carbon dioxide (CO2).
 tags:
   - environment
-  - carbon
 ---
 
 # Air Pollution Is Killing Millions and Rising Exponentially—A Shift in Agriculture Can Solve It
@@ -23,7 +22,7 @@ tags:
 
 ## Introduction
 
-In 1958, geochemist Charles David Keeling set up the Mauna Loa Global Monitoring Laboratory in Hawaii, which measured carbon dioxide (CO2). Keeling believed that CO2 levels were rising and wanted to prove it. Mauna Loa was a perfect location to obtain precise readings since it was located at an elevation of more than 13,000 feet in the middle of the Pacific Ocean. By 1959, the level of CO2 was 316 parts per million volume (ppmV). Since then, the curve has seen a steady rise. As of May 2024, the amount of CO2 in the atmosphere had risen to more than 426 ppmV.
+In 1958, geochemist Charles David Keeling set up the Mauna Loa Global Monitoring Laboratory** in Hawaii, which measured carbon dioxide (CO2). Keeling believed that CO2 levels were rising and wanted to prove it. Mauna Loa was a perfect location to obtain precise readings since it was located at an elevation of more than 13,000 feet in the middle of the Pacific Ocean. By 1959, the level of CO2 was 316 parts per million volume (ppmV). Since then, the curve has seen a steady rise. As of May 2024, the amount of CO2 in the atmosphere had risen to more than 426 ppmV.
 
 It has been more than 4 million years since CO2 levels were as high as today. “[The] CO2 levels are now comparable to the Pliocene Climatic Optimum, between 4.1 and 4.5 million years ago, when they were close to, or above 400 ppm. During that time, sea levels were between 5 and 25 meters higher than today, high enough to drown many of the world’s largest modern cities,” stated a report by the National Oceanic and Atmospheric Administration.
 
@@ -85,9 +84,7 @@ We must stop cutting down forests for agriculture, forestry, or mining of so-cal
 
 We must significantly reduce the emissions of CH4 and N2O in the atmosphere. Methane is the second largest, and nitrous oxide is the third-largest contributor to climate change after carbon dioxide. We can drastically decrease these emissions by changing agricultural activities (one of the main drivers contributing to GHG emissions) that support raising livestock and growing monoculture crops (like corn and soy). Converting to a 100 percent plant-based agricultural system that eliminates the use of domesticated animals, chemical fertilizers, pesticides, and herbicides will help mitigate the release of these greenhouse gases considerably.
 
-Today’s biggest epidemic is the exponential rise of CO2-equivalent atmospheric emissions. With COVID-19, the world changed protocols within weeks of the outbreak. This shows that we can change today to stop the harm inflicted on the planet, the more than 8 billion humans, and countless other Earthlings. We need to realize that there is no bigger threat facing us currently.
-
-<div
+Today’s biggest epidemic is the exponential rise of CO2-equivalent atmospheric emissions. With COVID-19, the world changed protocols within weeks of the outbreak. This shows that we *can* change today to stop the harm inflicted on the planet, the more than 8 billion humans, and countless other Earthlings. We need to realize that there is no bigger threat facing us currently.
 
 ---
 *Originally published at [observatory.wiki](https://observatory.wiki/Air_Pollution_Is_Killing_Millions_and_Rising_Exponentially%E2%80%94A_Shift_in_Agriculture_Can_Solve_It). © Independent Media Institute. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

@@ -37,11 +37,11 @@ According to the findings of the paper, called “The ‘Vegetarian Brain,’”
 
 In certain brain areas associated with empathy, meat eaters’ brains responded less to seeing humans make speech-like movement, echoing findings from other tests that showed increased activity in empathy circuits among people who do not eat meat for ethical reasons.
 
-But figuring out where the human brain reacts was the easy part. The hard part: what—if anything—does it tell us about who we are?
+But figuring out where the human brain reacts was the easy part. The hard part: what—if anything—does it tell us about *who we are*?
 
 ## Food Studies and Fool’s Gold
 
-Compare the qualities of meat-eaters and vegetarians and, as far viral internet content goes, you’ve got gold. If it shows eating meat is better for your IQ, that’s gold. If it shows vegetarians are happier—pure gold. If it shows “aggressive” vegans are harming the cause, that’s gold.
+Compare the qualities of meat-eaters and vegetarians and, as far viral internet content goes, you’ve got gold*.* If it shows eating meat is better for your IQ, that’s gold. If it shows vegetarians are happier—pure gold. If it shows “aggressive” vegans are harming the cause, that’s gold.
 
 Barely a month goes by without some new study making a claim about the link between meat consumption and human qualities. While there’s little doubt left that a vegetarian diet would be better for the environment and (generally speaking) better for our health, there’s less to say about what it does to ourselves, or what it shows about the people we already are.
 
@@ -75,7 +75,7 @@ Why do some food-based science stories elicit such a strong response?
 
 One claim stands out head-and-shoulders above the rest for plausibility: that vegetarians are more empathetic and thoughtful than their meat-eating counterparts.
 
-This tends to get believed right out of the gate, at least by those who refuse to eat meat on moral grounds. It supports the causal link—they have more empathy and this explains why they are vegetarians in the first place.
+This tends to get believed right out of the gate, at least by those who refuse to eat meat on moral grounds. It supports the causal link—they have more empathy and this explains *why* they are vegetarians in the first place.
 
 The monkey, pig, human experiment also bolsters this view, but it was Filippi’s earlier study that went viral. His test showing by functional MRI that vegetarians and vegans respond differently to images of animal pain than meat-eaters is among the most oft-repeated in online debates.
 
@@ -106,8 +106,6 @@ After all, it’s worth asking what makes people share the findings of studies t
 Dahlstrom is sympathetic to people sharing on social media, saying regular people don’t have the same responsibility as journalists or professors, but also suggests we could become better seekers of the truth about diet and morality.
 
 “It is important to note there is no distinct group between truth-seekers and not,” he adds. “We all have topics that serve us individually in some way and we become truth-seekers for that topic. There are a much larger number of topics that have weaker connections to how we live our lives, and we do not devote the time to become truth-seekers for those topics. With only so many resources to invest in truth—financial, mental and social—we all have to prioritize.”
-
-<div
 
 ---
 *Originally published at [observatory.wiki](https://observatory.wiki/Are_Plant-Eaters_Smarter_and_More_Empathetic_Than_Meat-Eaters%3F). © Independent Media Institute. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

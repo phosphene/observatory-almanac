@@ -14,10 +14,8 @@ summary: >
 tags:
   - environment
   - climate-change
-  - carbon
   - animal-welfare
   - fossil-fuels
-  - public-health
 ---
 
 # Carbon Farming: A Sustainable Agriculture Technique That Keeps Soil Healthy and Combats Climate Change
@@ -35,7 +33,7 @@ What if it also put billions of dollars in cash into the hands of countless work
 
 What if it even slashed fossil fuel consumption and made the world more resilient to climate stress?
 
-Well, it turns out there is a system that can do all that. It’s called carbon farming, and it just might be key to restabilizing the climate. In the process, it can revitalize rural economies while also producing healthier, more nutritious crops. And amazingly, it’s also low-cost, low-tech, and low-risk.
+Well, it turns out there *is* a system that can do all that. It’s called carbon farming, and it just might be key to restabilizing the climate. In the process, it can revitalize rural economies while also producing healthier, more nutritious crops. And amazingly, it’s also low-cost, low-tech, and low-risk.
 
 The carbon farmer works with simple inputs: land, seed, compost, moisture, sometimes animals and manure, and sometimes specially selected microorganisms that speed a depleted soil’s return to health.
 
@@ -43,7 +41,7 @@ Carbon farming doesn’t pull land out of production or abuse natural ecosystems
 
 ## A School of Hard Knocks
 
-In well-worn jeans and a plaid shirt, Gabe Brown looks like the North Dakota farmer-rancher he is. But if you were to assume that Brown practices typical U.S. production agriculture, you would be wrong. Brown has an iron will, a deep religious faith, a tremendous capacity for hard work, and “a calling” to bring hope to struggling farmers and ranchers while providing healthful food to consumers. Unlike most farmers, though, he’s not as concerned with yields per acre or dollars per pound as he is with soil health.
+In well-worn jeans and a plaid shirt, Gabe Brown looks like the North Dakota** farmer-rancher he is. But if you were to assume that Brown practices typical U.S. production agriculture, you would be wrong. Brown has an iron will, a deep religious faith, a tremendous capacity for hard work, and “a calling” to bring hope to struggling farmers and ranchers while providing healthful food to consumers. Unlike most farmers, though, he’s not as concerned with yields per acre or dollars per pound as he is with soil health.
 
 How soil became “top of mind” for Brown—and how he became a rock star of regenerative agriculture—is a tale of good tidings for the climate, the planet, and agriculture in the United States.
 
@@ -114,8 +112,6 @@ Conventional farmers are addicted to fertilizers, pesticides, and herbicides. Th
 By contrast, in Brown’s regenerative agricultural system, plant residues are left on the ground to decompose, and tiny organisms come up to the soil surface. “They increase the infiltration rate by a huge factor,” Norman said. This is important not only for allowing adequate moisture to soak in to carry plants through dry spells but also for farmers and ranchers trying to adapt to climate change.
 
 As the climate gets warmer and the frequency and severity of flooding increases, permeable soil is more important than ever to absorb the heavier rainfall. “Gabe Brown’s soil can take a foot of water in an hour with no runoff,” Norman reported. “That’s unheard of in a conventionally tilled agricultural soil.”
-
-<div
 
 ---
 *Originally published at [observatory.wiki](https://observatory.wiki/Carbon_Farming:_A_Sustainable_Agriculture_Technique_That_Keeps_Soil_Healthy_and_Combats_Climate_Change). © Independent Media Institute. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

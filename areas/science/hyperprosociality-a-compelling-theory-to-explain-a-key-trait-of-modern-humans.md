@@ -10,7 +10,7 @@ license: CC BY-NC-SA 4.0
 published: 2025-04-17
 updated: 2025-04-17
 summary: >
-  The success of our species may come down to one key trait: the ability to cooperate with people who are not relatives. Paleoanthropologist Curtis Marean has developed a comprehensive explanation based on a synthesis of research and archaeological evidence for what propelled H.
+  The success of our species may come down to one key trait: the ability to cooperate with people who are not relatives. Paleoanthropologist Curtis Marean has developed a comprehensive explanation based on a synthesis of research and archaeological evidence for what propelled *H.
 tags:
   - science
   - aging
@@ -24,7 +24,7 @@ tags:
 
 ## Introduction
 
-Paleoanthropologist Curtis Marean has developed a comprehensive explanation based on a synthesis of research and archaeological evidence for what propelled H. sapiens to leave Africa about 70,000 years ago and colonize every part of the world, replacing other existing hominin populations.
+Paleoanthropologist Curtis Marean has developed a comprehensive explanation based on a synthesis of research and archaeological evidence for what propelled *H. sapiens* to leave Africa about 70,000 years ago and colonize every part of the world, replacing other existing hominin populations.
 
 Key to the process is “hyperprosociality,” by which Marean means the ability to cooperate with people who are not relatives. This in turn requires the use of symbolism in language and cultural communication, including art. Paradoxically, hyperprosociality produces cooperation among unrelated individuals at the same time that it fosters conflict to protect territory and food.
 
@@ -34,7 +34,7 @@ In recent years, pushed forward by genetic studies, a consensus developed among 
 
 There is still debate about whether the process was continent-wide in Africa or from a specific region, and Marean makes the case that conditions in the South African coastal area were crucial for modern human dispersal.
 
-As Marean wrote in the conclusion of a 2015 paper: “All modern humans are descended from a lineage of H. sapiens that arose in Africa, probably in the latter third of the Pleistocene, during a long cold glacial phase. Although there were likely several lineages of H. sapiens, increasing evidence indicates that one gave rise to all modern humans. We do not know where this lineage resided, but several factors point to southern Africa as a strong candidate region.”
+As Marean wrote in the conclusion of a 2015 paper: “All modern humans are descended from a lineage of *H. sapiens* that arose in Africa, probably in the latter third of the Pleistocene, during a long cold glacial phase. Although there were likely several lineages of *H. sapiens*, increasing evidence indicates that one gave rise to all modern humans. We do not know where this lineage resided, but several factors point to southern Africa as a strong candidate region.”
 
 For example, Marean states that evidence from biological anthropology and archaeology of “proxies for advanced cognition, hyperprosociality, and a psychology for social learning were in place with the African lineage” between 200,000 and 150,000 years ago, while the Neanderthal lineage was still not substantially different from those of its primitive state.
 
@@ -42,7 +42,7 @@ For example, Marean states that evidence from biological anthropology and archae
 
 For Marean, behavioral and cultural traits define human evolution; brain size, climate, and new technologies cannot explain the overall process.
 
-Hyperprosociality, he says, provides a comprehensive explanation. H. sapiens is the only species that has high levels of cooperation with those who are not related. For example, early humans shared food, cared for those in the group who were ill, and cooperated with other unrelated groups for purposes of defense and finding mates.
+Hyperprosociality, he says, provides a comprehensive explanation. *H. sapiens* is the only species that has high levels of cooperation with those who are not related. For example, early humans shared food, cared for those in the group who were ill, and cooperated with other unrelated groups for purposes of defense and finding mates.
 
 While some of these traits exist among primate groups, humans brought them to a high state of development. These traits date back to the last part of the Middle Pleistocene, about 200,000 to 100,000 years ago, Marean suggests.
 
@@ -58,7 +58,7 @@ Much of Marean’s work documents the importance of coastal resources and the sy
 
 Marean builds much of his theory out of evidence his team and others discovered in several coastal sites in South Africa in the form of concentrations of mollusk remains collected by people dated between 110,000 years ago to 40,000 years ago. He argues that the systematic exploitation of marine resources, as evidenced by the mollusk remains, probably required the coastal population to understand the lunar cycle and the tides to be at the right place for maximizing mollusk harvesting. This happens when the moon is full or new, and the tides are in what’s called a “spring phase.” This process required a “complex cognition that could make a novel connection between an astronomical observation, tidal character, and collection return rates.”
 
-Although there is scientific consensus that “the use of marine resources and coastal adaptations are important topics in need of consideration” with regard to the story of how Homo sapiens colonized the planet, there’s little consensus about exactly what part coastal resources played in human origins, Marean argues. It’s not that these resources provided a higher-quality protein diet but rather that the systematic exploitation of coastal resources fostered hyperprosociality and its concomitant adaptations. Territorial defense is more successful with a cooperating community.
+Although there is scientific consensus that “the use of marine resources and coastal adaptations are important topics in need of consideration” with regard to the story of how *Homo sapiens* colonized the planet, there’s little consensus about exactly what part coastal resources played in human origins, Marean argues. It’s not that these resources provided a higher-quality protein diet but rather that the systematic exploitation of coastal resources fostered hyperprosociality and its concomitant adaptations. Territorial defense is more successful with a cooperating community.
 
 As he describes it, the benefits of these resources come with the cost of defending it, and the benefit level “can exceed the return-rate of hunting.”
 
@@ -72,9 +72,7 @@ Based on the interdependent triad that Marean elaborates in his writings—hyper
 
 Marean summarizes the effect: “The combination of the three adaptations allows for advanced technologies, particularly weapons, tied to extreme group cooperation in activities such as war.”
 
-In a 2015 article for Scientific American, Marean reflects on the paradox of H. sapiens having the unique traits of cooperation and war. “Science has revealed the stimuli that trigger our hardwired proclivities to classify people as ‘other’ and treat them horrifically. But just because H. sapiens evolved to react to scarcity in this ruthless way does not mean we are locked into this response. Culture can override even the strongest biological instincts.”
-
-<div
+In a 2015 article for Scientific American, Marean reflects on the paradox of *H. sapiens* having the unique traits of cooperation and war. “Science has revealed the stimuli that trigger our hardwired proclivities to classify people as ‘other’ and treat them horrifically. But just because *H. sapiens* evolved to react to scarcity in this ruthless way does not mean we are locked into this response. Culture can override even the strongest biological instincts.”
 
 ---
 *Originally published at [observatory.wiki](https://observatory.wiki/A_Compelling_Theory_to_Explain_a_Key_Trait_of_Modern_Humans). © Independent Media Institute. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

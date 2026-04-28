@@ -28,7 +28,7 @@ Do you remember the last time you took a break and watched the passing escapades
 
 In the United States, at least 28,000 mostly sole-proprietorship pest control businesses employ more than 137,000 people, a rapidly growing industry valued at $17 billion annually.
 
-Over 1 billion pounds of insecticides are used annually in the United States. This is almost three times the amount of neuroactive chemicals (350 million pounds, including 63 million pounds of DDT) applied in 1962 when Rachel Carson published Silent Spring, her revolutionary environmental science book. However, since Carson's prescient warning, we haven’t changed our actions or our ever-increasing chemical assaults against pollinating insects and indirectly against ourselves.
+Over 1 billion pounds of insecticides are used annually in the United States. This is almost three times the amount of neuroactive chemicals (350 million pounds, including 63 million pounds of DDT) applied in 1962 when Rachel Carson published *Silent Spring*, her revolutionary environmental science book. However, since Carson's prescient warning, we haven’t changed our actions or our ever-increasing chemical assaults against pollinating insects and indirectly against ourselves.
 
 Some 21,000 distinctly different species of bees live worldwide. Some are solitary females who dig their nest tunnels in the ground or dead wood without help. Others are social, living among tens of thousands of their sisters, hive mates, and queen mother. Whether social or solitary, bees are individuals. They have distinct personalities. They learn and memorize essential details of their world.
 
@@ -76,7 +76,7 @@ This trick works because bees have developed a diverse and intriguing array of a
 
 Many male bees are highly territorial and defend clumps of flowers from other males. There, they hope to mate with a female of their species. Carpenter bees in Arizona seek out prominent hilltops. In small groups, they display their presence by releasing a rose-scented sex pheromone. Females follow the scent uphill and decide which male to mate with. This is called a lek mating system, just like some bird species.
 
-Honey bee drones fly high above the ground in drone congregation areas, following the scent of virgin queens, with which they mate in midair. Certain desert bees in the genus Centris have two types of males. Larger males are diggers and warriors. These so-called metanders can smell virgin females waiting underground. After battling with other metanders, digger males excavate their partners and fly them to a nearby bush on which to mate. Smaller males adopt a less successful strategy of patrolling nearby plants in search of potential mates.
+Honey bee drones fly high above the ground in drone congregation areas, following the scent of virgin queens, with which they mate in midair. Certain desert bees in the genus *Centris* have two types of males. Larger males are diggers and warriors. These so-called metanders can smell virgin females waiting underground. After battling with other metanders, digger males excavate their partners and fly them to a nearby bush on which to mate. Smaller males adopt a less successful strategy of patrolling nearby plants in search of potential mates.
 
 Most remarkably, we now know that bees are sentient, may exhibit self-awareness, and possibly have a basic form of consciousness. Bees can feel pain and likely suffer. Some bees plan for the future by cutting resin mines into fresh bark, to which they return again and again.
 
@@ -87,8 +87,6 @@ Bees can also learn to do highly unusual things, such as pulling a string or rol
 Bees do not perceive the world as we do. Their sensory systems would be entirely alien, and perhaps horrifying, to us if we could, for but a moment, jump inside their bodies and experience their world. What would it be like to see polarized light patterns in the sky, the invisible ultraviolet light patterns on flower petals, or electrostatic patterns left on flowers from earlier bee visits? What if we couldn’t see flowers unless we were a few inches from them? A bee’s vision is sixty times less sharp than our own. On the other hand, bees detect the microscopic textures and patterns on flower petals, much as a blind person can read the tiny bumps in a printed braille book with their fingers.
 
 For a bee, it’s a difficult and busy life. Her brain, though no larger than a poppy seed, can handle the complex thoughts and challenging celestial and landmark navigation that daily foraging requires. Every trip to a flower is a new learning experience, and she easily memorizes the flowers’ locations, colors, scents, and rewards. The bee navigates and actively chooses the kinds of flowers she visits, making use of her past experiences and memories. She thinks, makes quick decisions, and learns for herself from her complex and ever-changing interactions with the environment.
-
-<div
 
 ---
 *Originally published at [observatory.wiki](https://observatory.wiki/Bees_Are_Sentient_and_May_Be_Self-Aware). © Independent Media Institute. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

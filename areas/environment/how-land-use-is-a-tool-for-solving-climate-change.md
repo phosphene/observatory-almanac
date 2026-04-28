@@ -14,7 +14,6 @@ summary: >
 tags:
   - environment
   - climate-change
-  - carbon
 ---
 
 # How Land Use Is a Tool for Solving Climate Change
@@ -38,7 +37,7 @@ A recent National Academy of Sciences report discusses how “uptake and storage
 
 “Soil can hold a lot of carbon. It can hold a lot more [than it is]. Just how much more is a matter of more research,” she added. “But we can’t be dilly-dallying anymore. We need to be assessing the landscape for opportunities, and then start to take some action.”
 
-### Carbon Belongs in the Soil
+### **Carbon Belongs in the Soil**
 
 Carbon is an essential ingredient of healthy soil, helping it maintain its structure, and water and nutrient content. So, how does it get there? Conventional wisdom has been that carbon is transferred to the soil through decomposing plant and animal debris. But cutting-edge research in soil science is revealing a much more complex set of circumstances at play. One example of this is an evolving understanding of the “liquid carbon” pathway, which describes the way in which liquid carbon—in the form of dissolved sugars formed during photosynthesis—is passed through roots into the soil to support the complex microbial life there.
 
@@ -56,11 +55,9 @@ That said, there is movement away from industrial agriculture toward regenerativ
 
 Holistic grazing—a method of farming that ties livestock production to the cycles of nature, all the while minimizing bare ground and maximizing plant mass—is an “extremely valuable tool” in the fight against climate change, said Karl Thidemann, co-founder and co-director of Soil4Climate, a non-profit advocating for different land use practices. “I’ve been to many grazers who have begun using this practice,” said Thidemann. “All of them have told me how important it has been to their financial situation, and to the environment and to the ecology of these areas.”
 
-Charles Eisenstein is a teacher and writer focusing on themes of civilization and the human cultural evolution. In his 2018 book Climate: A New Story, he discusses syntropic agriculture, which has revitalized devastated areas of land in Brazil, turning them into thriving agroforests, all within the space of 30 years. “Part of my work involves challenging the basic direction of human civilization,” he said. “And I think the change that the current ecological crisis is leading us into goes that deep.” The problem, added Eisenstein, will be in enacting these sorts of changes in time to make a difference.
+Charles Eisenstein is a teacher and writer focusing on themes of civilization and the human cultural evolution. In his 2018 book *Climate: A New Story*, he discusses syntropic agriculture, which has revitalized devastated areas of land in Brazil, turning them into thriving agroforests, all within the space of 30 years. “Part of my work involves challenging the basic direction of human civilization,” he said. “And I think the change that the current ecological crisis is leading us into goes that deep.” The problem, added Eisenstein, will be in enacting these sorts of changes in time to make a difference.
 
 Indeed, Seth Watkins discussed how, in Iowa, there’s a prominent vein of thinking, grounded in the Bible, which encourages farmers there to manage intensively every inch of their land. “Something I’ve asked myself is, ‘how do we start having these conversations in church basements?’” said Watkins. “I don’t know what happens when we die for sure, but what I’ve studied about it is that we’re supposed to try to do the best we can with what we have. We’ve got to be good stewards of the land.”
-
-<div
 
 ---
 *Originally published at [observatory.wiki](https://observatory.wiki/A_Climate_Change_Solution_No_One%E2%80%99s_Talking_About:_Better_Land_Use). © Independent Media Institute. Licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*

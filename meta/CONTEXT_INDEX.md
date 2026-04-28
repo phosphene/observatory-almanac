@@ -52,8 +52,28 @@ index:
 
   readme:
     path: README.md
-    description: Project overview and structure for newcomers
-    relevant_when: [onboarding]
+    description: Project overview — architecture, frontmatter RAG, MkDocs, agent infrastructure
+    relevant_when: [onboarding, session-start]
+
+  team-status:
+    path: team/STATUS.md
+    description: Current project state — what exists, what's missing, recent history
+    relevant_when: [session-start, planning]
+
+  team-roadmap:
+    path: team/ROADMAP.md
+    description: Strategic roadmap — Phase 1 done, Phase 2-3 pending Jan's input
+    relevant_when: [planning, architecture]
+
+  team-planning:
+    path: team/PLANNING.md
+    description: Strategic planning register — S-001 through S-006 all blocked on Jan
+    relevant_when: [planning, session-start]
+
+  requirements-jan:
+    path: team/requirements/jan-almanac-brief.md
+    description: Requirements brief for Jan — almanac concept, modularity, reproduction questions
+    relevant_when: [planning, architecture, requirements]
 
   scraper:
     path: ../../lib/python/scripts/feelingflowingbot/observatory_scraper.py

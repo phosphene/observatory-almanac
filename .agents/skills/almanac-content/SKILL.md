@@ -39,6 +39,51 @@ read("meta/TASKS.md")  # pick highest-priority open task
 
 ---
 
+## Daily Branch Protocol (SPEC-019)
+
+All changes from Brittani Banks or Jan go onto a daily working branch, never directly to `main`.
+
+### Branch name
+```
+brittani/YYYY-MM-DD
+```
+
+### At session start — check branch state
+```bash
+cd shared/observatory-almanac
+DATE=$(date -u +%Y-%m-%d)
+git branch --list "brittani/$DATE"
+# If exists: git checkout brittani/$DATE
+# If not:    git checkout main && git pull && git checkout -b brittani/$DATE
+```
+
+### During the day
+- Every user request (Brittani or Jan) → apply change → `git add` + `git commit` on the branch immediately.
+- Commit message format: `content: <what changed> (<who requested>)`
+- Never leave changes uncommitted mid-session.
+
+### EOD check (20:00 UTC — handled by HEARTBEAT)
+```bash
+# 1. Validator
+cd lib/python && uv run python -m almanac.validator --root ..
+
+# 2. Tests
+cd lib/python && uv run pytest almanac/tests/ -q
+
+# 3a. PASS → merge
+git checkout main
+git merge --no-ff brittani/$DATE -m "content: Brittani/Jan edits $DATE"
+git push origin main
+git branch -d brittani/$DATE && git push origin --delete brittani/$DATE
+
+# 3b. FAIL → notify Ed Phil in Research Stable, do not merge
+```
+
+### No changes today
+If the branch has no commits beyond `main`: delete it silently. Nothing to report.
+
+---
+
 ## Turbo Commands
 
 ### T1 — Scrape one article

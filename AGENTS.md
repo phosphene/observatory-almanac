@@ -8,20 +8,21 @@ description: Agent specification for the Observatory Almanac — initialization,
 
 # AGENTS.md — Observatory Almanac
 
-Operational specification for agents working in the Observatory Almanac repository. Definitory in style: each section states what a thing IS and what WILL happen, not merely instructions.
+Operational specification for agents working in the Observatory Almanac repository. Definitory in style: each section states what a thing IS and what WILL happen.
 
-Backwards-compatible with the Phosphene workspace AGENTS.md. The parent workspace (`phosphene/woodchipper`) governs memory, skills, and infrastructure. This file governs Almanac-specific content protocols.
+The almanac now has **native agent infrastructure**: skills, memory, and a spec log live here alongside the content. The parent workspace (`phosphene/woodchipper`) continues to host the scraper, Python tooling, and global memory.
 
 ---
 
 ## 1. Repository Identity
 
-**Name:** Observatory Almanac
-**Scope:** Structured, git-native mirror of [observatory.wiki](https://observatory.wiki)
-**Producer:** Independent Media Institute
-**License:** CC BY-NC-SA 4.0 (content) / MIT (tooling)
-**Parent workspace:** `phosphene/woodchipper` (agents, skills, memory, infrastructure)
-**Almanac root:** `shared/observatory-almanac/` (relative to woodchipper workspace)
+**Name:** Observatory Almanac  
+**Scope:** Structured, git-native mirror of [observatory.wiki](https://observatory.wiki)  
+**Producer:** Independent Media Institute  
+**License:** CC BY-NC-SA 4.0 (OW content) / MIT (almanac-native content + tooling)  
+**Parent workspace:** `phosphene/woodchipper` (scraper, tests, global memory)  
+**Almanac root:** `shared/observatory-almanac/` (relative to woodchipper workspace)  
+**Published site:** https://ind-media.github.io/observatory-almanac  
 
 ---
 
@@ -32,38 +33,83 @@ One index read, then targeted lookups. Follows **Graduated Discovery (T-043)**.
 1. **Load Content Index** → `meta/CONTEXT_INDEX.md`
    YAML frontmatter carries the full asset map with `relevant_when` tags.
 
-2. **Check Today's Activity** — what areas/articles have been touched recently?
-   ```python
-   active_keys = [k for k, v in idx.items() if "content" in v["relevant_when"]]
-   ```
+2. **Check Task Board** → `meta/TASKS.md`
+   Pick the highest-priority `open` task. Mark it `in-progress` before starting.
 
 3. **Task Routing** — filter index by domain before loading:
-   - `scraping` → `meta/CONTEXT_INDEX.md#scraper`
-   - `content` → `meta/CONTEXT_INDEX.md#areas`
-   - `author` → `meta/CONTEXT_INDEX.md#authors`
-   - `schema` → `SCHEMA.md`, `AREAS.md`
+   - `scraping` → import queue, scraper (in parent workspace)
+   - `content` → `SCHEMA.md`, `AREAS.md`, relevant `areas-*` entry
+   - `author` → `authors/` directory
+   - `schema` → `SCHEMA.md`, `lib/python/almanac/src/almanac/schema.py`
+   - `architecture` → `meta/SPEC_LOG.md`
 
-4. **Skill Lookup** — match task trigger, load only the matched `SKILL.md`.
-   Skills live at `../../.agents/skills/observatory-almanac/SKILL.md`
-   (relative to almanac root = `shared/observatory-almanac/`).
+4. **Skill Lookup** → `.agents/skills/almanac-content/SKILL.md`
+   Turbo commands, axioms, content standards, area priority queue.
 
-5. **Never scan directories** — use the index. If the index is stale, regenerate it.
+5. **Memory** → `memory/feelingflowingbot.md` (operational patterns, known issues)
+   Load when context about prior decisions is needed.
+
+6. **Never scan directories** — use the index. If the index is stale, regenerate it.
 
 ---
 
-## 3. Content Architecture
+## 3. Infrastructure Map
 
-### 3.1 Document Types
+```
+shared/observatory-almanac/
+├── .agents/
+│   └── skills/
+│       └── almanac-content/SKILL.md  ← native content skill
+├── memory/
+│   ├── feelingflowingbot.md           ← Flow's project memory
+│   └── edphos.md                      ← Ed Phil's project memory
+├── meta/
+│   ├── CONTEXT_INDEX.md               ← session-start orientation
+│   ├── SPEC_LOG.md                    ← architectural decisions (append-only)
+│   ├── TASKS.md                       ← task board (E/D/C/I tracks)
+│   └── import-queue.yml               ← OW article scrape queue
+├── areas/                             ← content by area
+├── authors/                           ← author profiles
+├── guides/                            ← curated multi-article collections
+├── lib/python/almanac/                ← Pydantic schema + validator + index generator
+├── scripts/
+│   ├── generate_area_indexes.py       ← area index pages
+│   └── build_docs_tree.py             ← docs/ symlink tree for MkDocs
+├── docs/                              ← MkDocs source (symlinks to areas/)
+├── SCHEMA.md                          ← human-readable content spec
+├── AREAS.md                           ← 26 canonical area slugs
+└── .github/workflows/deploy.yml       ← GitHub Pages CI
+```
 
-| Type | Location | Schema |
-|------|----------|--------|
-| Article | `areas/<area>/<slug>.md` | `SCHEMA.md#article` |
-| Guide | `guides/<slug>.md` | `SCHEMA.md#guide` |
-| Author profile | `authors/<slug>.md` | `SCHEMA.md#author` |
-| Area index | `areas/<area>/index.md` | auto-generated |
-| Meta | `meta/` | internal |
+**Scraper lives in parent workspace:**
+```
+phosphene/woodchipper/
+└── lib/python/scripts/feelingflowingbot/
+    ├── observatory_scraper.py
+    ├── test_observatory_scraper.py
+    └── test_observatory_scraper_snapshot.py
+```
 
-### 3.2 Canonical Identifiers
+---
+
+## 4. Content Architecture
+
+### 4.1 Document Types
+
+| Type | Location | License |
+|------|----------|---------|
+| `article` | `areas/<area>/<slug>.md` | CC BY-NC-SA 4.0 |
+| `classic` | `areas/<area>/<slug>.md` | CC BY-NC-SA 4.0 |
+| `guide` | `guides/<slug>.md` | CC BY-NC-SA 4.0 |
+| `almanac` | `areas/<area>/<slug>.md` | MIT |
+| `recipe` | `areas/cooking/<slug>.md` | MIT |
+| `rulebook` | `areas/<area>/<slug>.md` | MIT |
+| `factbook` | `areas/<area>/<slug>.md` | MIT |
+| `reference` | `areas/<area>/<slug>.md` | MIT |
+| `assessment` | `areas/<area>/<slug>.md` | MIT |
+| `field-guide` | `areas/<area>/<slug>.md` | MIT |
+
+### 4.2 Canonical Identifiers
 
 Every document has a stable compound identity:
 
@@ -73,116 +119,111 @@ authors/{slug}  →  authors/leslie-alan-horvitz.md
 guides/{slug}   →  guides/guide-to-artificial-intelligence.md
 ```
 
-Slugs are derived deterministically from the observatory.wiki URL path using the `slugify()` function in the scraper. Do not rename slugs without a migration plan — they are stable identifiers referenced across metadata.
+Slugs are **permanent**. Derived from OW URL path via `slugify()`. Do not rename.
 
-### 3.3 Area Taxonomy
+### 4.3 Area Taxonomy
 
-26 canonical areas defined in `AREAS.md`. Area slugs are stable. Do not create new areas — map to existing ones.
+26 canonical areas defined in `AREAS.md`. Do not create new areas — map to existing ones.
 
 ---
 
-## 4. Content Protocols
+## 5. Content Protocols
 
-### 4.1 Adding Articles
+### 5.1 Adding OW Articles
 
-1. Use the scraper: `uv run python lib/python/scripts/feelingflowingbot/observatory_scraper.py <url> [area]`
-2. Verify frontmatter matches `SCHEMA.md` — title, area, author, published, summary, tags.
-3. Ensure author profile exists in `authors/<author-slug>.md`.
-4. Update `meta/index.md` if it is maintained manually.
+1. Add to `meta/import-queue.yml`
+2. Run scraper (see Skill T1/T2)
+3. Verify frontmatter matches `SCHEMA.md`
+4. Confirm author profile exists
+5. Run `python scripts/generate_area_indexes.py && python scripts/build_docs_tree.py`
+6. Commit with task ID
 
-### 4.2 Frontmatter Standards (Non-Negotiable)
+### 5.2 Frontmatter Standards (Non-Negotiable)
 
-- `title`: exact title from observatory.wiki, quoted in YAML
+- `title`: exact title from observatory.wiki
 - `area`: canonical slug from `AREAS.md`
-- `type`: `article`, `guide`, or `classic`
-- `author`: display name as credited
+- `type`: declared document type
+- `author`: display name as credited on OW
 - `author_slug`: must match filename stem in `authors/`
 - `source_url`: canonical observatory.wiki URL
-- `license`: always `CC BY-NC-SA 4.0`
+- `license`: `CC BY-NC-SA 4.0` for OW content; `MIT` for almanac-native
 - `published`: ISO 8601 date
-- `summary`: 1–3 sentences; written for the reader, not scraped verbatim
+- `summary`: 1–3 sentences; written for the reader
 - `tags`: lowercase-hyphens; conceptual, not area names
 
-### 4.3 Body Content
+### 5.3 Body Content
 
-- Preserve original section structure (headings, lists)
-- Do not editorialize; body is the article
-- Attribution line at the very end (mandatory):
+- Preserve original section structure
+- Do not editorialize — body is the article
+- Attribution line mandatory at document end:
   ```markdown
   *Originally published at [observatory.wiki](…). © Independent Media Institute. Licensed [CC BY-NC-SA 4.0](…).*
   ```
 
-### 4.4 Author Profiles
+### 5.4 Author Profiles
 
 - One file per author in `authors/<slug>.md`
-- Scraper creates stubs automatically
-- Enrich with bio and article list when content volume justifies it
+- Scraper auto-creates stubs
+- `the-observatory` slug is exempt (collective attribution)
 
 ---
 
-## 5. Graduated Discovery
+## 6. Schema & Validation
 
-The almanac uses the same Graduated Discovery protocol as the parent workspace (T-043).
+**Schema:** `SCHEMA.md` (human-readable) + `lib/python/almanac/src/almanac/schema.py` (Pydantic)
 
-### Discovery Tiers
-
-| Tier | Asset | When |
-|------|-------|------|
-| T1 | `meta/CONTEXT_INDEX.md` | Every session start |
-| T2 | `SCHEMA.md`, `AREAS.md` | Content schema questions |
-| T3 | `areas/<area>/` directory | Area-specific work |
-| T4 | Individual article files | Targeted content edits |
-
-**Rule:** Read T1 first, always. Load T2–T4 only when the task demands it.
-
-### Index Maintenance
-
-`meta/CONTEXT_INDEX.md` is the orientation surface. Keep it current:
-- Add entries when new asset types are created
-- Update `updated:` when content changes significantly
-- Run the index generator when the scraper adds a bulk batch
-
----
-
-## 6. Scraper Infrastructure
-
-The scraper lives in the parent workspace:
-
-```
-lib/python/scripts/feelingflowingbot/observatory_scraper.py
-```
-
-Tests are co-located:
-```
-lib/python/scripts/feelingflowingbot/test_observatory_scraper.py
-```
-
-Run tests before any scraper modification:
+**Validation:**
 ```bash
-cd lib/python && uv run pytest scripts/feelingflowingbot/test_observatory_scraper.py -v
+cd lib/python && uv run python -m almanac.validator --root ..
 ```
 
-The scraper respects a 0.8s delay between requests. Do not reduce this.
+**Test suite:**
+```bash
+cd lib/python && uv run pytest -q   # 50 tests
+```
+
+**Schema change protocol:**
+1. Update `SCHEMA.md`
+2. Update Pydantic models in `schema.py`
+3. Update tests
+4. Add decision to `meta/SPEC_LOG.md`
+5. Commit with `SPEC-NNN` reference
 
 ---
 
-## 7. Safety
+## 7. Graduated Discovery
 
-- **Do not modify CC-licensed content** — preserve original text; only formatting normalisation is permitted
-- **Do not create articles from non-observatory.wiki sources** without explicit instruction
-- **Do not delete articles** without explicit instruction; git history is the safety net
-- **Slugs are stable** — changing a slug breaks any external reference to that article
+| Tier | Asset | Load When |
+|------|-------|-----------|
+| T1 | `meta/CONTEXT_INDEX.md` | Every session start |
+| T2 | `SCHEMA.md`, `AREAS.md` | Schema/content questions |
+| T3 | `meta/SPEC_LOG.md` | Architecture decisions |
+| T4 | `areas/<area>/` | Area-specific work |
+| T5 | Individual article files | Targeted content edits |
+
+**Rule:** Read T1 first, always. Load T2–T5 only when the task demands it.
 
 ---
 
-## 8. Relationship to Parent Workspace
+## 8. Safety
 
-| Concern | Where it lives |
-|---------|---------------|
-| Memory / daily logs | `phosphene/woodchipper/memory/` |
-| Skills | `phosphene/woodchipper/.agents/skills/observatory-almanac/` |
+- **Do not modify CC-licensed body content** — preserve original text; formatting normalisation only
+- **Do not create articles from non-OW sources** without explicit instruction
+- **Do not delete articles** without explicit instruction
+- **Slugs are permanent** — renaming breaks all external references silently
+- **Rate limit is immutable** — 0.8s between OW requests
+
+---
+
+## 9. Parent Workspace Relationship
+
+| Concern | Location |
+|---------|----------|
+| Global memory / daily logs | `phosphene/woodchipper/memory/feelingflowingbot/` |
+| Project memory | `shared/observatory-almanac/memory/` |
+| Woodchipper skills | `phosphene/woodchipper/.agents/skills/observatory-almanac/` |
+| Almanac native skills | `shared/observatory-almanac/.agents/skills/` |
 | Scraper + tests | `phosphene/woodchipper/lib/python/scripts/feelingflowingbot/` |
-| Almanac content | `phosphene/woodchipper/shared/observatory-almanac/` (this repo) |
-| Tickets / decisions | `phosphene/woodchipper/team/SPEC_LOG.md` |
-
-The Almanac repo has no agent infrastructure of its own — it is the content surface. All agent logic lives in the parent workspace.
+| Woodchipper spec log | `phosphene/woodchipper/team/SPEC_LOG.md` |
+| Almanac spec log | `shared/observatory-almanac/meta/SPEC_LOG.md` |
+| Tickets / OKRs | `phosphene/woodchipper/team/` |

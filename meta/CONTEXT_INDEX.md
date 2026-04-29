@@ -1,7 +1,7 @@
 ---
 uri: meta/context-index
 owner: feelingflowingbot
-updated: 2026-04-28
+updated: 2026-04-29
 description: Session-start orientation index for the Observatory Almanac. Load this first; filter by relevant_when tag; load only what the task needs.
 
 index:

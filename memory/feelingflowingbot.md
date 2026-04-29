@@ -39,10 +39,10 @@ Project-scoped memory. Covers what I've learned about this specific project. Glo
 - Summary generation from lede works well (≥30 char threshold). The fallback (title + area) is sometimes weak — worth enriching manually for featured articles.
 
 ### Infrastructure patterns
-- `uv run` from `lib/python/` is the correct Python invocation. Never bare `python3`.
-- `ruamel.yaml` is in the uv venv but not system Python. All scripts that need it must run via `uv run`.
-- `build_docs_tree.py` must run after any bulk content addition before `mkdocs serve`/`build`. Creates symlinks — idempotent.
-- Symlinks in `docs/areas/` point to absolute paths. They will break if the repo is moved. Acceptable for now.
+- `uv run` from `lib/python/almanac/` is the preferred Python invocation for tools.
+- `almanac-validator`, `almanac-indexer`, and `almanac-tree` are the primary CLI subcommands.
+- `meta/areas.yml` is the source of truth for all area metadata.
+- Logic is decoupled from I/O in `almanac.io` and `almanac.rendering`.
 
 ### Testing discipline
 - 115 scraper tests must pass before any scraper change. Run: `cd lib/python && uv run pytest scripts/feelingflowingbot/test_observatory_scraper.py -q`
@@ -72,9 +72,9 @@ Project-scoped memory. Covers what I've learned about this specific project. Glo
 5. Update `meta/SPEC_LOG.md` with decision
 
 ### After any bulk content change
-1. Run `python scripts/generate_area_indexes.py` — regenerates area index pages
-2. Run `python scripts/build_docs_tree.py` — rebuilds symlink tree
-3. Run validator
+1. `uv run almanac-indexer` — regenerates area index pages and inventory
+2. `uv run almanac-tree` — rebuilds symlink tree
+3. `uv run almanac-validator` — validate all content
 4. Update `meta/CONTEXT_INDEX.md` counts
 5. Commit
 
@@ -91,6 +91,7 @@ Project-scoped memory. Covers what I've learned about this specific project. Glo
 | `render_article` broke on titles with colons | f-string YAML doesn't quote | Switched to `ruamel.yaml` serialisation |
 | `ALMANAC_ROOT` broke when script moved | `parents[4]` hardcoded depth | Sentinel-file walk (`_find_almanac_root`) |
 | `ruamel` import failed in CI validator step | Wrong pip install in wrong directory | Consolidated: `pip install -e lib/python/almanac` handles deps |
+| Refactor debt (duplicated parsing logic) | Hardcoded area descriptions in scripts | Centralized `meta/areas.yml` and unified `almanac` package |
 
 ---
 

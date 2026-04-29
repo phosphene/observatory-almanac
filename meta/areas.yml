@@ -1,0 +1,94 @@
+# Observatory Almanac — Area Metadata
+# Central source of truth for descriptions, icons, and display names.
+
+areas:
+  agriculture:
+    display: "Agriculture"
+    description: "Sustainable farming, soil science, and food systems."
+  animals:
+    display: "Animals"
+    description: "Animal cognition, welfare, ecology, and human–animal relationships."
+  arts-recreation:
+    display: "Arts & Recreation"
+    description: "Game rulebooks, music theory, film canon, and performance arts."
+  charter-schools:
+    display: "Charter Schools"
+    description: "Charter school policy, research, and alternatives."
+  cooking:
+    display: "Cooking"
+    description: "World cuisines, wine and cheese guides, and sensory education."
+  dig-labs:
+    display: "Dig Labs"
+    description: "Deep investigative pieces on contested and underexplored topics."
+  economy:
+    display: "Economy"
+    description: "Wealth inequality, labor, debt, political economy, and local alternatives."
+  education:
+    display: "Education"
+    description: "Learning theory, charter schools, and pedagogical practice."
+  energy:
+    display: "Energy"
+    description: "Renewable energy, fossil fuels, and energy policy."
+  environment:
+    display: "Environment"
+    description: "Climate change, biodiversity, field guides, oceans, and ecosystems."
+  food:
+    display: "Food"
+    description: "Food policy, nutrition science, and cultural food studies."
+  health:
+    display: "Health"
+    description: "Emergency response, movement practices, meditation, and life navigation."
+  history:
+    display: "History"
+    description: "Ancient civilizations, deep time, archaeological discovery, and calendars."
+  human-bridges:
+    display: "Human Bridges"
+    description: "Death literacy, social movements, and cross-cultural connection."
+  language:
+    display: "Language"
+    description: "Sign language, survival phrases, and untranslatable idioms."
+  literature:
+    display: "Literature"
+    description: "Classic texts, literary criticism, and reading culture."
+  local-peace-economy:
+    display: "Local Peace Economy"
+    description: "Legal forms, civic documents, Robert's Rules, and grassroots tools."
+  media:
+    display: "Media"
+    description: "Media literacy, journalism, and the information ecosystem."
+  natural-health:
+    display: "Natural Health"
+    description: "Herbal medicine, integrative health, and wellness practices."
+  peoples-movements:
+    display: "People's Movements"
+    description: "Grassroots organizing, civil rights, and collective action."
+  philosophy:
+    display: "Philosophy"
+    description: "Divination systems, folk wisdom, oracles, and perennial philosophy."
+  psychology:
+    display: "Psychology"
+    description: "Behavioral biology, self-knowledge assessments, and relational science."
+  science:
+    display: "Science"
+    description: "Biology, consciousness, archaeology, paleoanthropology, and the natural sciences."
+  technology:
+    display: "Technology"
+    description: "Digital life, home networking, device setup, and practical tech."
+  voting-elections:
+    display: "Voting & Elections"
+    description: "Electoral systems, voting rights, and democratic participation."
+  world-affairs:
+    display: "World Affairs"
+    description: "Country factbooks, cultural etiquette, and global travel."
+
+type_icons:
+  article: "📰"
+  almanac: "📖"
+  recipe: "🍳"
+  rulebook: "♟️"
+  factbook: "🌍"
+  reference: "📋"
+  assessment: "🔍"
+  field-guide: "🌿"
+  guide: "🗺️"
+  classic: "⭐"

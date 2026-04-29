@@ -183,6 +183,13 @@ Observatory.wiki content: `CC BY-NC-SA 4.0`
 
 ---
 
+## Technical Notes
+
+- **Dates**: YAML frontmatter dates (e.g. `2026-04-29`) are often parsed as native `date` objects by YAML libraries. The Almanac validator automatically handles these and normalises them to ISO 8601 strings. You do not need to wrap dates in quotes unless you want to be explicit.
+- **Validation**: Every document is validated against Pydantic models defined in `lib/python/almanac/src/almanac/schema.py`. Any unknown field in frontmatter will cause a validation error (`extra: forbid`).
+
+---
+
 ## Naming conventions
 
 - Slugs are always lowercase with hyphens: `why-scientists-are-still-puzzled-by-consciousness`

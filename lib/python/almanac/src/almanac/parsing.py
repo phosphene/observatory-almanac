@@ -30,11 +30,10 @@ from pathlib import Path
 
 from ruamel.yaml import YAML
 
+from almanac.constants import HEADING_RE
+
 _yaml = YAML()
 _yaml.preserve_quotes = True
-
-# Regex for first # heading — used when frontmatter title is absent
-_HEADING_RE = re.compile(r"^#\s+(.+)$", re.M)
 
 
 def split_frontmatter(text: str) -> tuple[dict, str]:
@@ -125,7 +124,7 @@ def extract_meta(path: Path) -> tuple[str, dict]:
 
     title: str = str(meta.get("title", "")).strip("\"'")
     if not title:
-        m = _HEADING_RE.search(body)
+        m = HEADING_RE.search(body)
         title = m.group(1).strip() if m else path.stem.replace("-", " ").title()
 
     return title, meta

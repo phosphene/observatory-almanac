@@ -103,7 +103,7 @@ uv run --project ../../lib/python python ../../lib/python/scripts/feelingflowing
 
 ### T3 — Validate all content
 ```bash
-cd lib/python && uv run python -m almanac.validator --root ..
+cd lib/python/almanac && uv run almanac-validator --root ../../..
 ```
 
 ### T4 — Run scraper tests
@@ -118,12 +118,12 @@ cd lib/python && uv run pytest -q
 
 ### T6 — Regenerate area indexes
 ```bash
-python scripts/generate_area_indexes.py
+cd lib/python/almanac && uv run almanac-indexer --root ../../..
 ```
 
 ### T7 — Rebuild docs symlink tree
 ```bash
-python scripts/build_docs_tree.py
+cd lib/python/almanac && uv run almanac-tree --root ../../..
 ```
 
 ### T8 — Serve site locally
@@ -235,9 +235,9 @@ Pydantic models: `lib/python/almanac/src/almanac/schema.py`
 
 ## After Any Bulk Content Addition
 
-1. `python scripts/generate_area_indexes.py` — area index pages
-2. `python scripts/build_docs_tree.py` — symlink tree
-3. `cd lib/python && uv run python -m almanac.validator --root ..` — validate
+1. `uv run almanac-indexer` — area index pages
+2. `uv run almanac-tree` — symlink tree
+3. `uv run almanac-validator` — validate all content
 4. Update `meta/CONTEXT_INDEX.md` counts
 5. Update `meta/TASKS.md` task statuses
 6. Commit with task ID in message
@@ -255,6 +255,5 @@ Pydantic models: `lib/python/almanac/src/almanac/schema.py`
 | `SCHEMA.md` | Human-readable content format spec |
 | `AREAS.md` | 26 canonical area slugs |
 | `lib/python/almanac/` | Pydantic schema + validator + index generator |
-| `scripts/generate_area_indexes.py` | Area index page generator |
-| `scripts/build_docs_tree.py` | docs/ symlink tree builder |
+| `meta/areas.yml` | Centralized taxonomy metadata (display, desc, icons) |
 | `.github/workflows/deploy.yml` | GitHub Pages CI pipeline |

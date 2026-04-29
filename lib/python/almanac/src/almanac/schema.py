@@ -32,7 +32,21 @@ from datetime import date
 from enum import StrEnum
 from typing import Annotated
 
-from pydantic import BaseModel, Field, field_validator, model_validator
+from pydantic import (
+    BaseModel,
+    Field,
+    field_validator,
+    model_validator,
+    BeforeValidator,
+)
+
+# ---------------------------------------------------------------------------
+# Types
+# ---------------------------------------------------------------------------
+
+IsoDate = Annotated[
+    str, BeforeValidator(lambda v: v.isoformat() if isinstance(v, date) else str(v))
+]
 
 # ---------------------------------------------------------------------------
 # Enumerations
@@ -129,39 +143,7 @@ class LicenseType(StrEnum):
     mit = "MIT"
 
 
-VALID_AREAS = frozenset(
-    {
-        "agriculture",
-        "animals",
-        "arts-recreation",
-        "charter-schools",
-        "cooking",
-        "dig-labs",
-        "economy",
-        "education",
-        "energy",
-        "environment",
-        "food",
-        "health",
-        "history",
-        "human-bridges",
-        "language",
-        "literature",
-        "local-peace-economy",
-        "media",
-        "natural-health",
-        "peoples-movements",
-        "philosophy",
-        "psychology",
-        "science",
-        "technology",
-        "voting-elections",
-        "world-affairs",
-    }
-)
-
-_SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9-]*[a-z0-9]$")
-_ISO_DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+from almanac.constants import ISO_DATE_RE, SLUG_RE, VALID_AREAS
 
 
 # ---------------------------------------------------------------------------
@@ -197,7 +179,7 @@ class AlmanacBase(BaseModel, frozen=True, extra="forbid"):
     area: str
     type: DocumentType
     license: LicenseType
-    updated: str
+    updated: IsoDate
     summary: str = Field(min_length=10, max_length=600)
     tags: list[str] = Field(min_length=1)
 
@@ -233,7 +215,7 @@ class AlmanacBase(BaseModel, frozen=True, extra="forbid"):
         Raises:
             ValueError: If the value is not a valid ISO date.
         """
-        if not _ISO_DATE_RE.match(v):
+        if not ISO_DATE_RE.match(v):
             raise ValueError(f"updated must be ISO 8601 (YYYY-MM-DD), got '{v}'")
         return v
 
@@ -252,7 +234,7 @@ class AlmanacBase(BaseModel, frozen=True, extra="forbid"):
             ValueError: If any tag contains invalid characters.
         """
         for tag in v:
-            if not re.match(r"^[a-z0-9][a-z0-9-]*$", tag):
+            if not SLUG_RE.match(tag):
                 raise ValueError(
                     f"Tag '{tag}' must be lowercase-hyphen (e.g. climate-change)"
                 )
@@ -276,7 +258,7 @@ class ArticleFrontmatter(AlmanacBase, frozen=True, extra="forbid"):
     author_slug: str
     source: str = Field(min_length=1)
     source_url: str
-    published: str
+    published: IsoDate
 
     @field_validator("author_slug")
     @classmethod
@@ -292,7 +274,7 @@ class ArticleFrontmatter(AlmanacBase, frozen=True, extra="forbid"):
         Raises:
             ValueError: If slug format is invalid.
         """
-        if not re.match(r"^[a-z0-9][a-z0-9-]*$", v):
+        if not SLUG_RE.match(v):
             raise ValueError(f"author_slug '{v}' must be lowercase-hyphen")
         return v
 
@@ -310,7 +292,7 @@ class ArticleFrontmatter(AlmanacBase, frozen=True, extra="forbid"):
         Raises:
             ValueError: If the value is not a valid ISO date.
         """
-        if not _ISO_DATE_RE.match(v):
+        if not ISO_DATE_RE.match(v):
             raise ValueError(f"published must be ISO 8601, got '{v}'")
         return v
 
@@ -374,8 +356,8 @@ class GuideFrontmatter(BaseModel, frozen=True, extra="forbid"):
     source: str
     source_url: str
     license: LicenseType
-    published: str
-    updated: str
+    published: IsoDate
+    updated: IsoDate
     summary: str = Field(min_length=10)
     tags: list[str] = Field(min_length=1)
     articles: list[Annotated[dict, Field()]] = Field(default_factory=list)
@@ -444,7 +426,7 @@ class AuthorFrontmatter(BaseModel, frozen=True, extra="forbid"):
         Raises:
             ValueError: If slug format is invalid.
         """
-        if not re.match(r"^[a-z0-9][a-z0-9-]*$", v):
+        if not SLUG_RE.match(v):
             raise ValueError(f"slug '{v}' must be lowercase-hyphen")
         return v
 

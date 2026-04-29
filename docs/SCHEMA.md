@@ -1,0 +1,1 @@
+/Users/edphillips/projects/new/observatory-almanac/SCHEMA.md

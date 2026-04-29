@@ -11,9 +11,9 @@ from pathlib import Path
 import pytest
 import yaml
 
+from almanac.parsing import split_frontmatter as extract_frontmatter_yaml
 from almanac.validator import (
     collect_content_files,
-    extract_frontmatter_yaml,
     run_validation,
     validate_author_refs,
     validate_document,
@@ -92,14 +92,15 @@ class TestExtractFrontmatterYaml:
         assert data["title"] == "Test"
         assert "Body." in body
 
-    def test_missing_frontmatter_raises(self) -> None:
-        """Document without frontmatter raises ValueError."""
-        with pytest.raises(ValueError, match="No frontmatter"):
-            extract_frontmatter_yaml("# Just a heading\n\nNo YAML.")
+    def test_missing_frontmatter_returns_empty_dict(self) -> None:
+        """Document without frontmatter returns empty dict and full text as body."""
+        data, body = extract_frontmatter_yaml("# Just a heading\n\nNo YAML.")
+        assert data == {}
+        assert "Just a heading" in body
 
     def test_unclosed_frontmatter_raises(self) -> None:
         """Frontmatter without closing --- raises ValueError."""
-        with pytest.raises(ValueError, match="not closed"):
+        with pytest.raises(ValueError, match="never closed"):
             extract_frontmatter_yaml("---\ntitle: Test\n# no closing")
 
     def test_body_stripped_of_leading_newlines(self) -> None:

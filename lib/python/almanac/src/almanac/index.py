@@ -23,8 +23,7 @@ import sys
 from collections import defaultdict
 from dataclasses import dataclass, field
 from datetime import date
-from pathlib import Path
-
+from almanac.io import read_text, write_text
 from almanac.parsing import extract_meta
 
 # ---------------------------------------------------------------------------
@@ -239,22 +238,24 @@ def run(root: Path, dry_run: bool = False) -> int:
 
     # meta/index.md — full content inventory
     index_content = render_content_index(inv, today)
+    # meta/index.md — full content inventory
+    index_content = render_content_index(inv, today)
     if dry_run:
         print("--- meta/index.md ---", file=sys.stderr)
         print(index_content[:500], file=sys.stderr)
     else:
-        (meta_dir / "index.md").write_text(index_content, encoding="utf-8")
+        write_text(meta_dir / "index.md", index_content)
         print("  Written: meta/index.md", file=sys.stderr)
 
     # meta/CONTEXT_INDEX.md — targeted update
     ctx_path = meta_dir / "CONTEXT_INDEX.md"
     if ctx_path.exists():
-        existing = ctx_path.read_text(encoding="utf-8")
+        existing = read_text(ctx_path)
         updated = render_context_index_update(inv, today, existing)
         if dry_run:
             print("--- meta/CONTEXT_INDEX.md (updated) ---", file=sys.stderr)
         else:
-            ctx_path.write_text(updated, encoding="utf-8")
+            write_text(ctx_path, updated)
             print("  Updated: meta/CONTEXT_INDEX.md", file=sys.stderr)
 
     return 0

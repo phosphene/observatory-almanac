@@ -1,0 +1,23 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "almanac"
+version = "0.1.0"
+description = "Observatory Almanac — schema validation, indexing, and MkDocs tooling"
+requires-python = ">=3.11"
+dependencies = [
+    "pydantic>=2.7",
+    "ruamel.yaml>=0.18",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov>=5.0",
+    "ruff>=0.4",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/almanac"]

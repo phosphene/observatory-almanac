@@ -1,1 +1,0 @@
-/home/node/.openclaw/workspace/shared/observatory-almanac/AREAS.md

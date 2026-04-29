@@ -98,16 +98,20 @@ def build_docs_tree(root: Path) -> None:
             encoding="utf-8",
         )
 
-    # Symlink top-level reference docs into docs/ if not present
+    # Symlink top-level reference docs into docs/ (idempotent — unlink first)
     for name in ("SCHEMA.md", "AREAS.md"):
         link = root / "docs" / name
         src = root / name
-        if src.exists() and not link.exists():
+        if src.exists():
+            if link.is_symlink() or link.exists():
+                link.unlink()
             link.symlink_to(src.resolve())
 
-    # Symlink authors/ directory
+    # Symlink authors/ directory (idempotent)
     authors_link = root / "docs" / "authors"
-    if not authors_link.exists() and (root / "authors").exists():
+    if (root / "authors").exists():
+        if authors_link.is_symlink() or authors_link.exists():
+            authors_link.unlink()
         authors_link.symlink_to((root / "authors").resolve())
 
     # Ensure tags placeholder exists

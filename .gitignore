@@ -219,3 +219,6 @@ __marimo__/
 -e 
 # Generated at build time by scripts/build_docs_tree.py — do not commit
 docs/areas/
+-e docs/SCHEMA.md
+docs/AREAS.md
+docs/authors

@@ -39,9 +39,11 @@ jobs:
         run: pip install -r requirements-docs.txt
 
       - name: Install almanac Python lib
-        # Installs almanac package + its dependencies (ruamel-yaml, pydantic).
-        # The validator, index generator, and schema models all live here.
-        run: pip install -e lib/python/almanac
+        # hatchling is the build backend declared in lib/python/almanac/pyproject.toml.
+        # It must be installed before pip can resolve the editable install.
+        run: |
+          pip install hatchling
+          pip install -e lib/python/almanac
 
       - name: Generate area indexes
         # Writes docs/areas/<area>/index.md for each area directory.

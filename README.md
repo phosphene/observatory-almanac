@@ -61,28 +61,17 @@ An agent or search system can:
 - Follow `author_slug` to get author context
 - Verify `license` before any downstream use
 
-The `meta/import-queue.yml` is also frontmatter-driven: a structured YAML manifest that tells the scraper what to fetch and where to put it, decoupling content acquisition from Python logic.
-
 The `meta/SPEC_LOG.md`, `meta/TASKS.md`, and `memory/` files extend this model to agent infrastructure: every decision, task, and operational pattern is a structured document that agents can index, retrieve, and reason over.
 
 ---
 
 ### 3. MkDocs — The Published Surface
 
-The frontmatter fields `title`, `tags`, and `summary` are read directly by [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) to produce:
-- **Search index** — full-text search over all 190+ documents
-- **Tags taxonomy** — cross-area tag browsing
-- **Social cards** — article-level Open Graph previews
-- **Git revision dates** — last-edited timestamps from commit history
+The frontmatter fields `title`, `tags`, and `summary` are read directly by [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) to produce a rich documentation site. The build process is orchestrated by a unified CLI:
 
-The site is built by GitHub Actions on every push to `main`. The workflow:
-1. Checks out the full git history (required for revision dates)
-2. Installs Python deps and the almanac validation package
-3. Generates area index pages (`scripts/generate_area_indexes.py`)
-4. Builds the `docs/` symlink tree (`scripts/build_docs_tree.py`)
-5. Validates all content against the Pydantic schema
-6. Runs `mkdocs build --strict`
-7. Deploys to GitHub Pages
+1. **Validation**: All content is verified against the Pydantic schema using `almanac-validator`.
+2. **Indexing**: Area index pages and the global content inventory are regenerated via `almanac-indexer`.
+3. **Tree Building**: An idempotent symlink tree is constructed in `docs/` via `almanac-tree`.
 
 Content in `areas/` and `authors/` is symlinked into `docs/` at build time — the canonical files live at the repo root, not inside `docs/`. This keeps the content structure clean and the MkDocs configuration minimal.
 
@@ -95,7 +84,6 @@ This repository is an agent workspace, not just a content repository. Agents wor
 ```
 .agents/skills/almanac-content/SKILL.md  — turbo commands, axioms, standards
 memory/feelingflowingbot.md              — Flow's operational memory
-memory/edphos.md                         — Ed Phil's project memory
 meta/CONTEXT_INDEX.md                    — session-start orientation index
 meta/SPEC_LOG.md                         — architectural decisions (append-only)
 meta/TASKS.md                            — task board (E/D/C/I tracks)
@@ -103,9 +91,7 @@ meta/TASKS.md                            — task board (E/D/C/I tracks)
 
 **Graduated Discovery** — agents read `meta/CONTEXT_INDEX.md` first, then load only what the task requires. No directory scanning. No guessing. The index is the map.
 
-**Spec Log** — every significant architectural decision is recorded in `meta/SPEC_LOG.md` with its rationale and consequences. Append-only. 18 decisions to date (SPEC-001 through SPEC-018).
-
-**Skill-driven operations** — the content skill (`SKILL.md`) codifies turbo commands for all routine operations: scraping one article (T1), bulk import from queue (T2), validation (T3), test run (T4), site preview (T8). Agents don't improvise; they execute defined patterns.
+**Behavioral Proof** — The core CLI tools are backed by a **Behave BDD** suite (`lib/python/almanac/tests/features/`), ensuring that architectural contracts are enforced and verifiable through human-readable scenarios.
 
 ---
 
@@ -117,31 +103,29 @@ observatory-almanac/
 │   └── skills/almanac-content/SKILL.md  ← native agent skill
 ├── .github/workflows/deploy.yml          ← GitHub Pages CI
 ├── areas/                                ← content by subject area (26 areas)
-│   ├── science/
-│   ├── environment/
-│   ├── history/
-│   └── ...
-├── authors/                              ← author profiles (29 profiles)
+├── authors/                              ← author profiles
 ├── docs/                                 ← MkDocs source (symlinked from areas/)
 ├── guides/                               ← curated multi-article collections
-├── lib/python/almanac/                   ← validation package
-│   └── src/almanac/
-│       ├── schema.py                     ← Pydantic schema (10 document types)
-│       ├── validator.py                  ← CLI validator (exit codes 0/1/2)
-│       ├── index.py                      ← inventory generator
-│       └── parsing.py                    ← canonical frontmatter extractor
+├── lib/python/almanac/                   ← modular almanac package
+│   ├── src/almanac/
+│   │   ├── cli.py                        ← unified entry point (validate/index/tree)
+│   │   ├── schema.py                     ← Pydantic models (10 document types)
+│   │   ├── validator.py                  ← logic layer for content validation
+│   │   ├── io.py                         ← isolated filesystem operations
+│   │   ├── rendering.py                  ← pure Markdown rendering logic
+│   │   └── constants.py                  ← centralized regex and taxonomy
+│   └── tests/
+│       ├── features/                     ← Behave BDD CLI scenarios
+│       └── test_schema.py                ← unit tests for models
 ├── memory/
-│   ├── feelingflowingbot.md              ← Flow's project memory
-│   └── edphos.md                         ← Ed Phil's project memory
+│   └── feelingflowingbot.md              ← Flow's project memory
 ├── meta/
-│   ├── CONTEXT_INDEX.md                  ← session-start orientation (33 entries)
+│   ├── areas.yml                         ← centralized taxonomy metadata
+│   ├── CONTEXT_INDEX.md                  ← session-start orientation
 │   ├── SPEC_LOG.md                       ← architectural decisions
 │   ├── TASKS.md                          ← task board
-│   └── import-queue.yml                  ← OW article scrape queue (49 entries)
-├── scripts/
-│   ├── generate_area_indexes.py          ← area index page generator
-│   └── build_docs_tree.py               ← docs/ symlink tree builder
-├── AGENTS.md                             ← agent init protocol and infrastructure map
+│   └── import-queue.yml                  ← OW article scrape queue
+├── AGENTS.md                             ← agent protocol and infrastructure map
 ├── AREAS.md                              ← 26 canonical area slugs
 ├── mkdocs.yml                            ← MkDocs Material configuration
 ├── requirements-docs.txt                 ← Python deps for docs build
@@ -189,23 +173,24 @@ uv run --project ../../lib/python python ../../lib/python/scripts/feelingflowing
 
 ### Validate all content
 ```bash
-cd lib/python && uv run python -m almanac.validator --root ..
+cd lib/python/almanac
+uv run almanac-validator --root ../../..
 ```
 
 ### Build and preview the site locally
 ```bash
 pip install -r requirements-docs.txt
-python scripts/build_docs_tree.py
+cd lib/python/almanac
+uv run almanac-indexer --root ../../..
+uv run almanac-tree --root ../../..
 mkdocs serve
 ```
 
 ### Run tests
 ```bash
-# Almanac schema/validation tests (50)
-cd lib/python && uv run pytest -q
-
-# Scraper tests (115) — in parent workspace
-cd ../../lib/python && uv run pytest scripts/feelingflowingbot/ -q
+cd lib/python/almanac
+uv run pytest              # Unit tests
+uv run behave              # BDD behavioral tests
 ```
 
 ---

@@ -1,1 +1,0 @@
-/home/node/.openclaw/workspace/shared/observatory-almanac/areas/science/advances-in-archaeology-allow-us-to-understand-political-evolution-and-social-ch.md

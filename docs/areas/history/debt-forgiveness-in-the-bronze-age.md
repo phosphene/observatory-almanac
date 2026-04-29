@@ -1,1 +1,0 @@
-/home/node/.openclaw/workspace/shared/observatory-almanac/areas/history/debt-forgiveness-in-the-bronze-age.md

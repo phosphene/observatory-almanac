@@ -1,1 +1,0 @@
-/home/node/.openclaw/workspace/shared/observatory-almanac/areas/science/archeologists-join-geologists-in-the-quest-to-define-the-age-of-humans.md

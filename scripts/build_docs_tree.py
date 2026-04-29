@@ -87,9 +87,10 @@ def build_docs_tree(root: Path) -> None:
 
         for md in sorted(area_dir.glob("*.md")):
             link = out_dir / md.name
-            if not link.exists():
-                link.symlink_to(md.resolve())
-                total_links += 1
+            if link.is_symlink() or link.exists():
+                link.unlink()
+            link.symlink_to(md.resolve())
+            total_links += 1
 
         display = AREA_DISPLAY.get(area, area.replace("-", " ").title())
         (out_dir / ".pages").write_text(

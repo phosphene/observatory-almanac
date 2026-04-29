@@ -1,1 +1,0 @@
-/home/node/.openclaw/workspace/shared/observatory-almanac/areas/economy/obscene-wealth-is-a-social-problem.md

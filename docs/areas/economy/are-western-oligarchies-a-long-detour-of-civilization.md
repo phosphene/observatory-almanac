@@ -1,1 +1,0 @@
-/home/node/.openclaw/workspace/shared/observatory-almanac/areas/economy/are-western-oligarchies-a-long-detour-of-civilization.md

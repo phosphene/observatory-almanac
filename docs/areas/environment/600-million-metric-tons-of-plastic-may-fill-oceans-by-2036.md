@@ -1,1 +1,0 @@
-/home/node/.openclaw/workspace/shared/observatory-almanac/areas/environment/600-million-metric-tons-of-plastic-may-fill-oceans-by-2036.md

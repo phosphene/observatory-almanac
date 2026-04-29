@@ -1,1 +1,0 @@
-/home/node/.openclaw/workspace/shared/observatory-almanac/areas/science/between-life-and-death-what-near-death-experiences-reveal-about-consciousness.md

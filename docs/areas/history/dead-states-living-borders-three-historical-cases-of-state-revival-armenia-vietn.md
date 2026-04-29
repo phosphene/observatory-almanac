@@ -1,1 +1,0 @@
-/home/node/.openclaw/workspace/shared/observatory-almanac/areas/history/dead-states-living-borders-three-historical-cases-of-state-revival-armenia-vietn.md

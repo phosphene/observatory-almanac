@@ -1,1 +1,0 @@
-/home/node/.openclaw/workspace/shared/observatory-almanac/areas/science/hyperprosociality-a-compelling-theory-to-explain-a-key-trait-of-modern-humans.md

@@ -1,1 +1,0 @@
-/home/node/.openclaw/workspace/shared/observatory-almanac/areas/economy/don-t-fall-for-the-fake-minimum-wage-debate.md

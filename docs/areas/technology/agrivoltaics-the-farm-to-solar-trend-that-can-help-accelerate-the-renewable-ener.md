@@ -1,1 +1,0 @@
-/home/node/.openclaw/workspace/shared/observatory-almanac/areas/technology/agrivoltaics-the-farm-to-solar-trend-that-can-help-accelerate-the-renewable-ener.md

@@ -1,1 +1,0 @@
-/home/node/.openclaw/workspace/shared/observatory-almanac/areas/animals/chickens-are-smarter-than-you-think.md

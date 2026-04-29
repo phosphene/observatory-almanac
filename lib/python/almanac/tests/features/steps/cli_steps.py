@@ -9,6 +9,28 @@ from pathlib import Path
 from behave import given, then, when
 
 
+def _run_cli(context, cmd: str, extra_args: list[str] | None = None) -> None:
+    """Run an almanac CLI subcommand against the temp almanac root.
+
+    Args:
+        context: Behave context carrying tmp_almanac path.
+        cmd: Subcommand name (e.g. 'validate', 'index', 'tree').
+        extra_args: Additional CLI args to append.
+    """
+    args = extra_args or []
+    result = subprocess.run(
+        [
+            sys.executable,
+            "-c",
+            f"from almanac.cli import main; import sys; "
+            f"sys.exit(main(['{cmd}', '--root', '{context.tmp_almanac}'] + {args!r}))",
+        ],
+        capture_output=True,
+        text=True,
+    )
+    context.last_command = result
+
+
 @given('an area "{area}" exists')
 def step_impl(context, area):
     """Ensure an area directory exists in the mock almanac."""
@@ -34,24 +56,27 @@ def step_impl(context, path):
 
 @when("I run the validator")
 def step_impl(context):
-    """Execute the almanac-validator CLI tool."""
-    cmd = [
-        sys.executable,
-        "-m",
-        "almanac.cli",
-        "validate",  # I'll update cli.py to support subcommands if needed, or use the direct entry point
-        "--root",
-        str(context.tmp_almanac),
-    ]
-    # Actually, I named them almanac-validator etc. in pyproject.toml
-    # But for BDD I can just call the functions directly or use subprocess on the module
-    # Let's use subprocess on the module to be safe and independent
-    result = subprocess.run(
-        [sys.executable, "-c", f"from almanac.cli import validator_main; import sys; sys.exit(validator_main(['--root', '{context.tmp_almanac}']))"],
-        capture_output=True,
-        text=True,
-    )
-    context.last_command = result
+    """Execute the almanac validate CLI subcommand."""
+    _run_cli(context, "validate")
+
+
+@when('I run the indexer')
+def step_impl(context):
+    """Execute the almanac index CLI subcommand."""
+    _run_cli(context, "index")
+
+
+@when('I run the indexer with "{flags}"')
+def step_impl(context, flags):
+    """Execute the almanac index CLI subcommand with extra flags."""
+    extra = flags.split()
+    _run_cli(context, "index", extra)
+
+
+@when('I run the tree builder')
+def step_impl(context):
+    """Execute the almanac tree CLI subcommand."""
+    _run_cli(context, "tree")
 
 
 @then("the exit code should be {code:d}")
@@ -73,3 +98,26 @@ def step_impl(context, text):
 def step_impl(context, text):
     """Verify that stdout contains specific text."""
     assert text in context.last_command.stdout, f"Could not find '{text}' in stdout: {context.last_command.stdout}"
+
+
+@then('the file "{path}" should exist')
+def step_impl(context, path):
+    """Verify that a file exists in the temp almanac."""
+    target = context.tmp_almanac / path
+    assert target.exists(), f"Expected file {path} to exist, but it does not"
+
+
+@then('the file "{path}" should not exist')
+def step_impl(context, path):
+    """Verify that a file does not exist in the temp almanac."""
+    target = context.tmp_almanac / path
+    assert not target.exists(), f"Expected file {path} to not exist, but it does"
+
+
+@then('the file "{path}" should contain "{text}"')
+def step_impl(context, path, text):
+    """Verify that a file contains specific text."""
+    target = context.tmp_almanac / path
+    assert target.exists(), f"File {path} does not exist"
+    content = target.read_text(encoding="utf-8")
+    assert text in content, f"Could not find '{text}' in {path}:\n{content[:500]}"

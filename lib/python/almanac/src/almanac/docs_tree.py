@@ -52,6 +52,10 @@ def build_docs_tree(root: Path) -> None:
         if src.exists():
             create_symlink(src, root / "docs" / name)
 
+    # Symlink guides/ directory
+    if (root / "guides").exists():
+        create_symlink(root / "guides", root / "docs" / "guides")
+
     # Symlink authors/ directory
     if (root / "authors").exists():
         create_symlink(root / "authors", root / "docs" / "authors")

@@ -87,6 +87,25 @@ def tree_main(argv: list[str] | None = None) -> int:
         return 1
 
 
+def tasks_main(argv: list[str] | None = None) -> int:
+    """CLI entry point for Brittani content task board generation."""
+    from almanac.tasks import run_tasks
+
+    p = argparse.ArgumentParser(description="Generate Brittani content task board")
+    p.add_argument(
+        "--root", type=Path, default=None, help="Almanac root (auto-detected)"
+    )
+    args = p.parse_args(argv)
+
+    try:
+        root = args.root.resolve() if args.root else find_root()
+    except RuntimeError as exc:
+        print(f"Error: {exc}", file=sys.stderr)
+        return 2
+
+    return run_tasks(root)
+
+
 def main(argv: list[str] | None = None) -> int:
     """Unified entry point dispatcher."""
     if argv is None:
@@ -94,7 +113,7 @@ def main(argv: list[str] | None = None) -> int:
 
     if not argv:
         print("Usage: almanac <command> [options]")
-        print("Commands: validate, index, tree")
+        print("Commands: validate, index, tree, tasks")
         return 1
 
     cmd = argv[0]
@@ -106,6 +125,8 @@ def main(argv: list[str] | None = None) -> int:
         return indexer_main(args)
     if cmd == "tree":
         return tree_main(args)
+    if cmd == "tasks":
+        return tasks_main(args)
 
     print(f"Unknown command: {cmd}")
     return 1

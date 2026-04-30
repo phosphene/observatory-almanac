@@ -54,6 +54,29 @@ def step_impl(context, path):
     p.write_text(f"---\nname: Test Author\nslug: {slug}\n---", encoding="utf-8")
 
 
+@given("the author profile contains a link to a missing article")
+def step_impl(context):
+    """Append a broken article link to the last-created author profile.
+
+    Writes a link pointing to a path that does not exist in the almanac,
+    simulating an author profile referencing an unpublished article.
+    """
+    profile = context.tmp_almanac / "authors" / "missing-article-author.md"
+    profile.parent.mkdir(parents=True, exist_ok=True)
+    profile.write_text(
+        "---\nname: missing-article-author\nslug: missing-article-author\n---\n\n"
+        "## Articles\n\n"
+        "- [The Vanished Article](../areas/science/vanished-article.md) — Science\n",
+        encoding="utf-8",
+    )
+
+
+@when("I run the task generator")
+def step_impl(context):
+    """Execute the almanac tasks CLI subcommand."""
+    _run_cli(context, "tasks")
+
+
 @when("I run the validator")
 def step_impl(context):
     """Execute the almanac validate CLI subcommand."""
@@ -121,6 +144,17 @@ def step_impl(context, path, text):
     assert target.exists(), f"File {path} does not exist"
     content = target.read_text(encoding="utf-8")
     assert text in content, f"Could not find '{text}' in {path}:\n{content[:500]}"
+
+
+@then('the file "{path}" should not contain "{text}"')
+def step_impl(context, path, text):
+    """Verify that a file does not contain specific text."""
+    target = context.tmp_almanac / path
+    assert target.exists(), f"File {path} does not exist"
+    content = target.read_text(encoding="utf-8")
+    assert text not in content, (
+        f"Expected '{text}' to be absent from {path}, but it was found"
+    )
 
 
 @then('the stdout should not contain "{text}"')

@@ -257,3 +257,28 @@ Pydantic models: `lib/python/almanac/src/almanac/schema.py`
 | `lib/python/almanac/` | Pydantic schema + validator + index generator |
 | `meta/areas.yml` | Centralized taxonomy metadata (display, desc, icons) |
 | `.github/workflows/deploy.yml` | GitHub Pages CI pipeline |
+
+---
+
+## Credentials
+
+### GitHub PAT (observatory-almanac repo)
+
+- **Location:** `~/.openclaw/.env`
+- **Key:** `GITHUB_PAT_OBSERVATORY`
+- **Permissions:** admin + push on `phosphene/observatory-almanac`
+- **Permissions set:** `chmod 600`
+- **Compliance:** Stored in OC's official env file (per `docs/gateway/configuration.md`). Not in `openclaw.json`. Not in the workspace. Never committed to git.
+
+To use in scripts:
+```python
+import os
+pat = os.environ.get("GITHUB_PAT_OBSERVATORY")
+```
+
+To use in git push (if SSH key unavailable):
+```bash
+git remote set-url origin https://x-access-token:$GITHUB_PAT_OBSERVATORY@github.com/phosphene/observatory-almanac.git
+```
+
+**Note:** Git pushes currently use the SSH deploy key (`~/.ssh/observatory_almanac_deploy`), which works without the PAT. The PAT is available for GitHub API calls (creating PRs, querying repo metadata, etc.).

@@ -15,6 +15,7 @@ def collect_content_files(root: Path) -> list[Path]:
 
     Includes ``areas/``, ``guides/``, and ``authors/`` directories.
     Excludes ``meta/``, ``lib/``, ``scripts/``, and ``docs/``.
+    Excludes auto-generated ``index.md`` nav pages inside ``areas/``.
 
     Args:
         root: Almanac repository root.
@@ -26,7 +27,9 @@ def collect_content_files(root: Path) -> list[Path]:
     for subdir in ("areas", "guides", "authors"):
         d = root / subdir
         if d.exists():
-            paths.extend(sorted(d.rglob("*.md")))
+            paths.extend(
+                p for p in sorted(d.rglob("*.md")) if p.name != "index.md"
+            )
     return paths
 
 

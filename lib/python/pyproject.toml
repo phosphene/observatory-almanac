@@ -1,0 +1,46 @@
+[project]
+name = "observatory-almanac-workspace"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+[tool.uv.workspace]
+members = ["almanac"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "ANN", "RUF"]
+ignore = ["ANN101", "ANN102"]
+
+[tool.ruff.lint.per-file-ignores]
+"almanac/tests/**/*.py" = ["E501", "RUF001", "ANN"]
+"scripts/**/*.py" = ["E501", "RUF002", "ANN"]
+"almanac/src/almanac/index.py" = ["E501"]
+"almanac/src/almanac/validator.py" = ["E501"]
+"almanac/src/almanac/schema.py" = ["E501"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["almanac"]
+
+[tool.pytest.ini_options]
+testpaths = ["almanac/tests"]
+addopts = "--tb=short -q"
+
+[tool.coverage.run]
+source = ["almanac"]
+omit = ["*/tests/*", "*/__pycache__/*"]
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = false
+
+[dependency-groups]
+dev = [
+    "pydantic>=2.13.3",
+    "pytest>=9.0.3",
+    "pytest-cov>=7.1.0",
+    "pyyaml>=6.0.3",
+    "ruamel-yaml>=0.19.1",
+]

@@ -1,1 +1,1 @@
-/Users/edphillips/projects/new/observatory-almanac/SCHEMA.md
+/home/node/.openclaw/workspace/shared/observatory-almanac/SCHEMA.md

@@ -96,10 +96,6 @@ def validate_author_refs(root: Path) -> list[Violation]:
 def run_validation(root: Path, verbose: bool = False) -> int:
     """Run validation across the full content tree."""
     files = collect_content_files(root)
-    if not files:
-        print("No content files found. Check repository root.", file=sys.stderr)
-        return 2
-
     all_violations: list[Violation] = []
     for f in files:
         v = validate_document(f, root)

@@ -292,7 +292,12 @@ class TestRunValidation:
         code = run_validation(almanac_root)
         assert code == 1
 
-    def test_empty_tree_returns_two(self, almanac_root: Path) -> None:
-        """A tree with no content files returns exit code 2."""
+    def test_empty_tree_returns_zero(self, almanac_root: Path) -> None:
+        """An empty content tree (no articles, only nav pages) is valid and returns 0.
+
+        An area with only auto-generated index.md files is a legitimate state
+        (e.g. a newly created area with no articles yet). The validator must
+        not treat this as misconfiguration.
+        """
         code = run_validation(almanac_root)
-        assert code == 2
+        assert code == 0

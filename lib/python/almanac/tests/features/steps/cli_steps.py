@@ -121,3 +121,21 @@ def step_impl(context, path, text):
     assert target.exists(), f"File {path} does not exist"
     content = target.read_text(encoding="utf-8")
     assert text in content, f"Could not find '{text}' in {path}:\n{content[:500]}"
+
+
+@then('the stdout should not contain "{text}"')
+def step_impl(context, text):
+    """Verify that stdout does not contain specific text."""
+    assert text not in context.last_command.stdout, (
+        f"Expected '{text}' to be absent from stdout, but it was found:\n"
+        f"{context.last_command.stdout[:500]}"
+    )
+
+
+@then('the stderr should not contain "{text}"')
+def step_impl(context, text):
+    """Verify that stderr does not contain specific text."""
+    assert text not in context.last_command.stderr, (
+        f"Expected '{text}' to be absent from stderr, but it was found:\n"
+        f"{context.last_command.stderr[:500]}"
+    )

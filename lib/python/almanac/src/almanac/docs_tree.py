@@ -60,6 +60,10 @@ def build_docs_tree(root: Path) -> None:
     if (root / "authors").exists():
         create_symlink(root / "authors", root / "docs" / "authors")
 
+    # Symlink team/ directory (design doc, status, planning)
+    if (root / "team").exists():
+        create_symlink(root / "team", root / "docs" / "team")
+
     # Ensure tags placeholder exists
     tags_md = root / "docs" / "tags.md"
     if not tags_md.exists():

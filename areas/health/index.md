@@ -11,6 +11,9 @@ Emergency response, movement practices, meditation, and life navigation.
 
 ## Subareas
 
+- **Emergency Response** · first aid, crisis preparedness, and disaster medicine
+- **Yoga** · poses, sequences, breathwork, and philosophy
+- **Meditation** · mindfulness, guided practices, and contemplative traditions
 - **Folk Remedies** · traditional herbal medicine, home treatments, and cultural healing practices
 
 *4 documents*

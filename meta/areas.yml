@@ -47,6 +47,12 @@ areas:
     display: "Health"
     description: "Emergency response, movement practices, meditation, and life navigation."
     subareas:
+      - name: "Emergency Response"
+        description: "first aid, crisis preparedness, and disaster medicine"
+      - name: "Yoga"
+        description: "poses, sequences, breathwork, and philosophy"
+      - name: "Meditation"
+        description: "mindfulness, guided practices, and contemplative traditions"
       - name: "Folk Remedies"
         description: "traditional herbal medicine, home treatments, and cultural healing practices"
   history:

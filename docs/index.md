@@ -1,6 +1,6 @@
 ---
 title: Observatory Almanac
-description: Expert-authored knowledge across 26 subject areas — science, history, environment, philosophy, cooking, health, and more.
+description: Expert-authored knowledge across 16 subject areas — science, history, environment, philosophy, food, health, and more.
 hide:
   - navigation
   - toc
@@ -10,7 +10,7 @@ hide:
 
 <div class="almanac-hero" markdown>
 
-**Expert knowledge across 26 areas.** Every document is structured, versioned, and machine-readable. Content from [Observatory.wiki](https://observatory.wiki) and the broader Almanac library.
+**Expert knowledge across 16 areas.** Every document is structured, versioned, and machine-readable. Content from [Observatory.wiki](https://observatory.wiki) and the broader Almanac library.
 
 </div>
 
@@ -32,7 +32,7 @@ hide:
 
 **[Food](areas/cooking/index.md)** · world cuisines, food policy, food preservation, emergency food guide
 
-**[Health](areas/health/index.md)** · emergency response, yoga, meditation, navigators
+**[Health](areas/health/index.md)** · emergency response, yoga, meditation, folk remedies
 
 **[History](areas/history/index.md)** · bronze age, deep time, ancient civilizations
 

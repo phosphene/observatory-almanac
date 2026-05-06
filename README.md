@@ -2,7 +2,7 @@
 
 A structured, git-native knowledge repository built on [Observatory.wiki](https://observatory.wiki) — the expert-driven guide to the world produced by the [Independent Media Institute](https://ind.media).
 
-**Live site:** [ind-media.github.io/observatory-almanac](https://ind-media.github.io/observatory-almanac)
+**Live site:** [phosphene.github.io/observatory-almanac](https://phosphene.github.io/observatory-almanac)
 
 ---
 

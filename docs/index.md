@@ -26,11 +26,11 @@ hide:
 
 **[Arts & Recreation](areas/arts-recreation/index.md)** · 17 game rulebooks, music, film, storytelling
 
-**[Food](areas/cooking/index.md)** · world cuisines, food policy, food preservation, emergency food guide
-
 **[Economy](areas/economy/index.md)** · inequality, labor, debt, political economy
 
 **[Environment](areas/environment/index.md)** · climate, biodiversity, field guides, oceans
+
+**[Food](areas/cooking/index.md)** · world cuisines, food policy, food preservation, emergency food guide
 
 **[Health](areas/health/index.md)** · emergency response, yoga, meditation, navigators
 

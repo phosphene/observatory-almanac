@@ -36,7 +36,7 @@ VALID_AREAS = frozenset(
         "education",
         "energy",
         "environment",
-        "food",
+        # "food" retired 2026-05-06 — merged into "cooking" (displayed as "Food")
         "health",
         "history",
         "human-bridges",

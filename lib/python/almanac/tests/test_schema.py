@@ -247,8 +247,12 @@ class TestConstants:
     """Verify canonical constants are self-consistent."""
 
     def test_valid_areas_non_empty(self) -> None:
-        """VALID_AREAS contains at least the 26 canonical areas."""
-        assert len(VALID_AREAS) >= 26
+        """VALID_AREAS contains at least the 25 canonical areas.
+
+        Note: `food` was retired 2026-05-06 and merged into `cooking`
+        (displayed as "Food"). Count reduced from 26 to 25.
+        """
+        assert len(VALID_AREAS) >= 25
 
     def test_science_in_valid_areas(self) -> None:
         """'science' is a valid area."""

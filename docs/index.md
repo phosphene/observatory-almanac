@@ -26,7 +26,7 @@ hide:
 
 **[Arts & Recreation](areas/arts-recreation/index.md)** · 17 game rulebooks, music, film, storytelling
 
-**[Cooking](areas/cooking/index.md)** · 23 world cuisines, wine, cheese, sensory training
+**[Food](areas/cooking/index.md)** · world cuisines, food policy, food preservation, emergency food guide
 
 **[Economy](areas/economy/index.md)** · inequality, labor, debt, political economy
 

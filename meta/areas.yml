@@ -15,8 +15,8 @@ areas:
     display: "Charter Schools"
     description: "Charter school policy, research, and alternatives."
   cooking:
-    display: "Cooking"
-    description: "World cuisines, wine and cheese guides, and sensory education."
+    display: "Food"
+    description: "World cuisines, food policy, nutrition science, food preservation, and emergency food guides."
   dig-labs:
     display: "Dig Labs"
     description: "Deep investigative pieces on contested and underexplored topics."
@@ -32,9 +32,7 @@ areas:
   environment:
     display: "Environment"
     description: "Climate change, biodiversity, field guides, oceans, and ecosystems."
-  food:
-    display: "Food"
-    description: "Food policy, nutrition science, and cultural food studies."
+  # food slug retired 2026-05-06 — merged into cooking (display: "Food")
   health:
     display: "Health"
     description: "Emergency response, movement practices, meditation, and life navigation."

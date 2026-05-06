@@ -8,13 +8,13 @@ The Observatory organises all content into 26 subject areas. Each area has a can
 | Animals | `animals` | `areas/animals/` |
 | Arts and Recreation | `arts-recreation` | `areas/arts-recreation/` |
 | Charter Schools | `charter-schools` | `areas/charter-schools/` |
-| Cooking | `cooking` | `areas/cooking/` |
+| Food | `cooking` | `areas/cooking/` |
 | Dig Labs | `dig-labs` | `areas/dig-labs/` |
 | Economy | `economy` | `areas/economy/` |
 | Education | `education` | `areas/education/` |
 | Energy | `energy` | `areas/energy/` |
 | Environment | `environment` | `areas/environment/` |
-| Food | `food` | `areas/food/` |
+| ~~Food~~ | ~~`food`~~ | merged into `cooking` 2026-05-06 |
 | Health | `health` | `areas/health/` |
 | History | `history` | `areas/history/` |
 | Human Bridges | `human-bridges` | `areas/human-bridges/` |

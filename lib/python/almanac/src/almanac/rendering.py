@@ -50,6 +50,7 @@ def render_area_index(
     description: str,
     entries_by_type: dict[str, list[dict[str, Any]]],
     type_icons: dict[str, str],
+    subareas: list[dict[str, str]] | None = None,
 ) -> str:
     """Render the index.md content for an area.
 
@@ -59,6 +60,9 @@ def render_area_index(
         description: Area description.
         entries_by_type: Map of document type to list of entry dicts.
         type_icons: Map of document type to emoji icons.
+        subareas: Optional list of subarea dicts with 'name' and 'description'
+            keys. When provided, a '## Subareas' section is rendered after the
+            description and before the document listings.
 
     Returns:
         Markdown-formatted string.
@@ -68,8 +72,20 @@ def render_area_index(
         f"---\ntitle: {display_name}\narea: {area}\nhide:\n  - toc\n---\n",
         f"# {display_name}\n",
         f"{description}\n",
-        f"*{total_docs} documents*\n",
     ]
+
+    if subareas:
+        lines.append("## Subareas\n")
+        for sub in subareas:
+            name = sub.get("name", "")
+            desc = sub.get("description", "")
+            if desc:
+                lines.append(f"- **{name}** · {desc}")
+            else:
+                lines.append(f"- **{name}**")
+        lines.append("")
+
+    lines.append(f"*{total_docs} documents*\n")
 
     for doc_type in sorted(entries_by_type):
         entries = entries_by_type[doc_type]

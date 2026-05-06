@@ -77,6 +77,7 @@ def run(root: Path, dry_run: bool = False) -> None:
             "description", f"Content in the {display_name} area."
         )
 
+        subareas = meta.get("subareas") or []
         entries_by_type = build_area_data(area_dir)
         content = render_area_index(
             area=area,
@@ -84,6 +85,7 @@ def run(root: Path, dry_run: bool = False) -> None:
             description=description,
             entries_by_type=entries_by_type,
             type_icons=type_icons,
+            subareas=subareas,
         )
 
         out_path = area_dir / "index.md"

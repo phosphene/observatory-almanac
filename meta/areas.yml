@@ -5,6 +5,11 @@ areas:
   agriculture:
     display: "Agriculture"
     description: "Sustainable farming, soil science, and food systems."
+    subareas:
+      - name: "Gardening"
+        description: "home and community growing, soil health, plant care"
+      - name: "Seasonal Planting"
+        description: "planting calendars, crop rotation, climate-adapted growing"
   animals:
     display: "Animals"
     description: "Animal cognition, welfare, ecology, and human–animal relationships."
@@ -17,6 +22,11 @@ areas:
   cooking:
     display: "Food"
     description: "World cuisines, food policy, nutrition science, food preservation, and emergency food guides."
+    subareas:
+      - name: "Food Preservation"
+        description: "canning, fermentation, drying, and long-term storage techniques"
+      - name: "Emergency Food Guide"
+        description: "preparedness, shelf-stable nutrition, and crisis cooking"
   dig-labs:
     display: "Dig Labs"
     description: "Deep investigative pieces on contested and underexplored topics."
@@ -36,6 +46,9 @@ areas:
   health:
     display: "Health"
     description: "Emergency response, movement practices, meditation, and life navigation."
+    subareas:
+      - name: "Folk Remedies"
+        description: "traditional herbal medicine, home treatments, and cultural healing practices"
   history:
     display: "History"
     description: "Ancient civilizations, deep time, archaeological discovery, and calendars."

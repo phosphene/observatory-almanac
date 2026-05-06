@@ -9,6 +9,10 @@ hide:
 
 Emergency response, movement practices, meditation, and life navigation.
 
+## Subareas
+
+- **Folk Remedies** · traditional herbal medicine, home treatments, and cultural healing practices
+
 *4 documents*
 
 

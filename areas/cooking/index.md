@@ -7,7 +7,7 @@ hide:
 
 # Food
 
-World cuisines, food policy, nutrition science, and cultural food studies.
+World cuisines, food policy, nutrition science, food preservation, and emergency food guides.
 
 ## Subareas
 

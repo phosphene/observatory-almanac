@@ -188,3 +188,12 @@ Append-only architectural decision register. Format: `[SPEC-NNN]` sequential ID,
 - If checks fail: leave branch open, notify Ed Phil in Research Stable.
 - If no changes were made that day: delete the branch silently, no PR.
 **Status:** Active.
+
+---
+
+## SPEC-020 — Post-deploy verification job in CI pipeline
+**Date:** 2026-05-06
+**Decision:** A `verify` job runs after every successful GitHub Pages deploy. It checks: (1) homepage returns 200 and contains expected content; (2) every `areas/<slug>/` URL returns 200 (discovered dynamically from the repo); (3) SCHEMA page returns 200. Any failure fails the workflow and surfaces in GitHub Actions.
+**Rationale:** The deploy pipeline was silently broken from inception — `scripts/generate_area_indexes.py` and `scripts/build_docs_tree.py` were referenced in the workflow but never existed. The site served stale cached content with no indication of failure. A post-deploy check closes this blind spot: if the site doesn't serve what was committed, the workflow fails.
+**Consequences:** Deploy pipeline is now 3 jobs: `build → deploy → verify`. A CDN propagation delay (30s sleep) precedes the checks. Failed area pages are enumerated explicitly in the log. Area discovery is automatic from the `areas/` directory — no manual updates needed when new areas are added.
+**Status:** Active.

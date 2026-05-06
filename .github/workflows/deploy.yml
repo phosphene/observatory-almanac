@@ -83,3 +83,56 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  verify:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for CDN propagation
+        # GitHub Pages can take 15-30s to serve fresh content after deploy.
+        run: sleep 30
+
+      - name: Checkout (for area list)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Verify homepage loads and contains expected content
+        run: |
+          echo "Checking homepage..."
+          BODY=$(curl -sf --max-time 15 "https://phosphene.github.io/observatory-almanac/")
+          echo "$BODY" | grep -q "Observatory Almanac" || (echo "FAIL: homepage missing title" && exit 1)
+          echo "$BODY" | grep -q "areas" || (echo "FAIL: homepage missing areas section" && exit 1)
+          echo "✓ Homepage OK"
+
+      - name: Verify all deployed area pages return 200
+        # Discovers area slugs from the areas/ directory in the repo,
+        # then checks each live URL. Fails the workflow if any area 404s.
+        run: |
+          SITE="https://phosphene.github.io/observatory-almanac"
+          FAILED=0
+          for dir in areas/*/; do
+            area=$(basename "$dir")
+            URL="$SITE/areas/$area/"
+            STATUS=$(curl -o /dev/null -s -w "%{http_code}" --max-time 15 "$URL")
+            if [ "$STATUS" = "200" ]; then
+              echo "✓ $area ($STATUS)"
+            else
+              echo "✗ FAIL: $area returned HTTP $STATUS — $URL"
+              FAILED=1
+            fi
+          done
+          if [ $FAILED -ne 0 ]; then
+            echo ""
+            echo "One or more area pages failed the post-deploy check."
+            exit 1
+          fi
+          echo ""
+          echo "All area pages verified."
+
+      - name: Verify SCHEMA page loads
+        run: |
+          STATUS=$(curl -o /dev/null -s -w "%{http_code}" --max-time 15 \
+            "https://phosphene.github.io/observatory-almanac/SCHEMA/")
+          [ "$STATUS" = "200" ] || (echo "FAIL: SCHEMA page returned $STATUS" && exit 1)
+          echo "✓ SCHEMA page OK"

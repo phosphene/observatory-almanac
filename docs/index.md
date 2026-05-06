@@ -20,6 +20,8 @@ hide:
 
 <div class="area-grid" markdown>
 
+**[Agriculture](areas/agriculture/index.md)** · gardening, seasonal planting
+
 **[Animals](areas/animals/index.md)** · cognition, welfare, ecology
 
 **[Arts & Recreation](areas/arts-recreation/index.md)** · 17 game rulebooks, music, film, storytelling

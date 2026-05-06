@@ -46,14 +46,14 @@ jobs:
           pip install -e lib/python/almanac
 
       - name: Generate area indexes
-        # Writes docs/areas/<area>/index.md for each area directory.
+        # Writes areas/<area>/index.md for each area directory.
         # Must run before MkDocs build so nav pages are present.
-        run: python scripts/generate_area_indexes.py
+        run: almanac-indexer --root .
 
       - name: Build docs symlink tree
         # Rebuilds docs/areas/<area>/ symlinks and .pages nav files.
         # Required after any area content changes.
-        run: python scripts/build_docs_tree.py
+        run: almanac-tree --root .
 
       - name: Validate content
         # Run validator and emit a YAML violation report to stdout.

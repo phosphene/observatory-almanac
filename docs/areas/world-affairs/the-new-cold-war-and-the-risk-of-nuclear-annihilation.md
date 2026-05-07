@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/world-affairs/the-new-cold-war-and-the-risk-of-nuclear-annihilation.md

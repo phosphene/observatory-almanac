@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/science/bees-are-sentient-and-may-be-self-aware.md

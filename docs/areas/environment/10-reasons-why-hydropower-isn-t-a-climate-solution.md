@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/environment/10-reasons-why-hydropower-isn-t-a-climate-solution.md

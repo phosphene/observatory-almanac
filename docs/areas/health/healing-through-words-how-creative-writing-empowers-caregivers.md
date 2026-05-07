@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/health/healing-through-words-how-creative-writing-empowers-caregivers.md

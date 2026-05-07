@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/language/necropolitics-and-the-language-of-death-how-military-talk-turns-recruits-into-ki.md

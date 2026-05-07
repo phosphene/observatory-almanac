@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/philosophy/the-philosophy-of-fichte-in-its-relation-to-pragmatism.md

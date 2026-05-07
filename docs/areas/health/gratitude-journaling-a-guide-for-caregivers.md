@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/health/gratitude-journaling-a-guide-for-caregivers.md

@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/animals/captive-elephants-the-harsh-reality.md

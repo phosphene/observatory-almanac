@@ -54,7 +54,7 @@ plugins:
       lang: en
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])'
   - tags: {}
-  - awesome-pages
+  # - awesome-pages  # disabled: explicit nav in mkdocs.yml
   # git-revision-date-localized: shows "last updated" dates on pages.
   # fallback_to_build_date: true is REQUIRED — GitHub Actions performs a
   # shallow clone (fetch-depth: 0 is set in deploy.yml to work around this,
@@ -96,6 +96,270 @@ markdown_extensions:
       permalink: true
       permalink_title: Link to this section
       toc_depth: 3
+
+# ---------------------------------------------------------------------------
+# Navigation
+# ---------------------------------------------------------------------------
+nav:
+  - Home: index.md
+  - Tags: tags.md
+  - 🎲 Arts & Recreation:
+    - "Overview": areas/arts-recreation/index.md
+    - 🎬 Cultural Pulse:
+      - "Greatest Albums of All Time": areas/arts-recreation/culture/greatest-albums.md
+      - "Greatest Books of All Time": areas/arts-recreation/culture/greatest-books.md
+      - "Greatest Films of All Time": areas/arts-recreation/culture/greatest-films.md
+      - "Release Radar  Technical Design Specification": areas/arts-recreation/culture/release-radar-spec.md
+    - 🎯 Games:
+      - "Backgammon": areas/arts-recreation/games/backgammon.md
+      - "Billiards": areas/arts-recreation/games/billiards.md
+      - "Bocce and Ptanque": areas/arts-recreation/games/bocce.md
+      - "Contract Bridge": areas/arts-recreation/games/bridge.md
+      - "Chess": areas/arts-recreation/games/chess.md
+      - "Cribbage": areas/arts-recreation/games/cribbage.md
+      - "Darts": areas/arts-recreation/games/darts.md
+      - "Go ( /  / )": areas/arts-recreation/games/go.md
+      - "Hearts": areas/arts-recreation/games/hearts.md
+      - "Lawn Games": areas/arts-recreation/games/lawn-games.md
+      - "The Ludology Lab  Interactive Puzzles & Games": areas/arts-recreation/games/ludology-lab.md
+      - "Mancala": areas/arts-recreation/games/mancala.md
+      - "Poker: Omaha": areas/arts-recreation/games/poker-omaha.md
+      - "Poker: Texas Hold'em": areas/arts-recreation/games/poker-texas-holdem.md
+      - "Rummy Family": areas/arts-recreation/games/rummy.md
+      - "Shogi ()": areas/arts-recreation/games/shogi.md
+      - "Spades": areas/arts-recreation/games/spades.md
+    - 🎵 Music & Performance:
+      - "Guitar & Ukulele Reference Guide": areas/arts-recreation/music/guitar-ukulele.md
+      - "Music Theory: The Grammar of Sound": areas/arts-recreation/music/music-theory.md
+      - "Public Speaking: Thinking, Structure, and Delivery": areas/arts-recreation/music/public-speaking.md
+      - "The Art of Storytelling": areas/arts-recreation/music/storytelling.md
+  - 🍳 Food:
+    - "Overview": areas/cooking/index.md
+    - 🍷 Connoisseur's Cabinet:
+      - "The Connoisseur's Guide to Fine Cheese": areas/cooking/connoisseur/cheese-guide.md
+      - "The Connoisseur's Guide to Fine Cigars": areas/cooking/connoisseur/cigar-guide.md
+      - "Training the Palate: A Guide to Sensory Education": areas/cooking/connoisseur/sensory-training.md
+      - "The Connoisseur's Wine Guide: A Complete Reference": areas/cooking/connoisseur/wine-guide.md
+    - 🍲 World Recipes:
+      - "African Recipes": areas/cooking/recipes/recipes-africa.md
+      - "Americas Recipes": areas/cooking/recipes/recipes-americas.md
+      - "Recipes  Ancestral & Primal Food Traditions": areas/cooking/recipes/recipes-ancestral.md
+      - "East Asian Recipes": areas/cooking/recipes/recipes-east-asia.md
+      - "European Recipes": areas/cooking/recipes/recipes-europe.md
+      - "Mediterranean Recipes": areas/cooking/recipes/recipes-mediterranean.md
+      - "Middle Eastern Recipes": areas/cooking/recipes/recipes-middle-east.md
+      - "Recipes: Oceania & Caribbean": areas/cooking/recipes/recipes-oceania-caribbean.md
+      - "Seasonal Recipes & Preservation Guide": areas/cooking/recipes/recipes-seasonal.md
+      - "South Asian Recipes": areas/cooking/recipes/recipes-south-asia.md
+      - Expanded:
+        - "American BBQ, Southern & Classic Recipes": areas/cooking/recipes/expanded/american-bbq-southern.md
+        - "Baking & Desserts  Global Recipe Collection": areas/cooking/recipes/expanded/baking-desserts-global.md
+        - "Chinese Recipes  Complete Regional Collection": areas/cooking/recipes/expanded/chinese-complete.md
+        - "French Recipes  Complete Collection": areas/cooking/recipes/expanded/french-complete.md
+        - "German, British & Nordic Recipes": areas/cooking/recipes/expanded/german-british-nordic.md
+        - "Greek, Ethiopian & Caribbean Recipes": areas/cooking/recipes/expanded/greek-ethiopian-caribbean.md
+        - "Indian Recipes  Complete Regional Collection": areas/cooking/recipes/expanded/indian-complete.md
+        - "Italian Complete Recipe Collection": areas/cooking/recipes/expanded/italian-complete.md
+        - "Japanese & Korean Recipes": areas/cooking/recipes/expanded/japanese-korean.md
+        - "Mexican Complete Recipe Collection": areas/cooking/recipes/expanded/mexican-complete.md
+        - "Middle East & North Africa Recipes": areas/cooking/recipes/expanded/middle-east-north-africa.md
+        - "Spanish & Latin American Complete Recipe Collection": areas/cooking/recipes/expanded/spanish-latin-complete.md
+        - "Southeast Asian Recipes": areas/cooking/recipes/expanded/thai-vietnamese-se-asia.md
+  - 🌊 Environment:
+    - "Overview": areas/environment/index.md
+    - "10 Reasons Why Hydropower Isn’t a Climate Solution": areas/environment/10-reasons-why-hydropower-isn-t-a-climate-solution.md
+    - "600 Million Metric Tons of Plastic May Fill Oceans by 2036": areas/environment/600-million-metric-tons-of-plastic-may-fill-oceans-by-2036.md
+    - "Afro-Descendant Communities Offer a Living Blueprint for Amazon Conservation": areas/environment/afro-descendant-communities-offer-a-living-blueprint-for-amazon-conservation.md
+    - "Air Pollution Is Killing Millions and Rising Exponentially—A Shift in Agriculture Can Solve It": areas/environment/air-pollution-is-killing-millions-and-rising-exponentially-a-shift-in-agricultur.md
+    - "Carbon Capture Is a Potential Weapon Against Climate Change": areas/environment/carbon-capture-is-a-potential-weapon-against-climate-change.md
+    - "Carbon Farming: A Sustainable Agriculture Technique That Keeps Soil Healthy and Combats Climate Change": areas/environment/carbon-farming-a-sustainable-agriculture-technique-that-keeps-soil-healthy-and-c.md
+    - "How Land Use Is a Tool for Solving Climate Change": areas/environment/how-land-use-is-a-tool-for-solving-climate-change.md
+    - 🌿 Field Guides:
+      - "Birds of the World: Field Guide": areas/environment/field-guides/birds.md
+      - "Garden Pests Field Guide": areas/environment/field-guides/garden-pests.md
+      - "Pet First Aid": areas/environment/field-guides/pet-first-aid.md
+      - "Trees of the World: Field Guide": areas/environment/field-guides/trees.md
+    - 🌤️ Field Science:
+      - "The Fishing & Surf Almanac": areas/environment/field-science/fishing-surf-almanac.md
+      - "Soil & Sun: The Living Foundation": areas/environment/field-science/soil-and-sun.md
+      - "The Tidal Clock: Precision Understanding of the Ocean's R...": areas/environment/field-science/tidal-clock.md
+      - "Weather & Climatology: Understanding the Atmosphere": areas/environment/field-science/weather-climatology.md
+  - 💚 Health:
+    - "Overview": areas/health/index.md
+    - "A National Asbestos-Exposure Registry of Veterans Could Combat Misdiagnosis in Mesothelioma Cases Nationwide": areas/health/a-national-asbestos-exposure-registry-of-veterans-could-combat-misdiagnosis-in-m.md
+    - "Gratitude Journaling: A Guide for Caregivers": areas/health/gratitude-journaling-a-guide-for-caregivers.md
+    - "Healing Through Words: How Creative Writing Empowers Caregivers": areas/health/healing-through-words-how-creative-writing-empowers-caregivers.md
+    - "When Poverty Makes You Sick: The Hidden Cost of Neglecting Youth Health": areas/health/when-poverty-makes-you-sick-the-hidden-cost-of-neglecting-youth-health.md
+    - 🚑 Emergency Response:
+      - "CPR & First Aid Reference": areas/health/emergency/cpr-first-aid.md
+      - "Disaster Response Reference": areas/health/emergency/disaster-response.md
+      - "Emergency Numbers & Contact Reference": areas/health/emergency/emergency-numbers.md
+    - 🧘 Body & Movement:
+      - "Breathing Techniques": areas/health/movement/breathing-techniques.md
+      - "Meditation Guide": areas/health/movement/meditation-guide.md
+      - "Stretching Routines": areas/health/movement/stretching-routines.md
+      - "Yoga Basics: Foundations and Flows": areas/health/movement/yoga-basics.md
+  - 🕰️ History:
+    - "Overview": areas/history/index.md
+    - "Archaeology Can Now Tell Us How People Have Muffled and Challenged Economic Inequality Across History": areas/history/archaeology-can-now-tell-us-how-people-have-muffled-and-challenged-economic-ineq.md
+    - "Archaeology Is Flipping the Script on What We Know About Ancient Mesoamerica": areas/history/archaeology-is-flipping-the-script-on-what-we-know-about-ancient-mesoamerica.md
+    - "Coins and Temples in the Ancient World": areas/history/coins-and-temples-in-the-ancient-world.md
+    - "Dead States, Living Borders: Three Historical Cases of ‘State Revival’: Armenia, Vietnam, and Poland": areas/history/dead-states-living-borders-three-historical-cases-of-state-revival-armenia-vietn.md
+    - "Debt Forgiveness in the Bronze Age": areas/history/debt-forgiveness-in-the-bronze-age.md
+    - ⏳ Deep Time:
+      - "Deep Time: A Narrative Timeline of Human Evolution": areas/history/deep-time/deep-time-timeline.md
+  - 🗣️ Language:
+    - "Overview": areas/language/index.md
+    - "Codes, Alphabets, and Alternative Communication Systems": areas/language/codes-alphabets.md
+    - "How a 19th-Century Universal Language Tried to Unite the World": areas/language/how-a-19th-century-universal-language-tried-to-unite-the-world.md
+    - "How Accent Discrimination Reinforces America’s Deepest Divides": areas/language/how-accent-discrimination-reinforces-america-s-deepest-divides.md
+    - "How Losing Nature From Our Language Shapes Our World": areas/language/how-losing-nature-from-our-language-shapes-our-world.md
+    - "Untranslatable Idioms: 100 Phrases the World Invented Tha...": areas/language/idioms-untranslatable.md
+    - "Necropolitics and the Language of Death: How Military Talk Turns Recruits Into Killers": areas/language/necropolitics-and-the-language-of-death-how-military-talk-turns-recruits-into-ki.md
+    - "Sign Language: ASL, BSL, and Visual Communication": areas/language/sign-language.md
+    - "Survival Phrases in 30 Languages": areas/language/survival-phrases.md
+    - "Writing and Critical Thinking: How Words Shape the Mind": areas/language/writing-and-critical-thinking-how-words-shape-the-mind.md
+  - 🏛️ Local Peace Economy:
+    - "Overview": areas/local-peace-economy/index.md
+    - 📄 Documents & Templates:
+      - "Legal Form Guides": areas/local-peace-economy/documents/legal-form-guides.md
+      - "Letter Templates": areas/local-peace-economy/documents/letter-templates.md
+      - "Robert's Rules of Order  For Regular People": areas/local-peace-economy/documents/roberts-rules.md
+      - "Speeches & Toasts": areas/local-peace-economy/documents/speeches-toasts.md
+    - 🧭 Life Navigator:
+      - "Career Navigator": areas/local-peace-economy/navigator/career-navigator.md
+      - "The Contractual Guardian": areas/local-peace-economy/navigator/contractual-guardian.md
+      - "Digital Navigator": areas/local-peace-economy/navigator/digital-navigator.md
+      - "Financial Navigator": areas/local-peace-economy/navigator/financial-navigator.md
+      - "Health Navigator": areas/local-peace-economy/navigator/health-navigator.md
+      - "The Wise Men Stats": areas/local-peace-economy/navigator/observatory-index.md
+      - "Urban Survivalist": areas/local-peace-economy/navigator/urban-survivalist.md
+  - 🔮 Philosophy:
+    - "Overview": areas/philosophy/index.md
+    - "How Ancient Greek and Roman Philosophers Understood Time, Rebirth, and Recurrence": areas/philosophy/how-ancient-greek-and-roman-philosophers-understood-time-rebirth-and-recurrence.md
+    - "How Consciousness Shapes Culture, Communication, and Shared Meaning": areas/philosophy/how-consciousness-shapes-culture-communication-and-shared-meaning.md
+    - "The Philosophy of Fichte in Its Relation to Pragmatism": areas/philosophy/the-philosophy-of-fichte-in-its-relation-to-pragmatism.md
+    - "The Wider Benefits of Choosing Life Off the Grid": areas/philosophy/the-wider-benefits-of-choosing-life-off-the-grid.md
+    - 📜 Folk Wisdom:
+      - "Household Alchemies": areas/philosophy/folk-wisdom/household-alchemies.md
+      - "The Proverbial Well": areas/philosophy/folk-wisdom/proverbial-well.md
+      - "The Weather-Wise Guide": areas/philosophy/folk-wisdom/weather-wise-guide.md
+    - 🔮 Oracle's Parlor:
+      - "The Chinese Zodiac: Shngxio  The Cycle of Animals": areas/philosophy/oracle/chinese-zodiac.md
+      - "Geomancy: The Earth Speaks": areas/philosophy/oracle/geomancy.md
+      - "The I Ching: Yjng  The Book of Changes": areas/philosophy/oracle/i-ching.md
+      - "The Tarot: A Comprehensive Guide": areas/philosophy/oracle/tarot-guide.md
+      - "Vedic Astrology: Jyotisha  The Science of Light": areas/philosophy/oracle/vedic-astrology.md
+      - "Western Astrology: A Complete Guide": areas/philosophy/oracle/western-astrology.md
+  - 🧠 Psychology:
+    - "Overview": areas/psychology/index.md
+    - "How Images Map Dreams, Archetypes, and the Collective Unconscious": areas/psychology/how-images-map-dreams-archetypes-and-the-collective-unconscious.md
+    - "How Informal Caregivers Use Storytelling to Build Community and Influence Policy": areas/psychology/how-informal-caregivers-use-storytelling-to-build-community-and-influence-policy.md
+    - "Understanding News Fatigue—and How to Stay Informed Without Overload": areas/psychology/understanding-news-fatigue-and-how-to-stay-informed-without-overload.md
+    - "Why Many of Us Have Problems Facing Death—and How to Get Through It": areas/psychology/why-many-of-us-have-problems-facing-death-and-how-to-get-through-it.md
+    - 🐒 Behavioral Biology:
+      - "The Mother's Influence: Intergenerational Transmission an...": areas/psychology/behavioral-biology/mothers-influence.md
+      - "A Primate's Guide to Connection: The Behavioral Biology o...": areas/psychology/behavioral-biology/primates-guide-to-connection.md
+      - "The Psychological Barometer: Reading the Weather Before t...": areas/psychology/behavioral-biology/psychological-barometer.md
+      - "Relationship Maintenance: The Science of Lasting Bonds": areas/psychology/behavioral-biology/relationship-maintenance.md
+    - 🔍 Discovery Machine:
+      - "The Discovery Machine": areas/psychology/discovery-machine/animal-nature.md
+      - "Section XI  The Discovery Machine": areas/psychology/discovery-machine/body-survival.md
+      - "The Discovery Machine": areas/psychology/discovery-machine/clinical-validated.md
+      - "The Discovery Machine": areas/psychology/discovery-machine/consumer-legal.md
+      - "The Two-Mode Assessment Framework": areas/psychology/discovery-machine/discover-investigate-framework.md
+      - "Section XI  The Discovery Machine": areas/psychology/discovery-machine/home-environment.md
+      - "The Discovery Machine": areas/psychology/discovery-machine/mad-libs-learning.md
+      - "Section XI  The Discovery Machine": areas/psychology/discovery-machine/relational-behavioral-deep.md
+      - "Section XI  The Discovery Machine": areas/psychology/discovery-machine/relationship-dynamics.md
+      - "The Discovery Machine": areas/psychology/discovery-machine/relationship-social.md
+      - "The Self-Discovery Suite  'Who Am I?'": areas/psychology/discovery-machine/self-discovery-suite.md
+      - "Self-Knowledge Assessments  Know Thyself": areas/psychology/discovery-machine/self-knowledge.md
+      - "Section XI  The Discovery Machine": areas/psychology/discovery-machine/sensory-diagnostics.md
+      - "The Discovery Machine": areas/psychology/discovery-machine/vocational-personality.md
+  - 🔬 Science:
+    - "Overview": areas/science/index.md
+    - "Advances in Archaeology Allow Us to Understand Political Evolution and Social Change in Deep Time": areas/science/advances-in-archaeology-allow-us-to-understand-political-evolution-and-social-ch.md
+    - "An Ancient Recipe for Social Success": areas/science/an-ancient-recipe-for-social-success.md
+    - "Archeologists Join Geologists in the Quest to Define the Age of Humans": areas/science/archeologists-join-geologists-in-the-quest-to-define-the-age-of-humans.md
+    - "Bees Are Sentient and May Be Self-Aware": areas/science/bees-are-sentient-and-may-be-self-aware.md
+    - "Between Life and Death: What Near-Death Experiences Reveal About Consciousness": areas/science/between-life-and-death-what-near-death-experiences-reveal-about-consciousness.md
+    - "Can You Reset Your Biological Age to Live a Longer, Healthier Life?": areas/science/can-you-reset-your-biological-age-to-live-a-longer-healthier-life.md
+    - "Hyperprosociality: A Compelling Theory to Explain a Key Trait of Modern Humans": areas/science/hyperprosociality-a-compelling-theory-to-explain-a-key-trait-of-modern-humans.md
+    - 📅 Calendars & Time:
+      - "The Astronomical Calendar: Sky Events Through the Year": areas/science/calendars/astronomical-calendar.md
+      - "Cultural Observance Calendar: Humanity's Shared Days": areas/science/calendars/cultural-observance-calendar.md
+      - "Religious & Cultural Calendar Systems of the World": areas/science/calendars/religious-calendars.md
+    - 📊 Observatory Stats:
+      - "April  Observatory Stats": areas/science/observatory-stats/april.md
+      - "Observatory Stats  August": areas/science/observatory-stats/august.md
+      - "Observatory Stats: December": areas/science/observatory-stats/december.md
+      - "February  Observatory Stats Daily": areas/science/observatory-stats/february.md
+      - "January  Observatory Stats": areas/science/observatory-stats/january.md
+      - "Observatory Stats  July": areas/science/observatory-stats/july.md
+      - "Observatory Stats: June": areas/science/observatory-stats/june.md
+      - "Observatory Stats  March": areas/science/observatory-stats/march.md
+      - "Observatory Stats: May": areas/science/observatory-stats/may.md
+      - "Observatory Stats  November": areas/science/observatory-stats/november.md
+      - "Observatory Stats  October": areas/science/observatory-stats/october.md
+      - "September  Observatory Stats": areas/science/observatory-stats/september.md
+  - 💻 Technology:
+    - "Overview": areas/technology/index.md
+    - "Agrivoltaics: The Farm-to-Solar Trend That Can Help Accelerate the Renewable Energy Transition": areas/technology/agrivoltaics-the-farm-to-solar-trend-that-can-help-accelerate-the-renewable-ener.md
+    - 📱 Digital Life:
+      - "Email & Account Management": areas/technology/digital-life/email-accounts.md
+      - "Setting Up Your Laptop  The Complete Guide": areas/technology/digital-life/laptop-setup.md
+      - "Digital Payments & Banking Setup": areas/technology/digital-life/payments-banking.md
+      - "Setting Up Your Smartphone  The Complete Guide": areas/technology/digital-life/smartphone-setup.md
+      - "Streaming & Entertainment Setup": areas/technology/digital-life/streaming-entertainment.md
+      - "WiFi & Home Networking  Plain English Guide": areas/technology/digital-life/wifi-networking.md
+    - 🧮 Math & Logic:
+      - "Fermi Estimation": areas/technology/math-logic/fermi-estimation.md
+      - "Logical Fallacies": areas/technology/math-logic/logical-fallacies.md
+      - "Mental Math Tricks": areas/technology/math-logic/mental-math.md
+      - "Statistical Literacy": areas/technology/math-logic/statistical-literacy.md
+    - 📋 Reference Tables:
+      - "Everyday Reference Tables": areas/technology/reference/everyday-reference.md
+      - "Essential Knots Guide": areas/technology/reference/knots-guide.md
+      - "Unit Conversions Reference": areas/technology/reference/unit-conversions.md
+    - 🛠️ Practical Tools:
+      - "Everyday Tools": areas/technology/tools/everyday-tools.md
+      - " Fun & Games": areas/technology/tools/fun-tools.md
+  - 🌍 World Affairs:
+    - "Overview": areas/world-affairs/index.md
+    - "Reparative Rebirth: African Children at the Heart of Climate Justice and Sovereignty": areas/world-affairs/reparative-rebirth-african-children-at-the-heart-of-climate-justice-and-sovereig.md
+    - "The New Cold War and the Risk of Nuclear Annihilation": areas/world-affairs/the-new-cold-war-and-the-risk-of-nuclear-annihilation.md
+    - 🌐 National Factbook:
+      - "The Observatory Almanac  National Factbook: Africa": areas/world-affairs/factbook/factbook-africa.md
+      - "The Observatory Almanac  National Factbook: The Americas": areas/world-affairs/factbook/factbook-americas.md
+      - "The National Factbook: Asia": areas/world-affairs/factbook/factbook-asia.md
+      - "The National Factbook: Europe": areas/world-affairs/factbook/factbook-europe.md
+      - "National Factbook  Middle East & Near East": areas/world-affairs/factbook/factbook-middle-east.md
+      - "National Factbook  Oceania": areas/world-affairs/factbook/factbook-oceania.md
+      - "This Day in History: January 1  June 30": areas/world-affairs/factbook/history-facts-jan-jun.md
+      - "This Day in History: July 1  December 31": areas/world-affairs/factbook/history-facts-jul-dec.md
+    - ✈️ Travel & Navigation:
+      - "Cultural Etiquette: 40+ Countries": areas/world-affairs/travel/cultural-etiquette.md
+      - "Packing Checklists": areas/world-affairs/travel/packing-checklists.md
+      - "The Traveler's Quick Reference": areas/world-affairs/travel/travel-reference.md
+  - 🌾 Agriculture:
+    - "Overview": areas/agriculture/index.md
+  - 🐾 Animals:
+    - "Overview": areas/animals/index.md
+    - "Are Plant-Eaters Smarter and More Empathetic Than Meat-Eaters?": areas/animals/are-plant-eaters-smarter-and-more-empathetic-than-meat-eaters.md
+    - "Captive Elephants: The Harsh Reality": areas/animals/captive-elephants-the-harsh-reality.md
+    - "Cats Are Fueling a Global Eco-Crisis, Pushing Birds and Other Species to Extinction": areas/animals/cats-are-fueling-a-global-eco-crisis-pushing-birds-and-other-species-to-extincti.md
+    - "Chickens Are Smarter Than You Think": areas/animals/chickens-are-smarter-than-you-think.md
+  - 💰 Economy:
+    - "Overview": areas/economy/index.md
+    - "Are Western Oligarchies a Long Detour of Civilization?": areas/economy/are-western-oligarchies-a-long-detour-of-civilization.md
+    - "Circular Economy: How the Tanda System Helps Latinos in Southern California with Mutual Financial Support": areas/economy/circular-economy-how-the-tanda-system-helps-latinos-in-southern-california-with.md
+    - "Don’t Fall for the Fake Minimum Wage Debate": areas/economy/don-t-fall-for-the-fake-minimum-wage-debate.md
+    - "Obscene Wealth Is a Social Problem": areas/economy/obscene-wealth-is-a-social-problem.md
+  - 🌉 Human Bridges:
+    - "Overview": areas/human-bridges/index.md
+    - "As a Growing Social Movement and Self-Care Practice, Death Literacy Is Fostering Positive Conversations About the End": areas/human-bridges/as-a-growing-social-movement-and-self-care-practice-death-literacy-is-fostering.md
+
 
 # ---------------------------------------------------------------------------
 # Extra

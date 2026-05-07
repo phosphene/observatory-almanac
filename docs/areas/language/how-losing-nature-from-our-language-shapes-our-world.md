@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/language/how-losing-nature-from-our-language-shapes-our-world.md

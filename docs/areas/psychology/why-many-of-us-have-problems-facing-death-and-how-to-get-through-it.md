@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/psychology/why-many-of-us-have-problems-facing-death-and-how-to-get-through-it.md

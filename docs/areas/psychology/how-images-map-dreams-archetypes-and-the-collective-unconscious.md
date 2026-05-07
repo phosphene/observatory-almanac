@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/psychology/how-images-map-dreams-archetypes-and-the-collective-unconscious.md

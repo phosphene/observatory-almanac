@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/environment/afro-descendant-communities-offer-a-living-blueprint-for-amazon-conservation.md

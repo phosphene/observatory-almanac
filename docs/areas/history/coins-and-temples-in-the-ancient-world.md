@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/history/coins-and-temples-in-the-ancient-world.md

@@ -217,8 +217,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 -e 
-# Generated at build time by scripts/build_docs_tree.py — do not commit
-docs/areas/
+# docs/areas/ is now committed directly (migrated from brittanis-almanac 2026-05-07)
 -e docs/SCHEMA.md
 docs/AREAS.md
-docs/authors

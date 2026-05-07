@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/philosophy/the-wider-benefits-of-choosing-life-off-the-grid.md

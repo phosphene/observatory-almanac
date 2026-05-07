@@ -1,5 +1,4 @@
-nav:
+-e nav:
   - index.md
-  - SCHEMA.md
   - areas
-  - authors
+

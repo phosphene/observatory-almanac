@@ -1,0 +1,1 @@
+/home/node/.openclaw/workspace/shared/observatory-almanac/areas/animals/cats-are-fueling-a-global-eco-crisis-pushing-birds-and-other-species-to-extincti.md

@@ -15,14 +15,25 @@ areas:
     description: "Animal cognition, welfare, ecology, and human–animal relationships."
   arts-recreation:
     display: "Arts & Recreation"
-    description: "Game rulebooks, music theory, film canon, and performance arts."
+    description: "Game rulebooks, music theory, film canon, performance arts, and cultural commentary."
+    subareas:
+      - name: "Games"
+        description: "complete rulebooks for 17 classic board, card, and lawn games"
+      - name: "Culture"
+        description: "greatest films, books, albums, and cultural commentary"
+      - name: "Music"
+        description: "guitar/ukulele, music theory, public speaking, and storytelling"
   charter-schools:
     display: "Charter Schools"
     description: "Charter school policy, research, and alternatives."
   cooking:
     display: "Food"
-    description: "World cuisines, food policy, nutrition science, food preservation, and emergency food guides."
+    description: "World cuisines, connoisseur guides, food policy, nutrition science, and food preservation."
     subareas:
+      - name: "Recipes"
+        description: "regional recipe collections spanning every continent, plus expanded deep-dive cookbooks"
+      - name: "Connoisseur"
+        description: "expert guides to wine, cheese, cigars, and sensory training"
       - name: "Food Preservation"
         description: "canning, fermentation, drying, and long-term storage techniques"
       - name: "Emergency Food Guide"
@@ -42,13 +53,19 @@ areas:
   environment:
     display: "Environment"
     description: "Climate change, biodiversity, field guides, oceans, and ecosystems."
-  # food slug retired 2026-05-06 — merged into cooking (display: "Food")
+    subareas:
+      - name: "Field Science"
+        description: "weather, tides, fishing, and soil science for everyday observation"
+      - name: "Field Guides"
+        description: "identification guides for birds, trees, garden pests, and pet first aid"
   health:
     display: "Health"
-    description: "Emergency response, movement practices, meditation, and life navigation."
+    description: "Emergency response, movement practices, meditation, breathing, and life navigation."
     subareas:
-      - name: "Emergency Response"
-        description: "first aid, crisis preparedness, and disaster medicine"
+      - name: "Emergency"
+        description: "CPR/first aid, disaster response, and worldwide emergency numbers"
+      - name: "Movement"
+        description: "breathing techniques, meditation, yoga basics, and stretching routines"
       - name: "Yoga"
         description: "poses, sequences, breathwork, and philosophy"
       - name: "Meditation"
@@ -58,18 +75,26 @@ areas:
   history:
     display: "History"
     description: "Ancient civilizations, deep time, archaeological discovery, and calendars."
+    subareas:
+      - name: "Deep Time"
+        description: "narrative timeline of human evolution from primate origins to civilization"
   human-bridges:
     display: "Human Bridges"
     description: "Death literacy, social movements, and cross-cultural connection."
   language:
     display: "Language"
-    description: "Sign language, survival phrases, and untranslatable idioms."
+    description: "Sign language, survival phrases, codes and alphabets, and untranslatable idioms."
   literature:
     display: "Literature"
     description: "Classic texts, literary criticism, and reading culture."
   local-peace-economy:
     display: "Local Peace Economy"
-    description: "Legal forms, civic documents, Robert's Rules, and grassroots tools."
+    description: "Life navigators, legal forms, civic documents, Robert's Rules, and grassroots tools."
+    subareas:
+      - name: "Navigator"
+        description: "career, financial, health, digital, and urban survival navigators"
+      - name: "Documents"
+        description: "legal forms, letter templates, speeches, and Robert's Rules"
   media:
     display: "Media"
     description: "Media literacy, journalism, and the information ecosystem."
@@ -82,21 +107,50 @@ areas:
   philosophy:
     display: "Philosophy"
     description: "Divination systems, folk wisdom, oracles, and perennial philosophy."
+    subareas:
+      - name: "Oracle"
+        description: "I Ching, Tarot, Western and Vedic astrology, Chinese zodiac, and geomancy"
+      - name: "Folk Wisdom"
+        description: "proverbs, household alchemies, and weather-wise lore"
   psychology:
     display: "Psychology"
-    description: "Behavioral biology, self-knowledge assessments, and relational science."
+    description: "Behavioral biology, self-knowledge assessments, clinical scales, and relational science."
+    subareas:
+      - name: "Behavioral Biology"
+        description: "primate connection, relationship science, and psychological measurement"
+      - name: "Discovery Machine"
+        description: "self-knowledge assessments, clinical scales, sensory diagnostics, and relational tools"
   science:
     display: "Science"
-    description: "Biology, consciousness, archaeology, paleoanthropology, and the natural sciences."
+    description: "Biology, consciousness, archaeology, paleoanthropology, calendars, and observatory statistics."
+    subareas:
+      - name: "Observatory Stats"
+        description: "daily statistical snapshots — Harper's Index-style facts by month"
+      - name: "Calendars"
+        description: "astronomical, religious, and cultural observance calendars"
   technology:
     display: "Technology"
-    description: "Digital life, home networking, device setup, and practical tech."
+    description: "Digital life, home networking, device setup, reference tables, math, and practical tools."
+    subareas:
+      - name: "Reference"
+        description: "unit conversions, knots, and everyday reference data"
+      - name: "Math Logic"
+        description: "mental math, statistical literacy, logical fallacies, and Fermi estimation"
+      - name: "Digital Life"
+        description: "email, streaming, devices, networking, and online banking"
+      - name: "Tools"
+        description: "fun interactive tools and everyday utilities"
   voting-elections:
     display: "Voting & Elections"
     description: "Electoral systems, voting rights, and democratic participation."
   world-affairs:
     display: "World Affairs"
-    description: "Country factbooks, cultural etiquette, and global travel."
+    description: "Country factbooks, cultural etiquette, travel reference, and global navigation."
+    subareas:
+      - name: "Factbook"
+        description: "country profiles by region plus historical facts by month"
+      - name: "Travel"
+        description: "cultural etiquette, packing checklists, and travel reference"
 
 type_icons:
   article: "📰"

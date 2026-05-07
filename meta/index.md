@@ -1,12 +1,18 @@
 ---
 title: Observatory Almanac Index
-updated: 2026-04-30
+updated: 2026-05-06
 ---
 
 # Observatory Almanac — Content Index
 
-*Generated: 2026-04-30 — 63 documents across 15 areas, 36 authors, 1 guides.*
+*Generated: 2026-05-06 — 64 documents across 16 areas, 36 authors, 1 guides.*
 
+
+## Agriculture (1)
+
+| Slug | Title | Type | Author |
+|------|-------|------|--------|
+| [index](../areas/agriculture/index.md) | Agriculture | almanac | — |
 
 ## Animals (5)
 
@@ -22,13 +28,13 @@ updated: 2026-04-30
 
 | Slug | Title | Type | Author |
 |------|-------|------|--------|
-| [index](../areas/arts-recreation/index.md) | Arts Recreation | almanac | — |
+| [index](../areas/arts-recreation/index.md) | Arts & Recreation | almanac | — |
 
 ## Cooking (1)
 
 | Slug | Title | Type | Author |
 |------|-------|------|--------|
-| [index](../areas/cooking/index.md) | Cooking | almanac | — |
+| [index](../areas/cooking/index.md) | Food | almanac | — |
 
 ## Economy (5)
 

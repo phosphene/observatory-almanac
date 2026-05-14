@@ -344,6 +344,8 @@ nav:
       - "The Traveler's Quick Reference": areas/world-affairs/travel/travel-reference.md
   - 🌾 Agriculture:
     - "Overview": areas/agriculture/index.md
+    - "Gardening": areas/agriculture/gardening.md
+    - "Seasonal Planting": areas/agriculture/seasonal-planting.md
   - 🐾 Animals:
     - "Overview": areas/animals/index.md
     - "Are Plant-Eaters Smarter and More Empathetic Than Meat-Eaters?": areas/animals/are-plant-eaters-smarter-and-more-empathetic-than-meat-eaters.md

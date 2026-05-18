@@ -12,11 +12,11 @@ Animal cognition, welfare, ecology, and human–animal relationships.
 *4 sections*
 
 
-## Wildlife Guide
+## Backyard Wildlife Guide
 
 *Identify common birds, mammals, reptiles, and amphibians — with behavioral notes, habitat, diet, and sign identification.*
 
-- [Wildlife Guide](wildlife-guide/wildlife-guide.md)
+- [Backyard Wildlife Guide](wildlife-guide/wildlife-guide.md)
 
 ## Wildlife Safety Tips
 

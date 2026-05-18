@@ -1,4 +1,4 @@
-# Backyard Wildlife Guide
+# Wildlife Guide
 
 *Identify and understand the animals that share your outdoor space.*
 

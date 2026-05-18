@@ -1,10 +1,10 @@
 ---
-title: Backyard Wildlife Guide
+title: Wildlife Guide
 hide:
   - toc
 ---
 
-# Backyard Wildlife Guide
+# Wildlife Guide
 
 *Identify and understand the animals that share your outdoor space.*
 
@@ -12,4 +12,4 @@ Common backyard birds, mammals, reptiles, and amphibians — with behavioral not
 
 ---
 
-- [Backyard Wildlife Guide](backyard-wildlife-guide.md)
+- [Wildlife Guide](wildlife-guide.md)

@@ -6,6 +6,14 @@
 
 ---
 
+## Range Map
+
+![Wildlife Safety: Animal Ranges in the Continental United States](wildlife-range-map.png)
+
+*Ranges are approximate. Sources: USFWS, NPS, National Geographic (2025), USGS.*
+
+---
+
 ## General Principles
 
 **"If your actions cause a reaction from the animal, you're too close."** — U.S. National Park Service, via *National Geographic*. If you can take a selfie with wildlife, you are definitely too close.

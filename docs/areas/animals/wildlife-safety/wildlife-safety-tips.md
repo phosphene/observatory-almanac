@@ -1,12 +1,25 @@
+---
+title: Wildlife Safety Tips
+area: animals
+type: reference
+source: Observatory Almanac
+license: MIT
+updated: '2026-05-19'
+summary: >
+  How to coexist safely with wild animals — what to do, and what not to do, across
+  bears, mountain lions, bison, moose, coyotes, alligators, snakes, and other
+  North American wildlife.
+tags:
+  - wildlife
+  - safety
+  - north-america
+---
+
 # Wildlife Safety Tips
 
 *How to coexist safely with wild animals — what to do, and what not to do.*
 
 > **If you are in immediate danger from wildlife, call 911. For non-emergency wildlife concerns, contact your state's fish and wildlife agency or a licensed wildlife rehabilitator.**
-
----
-
-## Range Map
 
 ![Wildlife Safety: Animal Ranges in the Continental United States](wildlife-range-map.png)
 
@@ -34,6 +47,14 @@
 
 **Species:** Black bear (eastern US, parts of west); Grizzly/Brown bear (Alaska, Yellowstone, northwest Montana, northwest Wyoming, Idaho).
 
+![Black Bear Range](range-map-black-bear.png)
+
+*Black bear range — 34 states. Widespread in forests and mountains; also recolonizing parts of the Midwest.*
+
+![Grizzly Bear Range](range-map-grizzly-bear.png)
+
+*Grizzly bear range — 4 states. Severely restricted: Yellowstone corridor, NW Montana, small populations in N. Idaho and Washington.*
+
 ### Prevention
 - Make noise while hiking — talk, clap, use bear bells. Bears that are startled are more dangerous than bears that hear you coming.
 - Store food, cooking equipment, and scented products in bear-resistant containers or a car trunk — never in a tent. Cook 200 feet from where you sleep.
@@ -59,6 +80,10 @@
 
 **Range:** Western US, small populations in Florida (Florida panther).
 
+![Mountain Lion (Cougar) Range](range-map-mountain-lion.png)
+
+*Mountain lion range — 18 states. Established across the west; Florida panther is the only eastern population.*
+
 ### Prevention
 - Hike with others; avoid hiking at dawn, dusk, or night.
 - Keep children and dogs close and leashed. Watch for claw marks and scat on trails.
@@ -76,6 +101,10 @@
 ## Bison and Moose
 
 Often overlooked in favor of predators — but statistically among the most dangerous animals in North America.
+
+![Moose Range](range-map-moose.png)
+
+*Moose range — 13 states. Northern forests and mountain west; Minnesota has the largest lower-48 population.*
 
 ### Bison
 **Range:** Primarily Yellowstone and other Great Plains reserves; reintroduced populations across the west.
@@ -100,6 +129,10 @@ Often overlooked in favor of predators — but statistically among the most dang
 
 **Range:** All of North America; now thriving in cities and suburbs.
 
+![Coyote Range](range-map-coyote.png)
+
+*Coyote range — 48 contiguous states. Present everywhere; adapted to cities, suburbs, and farmland.*
+
 ### Prevention
 - Never intentionally feed coyotes.
 - Feed pets indoors. Small pets are at risk, especially at dawn, dusk, and night.
@@ -115,6 +148,10 @@ Often overlooked in favor of predators — but statistically among the most dang
 ## Alligators
 
 **Range:** South Carolina to Florida to Texas.
+
+![Alligator Range](range-map-alligator.png)
+
+*Alligator range — 10 states. Coastal plains and wetlands of the Southeast.*
 
 - Alligators can reach 15 feet and weigh around 1,000 pounds. They are most dangerous **in or near water**.
 - Stay 10–15 feet away on dry ground; avoid the water's edge entirely. Do not splash at the water's edge.

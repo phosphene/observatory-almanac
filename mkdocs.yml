@@ -109,10 +109,18 @@ nav:
     - "Seasonal Planting": areas/agriculture/seasonal-planting.md
   - 🐾 Animals:
     - "Overview": areas/animals/index.md
-    - "Are Plant-Eaters Smarter and More Empathetic Than Meat-Eaters?": areas/animals/are-plant-eaters-smarter-and-more-empathetic-than-meat-eaters.md
-    - "Captive Elephants: The Harsh Reality": areas/animals/captive-elephants-the-harsh-reality.md
-    - "Cats Are Fueling a Global Eco-Crisis, Pushing Birds and Other Species to Extinction": areas/animals/cats-are-fueling-a-global-eco-crisis-pushing-birds-and-other-species-to-extincti.md
-    - "Chickens Are Smarter Than You Think": areas/animals/chickens-are-smarter-than-you-think.md
+    - 🏡 Backyard Wildlife:
+      - "Overview": areas/animals/wildlife-guide/index.md
+      - "Backyard Wildlife Guide": areas/animals/wildlife-guide/wildlife-guide.md
+    - ⚠️ Wildlife Safety:
+      - "Overview": areas/animals/wildlife-safety/index.md
+      - "Wildlife Safety Tips": areas/animals/wildlife-safety/wildlife-safety-tips.md
+    - 🩹 Pet First Aid:
+      - "Overview": areas/animals/pet-first-aid/index.md
+      - "Pet First Aid": areas/animals/pet-first-aid/pet-first-aid.md
+    - 🌿 Home Remedies for Pets:
+      - "Overview": areas/animals/home-remedies-for-pets/index.md
+      - "Home Remedies for Pets": areas/animals/home-remedies-for-pets/home-remedies-for-pets.md
   - 🎲 Arts & Recreation:
     - "Overview": areas/arts-recreation/index.md
     - 🎬 Cultural Pulse:

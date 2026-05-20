@@ -22,7 +22,7 @@ hide:
 
 **[Agriculture](areas/agriculture/index.md)** · gardening, seasonal planting
 
-**[Animals](areas/animals/index.md)** · cognition, welfare, ecology
+**[Animals](areas/animals/index.md)** · backyard wildlife, wildlife safety, pet first aid, home remedies for pets
 
 **[Arts & Recreation](areas/arts-recreation/index.md)** · 17 game rulebooks, music, film, storytelling
 

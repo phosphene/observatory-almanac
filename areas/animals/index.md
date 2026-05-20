@@ -7,7 +7,7 @@ hide:
 
 # Animals
 
-Animal cognition, welfare, ecology, and human–animal relationships.
+Backyard wildlife, wildlife safety, pet first aid, and home remedies for pets.
 
 *4 sections*
 

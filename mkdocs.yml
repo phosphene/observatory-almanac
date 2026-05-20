@@ -1,5 +1,5 @@
 site_name: "Observatory Almanac"
-site_description: "Expert-authored knowledge across 26 subject areas — science, history, environment, philosophy, cooking, health, and more."
+site_description: "Expert-authored knowledge across 26 subject areas - science, history, environment, philosophy, cooking, health, and more."
 site_url: "https://phosphene.github.io/observatory-almanac"
 repo_url: "https://github.com/phosphene/observatory-almanac"
 repo_name: "phosphene/observatory-almanac"
@@ -56,7 +56,7 @@ plugins:
   - tags: {}
   # - awesome-pages  # disabled: explicit nav in mkdocs.yml
   # git-revision-date-localized: shows "last updated" dates on pages.
-  # fallback_to_build_date: true is REQUIRED — GitHub Actions performs a
+  # fallback_to_build_date: true is REQUIRED - GitHub Actions performs a
   # shallow clone (fetch-depth: 0 is set in deploy.yml to work around this,
   # but if the CI config ever changes, without fallback the plugin raises
   # a GitCommandError on files with no reachable commit history and aborts
@@ -103,6 +103,16 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Tags: tags.md
+  - 🌾 Agriculture:
+    - "Overview": areas/agriculture/index.md
+    - "Gardening": areas/agriculture/gardening.md
+    - "Seasonal Planting": areas/agriculture/seasonal-planting.md
+  - 🐾 Animals:
+    - "Overview": areas/animals/index.md
+    - "Are Plant-Eaters Smarter and More Empathetic Than Meat-Eaters?": areas/animals/are-plant-eaters-smarter-and-more-empathetic-than-meat-eaters.md
+    - "Captive Elephants: The Harsh Reality": areas/animals/captive-elephants-the-harsh-reality.md
+    - "Cats Are Fueling a Global Eco-Crisis, Pushing Birds and Other Species to Extinction": areas/animals/cats-are-fueling-a-global-eco-crisis-pushing-birds-and-other-species-to-extincti.md
+    - "Chickens Are Smarter Than You Think": areas/animals/chickens-are-smarter-than-you-think.md
   - 🎲 Arts & Recreation:
     - "Overview": areas/arts-recreation/index.md
     - 🎬 Cultural Pulse:
@@ -133,6 +143,31 @@ nav:
       - "Music Theory: The Grammar of Sound": areas/arts-recreation/music/music-theory.md
       - "Public Speaking: Thinking, Structure, and Delivery": areas/arts-recreation/music/public-speaking.md
       - "The Art of Storytelling": areas/arts-recreation/music/storytelling.md
+  - 💰 Economy:
+    - "Overview": areas/economy/index.md
+    - "Are Western Oligarchies a Long Detour of Civilization?": areas/economy/are-western-oligarchies-a-long-detour-of-civilization.md
+    - "Circular Economy: How the Tanda System Helps Latinos in Southern California with Mutual Financial Support": areas/economy/circular-economy-how-the-tanda-system-helps-latinos-in-southern-california-with.md
+    - "Don't Fall for the Fake Minimum Wage Debate": areas/economy/don-t-fall-for-the-fake-minimum-wage-debate.md
+    - "Obscene Wealth Is a Social Problem": areas/economy/obscene-wealth-is-a-social-problem.md
+  - 🌊 Environment:
+    - "Overview": areas/environment/index.md
+    - "10 Reasons Why Hydropower Isn't a Climate Solution": areas/environment/10-reasons-why-hydropower-isn-t-a-climate-solution.md
+    - "600 Million Metric Tons of Plastic May Fill Oceans by 2036": areas/environment/600-million-metric-tons-of-plastic-may-fill-oceans-by-2036.md
+    - "Afro-Descendant Communities Offer a Living Blueprint for Amazon Conservation": areas/environment/afro-descendant-communities-offer-a-living-blueprint-for-amazon-conservation.md
+    - "Air Pollution Is Killing Millions and Rising Exponentially—A Shift in Agriculture Can Solve It": areas/environment/air-pollution-is-killing-millions-and-rising-exponentially-a-shift-in-agricultur.md
+    - "Carbon Capture Is a Potential Weapon Against Climate Change": areas/environment/carbon-capture-is-a-potential-weapon-against-climate-change.md
+    - "Carbon Farming: A Sustainable Agriculture Technique That Keeps Soil Healthy and Combats Climate Change": areas/environment/carbon-farming-a-sustainable-agriculture-technique-that-keeps-soil-healthy-and-c.md
+    - "How Land Use Is a Tool for Solving Climate Change": areas/environment/how-land-use-is-a-tool-for-solving-climate-change.md
+    - 🌿 Field Guides:
+      - "Birds of the World: Field Guide": areas/environment/field-guides/birds.md
+      - "Garden Pests Field Guide": areas/environment/field-guides/garden-pests.md
+      - "Pet First Aid": areas/environment/field-guides/pet-first-aid.md
+      - "Trees of the World: Field Guide": areas/environment/field-guides/trees.md
+    - 🌤️ Field Science:
+      - "The Fishing & Surf Almanac": areas/environment/field-science/fishing-surf-almanac.md
+      - "Soil & Sun: The Living Foundation": areas/environment/field-science/soil-and-sun.md
+      - "The Tidal Clock: Precision Understanding of the Ocean's R...": areas/environment/field-science/tidal-clock.md
+      - "Weather & Climatology: Understanding the Atmosphere": areas/environment/field-science/weather-climatology.md
   - 🍳 Food:
     - "Overview": areas/cooking/index.md
     - 🍷 Connoisseur's Cabinet:
@@ -165,25 +200,6 @@ nav:
         - "Middle East & North Africa Recipes": areas/cooking/recipes/expanded/middle-east-north-africa.md
         - "Spanish & Latin American Complete Recipe Collection": areas/cooking/recipes/expanded/spanish-latin-complete.md
         - "Southeast Asian Recipes": areas/cooking/recipes/expanded/thai-vietnamese-se-asia.md
-  - 🌊 Environment:
-    - "Overview": areas/environment/index.md
-    - "10 Reasons Why Hydropower Isn’t a Climate Solution": areas/environment/10-reasons-why-hydropower-isn-t-a-climate-solution.md
-    - "600 Million Metric Tons of Plastic May Fill Oceans by 2036": areas/environment/600-million-metric-tons-of-plastic-may-fill-oceans-by-2036.md
-    - "Afro-Descendant Communities Offer a Living Blueprint for Amazon Conservation": areas/environment/afro-descendant-communities-offer-a-living-blueprint-for-amazon-conservation.md
-    - "Air Pollution Is Killing Millions and Rising Exponentially—A Shift in Agriculture Can Solve It": areas/environment/air-pollution-is-killing-millions-and-rising-exponentially-a-shift-in-agricultur.md
-    - "Carbon Capture Is a Potential Weapon Against Climate Change": areas/environment/carbon-capture-is-a-potential-weapon-against-climate-change.md
-    - "Carbon Farming: A Sustainable Agriculture Technique That Keeps Soil Healthy and Combats Climate Change": areas/environment/carbon-farming-a-sustainable-agriculture-technique-that-keeps-soil-healthy-and-c.md
-    - "How Land Use Is a Tool for Solving Climate Change": areas/environment/how-land-use-is-a-tool-for-solving-climate-change.md
-    - 🌿 Field Guides:
-      - "Birds of the World: Field Guide": areas/environment/field-guides/birds.md
-      - "Garden Pests Field Guide": areas/environment/field-guides/garden-pests.md
-      - "Pet First Aid": areas/environment/field-guides/pet-first-aid.md
-      - "Trees of the World: Field Guide": areas/environment/field-guides/trees.md
-    - 🌤️ Field Science:
-      - "The Fishing & Surf Almanac": areas/environment/field-science/fishing-surf-almanac.md
-      - "Soil & Sun: The Living Foundation": areas/environment/field-science/soil-and-sun.md
-      - "The Tidal Clock: Precision Understanding of the Ocean's R...": areas/environment/field-science/tidal-clock.md
-      - "Weather & Climatology: Understanding the Atmosphere": areas/environment/field-science/weather-climatology.md
   - 💚 Health:
     - "Overview": areas/health/index.md
     - "A National Asbestos-Exposure Registry of Veterans Could Combat Misdiagnosis in Mesothelioma Cases Nationwide": areas/health/a-national-asbestos-exposure-registry-of-veterans-could-combat-misdiagnosis-in-m.md
@@ -204,15 +220,18 @@ nav:
     - "Archaeology Can Now Tell Us How People Have Muffled and Challenged Economic Inequality Across History": areas/history/archaeology-can-now-tell-us-how-people-have-muffled-and-challenged-economic-ineq.md
     - "Archaeology Is Flipping the Script on What We Know About Ancient Mesoamerica": areas/history/archaeology-is-flipping-the-script-on-what-we-know-about-ancient-mesoamerica.md
     - "Coins and Temples in the Ancient World": areas/history/coins-and-temples-in-the-ancient-world.md
-    - "Dead States, Living Borders: Three Historical Cases of ‘State Revival’: Armenia, Vietnam, and Poland": areas/history/dead-states-living-borders-three-historical-cases-of-state-revival-armenia-vietn.md
+    - "Dead States, Living Borders: Three Historical Cases of 'State Revival': Armenia, Vietnam, and Poland": areas/history/dead-states-living-borders-three-historical-cases-of-state-revival-armenia-vietn.md
     - "Debt Forgiveness in the Bronze Age": areas/history/debt-forgiveness-in-the-bronze-age.md
     - ⏳ Deep Time:
       - "Deep Time: A Narrative Timeline of Human Evolution": areas/history/deep-time/deep-time-timeline.md
+  - 🌉 Human Bridges:
+    - "Overview": areas/human-bridges/index.md
+    - "As a Growing Social Movement and Self-Care Practice, Death Literacy Is Fostering Positive Conversations About the End": areas/human-bridges/as-a-growing-social-movement-and-self-care-practice-death-literacy-is-fostering.md
   - 🗣️ Language:
     - "Overview": areas/language/index.md
     - "Codes, Alphabets, and Alternative Communication Systems": areas/language/codes-alphabets.md
     - "How a 19th-Century Universal Language Tried to Unite the World": areas/language/how-a-19th-century-universal-language-tried-to-unite-the-world.md
-    - "How Accent Discrimination Reinforces America’s Deepest Divides": areas/language/how-accent-discrimination-reinforces-america-s-deepest-divides.md
+    - "How Accent Discrimination Reinforces America's Deepest Divides": areas/language/how-accent-discrimination-reinforces-america-s-deepest-divides.md
     - "How Losing Nature From Our Language Shapes Our World": areas/language/how-losing-nature-from-our-language-shapes-our-world.md
     - "Untranslatable Idioms: 100 Phrases the World Invented Tha...": areas/language/idioms-untranslatable.md
     - "Necropolitics and the Language of Death: How Military Talk Turns Recruits Into Killers": areas/language/necropolitics-and-the-language-of-death-how-military-talk-turns-recruits-into-ki.md
@@ -255,8 +274,8 @@ nav:
     - "Overview": areas/psychology/index.md
     - "How Images Map Dreams, Archetypes, and the Collective Unconscious": areas/psychology/how-images-map-dreams-archetypes-and-the-collective-unconscious.md
     - "How Informal Caregivers Use Storytelling to Build Community and Influence Policy": areas/psychology/how-informal-caregivers-use-storytelling-to-build-community-and-influence-policy.md
-    - "Understanding News Fatigue—and How to Stay Informed Without Overload": areas/psychology/understanding-news-fatigue-and-how-to-stay-informed-without-overload.md
-    - "Why Many of Us Have Problems Facing Death—and How to Get Through It": areas/psychology/why-many-of-us-have-problems-facing-death-and-how-to-get-through-it.md
+    - "Understanding News Fatigue-and How to Stay Informed Without Overload": areas/psychology/understanding-news-fatigue-and-how-to-stay-informed-without-overload.md
+    - "Why Many of Us Have Problems Facing Death-and How to Get Through It": areas/psychology/why-many-of-us-have-problems-facing-death-and-how-to-get-through-it.md
     - 🐒 Behavioral Biology:
       - "The Mother's Influence: Intergenerational Transmission an...": areas/psychology/behavioral-biology/mothers-influence.md
       - "A Primate's Guide to Connection: The Behavioral Biology o...": areas/psychology/behavioral-biology/primates-guide-to-connection.md
@@ -342,25 +361,7 @@ nav:
       - "Cultural Etiquette: 40+ Countries": areas/world-affairs/travel/cultural-etiquette.md
       - "Packing Checklists": areas/world-affairs/travel/packing-checklists.md
       - "The Traveler's Quick Reference": areas/world-affairs/travel/travel-reference.md
-  - 🌾 Agriculture:
-    - "Overview": areas/agriculture/index.md
-    - "Gardening": areas/agriculture/gardening.md
-    - "Seasonal Planting": areas/agriculture/seasonal-planting.md
-  - 🐾 Animals:
-    - "Overview": areas/animals/index.md
-    - "Are Plant-Eaters Smarter and More Empathetic Than Meat-Eaters?": areas/animals/are-plant-eaters-smarter-and-more-empathetic-than-meat-eaters.md
-    - "Captive Elephants: The Harsh Reality": areas/animals/captive-elephants-the-harsh-reality.md
-    - "Cats Are Fueling a Global Eco-Crisis, Pushing Birds and Other Species to Extinction": areas/animals/cats-are-fueling-a-global-eco-crisis-pushing-birds-and-other-species-to-extincti.md
-    - "Chickens Are Smarter Than You Think": areas/animals/chickens-are-smarter-than-you-think.md
-  - 💰 Economy:
-    - "Overview": areas/economy/index.md
-    - "Are Western Oligarchies a Long Detour of Civilization?": areas/economy/are-western-oligarchies-a-long-detour-of-civilization.md
-    - "Circular Economy: How the Tanda System Helps Latinos in Southern California with Mutual Financial Support": areas/economy/circular-economy-how-the-tanda-system-helps-latinos-in-southern-california-with.md
-    - "Don’t Fall for the Fake Minimum Wage Debate": areas/economy/don-t-fall-for-the-fake-minimum-wage-debate.md
-    - "Obscene Wealth Is a Social Problem": areas/economy/obscene-wealth-is-a-social-problem.md
-  - 🌉 Human Bridges:
-    - "Overview": areas/human-bridges/index.md
-    - "As a Growing Social Movement and Self-Care Practice, Death Literacy Is Fostering Positive Conversations About the End": areas/human-bridges/as-a-growing-social-movement-and-self-care-practice-death-literacy-is-fostering.md
+
 
 
 # ---------------------------------------------------------------------------

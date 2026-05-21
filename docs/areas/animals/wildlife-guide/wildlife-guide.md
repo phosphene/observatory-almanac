@@ -125,6 +125,107 @@
 
 ---
 
+## Building a Pollinator-Friendly Backyard
+
+Pollinators — bees, butterflies, moths, hummingbirds, bats, and more — are responsible for one in three bites of food we eat. Their populations are declining worldwide, largely due to habitat loss and pesticide use. You don't need a large yard to help. A balcony, a raised bed, or even a single pot of coneflowers makes a difference.
+
+---
+
+### Choose the Right Location
+
+Pick a spot that gets **full or partial sun** with some wind protection. Most wildflowers and the pollinators that visit them need sun to thrive. Butterflies in particular like to bask — open, warm areas are most productive.
+
+Before planting, assess your **soil type**: sandy and well-drained, or clay-like and moisture-retentive. Your soil will determine which plants succeed. Pollinators do best with **moist, moderately drained soil** — not waterlogged, not bone dry.
+
+---
+
+### Select the Right Plants
+
+**Go native.** Native plants are adapted to your local climate, soil, and pollinators. They require less maintenance once established, tend to be hardier than ornamentals, and are far more useful to local species. Find a nursery that specializes in regional natives.
+
+**Avoid modern hybrid flowers**, especially "doubled" varieties. Plant breeders often inadvertently eliminate pollen, nectar, and fragrance when engineering showier blooms. What looks beautiful to us may be empty to a bee.
+
+**Stagger your bloom times.** Use a mix of early, middle, and late-season species so there is nectar available from early spring through fall. Pollinators need food across their entire active season — a garden that peaks in July and goes quiet in August leaves them short.
+
+**Include larval host plants.** If you want butterflies, you need to feed their caterpillars too. Check a butterfly field guide to identify the plants local species depend on for egg-laying and larval development. Expect some leaf damage — that's the point.
+
+**Include night-blooming species** to support moths and bats, which pollinate after dark and are often overlooked.
+
+**Request plants by their Latin name** at nurseries to ensure you get the right species. Common names vary and can lead to the wrong plant.
+
+**Ask whether plants have been treated with systemic insecticides or neonicotinoids** before purchasing. Treated plants can harm the very pollinators they're meant to attract.
+
+---
+
+### Plant for Density, Not Variety Alone
+
+Plant in **clumps rather than scattered singles**. A mass of the same flower is far easier for pollinators to locate and use than a collection of one-offs. Group three, five, or seven plants of the same species together, then move on to the next.
+
+---
+
+### Provide Water
+
+Add a **shallow dish of water** on a deck, railing, or windowsill. Place several semi-submerged stones in the dish so pollinators have somewhere to land while drinking — without the risk of drowning.
+
+A **backyard pond**, even a small one, benefits damselflies (which help control mosquitoes), butterflies, and bees. It also creates habitat for amphibians.
+
+For butterflies and bees that need minerals, create a **damp salt lick**: place a drip line or bird bath directly on bare soil and mix in a small amount of sea salt or wood ash. Overripe fruit — bananas, oranges — placed in a shallow dish will attract species that forage on fermented material as well as nectar.
+
+---
+
+### Support Nesting
+
+Most people know about honeybees in hives. Most native bees are nothing like that.
+
+**Ground nesters** (the majority of native bee species) need a small patch of bare, well-drained soil — ideally facing south, away from sprinklers. They don't sting aggressively and rarely bother anyone.
+
+**Cavity nesters** use dead wood, hollow stems, and brush piles. If a dead tree or large limb is not a safety hazard, leave it. When pruning shrubs, cut hollow stems (raspberry, elderberry, sumac, goldenrod, coneflower) to about a foot high — they become ready-made nesting tubes.
+
+**Build or install a bee house.** Blocks of untreated wood with holes drilled 3–5 inches deep in varying diameters, or bundled hollow reeds and cardboard tubes, work well. Mount under eaves or on a post. Clean annually to prevent the spread of parasites and disease.
+
+---
+
+### Leave the Wild Alone
+
+**Leave leaf litter in fall.** Dead leaves and plant material are shelter and food for pollinators over winter. Avoid raking your entire yard — even a corner left alone is useful.
+
+**Leave an unmowed zone.** A strip of lawn left to grow, seeded with native grasses and wildflowers, provides foraging and nesting habitat at minimal cost. Add a small sign explaining the purpose if neighbors ask.
+
+**Leave dead wood.** Fallen logs, brush piles, and snags (standing dead trees) provide nesting sites for native bees, beetles, and flies.
+
+---
+
+### Limit Pesticides
+
+Pesticides are one of the primary drivers of pollinator decline. Before using any:
+
+- Try hand-removing pests or mechanical controls first
+- Rotate crops and water as needed (not on a schedule)
+- Choose plants that have not been pre-treated
+- Grow organically where possible — native predators like lacewings and lady beetles will manage many pests
+
+If you must spray, use the **least-toxic material available**, follow the label exactly, and **apply only at night** when pollinators are not active. Never spray when flowers are in bloom.
+
+---
+
+### Common Pollinators You May See
+
+| Pollinator | What to look for | Notes |
+|---|---|---|
+| **Bumblebee** *(Bombus spp.)* | Large, fuzzy, black and yellow; slow, low flight | Colonial; nests in ground cavities or dense grass |
+| **Eastern Honeybee** *(Apis mellifera)* | Slender, amber-and-black; very common at flowers | Non-native; hive-dwelling; important agricultural pollinator |
+| **Monarch Butterfly** *(Danaus plexippus)* | Orange and black; large, slow wingbeats | Requires milkweed for larvae; long-distance migrant |
+| **Eastern Tiger Swallowtail** *(Papilio glaucus)* | Yellow with black tiger stripes; large | Visits many garden flowers; larvae on wild cherry and tulip poplar |
+| **Ruby-throated Hummingbird** *(Archilochus colubris)* | Iridescent green; rapid wingbeats; hovers | Attracted to red tubular flowers; only hummingbird in eastern US |
+| **Sphinx Moth / Clearwing** *(Hemaris spp.)* | Hovers like a hummingbird; often mistaken for one | Active at dusk; important pollinator of deep tubular flowers |
+| **Mason Bee** *(Osmia spp.)* | Small, dark, metallic; often blue or green | Solitary ground or cavity nester; among the most efficient pollinators |
+
+---
+
+*Sources: USDA Natural Resources Conservation Service · U.S. Fish & Wildlife Service · National Park Service · USDA Forest Service*
+
+---
+
 ## Interpreting What You See
 
 | Sign | Likely culprit |

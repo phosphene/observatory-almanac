@@ -1,1 +1,0 @@
-/home/node/.openclaw/workspace/shared/observatory-almanac/areas/animals/are-plant-eaters-smarter-and-more-empathetic-than-meat-eaters.md

@@ -1,0 +1,1461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Woodchipper — Research Board</title>
+  <style>
+    :root {
+      --bg:           #111111;
+      --surface:      #191919;
+      --surface-2:    #222222;
+      --surface-3:    #2a2a2a;
+      --border:       rgba(255,255,255,0.07);
+      --border-hi:    rgba(255,255,255,0.15);
+      --text-1:       #e2e2e2;
+      --text-2:       #888888;
+      --text-3:       #444444;
+      --accent:       #4f8ef5;
+      --green:        #4caf80;
+      --amber:        #f5a623;
+      --red:          #e05252;
+      --dim:          #666666;
+      --font-sans:    'Inter', -apple-system, system-ui, sans-serif;
+      --font-mono:    'JetBrains Mono', 'Fira Code', ui-monospace, monospace;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { height: 100%; overflow: hidden; }
+    body {
+      font-family: var(--font-sans);
+      background: var(--bg);
+      color: var(--text-1);
+    }
+
+    /* ── HEADER ──────────────────────────────── */
+    .header {
+      height: 48px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      padding: 0 20px;
+      gap: 20px;
+      background: var(--surface);
+      z-index: 100;
+      position: relative;
+    }
+    .wordmark {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      letter-spacing: 0.35em;
+      text-transform: uppercase;
+      color: var(--dim);
+    }
+    .header-sep { width: 1px; height: 20px; background: var(--border); }
+    .header-title {
+      font-size: 12px;
+      color: var(--text-2);
+      letter-spacing: 0.04em;
+    }
+    .header-right {
+      margin-left: auto;
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+    .header-btn {
+      padding: 5px 14px;
+      font-size: 11px;
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      background: transparent;
+      color: var(--text-2);
+      cursor: pointer;
+      font-family: var(--font-sans);
+      transition: all 0.15s;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .header-btn:hover { border-color: var(--border-hi); color: var(--text-1); }
+    .header-btn.primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+    .sync-dot {
+      width: 7px; height: 7px; border-radius: 50%;
+      background: var(--green);
+      box-shadow: 0 0 6px var(--green);
+    }
+    .sync-label { font-size: 10px; color: var(--dim); letter-spacing: 0.06em; }
+
+    /* ── LAYOUT ──────────────────────────────── */
+    .board-shell {
+      display: flex;
+      height: calc(100vh - 48px);
+    }
+
+    /* ── TOOLBOX ─────────────────────────────── */
+    .toolbox {
+      width: 56px;
+      background: var(--surface);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 14px 0;
+      gap: 4px;
+      flex-shrink: 0;
+      z-index: 10;
+    }
+    .tool-btn {
+      width: 38px; height: 38px;
+      border-radius: 8px;
+      border: 1px solid transparent;
+      background: transparent;
+      color: var(--text-3);
+      cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 16px;
+      transition: all 0.15s;
+      position: relative;
+    }
+    .tool-btn:hover { background: var(--surface-2); color: var(--text-2); }
+    .tool-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+    .tool-sep {
+      width: 24px; height: 1px;
+      background: var(--border);
+      margin: 6px 0;
+    }
+    .tool-label {
+      font-size: 9px; font-family: var(--font-mono);
+      text-transform: uppercase; letter-spacing: 0.1em;
+      color: var(--text-3); text-align: center;
+      line-height: 1.2;
+    }
+    .tool-tooltip {
+      position: absolute;
+      left: 46px; top: 50%; transform: translateY(-50%);
+      background: var(--surface-3);
+      border: 1px solid var(--border-hi);
+      border-radius: 5px;
+      padding: 4px 10px;
+      font-size: 11px; color: var(--text-1);
+      white-space: nowrap;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.15s;
+      z-index: 200;
+    }
+    .tool-btn:hover .tool-tooltip { opacity: 1; }
+
+    /* ── CANVAS ──────────────────────────────── */
+    .board-canvas {
+      flex: 1;
+      position: relative;
+      overflow: hidden;
+      background: var(--bg);
+      background-image:
+        radial-gradient(circle, rgba(255,255,255,0.03) 1px, transparent 1px);
+      background-size: 28px 28px;
+    }
+    .canvas-inner {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+    }
+    .connections-svg {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none;
+      z-index: 1;
+    }
+    .canvas-hint {
+      position: absolute;
+      bottom: 20px; left: 50%; transform: translateX(-50%);
+      font-size: 11px; color: var(--text-3);
+      letter-spacing: 0.06em;
+      pointer-events: none;
+    }
+
+    /* ── NODES ───────────────────────────────── */
+    .wc-node {
+      position: absolute;
+      width: 224px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px 16px 12px;
+      cursor: default;
+      user-select: none;
+      z-index: 2;
+      transition: border-color 0.15s, box-shadow 0.15s;
+    }
+    .wc-node:hover { border-color: var(--border-hi); }
+    .wc-node.selected {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 2px rgba(79,142,245,0.18);
+    }
+    .wc-node.connecting-source {
+      border-color: var(--amber);
+      box-shadow: 0 0 0 2px rgba(245,166,35,0.18);
+    }
+    .wc-node.status-strong   { border-color: rgba(76,175,128,0.5); }
+    .wc-node.status-developing { border-color: rgba(245,166,35,0.4); }
+
+    .node-drag-handle {
+      cursor: grab;
+      position: absolute; top: 0; left: 0; right: 0; height: 36px;
+      border-radius: 10px 10px 0 0;
+    }
+    .node-drag-handle:active { cursor: grabbing; }
+
+    .node-type-row {
+      display: flex; align-items: center; gap: 7px;
+      margin-bottom: 9px;
+    }
+    .node-type-dot {
+      width: 7px; height: 7px; border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .type-scientific-case  { background: #4f8ef5; }
+    .type-observation      { background: #4caf80; }
+    .type-framework        { background: #b088f5; }
+    .type-wisdom           { background: #f5a623; }
+    .type-passing-thought  { background: #555; }
+
+    .node-type-label {
+      font-size: 9px; font-family: var(--font-mono);
+      text-transform: uppercase; letter-spacing: 0.12em;
+      color: var(--text-3);
+    }
+
+    .node-title {
+      font-size: 13px; font-weight: 500;
+      color: var(--text-1);
+      line-height: 1.4;
+      margin-bottom: 10px;
+      word-break: break-word;
+    }
+    .node-title.untitled { color: var(--text-3); font-style: italic; }
+
+    .node-uri {
+      font-family: var(--font-mono);
+      font-size: 10px; color: var(--text-3);
+      margin-bottom: 10px;
+      overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    }
+
+    .node-status-row {
+      display: flex; align-items: center; gap: 6px; flex-wrap: wrap;
+      margin-bottom: 8px;
+    }
+    .node-status {
+      font-size: 9px; font-family: var(--font-mono);
+      text-transform: uppercase; letter-spacing: 0.1em;
+      padding: 2px 8px; border-radius: 12px; border: 1px solid;
+    }
+    .status-intake-only  { color: var(--text-3); border-color: var(--border); }
+    .status-eval-queued  { color: var(--accent); border-color: rgba(79,142,245,0.3); background: rgba(79,142,245,0.06); }
+    .status-evaluating   { color: var(--amber); border-color: rgba(245,166,35,0.3); background: rgba(245,166,35,0.06); }
+    .status-results      {
+      font-size: 11px; font-weight: 600; font-family: var(--font-mono);
+      padding: 2px 10px; border-radius: 12px;
+    }
+    .band-STRONG      { color: var(--green); border-color: rgba(76,175,128,0.4); background: rgba(76,175,128,0.06); }
+    .band-DEVELOPING  { color: var(--amber); border-color: rgba(245,166,35,0.4); background: rgba(245,166,35,0.06); }
+    .band-EARLY       { color: var(--text-2); border-color: var(--border); }
+    .band-PRE-SCIENTIFIC { color: var(--dim); border-color: var(--border); }
+
+    .node-routes {
+      display: flex; gap: 5px; flex-wrap: wrap;
+    }
+    .node-route-tag {
+      font-size: 9px; font-family: var(--font-mono);
+      letter-spacing: 0.06em; text-transform: uppercase;
+      color: var(--text-3); background: var(--surface-2);
+      border: 1px solid var(--border); border-radius: 4px;
+      padding: 1px 6px;
+    }
+
+    .node-actions {
+      margin-top: 10px; padding-top: 8px;
+      border-top: 1px solid var(--border);
+      display: flex; gap: 8px;
+    }
+    .node-action-btn {
+      font-size: 10px; color: var(--text-3);
+      background: none; border: none; cursor: pointer;
+      font-family: var(--font-sans);
+      padding: 2px 0;
+      transition: color 0.15s;
+    }
+    .node-action-btn:hover { color: var(--accent); }
+
+    /* ── STICKY NOTE ─────────────────────────── */
+    .sticky-note {
+      position: absolute;
+      width: 160px;
+      background: rgba(245,166,35,0.08);
+      border: 1px solid rgba(245,166,35,0.25);
+      border-radius: 6px;
+      padding: 10px 12px;
+      z-index: 2;
+      cursor: default;
+    }
+    .sticky-note textarea {
+      background: transparent;
+      border: none;
+      color: var(--amber);
+      font-size: 12px;
+      font-family: var(--font-sans);
+      width: 100%; resize: none;
+      outline: none; line-height: 1.5;
+    }
+
+    /* ── INSPECTOR ───────────────────────────── */
+    .inspector {
+      width: 280px;
+      flex-shrink: 0;
+      border-left: 1px solid var(--border);
+      background: var(--surface);
+      display: flex; flex-direction: column;
+      overflow: hidden;
+    }
+    .inspector-header {
+      padding: 14px 18px 12px;
+      border-bottom: 1px solid var(--border);
+      font-size: 10px; font-family: var(--font-mono);
+      text-transform: uppercase; letter-spacing: 0.12em;
+      color: var(--text-3);
+    }
+    .inspector-body {
+      flex: 1; overflow-y: auto; padding: 16px 18px;
+    }
+    .inspector-empty {
+      text-align: center; padding: 40px 20px;
+      font-size: 12px; color: var(--text-3); line-height: 1.7;
+    }
+    .insp-field { margin-bottom: 16px; }
+    .insp-label {
+      font-size: 9px; font-family: var(--font-mono);
+      text-transform: uppercase; letter-spacing: 0.12em;
+      color: var(--text-3); margin-bottom: 5px;
+    }
+    .insp-value {
+      font-size: 13px; color: var(--text-1); line-height: 1.5;
+    }
+    .insp-value.mono { font-family: var(--font-mono); font-size: 11px; color: var(--green); }
+    .insp-value.dim  { color: var(--text-2); font-size: 12px; }
+    .insp-action {
+      display: block; width: 100%;
+      padding: 9px 14px; margin-top: 6px;
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text-2);
+      font-size: 12px; font-family: var(--font-sans);
+      cursor: pointer; text-align: left;
+      transition: all 0.15s;
+    }
+    .insp-action:hover { border-color: var(--border-hi); color: var(--text-1); }
+    .insp-action.primary {
+      background: var(--accent); border-color: var(--accent); color: #fff;
+    }
+    .insp-sep {
+      border: none; border-top: 1px solid var(--border);
+      margin: 16px 0;
+    }
+    .wci-mini {
+      display: flex; align-items: baseline; gap: 10px;
+      padding: 12px 14px;
+      background: var(--surface-2); border-radius: 8px;
+      margin-bottom: 14px;
+    }
+    .wci-mini-score {
+      font-size: 28px; font-weight: 700; font-family: var(--font-mono);
+      line-height: 1;
+    }
+    .wci-mini-right { flex: 1; }
+    .wci-mini-band {
+      font-size: 10px; font-family: var(--font-mono);
+      text-transform: uppercase; letter-spacing: 0.12em;
+    }
+    .wci-mini-note { font-size: 11px; color: var(--dim); margin-top: 3px; line-height: 1.4; }
+
+    /* ── CONNECTION PICKER ───────────────────── */
+    .conn-picker {
+      position: fixed;
+      z-index: 300;
+      background: var(--surface-2);
+      border: 1px solid var(--border-hi);
+      border-radius: 8px;
+      padding: 8px;
+      display: none;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+    }
+    .conn-picker.visible { display: block; }
+    .conn-picker-title {
+      font-size: 10px; font-family: var(--font-mono);
+      text-transform: uppercase; letter-spacing: 0.1em;
+      color: var(--text-3); margin-bottom: 8px; padding: 0 4px;
+    }
+    .conn-type-btn {
+      display: block; width: 100%;
+      padding: 7px 12px; background: transparent;
+      border: 1px solid transparent; border-radius: 5px;
+      color: var(--text-2); font-size: 12px;
+      text-align: left; cursor: pointer;
+      font-family: var(--font-sans); transition: all 0.1s;
+    }
+    .conn-type-btn:hover { background: var(--surface-3); border-color: var(--border); color: var(--text-1); }
+
+    /* ── INTEROP PANEL ───────────────────────── */
+    .interop-overlay {
+      display: none;
+      position: fixed; inset: 0;
+      background: rgba(0,0,0,0.6);
+      z-index: 400;
+      align-items: center; justify-content: center;
+    }
+    .interop-overlay.visible { display: flex; }
+    .interop-panel {
+      width: 680px; max-height: 80vh;
+      background: var(--surface);
+      border: 1px solid var(--border-hi);
+      border-radius: 12px;
+      overflow-y: auto;
+      padding: 32px 36px;
+    }
+    .interop-title {
+      font-size: 18px; font-weight: 500; margin-bottom: 6px;
+    }
+    .interop-subtitle {
+      font-size: 13px; color: var(--dim); margin-bottom: 28px; line-height: 1.6;
+    }
+    .interop-close {
+      float: right; background: none; border: none;
+      color: var(--dim); font-size: 18px; cursor: pointer; margin-top: -4px;
+    }
+    .interop-section { margin-bottom: 28px; }
+    .interop-section-title {
+      font-size: 10px; font-family: var(--font-mono);
+      text-transform: uppercase; letter-spacing: 0.15em;
+      color: var(--accent); margin-bottom: 12px;
+    }
+    .interop-flow {
+      display: flex; align-items: center; gap: 8px;
+      flex-wrap: wrap; margin-bottom: 10px;
+    }
+    .interop-step {
+      padding: 7px 14px;
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 12px; color: var(--text-2);
+    }
+    .interop-arrow {
+      color: var(--text-3); font-size: 14px;
+    }
+    .interop-note {
+      font-size: 12px; color: var(--dim);
+      line-height: 1.7; margin-top: 8px;
+    }
+    .interop-schema {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 14px 16px;
+      font-family: var(--font-mono);
+      font-size: 11px; color: var(--text-2);
+      line-height: 1.9;
+    }
+    .schema-key { color: var(--accent); }
+    .schema-type { color: var(--dim); }
+
+    /* ── ADD NODE DIALOG ─────────────────────── */
+    .add-dialog {
+      display: none;
+      position: fixed; inset: 0;
+      background: rgba(0,0,0,0.6);
+      z-index: 400;
+      align-items: center; justify-content: center;
+    }
+    .add-dialog.visible { display: flex; }
+    .add-dialog-panel {
+      width: 420px;
+      background: var(--surface);
+      border: 1px solid var(--border-hi);
+      border-radius: 10px;
+      padding: 24px 28px;
+    }
+    .add-dialog-title {
+      font-size: 16px; font-weight: 500; margin-bottom: 4px;
+    }
+    .add-dialog-sub {
+      font-size: 12px; color: var(--dim); margin-bottom: 20px;
+    }
+    .add-dialog input, .add-dialog select {
+      width: 100%; padding: 9px 12px;
+      background: var(--surface-2); border: 1px solid var(--border);
+      border-radius: 6px; color: var(--text-1);
+      font-size: 13px; font-family: var(--font-sans);
+      outline: none; margin-bottom: 12px;
+    }
+    .add-dialog select option { background: var(--surface-2); }
+    .add-dialog-label {
+      font-size: 10px; font-family: var(--font-mono);
+      text-transform: uppercase; letter-spacing: 0.1em;
+      color: var(--text-3); margin-bottom: 6px;
+    }
+    .add-dialog-btns { display: flex; gap: 8px; margin-top: 4px; }
+    .btn-cancel {
+      flex: 1; padding: 9px; background: transparent;
+      border: 1px solid var(--border); border-radius: 6px;
+      color: var(--text-2); font-size: 13px; cursor: pointer;
+      font-family: var(--font-sans);
+    }
+    .btn-add-node {
+      flex: 2; padding: 9px; background: var(--accent);
+      border: 1px solid var(--accent); border-radius: 6px;
+      color: #fff; font-size: 13px; cursor: pointer;
+      font-family: var(--font-sans);
+    }
+    .btn-form-link {
+      display: block; text-align: center; margin-top: 12px;
+      font-size: 11px; color: var(--dim); text-decoration: none;
+    }
+    .btn-form-link:hover { color: var(--accent); }
+  </style>
+</head>
+<body>
+
+<!-- ── HEADER ── -->
+<header class="header">
+  <span class="wordmark">Woodchipper</span>
+  <div class="header-sep"></div>
+  <span class="header-title">Research Board</span>
+  <div class="header-right">
+    <div class="sync-dot"></div>
+    <span class="sync-label">Live</span>
+    <div class="header-sep"></div>
+    <button class="header-btn" id="btn-interop">Interoperability ↗</button>
+    <a href="entry-layer-v3.html" class="header-btn" target="_blank">Open Form ↗</a>
+    <button class="header-btn primary" id="btn-new-work">+ New Work</button>
+  </div>
+</header>
+
+<!-- ── MAIN LAYOUT ── -->
+<div class="board-shell">
+
+  <!-- ── TOOLBOX ── -->
+  <aside class="toolbox">
+    <button class="tool-btn active" id="tool-select" data-tool="select" title="">
+      ↖
+      <span class="tool-tooltip">Select &amp; move</span>
+    </button>
+    <button class="tool-btn" id="tool-add" data-tool="add" title="">
+      +
+      <span class="tool-tooltip">Add work item</span>
+    </button>
+    <button class="tool-btn" id="tool-connect" data-tool="connect" title="">
+      ⌇
+      <span class="tool-tooltip">Connect items</span>
+    </button>
+    <button class="tool-btn" id="tool-note" data-tool="note" title="">
+      ✎
+      <span class="tool-tooltip">Add note</span>
+    </button>
+    <div class="tool-sep"></div>
+    <button class="tool-btn" id="tool-delete" data-tool="delete" title="" style="color:var(--red)">
+      ✕
+      <span class="tool-tooltip">Delete selected</span>
+    </button>
+  </aside>
+
+  <!-- ── BOARD CANVAS ── -->
+  <main class="board-canvas" id="board-canvas">
+    <svg class="connections-svg" id="connections-svg">
+      <defs>
+        <marker id="arrowhead" markerWidth="8" markerHeight="6"
+          refX="7" refY="3" orient="auto">
+          <polygon points="0 0, 8 3, 0 6" fill="rgba(255,255,255,0.2)"/>
+        </marker>
+        <marker id="arrowhead-selected" markerWidth="8" markerHeight="6"
+          refX="7" refY="3" orient="auto">
+          <polygon points="0 0, 8 3, 0 6" fill="#4f8ef5"/>
+        </marker>
+      </defs>
+    </svg>
+    <div id="nodes-container"></div>
+    <div class="canvas-hint" id="canvas-hint">
+      Select tool active — drag nodes to arrange · Use toolbox to add or connect
+    </div>
+  </main>
+
+  <!-- ── INSPECTOR ── -->
+  <aside class="inspector">
+    <div class="inspector-header">Inspector</div>
+    <div class="inspector-body" id="inspector-body">
+      <div class="inspector-empty">
+        Select a node to inspect it.<br><br>
+        Shift-click to select multiple.<br>
+        Use Connect tool to draw relationships.
+      </div>
+    </div>
+  </aside>
+
+</div><!-- /board-shell -->
+
+<!-- ── CONNECTION TYPE PICKER ── -->
+<div class="conn-picker" id="conn-picker">
+  <div class="conn-picker-title">Relationship type</div>
+  <button class="conn-type-btn" data-rel="builds-on">Builds on</button>
+  <button class="conn-type-btn" data-rel="cites">Cites</button>
+  <button class="conn-type-btn" data-rel="contradicts" style="color:var(--red)">Contradicts</button>
+  <button class="conn-type-btn" data-rel="extends">Extends</button>
+  <button class="conn-type-btn" data-rel="replicates">Replicates</button>
+  <button class="conn-type-btn" data-rel="related">Related</button>
+  <button class="conn-type-btn" data-rel="cancel" style="color:var(--dim);margin-top:4px;border-top:1px solid var(--border);border-radius:0 0 4px 4px;padding-top:8px;">Cancel</button>
+</div>
+
+<!-- ── ADD NODE DIALOG ── -->
+<div class="add-dialog" id="add-dialog">
+  <div class="add-dialog-panel">
+    <div class="add-dialog-title">Add work item</div>
+    <div class="add-dialog-sub">Quick entry — opens a node on the board. Use the full intake form for a complete submission.</div>
+    <div class="add-dialog-label">Working title (optional)</div>
+    <input type="text" id="add-title" placeholder="What are you thinking of calling it?">
+    <div class="add-dialog-label">Object type</div>
+    <select id="add-type">
+      <option value="Scientific case">Scientific case</option>
+      <option value="Observation">Observation</option>
+      <option value="Framework">Framework</option>
+      <option value="Wisdom">Wisdom</option>
+      <option value="Passing thought">Passing thought</option>
+    </select>
+    <div class="add-dialog-label">Domain (optional)</div>
+    <input type="text" id="add-domain" placeholder="e.g. Behavioral biology, Linguistics…">
+    <div class="add-dialog-btns">
+      <button class="btn-cancel" id="add-cancel">Cancel</button>
+      <button class="btn-add-node" id="add-confirm">Add to board →</button>
+    </div>
+    <a href="entry-layer-v3.html" class="btn-form-link" target="_blank">↗ Full intake form — for complete submission and evaluation</a>
+  </div>
+</div>
+
+<!-- ── INTEROPERABILITY PANEL ── -->
+<div class="interop-overlay" id="interop-overlay">
+  <div class="interop-panel">
+    <button class="interop-close" id="interop-close">✕</button>
+    <div class="interop-title">Interoperability</div>
+    <div class="interop-subtitle">
+      How the Research Board and the Intake Form share state, trigger events, and compose into a single epistemic workspace.
+    </div>
+
+    <div class="interop-section">
+      <div class="interop-section-title">1 · Form → Board (node creation)</div>
+      <div class="interop-flow">
+        <div class="interop-step">Form L1–L3 (intake)</div>
+        <div class="interop-arrow">→</div>
+        <div class="interop-step">L5 confirm fires</div>
+        <div class="interop-arrow">→</div>
+        <div class="interop-step">WorkItem created</div>
+        <div class="interop-arrow">→</div>
+        <div class="interop-step">Node appears on Board</div>
+      </div>
+      <div class="interop-note">
+        The L5 confirm button POSTs a WorkItem object to the API. The board receives it via WebSocket and instantiates a new node at a calculated position. Status: <em>evaluation queued</em> (if eval route selected) or <em>intake only</em>.
+        In the prototype: simulated via localStorage bridge — completing the form and clicking "Begin evaluation" will create a node here on next load.
+      </div>
+    </div>
+
+    <div class="interop-section">
+      <div class="interop-section-title">2 · Board → Form (node expansion)</div>
+      <div class="interop-flow">
+        <div class="interop-step">Node inspector</div>
+        <div class="interop-arrow">→</div>
+        <div class="interop-step">"Open in form" clicked</div>
+        <div class="interop-arrow">→</div>
+        <div class="interop-step">Form opens with ?uri=…</div>
+        <div class="interop-arrow">→</div>
+        <div class="interop-step">L1 pre-filled</div>
+      </div>
+      <div class="interop-note">
+        Each node carries its full intake record (L1–L3 data). Clicking "Open in form" navigates to the intake form with the node's URI as a URL parameter. The form loads the node's data into L1–L3 and allows the researcher to add routes, update the description, or re-submit for evaluation.
+      </div>
+    </div>
+
+    <div class="interop-section">
+      <div class="interop-section-title">3 · Evaluation → Board (results return)</div>
+      <div class="interop-flow">
+        <div class="interop-step">Evaluation completes</div>
+        <div class="interop-arrow">→</div>
+        <div class="interop-step">API push event</div>
+        <div class="interop-arrow">→</div>
+        <div class="interop-step">Node status updates</div>
+        <div class="interop-arrow">→</div>
+        <div class="interop-step">Band + score shown</div>
+      </div>
+      <div class="interop-note">
+        WCI results are pushed to the board as a NodeUpdate event: { uri, band, score, dimensions }. The node re-renders with its band color and score badge. The inspector shows the full dimensional breakdown. Evaluation results are never generated by the form or the board — they arrive from the evaluation pipeline after content is read.
+      </div>
+    </div>
+
+    <div class="interop-section">
+      <div class="interop-section-title">4 · Board relational context → Evaluation</div>
+      <div class="interop-flow">
+        <div class="interop-step">Node A "builds-on" Node B</div>
+        <div class="interop-arrow">→</div>
+        <div class="interop-step">Eval context for A</div>
+        <div class="interop-arrow">→</div>
+        <div class="interop-step">Includes B's WCI profile</div>
+      </div>
+      <div class="interop-note">
+        When a node is submitted for evaluation, the board sends its connection graph alongside the intake record. A work that "builds on" another can carry that work's WCI dimensional profile as citation context — the evaluator sees not just the claim, but what it is built on and how that foundation scored.
+      </div>
+    </div>
+
+    <div class="interop-section">
+      <div class="interop-section-title">WorkItem schema</div>
+      <div class="interop-schema">
+        <span class="schema-key">WorkItem</span> {<br>
+        &nbsp;&nbsp;<span class="schema-key">uri</span>: <span class="schema-type">string</span>          <span style="color:var(--text-3)">// woodchipper.wiki/{type}/{slug}</span><br>
+        &nbsp;&nbsp;<span class="schema-key">title</span>: <span class="schema-type">string | null</span><br>
+        &nbsp;&nbsp;<span class="schema-key">objectType</span>: <span class="schema-type">ObjectType</span>    <span style="color:var(--text-3)">// Scientific case | Observation | …</span><br>
+        &nbsp;&nbsp;<span class="schema-key">researcherType</span>: <span class="schema-type">string</span><br>
+        &nbsp;&nbsp;<span class="schema-key">domain</span>: <span class="schema-type">string | null</span><br>
+        &nbsp;&nbsp;<span class="schema-key">hope</span>: <span class="schema-type">string | null</span>     <span style="color:var(--text-3)">// researcher's stated intent</span><br>
+        &nbsp;&nbsp;<span class="schema-key">routes</span>: <span class="schema-type">RouteId[]</span>       <span style="color:var(--text-3)">// committed routes from L3</span><br>
+        &nbsp;&nbsp;<span class="schema-key">labels</span>: <span class="schema-type">string[]</span>        <span style="color:var(--text-3)">// subject classification codes</span><br>
+        &nbsp;&nbsp;<span class="schema-key">status</span>: <span class="schema-type">EvalStatus</span>      <span style="color:var(--text-3)">// intake-only | eval-queued | evaluating | results-ready</span><br>
+        &nbsp;&nbsp;<span class="schema-key">evalResult</span>: <span class="schema-type">EvalResult | null</span><br>
+        &nbsp;&nbsp;<span class="schema-key">entryText</span>: <span class="schema-type">string</span>       <span style="color:var(--text-3)">// researcher's own words from L1</span><br>
+        &nbsp;&nbsp;<span class="schema-key">submittedAt</span>: <span class="schema-type">ISO8601</span><br>
+        }<br><br>
+        <span class="schema-key">EvalResult</span> {<br>
+        &nbsp;&nbsp;<span class="schema-key">band</span>: <span class="schema-type">STRONG | DEVELOPING | EARLY | PRE-SCIENTIFIC</span><br>
+        &nbsp;&nbsp;<span class="schema-key">score</span>: <span class="schema-type">number</span>          <span style="color:var(--text-3)">// 0–100, WCI only</span><br>
+        &nbsp;&nbsp;<span class="schema-key">dimensions</span>: <span class="schema-type">DimScore[]</span>  <span style="color:var(--text-3)">// 9 dimensions, each 0–10</span><br>
+        &nbsp;&nbsp;<span class="schema-key">completedAt</span>: <span class="schema-type">ISO8601</span><br>
+        }
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ═══════════════════════════════════════════════════════════
+// STATE
+// ═══════════════════════════════════════════════════════════
+let nodes = [];
+let connections = [];
+let selectedIds = new Set();
+let activeTool = 'select';
+let connectSource = null;
+let addPosition = { x: 200, y: 200 };
+
+const TYPE_DOT_CLASS = {
+  'Scientific case': 'type-scientific-case',
+  'Observation':     'type-observation',
+  'Framework':       'type-framework',
+  'Wisdom':          'type-wisdom',
+  'Passing thought': 'type-passing-thought',
+};
+
+const REL_LABELS = {
+  'builds-on':   'Builds on',
+  'cites':       'Cites',
+  'contradicts': 'Contradicts',
+  'extends':     'Extends',
+  'replicates':  'Replicates',
+  'related':     'Related to',
+};
+
+// ═══════════════════════════════════════════════════════════
+// DEMO DATA
+// ═══════════════════════════════════════════════════════════
+function initDemoData() {
+  nodes = [
+    {
+      id: 'n1',
+      title: 'Cortisol elevation in subordinate males — 14-year observation',
+      objectType: 'Observation',
+      researcherType: 'Field researcher',
+      domain: 'Behavioral biology',
+      uri: 'woodchipper.wiki/observation/cortisol-subordinate',
+      hope: 'Help naming what I have',
+      routes: ['registry', 'summary'],
+      labels: ['BEH.ECO', 'NEU.MOL'],
+      status: 'results-ready',
+      evalResult: null,
+      x: 60, y: 80,
+    },
+    {
+      id: 'n2',
+      title: 'Social rank predicts glucocorticoid reactivity in wild baboon troops',
+      objectType: 'Scientific case',
+      researcherType: 'Academic researcher',
+      domain: 'Behavioral biology',
+      uri: 'woodchipper.wiki/scientific-case/rank-cortisol-baboon',
+      hope: 'Credibility assessment (WCI)',
+      routes: ['wci', 'full-eval', 'registry'],
+      labels: ['BEH.ECO', 'BEH.SOC'],
+      status: 'results-ready',
+      evalResult: { band: 'STRONG', score: 74 },
+      x: 340, y: 60,
+    },
+    {
+      id: 'n3',
+      title: 'Hierarchical stress cascade: a framework for cross-species hormonal dominance effects',
+      objectType: 'Framework',
+      researcherType: 'Academic researcher',
+      domain: 'Evolutionary biology',
+      uri: 'woodchipper.wiki/framework/hierarchical-stress-cascade',
+      hope: 'Feedback on the structure',
+      routes: ['wci', 'full-eval'],
+      labels: ['BIOL.EVO', 'NEU.MOL'],
+      status: 'evaluating',
+      evalResult: null,
+      x: 620, y: 140,
+    },
+    {
+      id: 'n4',
+      title: 'Does social defeat syndrome generalize across mammalian taxa?',
+      objectType: 'Passing thought',
+      researcherType: 'Curious observer',
+      domain: 'Comparative biology',
+      uri: 'woodchipper.wiki/passing-thought/social-defeat-generalization',
+      hope: 'Help naming what I have',
+      routes: [],
+      labels: [],
+      status: 'intake-only',
+      evalResult: null,
+      x: 60, y: 320,
+    },
+    {
+      id: 'n5',
+      title: 'Practice notes: field handling stress vs. baseline cortisol disambiguation',
+      objectType: 'Wisdom',
+      researcherType: 'Field researcher',
+      domain: 'Field methodology',
+      uri: 'woodchipper.wiki/wisdom/field-handling-stress',
+      hope: 'Know what to improve',
+      routes: ['summary'],
+      labels: ['METH.FLD'],
+      status: 'eval-queued',
+      evalResult: null,
+      x: 340, y: 320,
+    },
+  ];
+
+  connections = [
+    { id: 'c1', from: 'n1', to: 'n2', type: 'builds-on' },
+    { id: 'c2', from: 'n2', to: 'n3', type: 'extends' },
+    { id: 'c3', from: 'n4', to: 'n3', type: 'related' },
+    { id: 'c4', from: 'n5', to: 'n2', type: 'cites' },
+  ];
+}
+
+// ═══════════════════════════════════════════════════════════
+// RENDER NODES
+// ═══════════════════════════════════════════════════════════
+function renderNodes() {
+  const container = document.getElementById('nodes-container');
+  // Remove old nodes not in state
+  const existing = new Set(nodes.map(n => n.id));
+  container.querySelectorAll('.wc-node').forEach(el => {
+    if (!existing.has(el.dataset.id)) el.remove();
+  });
+  // Update or create
+  nodes.forEach(n => {
+    let el = document.getElementById('node-' + n.id);
+    if (!el) {
+      el = createNodeElement(n);
+      container.appendChild(el);
+    }
+    updateNodeElement(el, n);
+  });
+  renderConnections();
+}
+
+function createNodeElement(n) {
+  const el = document.createElement('div');
+  el.className = 'wc-node';
+  el.id = 'node-' + n.id;
+  el.dataset.id = n.id;
+  el.innerHTML = `
+    <div class="node-drag-handle" data-id="${n.id}"></div>
+    <div class="node-type-row">
+      <div class="node-type-dot ${TYPE_DOT_CLASS[n.objectType] || ''}"></div>
+      <div class="node-type-label">${n.objectType || 'Unknown'}</div>
+    </div>
+    <div class="node-title ${n.title ? '' : 'untitled'}">${n.title || '(untitled)'}</div>
+    <div class="node-uri">${n.uri}</div>
+    <div class="node-status-row" id="ns-${n.id}"></div>
+    <div class="node-routes" id="nr-${n.id}"></div>
+    <div class="node-actions">
+      <button class="node-action-btn" data-action="inspect" data-id="${n.id}">Inspect</button>
+      <button class="node-action-btn" data-action="form" data-id="${n.id}">Open in form ↗</button>
+    </div>`;
+
+  // Drag
+  const handle = el.querySelector('.node-drag-handle');
+  handle.addEventListener('mousedown', (e) => onNodeDragStart(e, n.id));
+
+  // Click to select
+  el.addEventListener('mousedown', (e) => {
+    if (e.target.classList.contains('node-action-btn')) return;
+    if (e.target.classList.contains('node-drag-handle')) return;
+    onNodeClick(e, n.id);
+  });
+
+  // Action buttons
+  el.querySelector('[data-action="inspect"]').addEventListener('click', (e) => {
+    e.stopPropagation();
+    selectNode(n.id);
+  });
+  el.querySelector('[data-action="form"]').addEventListener('click', (e) => {
+    e.stopPropagation();
+    window.open(`entry-layer-v3.html?uri=${encodeURIComponent(n.uri)}`, '_blank');
+  });
+
+  return el;
+}
+
+function updateNodeElement(el, n) {
+  el.style.left = n.x + 'px';
+  el.style.top  = n.y + 'px';
+  el.classList.toggle('selected', selectedIds.has(n.id));
+  el.classList.toggle('connecting-source', connectSource === n.id);
+
+  // Status classes
+  el.classList.remove('status-strong', 'status-developing');
+  if (n.evalResult) {
+    if (n.evalResult.band === 'STRONG')     el.classList.add('status-strong');
+    if (n.evalResult.band === 'DEVELOPING') el.classList.add('status-developing');
+  }
+
+  // Status row
+  const nsEl = document.getElementById('ns-' + n.id);
+  if (nsEl) {
+    if (n.evalResult) {
+      nsEl.innerHTML = `
+        <span class="node-status status-results band-${n.evalResult.band}">
+          ${n.evalResult.score !== undefined ? n.evalResult.score + ' · ' : ''}${n.evalResult.band}
+        </span>`;
+    } else {
+      const statusMap = {
+        'intake-only':  ['status-intake-only', 'intake only'],
+        'eval-queued':  ['status-eval-queued', 'evaluation queued'],
+        'evaluating':   ['status-evaluating', 'evaluating…'],
+        'results-ready':['status-eval-queued', 'results ready'],
+      };
+      const [cls, label] = statusMap[n.status] || ['status-intake-only', n.status];
+      nsEl.innerHTML = `<span class="node-status ${cls}">${label}</span>`;
+    }
+  }
+
+  // Routes
+  const nrEl = document.getElementById('nr-' + n.id);
+  if (nrEl) {
+    nrEl.innerHTML = n.routes.map(r =>
+      `<span class="node-route-tag">${r.replace(/-/g,' ')}</span>`
+    ).join('');
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// RENDER CONNECTIONS
+// ═══════════════════════════════════════════════════════════
+function renderConnections() {
+  const svg = document.getElementById('connections-svg');
+  // Clear existing lines
+  svg.querySelectorAll('.conn-line, .conn-label-group').forEach(el => el.remove());
+
+  connections.forEach(c => {
+    const fromNode = nodes.find(n => n.id === c.from);
+    const toNode   = nodes.find(n => n.id === c.to);
+    if (!fromNode || !toNode) return;
+
+    const fw = 224, fh = estimateNodeHeight(fromNode);
+    const tw = 224, th = estimateNodeHeight(toNode);
+
+    const fx = fromNode.x + fw / 2;
+    const fy = fromNode.y + fh / 2;
+    const tx = toNode.x   + tw / 2;
+    const ty = toNode.y   + th / 2;
+
+    const isSelected = selectedIds.has(c.from) || selectedIds.has(c.to);
+    const color = c.type === 'contradicts' ? 'rgba(224,82,82,0.5)'
+                : isSelected ? '#4f8ef5'
+                : 'rgba(255,255,255,0.15)';
+    const marker = isSelected ? 'url(#arrowhead-selected)' : 'url(#arrowhead)';
+
+    const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+    line.setAttribute('x1', fx); line.setAttribute('y1', fy);
+    line.setAttribute('x2', tx); line.setAttribute('y2', ty);
+    line.setAttribute('stroke', color);
+    line.setAttribute('stroke-width', isSelected ? '1.5' : '1');
+    line.setAttribute('marker-end', marker);
+    line.classList.add('conn-line');
+    line.dataset.connId = c.id;
+    svg.appendChild(line);
+
+    // Label at midpoint
+    const mx = (fx + tx) / 2;
+    const my = (fy + ty) / 2;
+    const g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+    g.classList.add('conn-label-group');
+
+    const bg = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+    const labelText = REL_LABELS[c.type] || c.type;
+    bg.setAttribute('x', mx - labelText.length * 3 - 4);
+    bg.setAttribute('y', my - 9);
+    bg.setAttribute('width', labelText.length * 6 + 8);
+    bg.setAttribute('height', 16);
+    bg.setAttribute('rx', 4);
+    bg.setAttribute('fill', '#191919');
+    bg.setAttribute('stroke', 'rgba(255,255,255,0.08)');
+
+    const text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+    text.setAttribute('x', mx);
+    text.setAttribute('y', my + 1);
+    text.setAttribute('text-anchor', 'middle');
+    text.setAttribute('dominant-baseline', 'middle');
+    text.setAttribute('fill', isSelected ? '#4f8ef5' : 'rgba(255,255,255,0.25)');
+    text.setAttribute('font-size', '9');
+    text.setAttribute('font-family', 'monospace');
+    text.setAttribute('letter-spacing', '0.08em');
+    text.textContent = labelText.toUpperCase();
+
+    g.appendChild(bg);
+    g.appendChild(text);
+    svg.appendChild(g);
+
+    // Click to select connection
+    line.style.pointerEvents = 'stroke';
+    line.style.cursor = activeTool === 'delete' ? 'pointer' : 'default';
+    line.addEventListener('click', () => {
+      if (activeTool === 'delete') {
+        connections = connections.filter(x => x.id !== c.id);
+        renderConnections();
+      }
+    });
+  });
+}
+
+function estimateNodeHeight(n) {
+  const baseH = 130;
+  const titleLines = Math.ceil((n.title || '').length / 28);
+  return baseH + Math.max(0, titleLines - 1) * 18;
+}
+
+// ═══════════════════════════════════════════════════════════
+// NODE DRAG
+// ═══════════════════════════════════════════════════════════
+let dragging = null;
+let dragOffset = { x: 0, y: 0 };
+
+function onNodeDragStart(e, id) {
+  if (activeTool === 'delete') return;
+  if (activeTool === 'connect') { onNodeClick(e, id); return; }
+  e.preventDefault();
+  dragging = id;
+  const n = nodes.find(x => x.id === id);
+  dragOffset.x = e.clientX - n.x;
+  dragOffset.y = e.clientY - n.y;
+  selectNode(id);
+}
+
+document.addEventListener('mousemove', (e) => {
+  if (!dragging) return;
+  const n = nodes.find(x => x.id === dragging);
+  if (!n) return;
+  n.x = Math.max(0, e.clientX - dragOffset.x);
+  n.y = Math.max(0, e.clientY - dragOffset.y);
+  const el = document.getElementById('node-' + n.id);
+  if (el) {
+    el.style.left = n.x + 'px';
+    el.style.top  = n.y + 'px';
+  }
+  renderConnections();
+});
+
+document.addEventListener('mouseup', () => {
+  dragging = null;
+});
+
+// ═══════════════════════════════════════════════════════════
+// SELECTION & CLICK
+// ═══════════════════════════════════════════════════════════
+function onNodeClick(e, id) {
+  if (activeTool === 'delete') {
+    nodes = nodes.filter(n => n.id !== id);
+    connections = connections.filter(c => c.from !== id && c.to !== id);
+    selectedIds.delete(id);
+    renderNodes();
+    renderInspector();
+    return;
+  }
+  if (activeTool === 'connect') {
+    handleConnectClick(id);
+    return;
+  }
+  if (e.shiftKey) {
+    if (selectedIds.has(id)) selectedIds.delete(id);
+    else selectedIds.add(id);
+  } else {
+    selectedIds = new Set([id]);
+  }
+  renderNodeSelectionState();
+  renderConnections();
+  renderInspector();
+}
+
+function selectNode(id) {
+  selectedIds = new Set([id]);
+  renderNodeSelectionState();
+  renderConnections();
+  renderInspector();
+}
+
+function renderNodeSelectionState() {
+  nodes.forEach(n => {
+    const el = document.getElementById('node-' + n.id);
+    if (el) el.classList.toggle('selected', selectedIds.has(n.id));
+  });
+}
+
+// Click on canvas to deselect
+document.getElementById('board-canvas').addEventListener('mousedown', (e) => {
+  if (e.target === document.getElementById('board-canvas') ||
+      e.target === document.getElementById('nodes-container') ||
+      e.target.classList.contains('connections-svg')) {
+    if (activeTool === 'add') {
+      const rect = document.getElementById('board-canvas').getBoundingClientRect();
+      addPosition = { x: e.clientX - rect.left - 112, y: e.clientY - rect.top - 60 };
+      openAddDialog();
+      return;
+    }
+    if (activeTool === 'note') {
+      const rect = document.getElementById('board-canvas').getBoundingClientRect();
+      addStickyNote(e.clientX - rect.left, e.clientY - rect.top);
+      return;
+    }
+    selectedIds.clear();
+    connectSource = null;
+    renderNodeSelectionState();
+    renderConnections();
+    renderInspector();
+  }
+});
+
+// ═══════════════════════════════════════════════════════════
+// CONNECT TOOL
+// ═══════════════════════════════════════════════════════════
+let pendingConnTo = null;
+
+function handleConnectClick(id) {
+  if (!connectSource) {
+    connectSource = id;
+    const el = document.getElementById('node-' + id);
+    if (el) el.classList.add('connecting-source');
+    updateCanvasHint('Connect: now click the target node — or click empty canvas to cancel');
+  } else {
+    if (connectSource === id) { connectSource = null; renderNodeSelectionState(); return; }
+    pendingConnTo = id;
+    // Show connection type picker near the target node
+    const toNode = nodes.find(n => n.id === id);
+    if (toNode) {
+      const picker = document.getElementById('conn-picker');
+      picker.style.left = (toNode.x + 224 + 10) + 'px';
+      picker.style.top  = toNode.y + 'px';
+      picker.classList.add('visible');
+    }
+  }
+}
+
+document.getElementById('conn-picker').addEventListener('click', (e) => {
+  const btn = e.target.closest('.conn-type-btn');
+  if (!btn) return;
+  const rel = btn.dataset.rel;
+  document.getElementById('conn-picker').classList.remove('visible');
+  if (rel !== 'cancel' && connectSource && pendingConnTo) {
+    const id = 'c' + Date.now();
+    connections.push({ id, from: connectSource, to: pendingConnTo, type: rel });
+  }
+  connectSource = null;
+  pendingConnTo = null;
+  renderNodeSelectionState();
+  renderConnections();
+  updateCanvasHint('Connect tool active — click a source node');
+});
+
+// ═══════════════════════════════════════════════════════════
+// STICKY NOTES
+// ═══════════════════════════════════════════════════════════
+function addStickyNote(x, y) {
+  const note = document.createElement('div');
+  note.className = 'sticky-note';
+  note.style.left = x + 'px';
+  note.style.top  = y + 'px';
+  const ta = document.createElement('textarea');
+  ta.rows = 4;
+  ta.placeholder = 'Note…';
+  note.appendChild(ta);
+  document.getElementById('nodes-container').appendChild(note);
+  // Drag
+  note.addEventListener('mousedown', (e) => {
+    if (e.target === ta) return;
+    let ox = e.clientX - note.offsetLeft;
+    let oy = e.clientY - note.offsetTop;
+    const mm = (ev) => {
+      note.style.left = (ev.clientX - ox) + 'px';
+      note.style.top  = (ev.clientY - oy) + 'px';
+    };
+    const mu = () => { document.removeEventListener('mousemove', mm); document.removeEventListener('mouseup', mu); };
+    document.addEventListener('mousemove', mm);
+    document.addEventListener('mouseup', mu);
+  });
+  setTimeout(() => ta.focus(), 50);
+}
+
+// ═══════════════════════════════════════════════════════════
+// INSPECTOR
+// ═══════════════════════════════════════════════════════════
+function renderInspector() {
+  const body = document.getElementById('inspector-body');
+  if (selectedIds.size === 0) {
+    body.innerHTML = '<div class="inspector-empty">Select a node to inspect it.<br><br>Shift-click to select multiple.<br>Use Connect tool to draw relationships.</div>';
+    return;
+  }
+  if (selectedIds.size > 1) {
+    body.innerHTML = `<div class="inspector-empty">${selectedIds.size} nodes selected.<br><br>Delete all: press Delete key.</div>`;
+    return;
+  }
+  const id = [...selectedIds][0];
+  const n = nodes.find(x => x.id === id);
+  if (!n) return;
+
+  let wciBlock = '';
+  if (n.evalResult) {
+    const scoreColor = n.evalResult.band === 'STRONG' ? 'var(--green)'
+                     : n.evalResult.band === 'DEVELOPING' ? 'var(--amber)' : 'var(--text-2)';
+    wciBlock = `
+      <div class="wci-mini">
+        <div class="wci-mini-score" style="color:${scoreColor}">${n.evalResult.score !== undefined ? n.evalResult.score : '—'}</div>
+        <div class="wci-mini-right">
+          <div class="wci-mini-band" style="color:${scoreColor}">${n.evalResult.band}</div>
+          <div class="wci-mini-note">WCI — Woodchipper Credibility Index</div>
+        </div>
+      </div>`;
+  }
+
+  const conns = connections.filter(c => c.from === id || c.to === id);
+  const connList = conns.length ? conns.map(c => {
+    const other = nodes.find(x => x.id === (c.from === id ? c.to : c.from));
+    const dir = c.from === id ? '→' : '←';
+    const label = REL_LABELS[c.type] || c.type;
+    return `<div style="font-size:11px;color:var(--dim);margin-bottom:5px;line-height:1.4;">
+      <span style="color:var(--text-3)">${dir} ${label}:</span><br>
+      <span style="color:var(--text-2)">${other ? (other.title || '(untitled)').slice(0, 50) : '—'}</span>
+    </div>`;
+  }).join('') : '<div style="font-size:11px;color:var(--text-3)">No connections yet. Use the Connect tool.</div>';
+
+  body.innerHTML = `
+    ${wciBlock}
+    <div class="insp-field">
+      <div class="insp-label">Title</div>
+      <div class="insp-value">${n.title || '<em style="color:var(--text-3)">(untitled)</em>'}</div>
+    </div>
+    <div class="insp-field">
+      <div class="insp-label">Object type</div>
+      <div class="insp-value">${n.objectType}</div>
+    </div>
+    <div class="insp-field">
+      <div class="insp-label">URI</div>
+      <div class="insp-value mono">${n.uri}</div>
+    </div>
+    <div class="insp-field">
+      <div class="insp-label">Domain</div>
+      <div class="insp-value dim">${n.domain || '—'}</div>
+    </div>
+    <div class="insp-field">
+      <div class="insp-label">Researcher intent</div>
+      <div class="insp-value dim">${n.hope || '—'}</div>
+    </div>
+    <div class="insp-field">
+      <div class="insp-label">Routes</div>
+      <div class="insp-value dim">${n.routes.length ? n.routes.join(', ') : 'None'}</div>
+    </div>
+    <div class="insp-field">
+      <div class="insp-label">Status</div>
+      <div class="insp-value dim">${n.status.replace(/-/g,' ')}</div>
+    </div>
+    <hr class="insp-sep">
+    <div class="insp-field">
+      <div class="insp-label">Connections (${conns.length})</div>
+      ${connList}
+    </div>
+    <hr class="insp-sep">
+    <button class="insp-action primary" onclick="window.open('entry-layer-v3.html?uri=${encodeURIComponent(n.uri)}','_blank')">
+      Open in form ↗
+    </button>
+    <button class="insp-action" id="insp-sim-eval" style="display:${!n.evalResult && n.routes.some(r => ['wci','full-eval','summary'].includes(r)) ? 'block' : 'none'}">
+      Simulate: evaluation returns
+    </button>
+    <button class="insp-action" style="color:var(--red);border-color:rgba(224,82,82,0.3);" onclick="deleteNode('${n.id}')">
+      Remove from board
+    </button>`;
+
+  const simBtn = document.getElementById('insp-sim-eval');
+  if (simBtn) {
+    simBtn.addEventListener('click', () => {
+      const hasWCI = n.routes.includes('wci') || n.routes.includes('full-eval');
+      n.status = 'results-ready';
+      n.evalResult = hasWCI
+        ? { band: 'DEVELOPING', score: 58 }
+        : { band: 'DEVELOPING' };
+      renderNodes();
+      renderInspector();
+    });
+  }
+}
+
+function deleteNode(id) {
+  nodes = nodes.filter(n => n.id !== id);
+  connections = connections.filter(c => c.from !== id && c.to !== id);
+  selectedIds.delete(id);
+  renderNodes();
+  renderInspector();
+}
+
+// Delete key
+document.addEventListener('keydown', (e) => {
+  if ((e.key === 'Delete' || e.key === 'Backspace') &&
+      e.target === document.body && selectedIds.size > 0) {
+    selectedIds.forEach(id => {
+      nodes = nodes.filter(n => n.id !== id);
+      connections = connections.filter(c => c.from !== id && c.to !== id);
+    });
+    selectedIds.clear();
+    renderNodes();
+    renderInspector();
+  }
+});
+
+// ═══════════════════════════════════════════════════════════
+// TOOLBOX
+// ═══════════════════════════════════════════════════════════
+const TOOL_HINTS = {
+  select:  'Select tool active — drag to move nodes · click to inspect',
+  add:     'Add tool active — click anywhere on the canvas to add a work item',
+  connect: 'Connect tool active — click a source node to begin',
+  note:    'Note tool active — click anywhere on the canvas to drop a note',
+  delete:  'Delete tool active — click a node or connection to remove it',
+};
+
+document.querySelectorAll('.tool-btn[data-tool]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    activeTool = btn.dataset.tool;
+    document.querySelectorAll('.tool-btn[data-tool]').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    connectSource = null;
+    renderNodeSelectionState();
+    renderConnections();
+    updateCanvasHint(TOOL_HINTS[activeTool]);
+  });
+});
+
+function updateCanvasHint(text) {
+  document.getElementById('canvas-hint').textContent = text;
+}
+
+// ═══════════════════════════════════════════════════════════
+// ADD NODE DIALOG
+// ═══════════════════════════════════════════════════════════
+function openAddDialog() {
+  document.getElementById('add-dialog').classList.add('visible');
+  document.getElementById('add-title').value = '';
+  document.getElementById('add-domain').value = '';
+  setTimeout(() => document.getElementById('add-title').focus(), 50);
+}
+
+document.getElementById('add-cancel').addEventListener('click', () => {
+  document.getElementById('add-dialog').classList.remove('visible');
+  setTool('select');
+});
+
+document.getElementById('add-confirm').addEventListener('click', () => {
+  const title = document.getElementById('add-title').value.trim();
+  const type = document.getElementById('add-type').value;
+  const domain = document.getElementById('add-domain').value.trim();
+  const slug = slugify(title || type);
+  const id = 'n' + Date.now();
+  nodes.push({
+    id,
+    title: title || null,
+    objectType: type,
+    researcherType: '—',
+    domain: domain || null,
+    uri: `woodchipper.wiki/${type.toLowerCase().replace(/\s+/g,'-')}/${slug}`,
+    hope: null,
+    routes: [],
+    labels: [],
+    status: 'intake-only',
+    evalResult: null,
+    x: addPosition.x,
+    y: addPosition.y,
+  });
+  document.getElementById('add-dialog').classList.remove('visible');
+  setTool('select');
+  renderNodes();
+  selectNode(id);
+});
+
+document.getElementById('btn-new-work').addEventListener('click', () => {
+  addPosition = { x: 120 + Math.random() * 400, y: 80 + Math.random() * 200 };
+  openAddDialog();
+});
+
+function setTool(name) {
+  activeTool = name;
+  document.querySelectorAll('.tool-btn[data-tool]').forEach(b => {
+    b.classList.toggle('active', b.dataset.tool === name);
+  });
+  updateCanvasHint(TOOL_HINTS[name]);
+}
+
+function slugify(text) {
+  if (!text) return Math.random().toString(36).slice(2, 8);
+  return text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g,'').slice(0,24)
+         || Math.random().toString(36).slice(2, 8);
+}
+
+// ═══════════════════════════════════════════════════════════
+// INTEROP PANEL
+// ═══════════════════════════════════════════════════════════
+document.getElementById('btn-interop').addEventListener('click', () => {
+  document.getElementById('interop-overlay').classList.add('visible');
+});
+document.getElementById('interop-close').addEventListener('click', () => {
+  document.getElementById('interop-overlay').classList.remove('visible');
+});
+document.getElementById('interop-overlay').addEventListener('click', (e) => {
+  if (e.target === document.getElementById('interop-overlay'))
+    document.getElementById('interop-overlay').classList.remove('visible');
+});
+
+// ═══════════════════════════════════════════════════════════
+// INIT
+// ═══════════════════════════════════════════════════════════
+initDemoData();
+renderNodes();
+</script>
+</body>
+</html>

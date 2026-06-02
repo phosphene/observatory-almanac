@@ -1,0 +1,2753 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Woodchipper — Entry · Expectations · Routes</title>
+    <style>
+        :root {
+            --bg: #111111;
+            --surface: #191919;
+            --surface-2: #222222;
+            --surface2: #222222;
+            --border: rgba(255,255,255,0.07);
+            --border-hi: rgba(255,255,255,0.15);
+            --border-active: rgba(255,255,255,0.15);
+            --text-1: #e2e2e2;
+            --text-2: #888888;
+            --text-3: #555555;
+            --text: #e2e2e2;
+            --dim: #888888;
+            --accent: #4f8ef5;
+            --accent-dim: rgba(79,142,245,0.10);
+            --accent-mid: rgba(79,142,245,0.40);
+            --green: #4caf80;
+            --amber: #f5a623;
+            --red: #e05252;
+            --warm-signal: rgba(79,142,245,0.18);
+            --cold-signal: rgba(136,136,136,0.12);
+            --font-sans: 'Inter', -apple-system, system-ui, sans-serif;
+            --font-mono: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: var(--font-sans, 'Inter', -apple-system, system-ui, sans-serif);
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            line-height: 1.65;
+        }
+
+        /* ── HEADER ── */
+        .header {
+            padding: 20px 40px;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .wordmark {
+            font-family: var(--font-mono);
+            font-size: 12px;
+            letter-spacing: 0.35em;
+            text-transform: uppercase;
+            color: var(--dim);
+        }
+        .layer-tabs {
+            display: flex;
+            gap: 4px;
+        }
+        .tab {
+            padding: 5px 18px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-family: var(--font-mono);
+            letter-spacing: 0.06em;
+            cursor: pointer;
+            border: 1px solid var(--border);
+            color: var(--dim);
+            background: transparent;
+            transition: all 0.2s;
+        }
+        .tab.active {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: #fff;
+        }
+
+        /* ── EXIT BUTTON ── */
+        .btn-exit {
+            padding: 5px 16px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-family: var(--font-mono);
+            letter-spacing: 0.08em;
+            cursor: pointer;
+            border: 1px solid rgba(255,255,255,0.12);
+            color: var(--dim);
+            background: transparent;
+            transition: all 0.15s;
+        }
+        .btn-exit:hover {
+            border-color: rgba(255,255,255,0.3);
+            color: var(--text);
+        }
+
+        /* ── EXPORT OVERLAY ── */
+        .overlay {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.72);
+            z-index: 100;
+            align-items: center;
+            justify-content: center;
+        }
+        .overlay.on { display: flex; animation: fadeOverlay 0.18s ease; }
+        @keyframes fadeOverlay {
+            from { opacity: 0; }
+            to   { opacity: 1; }
+        }
+
+        .export-panel {
+            background: #12121f;
+            border: 1px solid var(--border-active);
+            border-radius: 12px;
+            width: 540px;
+            max-width: 92vw;
+            max-height: 88vh;
+            overflow-y: auto;
+            padding: 36px 36px 32px;
+            animation: slideUp 0.2s ease;
+        }
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(16px); }
+            to   { opacity: 1; transform: translateY(0); }
+        }
+
+        .ep-tag {
+            font-family: var(--font-mono);
+            font-size: 9px;
+            letter-spacing: 0.45em;
+            text-transform: uppercase;
+            color: var(--dim);
+            margin-bottom: 10px;
+        }
+        .ep-title {
+            font-size: 22px;
+            font-weight: normal;
+            margin-bottom: 6px;
+        }
+        .ep-sub {
+            font-size: 13px;
+            color: var(--dim);
+            font-style: italic;
+            margin-bottom: 28px;
+            line-height: 1.6;
+        }
+
+        /* What's been captured */
+        .ep-capture {
+            margin-bottom: 28px;
+            padding: 18px 20px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+        }
+        .ep-capture-label {
+            font-family: var(--font-mono);
+            font-size: 9px;
+            letter-spacing: 0.35em;
+            text-transform: uppercase;
+            color: var(--dim);
+            margin-bottom: 12px;
+        }
+        .ep-item {
+            display: flex;
+            gap: 10px;
+            padding: 7px 0;
+            border-bottom: 1px solid var(--border);
+            font-size: 13px;
+            align-items: baseline;
+        }
+        .ep-item:last-child { border-bottom: none; }
+        .ep-item-key {
+            color: var(--dim);
+            font-family: var(--font-mono);
+            font-size: 11px;
+            min-width: 120px;
+            flex-shrink: 0;
+        }
+        .ep-item-val { color: var(--text); }
+        .ep-item-val.empty { color: var(--dim); font-style: italic; }
+
+        /* Format selector */
+        .ep-formats-label {
+            font-family: var(--font-mono);
+            font-size: 9px;
+            letter-spacing: 0.35em;
+            text-transform: uppercase;
+            color: var(--dim);
+            margin-bottom: 12px;
+        }
+        .ep-formats {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+            margin-bottom: 24px;
+        }
+        .fmt-card {
+            padding: 13px 15px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.13s;
+            background: var(--surface);
+        }
+        .fmt-card:hover { background: var(--surface2); border-color: var(--border-active); }
+        .fmt-card.sel { border-color: var(--accent); background: rgba(79,142,245,0.06); }
+        .fmt-card.sel .fmt-name { color: var(--accent); }
+        .fmt-name { font-size: 13px; margin-bottom: 3px; }
+        .fmt-desc { font-size: 11px; color: var(--dim); }
+
+        /* Export actions */
+        .ep-actions {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        .btn-export-go {
+            padding: 11px 28px;
+            border-radius: 6px;
+            border: none;
+            background: var(--accent);
+            color: #fff;
+            font-size: 14px;
+            font-family: var(--font-sans);
+            cursor: pointer;
+            transition: opacity 0.15s;
+        }
+        .btn-export-go:hover { opacity: 0.88; }
+        .btn-cancel {
+            padding: 11px 20px;
+            border-radius: 6px;
+            border: 1px solid var(--border);
+            background: transparent;
+            color: var(--dim);
+            font-size: 13px;
+            font-family: var(--font-sans);
+            cursor: pointer;
+            transition: all 0.13s;
+        }
+        .btn-cancel:hover { border-color: var(--border-active); color: var(--text); }
+
+        .ep-resume {
+            margin-left: auto;
+            font-size: 12px;
+            color: var(--dim);
+            cursor: pointer;
+            font-style: italic;
+            text-decoration: underline;
+            text-underline-offset: 3px;
+            background: none;
+            border: none;
+            font-family: var(--font-sans);
+        }
+        .ep-resume:hover { color: var(--text); }
+
+        /* ── LAYOUT ── */
+        .main {
+            max-width: 760px;
+            margin: 0 auto;
+            padding: 56px 40px 100px;
+        }
+
+        .layer-tag {
+            font-family: var(--font-mono);
+            font-size: 10px;
+            letter-spacing: 0.45em;
+            text-transform: uppercase;
+            color: var(--dim);
+            margin-bottom: 6px;
+        }
+        h1 {
+            font-size: 30px;
+            font-weight: normal;
+            margin-bottom: 10px;
+            color: var(--text);
+        }
+        .subtitle {
+            font-size: 15px;
+            color: var(--dim);
+            max-width: 540px;
+            margin-bottom: 48px;
+        }
+
+        /* ── ENTRY TEXTAREA ── */
+        .prompt-label {
+            font-size: 16px;
+            margin-bottom: 12px;
+            color: var(--text);
+        }
+        textarea.entry {
+            width: 100%;
+            min-height: 160px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 18px 20px;
+            color: var(--text);
+            font-family: var(--font-sans);
+            font-size: 15px;
+            line-height: 1.7;
+            resize: vertical;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        textarea.entry:focus { border-color: var(--border-active); }
+        textarea.entry::placeholder { color: var(--dim); font-style: italic; }
+
+        /* ── CLASSIFICATION BADGES ── */
+        .classification {
+            display: none;
+            margin-top: 18px;
+        }
+        .badge-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            align-items: center;
+        }
+        .badge-label {
+            font-family: var(--font-mono);
+            font-size: 10px;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: var(--dim);
+        }
+        .badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            padding: 3px 12px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-family: var(--font-mono);
+            border: 1px solid;
+            animation: fadeUp 0.25s ease;
+        }
+        .badge.object  { border-color: var(--blue);  color: var(--blue);  background: rgba(79,195,247,0.07); }
+        .badge.person  { border-color: var(--green); color: var(--green); background: rgba(129,199,132,0.07); }
+        .badge.signal  { border-color: var(--amber); color: var(--amber); background: rgba(255,183,77,0.07); }
+
+        @keyframes fadeUp {
+            from { opacity:0; transform:translateY(4px); }
+            to   { opacity:1; transform:translateY(0); }
+        }
+
+        /* ── UPLOAD ── */
+        .upload-section { margin-top: 28px; }
+        .upload-hint { font-size: 13px; color: var(--dim); margin-bottom: 8px; }
+        .drop-zone {
+            border: 1px dashed rgba(255,255,255,0.14);
+            border-radius: 8px;
+            padding: 22px;
+            text-align: center;
+            cursor: pointer;
+            font-size: 13px;
+            color: var(--dim);
+            transition: all 0.2s;
+        }
+        .drop-zone:hover {
+            border-color: var(--border-active);
+            background: var(--surface);
+        }
+        .drop-zone small {
+            display: block;
+            margin-top: 4px;
+            font-size: 11px;
+            opacity: 0.55;
+        }
+
+        /* ── QUESTIONS ── */
+        .questions { margin-top: 32px; }
+        .q-block {
+            padding: 18px 20px;
+            background: var(--surface);
+            border-left: 2px solid var(--accent);
+            border-radius: 0 8px 8px 0;
+            margin-bottom: 10px;
+            animation: slideIn 0.25s ease;
+        }
+        @keyframes slideIn {
+            from { opacity:0; transform:translateX(-6px); }
+            to   { opacity:1; transform:translateX(0); }
+        }
+        .q-text { font-size: 14px; margin-bottom: 12px; }
+        .q-opts { display: flex; flex-wrap: wrap; gap: 7px; }
+        button.q-opt {
+            padding: 5px 15px;
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            font-size: 12px;
+            font-family: var(--font-mono);
+            cursor: pointer;
+            color: var(--dim);
+            background: transparent;
+            transition: all 0.15s;
+        }
+        button.q-opt:hover { border-color: var(--border-active); color: var(--text); }
+        button.q-opt.sel  { border-color: var(--accent); color: var(--accent); background: rgba(79,142,245,0.07); }
+
+        /* ── BUTTONS ── */
+        .btn-primary {
+            display: inline-block;
+            margin-top: 32px;
+            padding: 13px 30px;
+            background: var(--accent);
+            color: #fff;
+            border: none;
+            border-radius: 6px;
+            font-size: 13px;
+            font-family: var(--font-mono);
+            letter-spacing: 0.05em;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+        .btn-primary:hover { background: #c73550; }
+        .btn-primary:disabled { opacity: 0.5; cursor: default; }
+
+        .btn-ghost {
+            display: inline-block;
+            margin-top: 10px;
+            margin-left: 12px;
+            padding: 9px 20px;
+            background: transparent;
+            color: var(--dim);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            font-size: 12px;
+            font-family: var(--font-mono);
+            cursor: pointer;
+            transition: all 0.15s;
+        }
+        .btn-ghost:hover { border-color: var(--border-active); color: var(--text); }
+
+        /* ── REVIEW PANEL ── */
+        .review-panel {
+            display: none;
+            margin-top: 36px;
+            padding: 24px;
+            background: rgba(79,142,245,0.04);
+            border: 1px solid rgba(79,142,245,0.18);
+            border-radius: 8px;
+        }
+        .review-panel.on { display: block; animation: fadeUp 0.3s ease; }
+        .panel-tag {
+            font-family: var(--font-mono);
+            font-size: 10px;
+            letter-spacing: 0.4em;
+            text-transform: uppercase;
+            color: var(--dim);
+            margin-bottom: 18px;
+        }
+        .review-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 9px 0;
+            border-bottom: 1px solid var(--border);
+            font-size: 13px;
+            gap: 16px;
+        }
+        .review-row:last-child { border-bottom: none; }
+        .rk {
+            color: var(--dim);
+            font-family: var(--font-mono);
+            font-size: 11px;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            flex-shrink: 0;
+        }
+        .rv { color: var(--text); text-align: right; }
+        .re-link {
+            font-size: 12px;
+            color: var(--accent);
+            cursor: pointer;
+            text-decoration: underline;
+            text-underline-offset: 3px;
+            margin-top: 14px;
+            display: inline-block;
+        }
+
+        /* ── LAYER 2 ── */
+        #layer2 { display: none; }
+        #layer2.on { display: block; }
+
+        hr.div { border: none; border-top: 1px solid var(--border); margin: 56px 0; }
+
+        .block {
+            padding: 22px;
+            background: var(--surface);
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .block-tag {
+            font-family: var(--font-mono);
+            font-size: 10px;
+            letter-spacing: 0.35em;
+            text-transform: uppercase;
+            color: var(--dim);
+            margin-bottom: 16px;
+        }
+
+        /* Summary rows */
+        .s-row {
+            display: flex;
+            gap: 12px;
+            padding: 10px 0;
+            border-bottom: 1px solid var(--border);
+            align-items: flex-start;
+        }
+        .s-row:last-child { border-bottom: none; }
+        .sk {
+            color: var(--dim);
+            font-family: var(--font-mono);
+            font-size: 10px;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            min-width: 110px;
+            padding-top: 2px;
+        }
+        .sv { color: var(--text); font-size: 14px; }
+
+        /* Expectations fields (Sigma-derived) */
+        .expectation-fields { margin-top: 14px; }
+        .e-field { margin-bottom: 14px; }
+        .e-label {
+            font-family: var(--font-mono);
+            font-size: 11px;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--dim);
+            margin-bottom: 6px;
+        }
+        input.e-input, select.e-input, textarea.e-input {
+            width: 100%;
+            background: var(--surface2);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 10px 14px;
+            color: var(--text);
+            font-family: var(--font-sans);
+            font-size: 14px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        input.e-input:focus, select.e-input:focus, textarea.e-input:focus {
+            border-color: var(--border-active);
+        }
+        select.e-input { cursor: pointer; }
+        textarea.e-input { min-height: 80px; resize: vertical; }
+
+        /* Hope options */
+        .hope-grid { display: flex; flex-wrap: wrap; gap: 7px; }
+        button.hope {
+            padding: 7px 16px;
+            border: 1px solid var(--border);
+            border-radius: 24px;
+            font-size: 13px;
+            cursor: pointer;
+            color: var(--dim);
+            background: transparent;
+            transition: all 0.15s;
+        }
+        button.hope:hover { border-color: var(--border-active); color: var(--text); }
+        button.hope.sel { border-color: var(--blue); color: var(--blue); background: rgba(79,195,247,0.07); }
+
+        /* ── Label browser ── */
+        .lb-domain-btn {
+            padding: 6px 14px;
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            font-size: 12px;
+            cursor: pointer;
+            color: var(--dim);
+            background: transparent;
+            transition: all 0.13s;
+            font-family: var(--font-sans);
+        }
+        .lb-domain-btn:hover { border-color: var(--border-active); color: var(--text); }
+        .lb-domain-btn.on    { border-color: var(--blue); color: var(--blue); background: rgba(79,195,247,0.07); }
+
+        .lb-code-btn {
+            padding: 5px 12px;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            font-size: 11px;
+            cursor: pointer;
+            color: var(--dim);
+            background: var(--surface);
+            transition: all 0.12s;
+            font-family: var(--font-sans);
+            display: flex; align-items: center; gap: 6px;
+        }
+        .lb-code-btn:hover { border-color: var(--border-active); color: var(--text); background: var(--surface2); }
+        .lb-code-btn.on    { border-color: var(--amber); color: var(--amber); background: rgba(255,183,77,0.06); }
+
+        .lb-sub-btn {
+            padding: 4px 11px;
+            border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 5px;
+            font-size: 11px;
+            cursor: pointer;
+            color: var(--dim);
+            background: rgba(255,255,255,0.02);
+            transition: all 0.12s;
+            font-family: var(--font-sans);
+            display: flex; align-items: center; gap: 5px;
+        }
+        .lb-sub-btn:hover { border-color: var(--green); color: var(--green); background: rgba(129,199,132,0.06); }
+        .lb-sub-btn.added { opacity: 0.38; pointer-events: none; }
+
+        .lb-code-id {
+            font-family: var(--font-mono);
+            font-size: 10px;
+            color: var(--dim);
+            flex-shrink: 0;
+        }
+        .lb-code-btn.on .lb-code-id { color: var(--amber); }
+
+        .lb-selected-chip {
+            display: inline-flex; align-items: center; gap: 5px;
+            padding: 4px 10px 4px 9px;
+            background: rgba(129,199,132,0.08);
+            border: 1px solid rgba(129,199,132,0.3);
+            border-radius: 5px;
+            font-size: 11px;
+            color: var(--green);
+        }
+        .lb-chip-code {
+            font-family: var(--font-mono);
+            font-size: 9px;
+            color: rgba(129,199,132,0.6);
+        }
+        .lb-chip-sys {
+            font-size: 9px;
+            color: rgba(129,199,132,0.45);
+            font-style: italic;
+        }
+        .lb-chip-rm {
+            background: none; border: none; cursor: pointer;
+            color: rgba(129,199,132,0.5); font-size: 13px;
+            padding: 0 2px; line-height: 1;
+            transition: color 0.1s;
+        }
+        .lb-chip-rm:hover { color: var(--accent); }
+
+        /* Confidence meter */
+        .meter-wrap { margin-top: 8px; }
+        .meter-bar {
+            height: 3px;
+            background: rgba(255,255,255,0.08);
+            border-radius: 2px;
+            overflow: hidden;
+            margin-bottom: 6px;
+        }
+        .meter-fill {
+            height: 100%;
+            border-radius: 2px;
+            transition: width 0.5s ease;
+        }
+        .meter-fill.hi { background: var(--green); }
+        .meter-fill.md { background: var(--amber); }
+        .meter-fill.lo { background: var(--accent); }
+        .meter-note { font-size: 12px; color: var(--dim); font-family: var(--font-mono); }
+
+        /* Light epistemic feedback */
+        .e-light {
+            display: none;
+            margin-top: 18px;
+            padding: 14px 18px;
+            background: rgba(33,150,243,0.06);
+            border-left: 2px solid #2196f3;
+            border-radius: 0 6px 6px 0;
+            font-size: 14px;
+            line-height: 1.7;
+            animation: fadeUp 0.25s ease;
+        }
+
+        /* Hard feedback */
+        .hard-section { display: none; margin-top: 32px; }
+        .hard-section.on { display: block; animation: fadeUp 0.35s ease; }
+        .section-tag {
+            font-family: var(--font-mono);
+            font-size: 10px;
+            letter-spacing: 0.45em;
+            text-transform: uppercase;
+            color: var(--dim);
+            margin-bottom: 14px;
+        }
+        .h-block {
+            padding: 18px 20px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            font-size: 14px;
+            line-height: 1.7;
+        }
+        .h-block.positive { background: rgba(76,175,80,0.06);  border: 1px solid rgba(76,175,80,0.2); }
+        .h-block.notice   { background: rgba(255,183,77,0.06); border: 1px solid rgba(255,183,77,0.2); }
+        .h-block.critical { background: rgba(79,142,245,0.06);  border: 1px solid rgba(79,142,245,0.2); }
+        .h-title {
+            font-family: var(--font-mono);
+            font-size: 10px;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            color: var(--dim);
+            margin-bottom: 8px;
+        }
+
+        /* Prophecy */
+        .prophecy {
+            display: none;
+            margin-top: 28px;
+            padding: 24px;
+            background: linear-gradient(135deg, rgba(15,52,96,0.45), rgba(13,13,26,0.7));
+            border: 1px solid rgba(79,195,247,0.2);
+            border-radius: 8px;
+        }
+        .prophecy.on { display: block; animation: fadeUp 0.4s ease; }
+        .p-tag {
+            font-family: var(--font-mono);
+            font-size: 10px;
+            letter-spacing: 0.45em;
+            text-transform: uppercase;
+            color: var(--blue);
+            margin-bottom: 14px;
+        }
+        .p-text { font-size: 15px; line-height: 1.8; }
+        .p-text em { color: var(--blue); font-style: normal; }
+
+        .trajectory {
+            display: flex;
+            align-items: center;
+            margin-top: 22px;
+        }
+        .t-step { text-align: center; flex: 1; }
+        .t-dot {
+            width: 9px; height: 9px;
+            border-radius: 50%;
+            background: var(--dim);
+            margin: 0 auto 5px;
+        }
+        .t-dot.now    { background: var(--blue); box-shadow: 0 0 8px rgba(79,195,247,0.4); }
+        .t-dot.next   { background: rgba(79,195,247,0.35); }
+        .t-line       { flex: 0.6; height: 1px; background: var(--border); margin-bottom: 20px; }
+        .t-label      { font-size: 10px; color: var(--dim); font-family: var(--font-mono); }
+
+        /* ── LAYER 2 ── */
+        /* display:none kept but also set via JS for reliability */
+
+        /* ── LAYER 3 ── */
+        #layer3 { display: none; }
+        #layer3.on { display: block; }
+
+        /* Ambient epistemological note */
+        .ambient-note {
+            padding: 16px 20px;
+            background: rgba(79,195,247,0.04);
+            border: 1px solid rgba(79,195,247,0.1);
+            border-radius: 8px;
+            font-size: 14px;
+            color: var(--dim);
+            font-style: italic;
+            line-height: 1.7;
+            margin-bottom: 36px;
+        }
+        .ambient-note em { color: var(--text); font-style: normal; }
+
+        /* Route clusters */
+        .route-cluster { margin-bottom: 36px; }
+        .rc-label {
+            font-family: var(--font-mono);
+            font-size: 10px;
+            letter-spacing: 0.45em;
+            text-transform: uppercase;
+            color: var(--dim);
+            margin-bottom: 12px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+        }
+        .route-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+        @media (max-width: 600px) { .route-grid { grid-template-columns: 1fr; } }
+
+        .route-card {
+            padding: 16px 18px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.15s;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+        .route-card:hover {
+            background: var(--surface2);
+            border-color: var(--border-active);
+        }
+        .route-card.sel {
+            border-color: var(--accent);
+            background: rgba(79,142,245,0.06);
+        }
+        .route-card.sel .rc-name { color: var(--accent); }
+
+        .rc-check {
+            position: absolute;
+            top: 12px; right: 14px;
+            width: 18px; height: 18px;
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 11px;
+            transition: all 0.15s;
+        }
+        .route-card.sel .rc-check {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: #fff;
+        }
+        .rc-name {
+            font-size: 14px;
+            color: var(--text);
+            padding-right: 24px;
+        }
+        .rc-desc {
+            font-size: 12px;
+            color: var(--dim);
+            line-height: 1.5;
+        }
+        .rc-tag {
+            display: inline-block;
+            font-family: var(--font-mono);
+            font-size: 10px;
+            letter-spacing: 0.1em;
+            padding: 2px 8px;
+            border-radius: 10px;
+            margin-top: 4px;
+        }
+        .rc-tag.available { border: 1px solid rgba(129,199,132,0.4); color: var(--green); }
+        .rc-tag.soon      { border: 1px solid rgba(255,183,77,0.4);  color: var(--amber); }
+        .rc-tag.coming    { border: 1px solid var(--border); color: var(--dim); }
+        .rc-tag.connected { border: 1px solid rgba(79,195,247,0.5); color: var(--blue); }
+        .rc-tag.configure { border: 1px solid rgba(255,183,77,0.4); color: var(--amber); }
+        .rc-tag.filtered  { border: 1px solid var(--border); color: var(--dim); font-style: italic; }
+
+        /* Port cards — external system connections */
+        .rc-sublabel {
+            font-size: 12px;
+            color: var(--dim);
+            margin-bottom: 14px;
+            margin-top: -6px;
+            line-height: 1.5;
+        }
+        .port-card {
+            padding: 14px 18px;
+            background: rgba(79,195,247,0.03);
+            border: 1px dashed rgba(79,195,247,0.18);
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.15s;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+        .port-card:hover {
+            background: rgba(79,195,247,0.06);
+            border-color: rgba(79,195,247,0.35);
+        }
+        .port-card.sel {
+            border-color: var(--blue);
+            background: rgba(79,195,247,0.08);
+        }
+        .port-card.sel .rc-name { color: var(--blue); }
+        .port-card.sel .rc-check {
+            background: var(--blue);
+            border-color: var(--blue);
+            color: #fff;
+        }
+        .port-external {
+            position: absolute;
+            top: 11px; right: 40px;
+            font-size: 9px;
+            color: rgba(79,195,247,0.45);
+            letter-spacing: 0.08em;
+            font-family: var(--font-mono);
+        }
+        .port-icon {
+            font-size: 13px;
+            margin-bottom: 1px;
+        }
+        /* Port card locked (domain-filtered or unavailable) */
+        .port-card.locked {
+            opacity: 0.45;
+            pointer-events: none;
+        }
+
+        /* Selected routes summary */
+        .routes-summary {
+            display: none;
+            margin-top: 28px;
+            padding: 22px;
+            background: rgba(79,142,245,0.04);
+            border: 1px solid rgba(79,142,245,0.18);
+            border-radius: 8px;
+        }
+        .routes-summary.on { display: block; animation: fadeUp 0.3s ease; }
+        .rs-tag {
+            font-family: var(--font-mono);
+            font-size: 10px;
+            letter-spacing: 0.4em;
+            text-transform: uppercase;
+            color: var(--dim);
+            margin-bottom: 14px;
+        }
+        .rs-list { list-style: none; }
+        .rs-list li {
+            padding: 7px 0;
+            border-bottom: 1px solid var(--border);
+            font-size: 13px;
+            display: flex;
+            gap: 10px;
+            align-items: baseline;
+        }
+        .rs-list li:last-child { border-bottom: none; }
+        .rs-num {
+            font-family: var(--font-mono);
+            font-size: 11px;
+            color: var(--accent);
+            min-width: 18px;
+        }
+
+        /* Epistemological footer */
+        .epist-footer {
+            margin-top: 40px;
+            padding: 16px;
+            background: none;
+            border-radius: 0;
+            border-left: none;
+            font-size: 11px;
+            color: var(--text-3);
+            line-height: 1.6;
+            text-align: center;
+            font-weight: 400;
+        }
+        .epist-footer strong { color: var(--text-3); font-weight: 400; }
+
+        /* Mirror synthesis */
+        .mirror-synthesis {
+            border-left: 3px solid var(--accent-mid);
+            padding: 12px 16px;
+            margin: 16px 0;
+            font-size: 14px;
+            color: var(--text-1);
+            background: var(--surface);
+            border-radius: 0 6px 6px 0;
+            transition: border-color 300ms ease-out;
+        }
+        .mirror-synthesis.cold {
+            border-left-color: var(--text-3);
+        }
+
+        /* Trajectory bar */
+        .trajectory-bar-container {
+            height: 4px;
+            background: var(--border);
+            border-radius: 2px;
+            margin: 12px 0;
+            overflow: hidden;
+        }
+        .trajectory-fill {
+            height: 100%;
+            border-radius: 2px;
+            transition: width 400ms ease-out, background 400ms ease-out;
+        }
+    </style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="header">
+    <div class="wordmark">Woodchipper</div>
+    <div class="layer-tabs">
+        <button class="tab active" id="t1">Layer 1 — Entry</button>
+        <button class="tab"        id="t2">Layer 2 — Intent</button>
+        <button class="tab"        id="t3">Layer 3 — Stages</button>
+        <button class="btn-exit"   id="btn-exit">↗ Exit &amp; Export</button>
+    </div>
+</header>
+
+<!-- EXPORT OVERLAY -->
+<div class="overlay" id="export-overlay">
+  <div class="export-panel">
+    <div class="ep-tag">Exit &amp; Export</div>
+    <div class="ep-title">Take what you have.</div>
+    <div class="ep-sub">Everything captured so far is ready to export. You can re-enter the process at any point.</div>
+
+    <!-- Captured state -->
+    <div class="ep-capture">
+      <div class="ep-capture-label">Captured so far</div>
+      <div class="ep-item">
+        <span class="ep-item-key">Object type</span>
+        <span class="ep-item-val" id="ex-type">—</span>
+      </div>
+      <div class="ep-item">
+        <span class="ep-item-key">Researcher type</span>
+        <span class="ep-item-val" id="ex-researcher">—</span>
+      </div>
+      <div class="ep-item">
+        <span class="ep-item-key">Domain signal</span>
+        <span class="ep-item-val" id="ex-domain">—</span>
+      </div>
+      <div class="ep-item">
+        <span class="ep-item-key">Intent</span>
+        <span class="ep-item-val" id="ex-intent">—</span>
+      </div>
+      <div class="ep-item">
+        <span class="ep-item-key">Assessment</span>
+        <span class="ep-item-val" id="ex-assessment">—</span>
+      </div>
+      <div class="ep-item">
+        <span class="ep-item-key">Stages completed</span>
+        <span class="ep-item-val" id="ex-stages">—</span>
+      </div>
+    </div>
+
+    <!-- Format selector -->
+    <div class="ep-formats-label">Export format</div>
+    <div class="ep-formats">
+      <div class="fmt-card sel" data-fmt="pdf">
+        <div class="fmt-name">PDF</div>
+        <div class="fmt-desc">Clean, portable. Includes all captured fields and any outputs produced.</div>
+      </div>
+      <div class="fmt-card" data-fmt="markdown">
+        <div class="fmt-name">Markdown</div>
+        <div class="fmt-desc">Plain text with structure. Good for further editing or version control.</div>
+      </div>
+      <div class="fmt-card" data-fmt="json">
+        <div class="fmt-name">JSON</div>
+        <div class="fmt-desc">Structured data. Useful for registry submission or external tools.</div>
+      </div>
+      <div class="fmt-card" data-fmt="copy">
+        <div class="fmt-name">Copy to clipboard</div>
+        <div class="fmt-desc">Paste anywhere. Formatted as plain text summary.</div>
+      </div>
+    </div>
+
+    <div class="ep-actions">
+      <button class="btn-export-go" id="btn-export-go">Export →</button>
+      <button class="btn-cancel"    id="btn-cancel-export">Cancel</button>
+      <button class="ep-resume"     id="btn-resume">Resume process</button>
+    </div>
+  </div>
+</div>
+
+<main class="main">
+
+<!-- ══════════════════════════════════════════════
+     LAYER 1
+══════════════════════════════════════════════ -->
+<div id="layer1">
+    <div class="layer-tag">Layer 1</div>
+
+    <!-- ── Entry opening: title + state of work, always visible ── -->
+    <div id="entry-opening">
+
+      <h1 style="font-size:22px;font-weight:500;margin-bottom:8px;">What are you bringing in?</h1>
+      <p class="subtitle" style="margin-bottom:32px;">Give it a title and tell us where it stands — we'll open up the full intake as you go.</p>
+
+      <!-- Title -->
+      <div style="margin-bottom:32px;">
+        <div style="font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:var(--text-3);margin-bottom:10px;">Working title</div>
+        <input type="text" id="work-title"
+          placeholder="What are you thinking of calling it? Leave blank if unnamed — that's fine too."
+          style="width:100%;padding:12px 16px;background:var(--surface);border:1px solid var(--border);border-radius:6px;font-size:15px;color:var(--text-1);font-family:var(--font-sans);outline:none;transition:border-color 150ms;box-sizing:border-box;"
+          autocomplete="off"
+        >
+        <div id="title-signals" style="min-height:18px;margin-top:8px;font-size:12px;color:var(--text-3);line-height:1.5;"></div>
+      </div>
+
+      <!-- State of work -->
+      <div>
+        <div style="font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:var(--text-3);margin-bottom:14px;">State of work</div>
+        <div id="traj-cards"></div>
+        <div id="traj-stage-note" style="margin-top:16px;font-size:13px;color:var(--text-2);line-height:1.6;padding:12px 16px;background:var(--surface);border-radius:6px;border-left:3px solid var(--accent-mid);display:none;"></div>
+      </div>
+
+    </div><!-- /entry-opening -->
+
+    <!-- ── Existing Layer 1 content — revealed after trajectory selected ── -->
+    <div id="layer1-main" style="display:none;">
+    <div style="margin-top:24px;border-top:1px solid var(--border);padding-top:24px;">
+
+    <p class="prompt-label">Tell us more — what is it about?</p>
+    <textarea id="main-entry" class="entry"
+        placeholder="I've been thinking about… / I noticed that… / I have a paper about… / I recorded something… / I've been watching this for years and…"
+    ></textarea>
+
+    <!-- Live classification -->
+    <div class="classification" id="cls">
+        <div class="badge-row" id="bdg">
+            <span class="badge-label">Reading:</span>
+        </div>
+    </div>
+
+    <!-- File upload -->
+    <div class="upload-section">
+        <div class="upload-hint">Or attach a file — paper, audio, video, image, data. (Optional)</div>
+        <div class="drop-zone" id="drop">
+            Drop a file here, or click to choose
+            <small>PDF · audio · video · image · CSV · any format</small>
+        </div>
+        <input type="file" id="file-in" style="display:none" accept="*/*">
+    </div>
+
+    <!-- Progressive questions -->
+    <div class="questions" id="questions"></div>
+
+    <!-- Review button -->
+    <div id="review-btn-wrap" style="display:none">
+        <button class="btn-primary" id="btn-review">Review my entry →</button>
+    </div>
+
+    <!-- Review panel -->
+    <div class="review-panel" id="review-panel">
+        <div class="panel-tag">Layer 1 — Review</div>
+        <div id="review-rows"></div>
+        <span class="re-link" id="re-link">This doesn't look right — let me adjust</span>
+        <div style="margin-top:22px;">
+            <button class="btn-primary" id="btn-l2">Proceed to Layer 2 →</button>
+        </div>
+    </div>
+    </div><!-- /inner -->
+</div><!-- /layer1-main -->
+</div><!-- /layer1 -->
+
+<!-- ══════════════════════════════════════════════
+     LAYER 2
+══════════════════════════════════════════════ -->
+<div id="layer2">
+    <hr class="div">
+    <div class="layer-tag">Layer 2</div>
+    <h1>What are you hoping for?</h1>
+    <p class="subtitle">Here's what we think you're giving us — and what you can expect in return.</p>
+
+    <!-- What we think you're giving us -->
+    <div class="block">
+        <div class="block-tag">What we think you're giving us</div>
+        <div id="l2-summary"></div>
+        <!-- Academic submission fields (Sigma-derived) — shown only for academic papers -->
+        <div class="expectation-fields" id="academic-fields" style="display:none">
+            <div style="font-family:'Courier New',monospace; font-size:10px; letter-spacing:0.3em; text-transform:uppercase; color:var(--dim); margin: 18px 0 14px; padding-top:14px; border-top:1px solid var(--border);">Submission details</div>
+            <div class="e-field">
+                <div class="e-label">Title</div>
+                <input type="text" class="e-input" id="f-title" placeholder="Article title">
+            </div>
+            <div class="e-field">
+                <div class="e-label">arXiv identifier (if any)</div>
+                <input type="text" class="e-input" id="f-arxiv" placeholder="e.g. 2405.12345">
+            </div>
+            <div class="e-field">
+                <div class="e-label">Subject cluster</div>
+                <select class="e-input" id="f-cluster">
+                    <option value="">— select —</option>
+                    <option>Algebra</option>
+                    <option>Algebraic and Complex Geometry</option>
+                    <option>Analysis</option>
+                    <option>Applied Analysis</option>
+                    <option>Computational Mathematics</option>
+                    <option>Differential Equations</option>
+                    <option>Differential Geometry and Geometric Analysis</option>
+                    <option>Discrete Mathematics</option>
+                    <option>Dynamics</option>
+                    <option>Foundations</option>
+                    <option>Mathematical Physics</option>
+                    <option>Number Theory</option>
+                    <option>Probability</option>
+                    <option>Theoretical Computer Science</option>
+                    <option>Topology</option>
+                    <option>Behavioral / Social Science</option>
+                    <option>Other / Interdisciplinary</option>
+                </select>
+            </div>
+            <div class="e-field">
+                <div class="e-label">AI use declaration (if applicable)</div>
+                <textarea class="e-input" id="f-ai" placeholder="If AI tools were used in the research or writing, briefly describe how."></textarea>
+            </div>
+        </div>
+    </div>
+
+    <!-- Subject labels browser -->
+    <div class="block" id="label-browser-block">
+        <div class="block-tag">Subject labels</div>
+        <p style="font-size:13px;color:var(--dim);margin-bottom:16px;line-height:1.6;">
+            Find your domain, then drill into its classification system. Selected labels travel with the work — into the registry, the ports, the WCI calibration.
+        </p>
+
+        <!-- Domain strip -->
+        <div id="domain-strip" style="display:flex;gap:7px;flex-wrap:wrap;margin-bottom:18px;"></div>
+
+        <!-- Code browser: top-level + subcodes -->
+        <div id="code-browser" style="display:none;">
+            <div id="cb-system" style="font-family:'Courier New',monospace;font-size:9px;letter-spacing:0.35em;text-transform:uppercase;color:var(--dim);margin-bottom:10px;"></div>
+            <div id="cb-toplevel" style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px;"></div>
+            <div id="cb-sublevel" style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:16px;min-height:28px;"></div>
+        </div>
+
+        <!-- Selected labels -->
+        <div id="selected-labels" style="display:flex;gap:6px;flex-wrap:wrap;min-height:32px;margin-bottom:10px;"></div>
+
+        <!-- Free text fallback -->
+        <div style="display:flex;gap:8px;align-items:center;margin-top:6px;">
+            <input type="text" id="label-freetext" class="e-input" placeholder="Add a custom label…" style="flex:1;padding:7px 12px;font-size:12px;">
+            <button id="label-add-btn" style="padding:7px 14px;background:var(--surface2);border:1px solid var(--border);border-radius:6px;color:var(--dim);font-size:12px;cursor:pointer;font-family:var(--font-sans);">Add</button>
+        </div>
+        <div style="font-size:10px;color:var(--dim);margin-top:6px;font-style:italic;">
+            Can't find your area? Use the free text box. The system will match it to the nearest formal code.
+        </div>
+    </div>
+
+    <!-- What you're hoping for -->
+    <div class="block">
+        <div class="block-tag">What result are you hoping for?</div>
+        <div class="hope-grid" id="hopes">
+            <button class="hope" data-v="feedback">Substantive feedback</button>
+            <button class="hope" data-v="credibility">Credibility assessment (WCI)</button>
+            <button class="hope" data-v="review">Peer review path</button>
+            <button class="hope" data-v="publication">Publication</button>
+            <button class="hope" data-v="discovery">Help naming what I have</button>
+            <button class="hope" data-v="improvement">Know what to improve</button>
+            <button class="hope" data-v="validation">Validation</button>
+        </div>
+        <div class="e-light" id="e-light"></div>
+    </div>
+
+    <!-- Confidence + save -->
+    <div class="block" id="conf-block" style="display:none">
+        <div class="block-tag">What you can expect</div>
+        <div class="meter-wrap" id="meter"></div>
+        <div style="margin-top:20px;">
+            <button class="btn-primary" id="btn-save">Save — get full assessment →</button>
+        </div>
+    </div>
+
+    <!-- Hard epistemic feedback -->
+    <div class="hard-section" id="hard-section">
+        <div class="section-tag">Hard epistemic assessment</div>
+        <div id="hard-blocks"></div>
+    </div>
+
+    <!-- Prophecy -->
+    <div class="prophecy" id="prophecy">
+        <div class="p-tag">Prophecy — predicted trajectory</div>
+        <div class="p-text" id="p-text"></div>
+        <div class="trajectory-bar-container">
+            <div class="trajectory-fill" id="trajectoryFill" style="width:0%; background:var(--accent); opacity:0.6;"></div>
+        </div>
+        <div class="trajectory" id="traj"></div>
+        <div style="margin-top:24px;">
+            <button class="btn-primary" id="btn-routes" style="display:none">
+                Choose what to do with this →
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- ══════════════════════════════════════════════
+     LAYER 3
+══════════════════════════════════════════════ -->
+<div id="layer3">
+    <hr class="div">
+    <div class="layer-tag">Layer 3</div>
+    <h1>What do you want to do with it?</h1>
+    <p class="subtitle">Choose one or more routes. You can run them separately or together.</p>
+
+    <!-- Ambient epistemological note — adaptive -->
+    <div class="ambient-note" id="ambient-note">
+        Your work is now entering a system that has an opinion about it.
+        That opinion is <em>not a verdict</em> — it is a reading from a specific angle, at a specific moment.
+        Every route below produces a different kind of knowledge about what you've made.
+        Choose what you actually need.
+    </div>
+
+    <!-- CLUSTER 1: ASSESS -->
+    <div class="route-cluster">
+        <div class="rc-label">Assess</div>
+        <div class="route-grid">
+            <div class="route-card" data-route="summary">
+                <div class="rc-check">✓</div>
+                <div class="rc-name">Quick summary review</div>
+                <div class="rc-desc">A brief, plain-language account of what this is, what's strong, and what's underdeveloped. No score.</div>
+                <span class="rc-tag available">available</span>
+            </div>
+            <div class="route-card" data-route="wci">
+                <div class="rc-check">✓</div>
+                <div class="rc-name">WCI score</div>
+                <div class="rc-desc">Nine-dimension credibility score with band, per-dimension breakdown, and what would move each number.</div>
+                <span class="rc-tag available">available</span>
+            </div>
+            <div class="route-card" data-route="full-eval">
+                <div class="rc-check">✓</div>
+                <div class="rc-name">Full evaluation + recommendations</div>
+                <div class="rc-desc">WCI plus a structured analysis of the work's potential and a prioritized recommendation set.</div>
+                <span class="rc-tag available">available</span>
+            </div>
+            <div class="route-card" data-route="impact">
+                <div class="rc-check">✓</div>
+                <div class="rc-name">Impact assessment</div>
+                <div class="rc-desc">What would happen if this work landed — who it would reach, what it would change, where it fits in the current conversation.</div>
+                <span class="rc-tag soon">soon</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- CLUSTER 2: DEVELOP -->
+    <div class="route-cluster">
+        <div class="rc-label">Develop</div>
+        <div class="route-grid">
+            <div class="route-card" data-route="title">
+                <div class="rc-check">✓</div>
+                <div class="rc-name">Title and framing</div>
+                <div class="rc-desc">Improve the title, abstract, and opening frame — based on what the work actually is, and who it's for.</div>
+                <span class="rc-tag available">available</span>
+            </div>
+            <div class="route-card" data-route="rounds">
+                <div class="rc-check">✓</div>
+                <div class="rc-name">Automated improvement rounds</div>
+                <div class="rc-desc">Eval → recommend → revise → re-eval, repeated under defined strictures. You approve each pass.</div>
+                <span class="rc-tag soon">soon</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- CLUSTER 3: PUBLISH -->
+    <div class="route-cluster">
+        <div class="rc-label">Publish</div>
+        <div class="route-grid">
+            <div class="route-card" data-route="registry">
+                <div class="rc-check">✓</div>
+                <div class="rc-name">Submit to Woodchipper registry</div>
+                <div class="rc-desc">Your work enters the registry with its WCI score and metadata. Permanently addressable.</div>
+                <span class="rc-tag available">available</span>
+            </div>
+            <div class="route-card" data-route="journal-api">
+                <div class="rc-check">✓</div>
+                <div class="rc-name">Export to journal submission API</div>
+                <div class="rc-desc">Prepare and route your submission to a journal (EditFlow, ScholarOne, or direct). Fields pre-filled from Layer 2.</div>
+                <span class="rc-tag soon">soon</span>
+            </div>
+            <div class="route-card" data-route="observatory">
+                <div class="rc-check">✓</div>
+                <div class="rc-name">Submit to Observatory.wiki</div>
+                <div class="rc-desc">Publish as an Observatory article — expert-reviewed, structured for a general audience.</div>
+                <span class="rc-tag soon">soon</span>
+            </div>
+            <div class="route-card" data-route="export">
+                <div class="rc-check">✓</div>
+                <div class="rc-name">Print / export</div>
+                <div class="rc-desc">PDF, structured markdown, or citation-ready export of the work and its assessment.</div>
+                <span class="rc-tag available">available</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- CLUSTER 4: REGISTER & INDEX -->
+    <div class="route-cluster">
+        <div class="rc-label">Register &amp; Index</div>
+        <div class="rc-sublabel">Ports to external systems. Each assigns a persistent address or places your work in a discovery ecosystem. The Woodchipper URI is always assigned.</div>
+        <div class="route-grid">
+
+            <div class="port-card sel" data-route="wc-uri">
+                <div class="rc-check">✓</div>
+                <span class="port-external">↗ internal</span>
+                <div class="port-icon">🔗</div>
+                <div class="rc-name">Woodchipper URI</div>
+                <div class="rc-desc">Assigned on entry. Permanent, citeable address — works without journal acceptance, institution, or funder. <code style="font-size:11px;color:var(--blue)">woodchipper.wiki/{type}/{id}</code></div>
+                <span class="rc-tag connected">assigned</span>
+            </div>
+
+            <div class="port-card" data-route="orcid">
+                <div class="rc-check">✓</div>
+                <span class="port-external">↗ orcid.org</span>
+                <div class="port-icon">🆔</div>
+                <div class="rc-name">ORCID work record</div>
+                <div class="rc-desc">Push this work to your ORCID profile. Links authorship across institutions and publications. Requires OAuth login.</div>
+                <span class="rc-tag configure">connect ORCID</span>
+            </div>
+
+            <div class="port-card" data-route="zenodo-doi">
+                <div class="rc-check">✓</div>
+                <span class="port-external">↗ zenodo.org / datacite.org</span>
+                <div class="port-icon">📦</div>
+                <div class="rc-name">DOI via Zenodo / DataCite</div>
+                <div class="rc-desc">Mint a citable DOI for preprints, datasets, reports, or any work not going through a journal. Free. Immediately available.</div>
+                <span class="rc-tag available">available</span>
+            </div>
+
+            <div class="port-card" id="port-arxiv" data-route="arxiv">
+                <div class="rc-check">✓</div>
+                <span class="port-external">↗ arxiv.org</span>
+                <div class="port-icon">📄</div>
+                <div class="rc-name">arXiv deposit</div>
+                <div class="rc-desc">Submit to arXiv in the appropriate subject area. Domain-filtered — shown only when object type and domain are compatible.</div>
+                <span class="rc-tag soon">soon</span>
+            </div>
+
+            <div class="port-card" id="port-preprint" data-route="preprint">
+                <div class="rc-check">✓</div>
+                <span class="port-external" id="preprint-target">↗ preprint server</span>
+                <div class="port-icon">🗞</div>
+                <div class="rc-name">Preprint server</div>
+                <div class="rc-desc" id="preprint-desc">Domain-specific server detected from Layer 1. Fields pre-filled. One-click deposit once configured.</div>
+                <span class="rc-tag soon" id="preprint-tag">detecting domain…</span>
+            </div>
+
+            <div class="port-card" data-route="sherpa">
+                <div class="rc-check">✓</div>
+                <span class="port-external">↗ sherpa.ac.uk / romeo</span>
+                <div class="port-icon">⚖️</div>
+                <div class="rc-name">Open access check</div>
+                <div class="rc-desc">SHERPA/RoMEO lookup — what you're allowed to self-archive, under what embargo, and under which license. Generates rights retention language if applicable.</div>
+                <span class="rc-tag available">available</span>
+            </div>
+
+            <div class="port-card" data-route="crossref">
+                <div class="rc-check">✓</div>
+                <span class="port-external">↗ crossref.org</span>
+                <div class="port-icon">🏛</div>
+                <div class="rc-name">CrossRef DOI</div>
+                <div class="rc-desc">Journal-bound work only. DOI registered through the publisher once your paper is accepted. Not available before acceptance.</div>
+                <span class="rc-tag filtered">requires journal acceptance</span>
+            </div>
+
+            <div class="port-card" data-route="observatory-reg">
+                <div class="rc-check">✓</div>
+                <span class="port-external">↗ observatory.wiki</span>
+                <div class="port-icon">🌐</div>
+                <div class="rc-name">Observatory.wiki</div>
+                <div class="rc-desc">Publish as an Observatory article — expert-reviewed, public-facing, structured for a general audience. Enters Observatory editorial workflow.</div>
+                <span class="rc-tag soon">soon</span>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Routes summary + proceed -->
+    <div class="routes-summary" id="routes-summary">
+        <div class="rs-tag">Selected routes</div>
+        <ul class="rs-list" id="rs-list"></ul>
+        <div style="margin-top:20px;">
+            <button class="btn-primary" id="btn-proceed">Begin →</button>
+        </div>
+    </div>
+
+    <!-- Epistemological footer — always present, shifts based on routes -->
+    <div class="epist-footer" id="epist-footer">
+        <strong>A note on what you're doing.</strong>
+        Every piece of work — from a passing observation to a completed paper — exists in a context
+        of how information moves, how claims earn trust, and how knowledge gets made.
+        This system is one lens on that context. It won't tell you whether your work matters.
+        It will tell you what kind of thing it is, where it stands, and what comes next
+        if you want it to travel further.
+    </div>
+</div>
+
+</main>
+
+<script>
+// ═══════════════════════════════════════════════
+// STATE
+// ═══════════════════════════════════════════════
+const S = {
+    text: '', file: null, fileType: null,
+    objectType: null, researcherType: null, confidence: 0,
+    answers: {}, hope: null,
+    subjectLabels: [],
+    entryText: '',
+    domain: null,
+    // New entry-opening fields
+    workTitle: '',
+    titleSignals: { formalism: false, series: false, hasTitle: false },
+    trajectoryStage: null,   // 'early'|'observation'|'claim'|'draft'|'complete'|'existing'
+    trajectoryProfile: null, // full profile object
+};
+
+// ═══════════════════════════════════════════════
+// ENTRY OPENING — TITLE + TRAJECTORY
+// ═══════════════════════════════════════════════
+
+// Two-level trajectory tree: Formal / Informal, then branch options
+const TRAJECTORY_TREE = {
+  formal: {
+    id: 'formal',
+    label: 'Drafts and Finished Products',
+    desc: 'Something with argument, evidence, or structure — at any stage of completion',
+    children: [
+      {
+        id: 'formal-finished',
+        label: 'Finished product',
+        desc: 'Done or near-done — I want to know how it holds up',
+        icon: '●',
+        systemNote: 'Ready for a full assessment. We\'ll evaluate evidence quality, methodology, argument structure, and contribution. You\'ll come out knowing exactly where it stands.',
+        mode: 'evaluation',
+        doWCI: true,
+      },
+      {
+        id: 'formal-draft',
+        label: 'Work in progress',
+        desc: 'Exists in some form — still developing',
+        icon: '◑',
+        systemNote: 'Something developing. We\'ll help strengthen it — targeted questions, light evaluation, development before formal scoring. Not WCI yet.',
+        mode: 'development',
+        doWCI: false,
+      },
+      {
+        id: 'formal-sketch',
+        label: 'Sketch / Planning stage',
+        desc: 'Early — I have an outline, a direction, or a structure forming',
+        icon: '◌',
+        systemNote: 'Early structural work. We\'ll help you see what you\'re building toward — what the argument needs, what evidence would strengthen it, what the gaps are. No evaluation yet.',
+        mode: 'development-early',
+        doWCI: false,
+      },
+    ]
+  },
+  informal: {
+    id: 'informal',
+    label: 'Just Beginning',
+    desc: 'A thought, observation, or belief — I\'m holding it, not yet making it',
+    children: [
+      {
+        id: 'informal-thought',
+        label: 'Just a thought',
+        desc: 'Came to me — I don\'t want to lose it before it\'s anything',
+        icon: '◌',
+        systemNote: 'Capture first. No evaluation, no structure yet — the goal is to hold it without losing what\'s live. The hard questions come later.',
+        mode: 'capture',
+        doWCI: false,
+      },
+      {
+        id: 'informal-observation',
+        label: 'An observation',
+        desc: 'I saw or noticed something specific — I want to write it down precisely',
+        icon: '◎',
+        systemNote: 'Observations need precision and accumulation before they need theory. We\'ll help you write it in exact terms. No framework-building yet.',
+        mode: 'notation',
+        doWCI: false,
+      },
+      {
+        id: 'informal-hypothesis',
+        label: 'A hypothesis',
+        desc: 'I think something is going on — I want to know what would confirm or falsify it',
+        icon: '◈',
+        systemNote: 'A hypothesis needs a disconfirming case before it needs evidence. We\'ll map what it commits you to and what would have to be false for it to fail.',
+        mode: 'grounding',
+        doWCI: false,
+      },
+      {
+        id: 'informal-belief',
+        label: 'A belief',
+        desc: 'I hold this as true — I want to see what I\'m actually committed to',
+        icon: '◈',
+        systemNote: 'Beliefs are harder to examine than hypotheses — they\'re already load-bearing. We\'ll look at what it rules out, what follows from it, and where it\'s vulnerable.',
+        mode: 'grounding',
+        doWCI: false,
+      },
+      {
+        id: 'informal-memory',
+        label: 'A memory',
+        desc: 'Something that happened — I want to record it before it fades or shifts',
+        icon: '○',
+        systemNote: 'Memory is time-sensitive. We\'ll help you get it down accurately — what you observed, what you inferred, what you felt. No interpretation pressure.',
+        mode: 'capture',
+        doWCI: false,
+      },
+      {
+        id: 'informal-conversation',
+        label: 'A conversation',
+        desc: 'An exchange that mattered — I want to capture it or think through it',
+        icon: '○',
+        systemNote: 'Conversations are epistemic events. We\'ll help you record what was said, what was implied, and what it opens up.',
+        mode: 'capture',
+        doWCI: false,
+      },
+    ]
+  }
+};
+
+// Title signal detection
+const FORMALISM_PATS = [
+  /:\s+[A-Z]/,
+  /\b(study|analysis|survey|review|investigation|assessment|examination|evaluation|inquiry)\b/i,
+  /\([12][0-9]{3}\)/,
+  /\bvs?\.\s/i,
+  /\b(toward|towards|on the|in defense of|against the)\b/i,
+];
+const SERIES_PATS = [
+  /\bpart\s+\d+/i, /\bvol(?:ume)?\s*\.?\s*\d+/i, /\bno\.\s*\d+/i,
+  /#\s*\d+/, /\b\d+\s+of\s+\d+\b/, /\bchapter\s+\d+/i,
+  /\bbook\s+[ivxlcdm\d]+/i, /\bep(?:isode)?\s*\.?\s*\d+/i,
+];
+
+function analyzeTitle(title) {
+  const t = title.trim();
+  return {
+    hasTitle: t.length > 0,
+    formalism: FORMALISM_PATS.some(r => r.test(t)),
+    series: SERIES_PATS.some(r => r.test(t)),
+  };
+}
+
+function renderTitleSignals(sigs, title) {
+  const el = document.getElementById('title-signals');
+  if (!el) return;
+  const notes = [];
+  if (!sigs.hasTitle) { el.textContent = ''; return; }
+  if (sigs.formalism) notes.push('Formal register detected.');
+  if (sigs.series) notes.push('Looks like part of a series — noted.');
+  el.textContent = notes.join(' ');
+}
+
+// ── Two-level trajectory picker ──────────────
+
+function buildTrajPicker() {
+  const container = document.getElementById('traj-cards');
+  if (!container) return;
+  container.innerHTML = '';
+
+  // Primary divide: both buttons always visible side by side
+  const primaryRow = document.createElement('div');
+  primaryRow.id = 'traj-primary-row';
+  primaryRow.style.cssText = 'display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:16px;';
+
+  ['formal','informal'].forEach(key => {
+    const branch = TRAJECTORY_TREE[key];
+    const btn = document.createElement('div');
+    btn.dataset.branch = key;
+    btn.style.cssText = `
+      padding:18px 20px; background:var(--surface); border:1.5px solid var(--border);
+      border-radius:8px; cursor:pointer; transition:border-color 150ms, background 150ms;
+      text-align:left;
+    `;
+    btn.innerHTML = `
+      <div class="branch-label" style="font-size:13px;font-weight:600;letter-spacing:0.02em;color:var(--text-1);margin-bottom:5px;">${branch.label}</div>
+      <div class="branch-desc" style="font-size:12px;color:var(--text-2);line-height:1.5;">${branch.desc}</div>
+    `;
+    btn.addEventListener('mouseenter', () => {
+      if (!btn.classList.contains('sel')) {
+        btn.style.borderColor = 'var(--border-hi)';
+        btn.style.background = 'var(--surface-2)';
+      }
+    });
+    btn.addEventListener('mouseleave', () => {
+      if (!btn.classList.contains('sel')) {
+        btn.style.borderColor = 'var(--border)';
+        btn.style.background = 'var(--surface)';
+      }
+    });
+    btn.addEventListener('click', () => {
+      // Deselect all primary buttons (both stay visible)
+      primaryRow.querySelectorAll('[data-branch]').forEach(b => {
+        b.classList.remove('sel');
+        b.style.borderColor = 'var(--border)';
+        b.style.background = 'var(--surface)';
+      });
+      // Mark this one selected
+      btn.classList.add('sel');
+      btn.style.borderColor = 'var(--accent)';
+      btn.style.background = 'var(--accent-dim)';
+
+      // Reset sub-state
+      S.trajectoryStage = null;
+      S.trajectoryProfile = null;
+      const note = document.getElementById('traj-stage-note');
+      if (note) note.style.display = 'none';
+
+      // Build sub-options
+      buildTrajSubOptions(key);
+    });
+    primaryRow.appendChild(btn);
+  });
+
+  container.appendChild(primaryRow);
+
+  // Sub-options slot (populated on primary selection)
+  const subSlot = document.createElement('div');
+  subSlot.id = 'traj-sub-slot';
+  container.appendChild(subSlot);
+}
+
+function buildTrajSubOptions(branchKey) {
+  const slot = document.getElementById('traj-sub-slot');
+  if (!slot) return;
+  const branch = TRAJECTORY_TREE[branchKey];
+
+  // Animate out and rebuild
+  slot.style.opacity = '0';
+  setTimeout(() => {
+    slot.innerHTML = '';
+    const cols = branchKey === 'formal' ? '1fr 1fr 1fr' : '1fr 1fr';
+    const grid = document.createElement('div');
+    grid.style.cssText = `display:grid;grid-template-columns:${cols};gap:8px;`;
+
+    branch.children.forEach(stage => {
+      const card = document.createElement('div');
+      card.dataset.id = stage.id;
+      card.style.cssText = `
+        padding:12px 14px; background:var(--surface); border:1px solid var(--border);
+        border-radius:7px; cursor:pointer; transition:all 150ms;
+      `;
+      card.innerHTML = `
+        <div style="font-size:14px;margin-bottom:5px;color:var(--text-3);">${stage.icon}</div>
+        <div style="font-size:12px;font-weight:500;color:var(--text-1);margin-bottom:3px;">${stage.label}</div>
+        <div style="font-size:11px;color:var(--text-2);line-height:1.5;">${stage.desc}</div>
+      `;
+      card.addEventListener('mouseenter', () => {
+        if (!card.classList.contains('sel')) {
+          card.style.borderColor = 'var(--border-hi)';
+          card.style.background = 'var(--surface-2)';
+        }
+      });
+      card.addEventListener('mouseleave', () => {
+        if (!card.classList.contains('sel')) {
+          card.style.borderColor = 'var(--border)';
+          card.style.background = 'var(--surface)';
+        }
+      });
+      card.addEventListener('click', () => {
+        grid.querySelectorAll('div[data-id]').forEach(c => {
+          c.classList.remove('sel');
+          c.style.borderColor = 'var(--border)';
+          c.style.background = 'var(--surface)';
+        });
+        card.classList.add('sel');
+        card.style.borderColor = 'var(--accent)';
+        card.style.background = 'var(--accent-dim)';
+        S.trajectoryStage = stage.id;
+        S.trajectoryProfile = stage;
+        // Show the stage note
+        const note = document.getElementById('traj-stage-note');
+        if (note) { note.textContent = stage.systemNote; note.style.display = 'block'; }
+        // Apply profile (sets S.objectType, renders badges, unlocks Layer 2)
+        applyTrajectoryProfile(stage);
+        // Reveal the description area, scroll, and focus textarea
+        const main = document.getElementById('layer1-main');
+        if (main && main.style.display === 'none') {
+          main.style.display = 'block';
+          main.style.opacity = '0';
+          main.style.transition = 'opacity 300ms';
+          setTimeout(() => {
+            main.style.opacity = '1';
+            setTimeout(() => {
+              if (main.scrollIntoView) main.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              const ta = document.getElementById('main-entry');
+              if (ta) ta.focus();
+            }, 120);
+          }, 0);
+        }
+      });
+      grid.appendChild(card);
+    });
+
+    slot.appendChild(grid);
+    slot.style.transition = 'opacity 200ms';
+    slot.style.opacity = '1';
+  }, 120);
+}
+
+// Keep old name as alias so DOMContentLoaded wiring still works
+function buildTrajCards() { buildTrajPicker(); }
+
+// Entry opening event wiring — single scroll form, no Continue buttons
+document.addEventListener('DOMContentLoaded', () => {
+  // Build trajectory picker on load
+  buildTrajCards();
+
+  // Wire title input
+  const titleInput = document.getElementById('work-title');
+  if (titleInput) {
+    titleInput.focus();
+    titleInput.addEventListener('input', () => {
+      const sigs = analyzeTitle(titleInput.value);
+      S.workTitle = titleInput.value;
+      S.titleSignals = sigs;
+      renderTitleSignals(sigs, titleInput.value);
+    });
+    titleInput.addEventListener('focus', () => { titleInput.style.borderColor = 'var(--border-hi)'; });
+    titleInput.addEventListener('blur',  () => { titleInput.style.borderColor = 'var(--border)'; });
+  }
+});
+
+function applyTrajectoryProfile(profile) {
+  if (!profile) return;
+
+  // Map trajectory leaf to S state — trajectory selection IS first-layer classification
+  const stateMap = {
+    'formal-finished':      { objectType: 'Scientific case',  researcherType: 'Researcher',       confidence: 68 },
+    'formal-draft':         { objectType: 'Scientific case',  researcherType: 'Researcher',       confidence: 50 },
+    'formal-sketch':        { objectType: 'Framework',        researcherType: 'Researcher',       confidence: 40 },
+    'informal-thought':     { objectType: 'Passing thought',  researcherType: 'Curious observer', confidence: 28 },
+    'informal-observation': { objectType: 'Observation',      researcherType: 'Curious observer', confidence: 38 },
+    'informal-hypothesis':  { objectType: 'Framework',        researcherType: 'Curious observer', confidence: 45 },
+    'informal-belief':      { objectType: 'Observation',      researcherType: 'Curious observer', confidence: 35 },
+    'informal-memory':      { objectType: 'Observation',      researcherType: 'Curious observer', confidence: 30 },
+    'informal-conversation':{ objectType: 'Wisdom',           researcherType: 'Curious observer', confidence: 32 },
+  };
+  const mapped = stateMap[profile.id];
+  if (mapped) Object.assign(S, mapped);
+
+  // Trajectory selection unlocks Layer 2 immediately — no description gate
+  renderBadges();
+  renderQuestions();
+  document.getElementById('review-btn-wrap').style.display = 'block';
+
+  // Adjust the main entry prompt and placeholder based on trajectory
+  const promptLabel = document.querySelector('.prompt-label');
+  const ta = document.getElementById('main-entry');
+  const subtitles = {
+    'formal-finished':     { q: 'Tell us about it.',                          ph: 'What\'s the central argument or contribution? What makes it stand on its own?' },
+    'formal-draft':        { q: 'Tell us what it\'s about and where you are.', ph: 'What\'s the central argument? What\'s developed? What\'s still missing?' },
+    'formal-sketch':       { q: 'Describe what you\'re building toward.',      ph: 'What\'s the main idea or question? What structure do you have so far?' },
+    'informal-thought':    { q: 'Describe what came to you.',                  ph: 'As much or as little as exists — even a few words is enough.' },
+    'informal-observation':{ q: 'Describe the observation precisely.',         ph: 'Write it in exact terms, before interpretation enters. What did you see, hear, or notice?' },
+    'informal-hypothesis': { q: 'State the hypothesis.',                       ph: 'What do you think is going on? What would have to be true for you to be right?' },
+    'informal-belief':     { q: 'State the belief plainly.',                   ph: 'What do you hold as true — and why do you think you believe it?' },
+    'informal-memory':     { q: 'Describe what happened.',                     ph: 'What did you observe? What did you infer? Keep them separate if you can.' },
+    'informal-conversation':{ q: 'Describe the conversation.',                 ph: 'What was said? What was implied? What did it open up for you?' },
+  };
+  const s = subtitles[profile.id] || {};
+  if (promptLabel && s.q) promptLabel.textContent = s.q;
+  if (ta && s.ph) ta.placeholder = s.ph;
+}
+
+// ═══════════════════════════════════════════════
+// CLASSIFY
+// ═══════════════════════════════════════════════
+function updateTrajectory(warmth) {
+    const fill = document.getElementById('trajectoryFill');
+    if (!fill) return;
+    const pct = Math.round(Math.min(1, Math.max(0, warmth)) * 100);
+    fill.style.width = pct + '%';
+    fill.style.background = warmth > 0.5 ? 'var(--accent)' : 'var(--text-3)';
+    fill.style.opacity = warmth > 0.5 ? '0.6' : '0.4';
+}
+
+function classify(text) {
+    const t = text.toLowerCase();
+    const wc = t.split(/\s+/).filter(Boolean).length;
+
+    const hit = (terms) => terms.filter(t2 => t.includes(t2)).length;
+
+    const sci   = hit(['hypothesis','experiment','data','study','results','measured','sample','methodology','findings','statistical','correlation','analysis','paper','abstract','journal','published','literature','citation','peer review','dissertation','thesis']);
+    const obs   = hit(['i noticed','i observed','i\'ve been','i keep seeing','it seems','i think i','pattern','every time','consistently','over and over','across','keep noticing']);
+    const wis   = hit(['years of','in my experience','i\'ve found','working with','in practice','clinical','practitioners','patients','clients','what works','professional','after decades']);
+    const frm   = hit(['framework','theory','model','structure','concept','principle','mechanism','explains','predicts','architecture','system','underlying']);
+    const day   = hit(['what if','imagine','i wonder','could it be','maybe','had this idea','been thinking','musing','daydream','shower thought']);
+
+    const scores = { 'Scientific case': sci, 'Observation': obs, 'Wisdom': wis, 'Framework': frm, 'Passing thought': day };
+    let objectType = 'Observation', best = 0;
+    for (const [k, v] of Object.entries(scores)) { if (v > best) { best = v; objectType = k; } }
+    if (best === 0) objectType = wc > 25 ? 'Observation' : 'Passing thought';
+
+    // researcher
+    const acad = hit(['phd','professor','university','published','journal','citation','peer','faculty','scholar','dissertation','academic']);
+    const exp  = hit(['years','practice','clinical','professional','career','industry','worked','experience','field']);
+    const beg  = hit(['not sure','could be wrong','just wondering','curious','trying to understand','don\'t know if']);
+    let researcherType = 'Curious observer';
+    if (acad >= 2) researcherType = 'Academic researcher';
+    else if (acad === 1 || exp >= 2) researcherType = 'Domain expert';
+    else if (exp === 1) researcherType = 'Practitioner';
+    else if (beg >= 2) researcherType = 'Early explorer';
+
+    // domain signal
+    const domainHits = {
+        'Mathematics':     hit(['theorem','proof','equation','algebra','calculus','topology','geometry','integer','prime']),
+        'Medicine':        hit(['patient','clinical','diagnosis','treatment','symptoms','trial','drug','physician','hospital']),
+        'Biology':         hit(['gene','protein','organism','cell','species','evolution','dna','rna','ecology','phylogen']),
+        'Economics':       hit(['market','gdp','price','utility','equilibrium','elasticity','monetary','fiscal','labour']),
+        'Computer science':hit(['algorithm','code','software','computation','neural','machine learning','data structure','complexity']),
+        'Physics':         hit(['force','energy','quantum','particle','field','thermodynamics','relativity','mass','velocity']),
+        'Philosophy':      hit(['epistemology','ontology','ethics','metaphysics','logic','consciousness','moral','virtue','truth']),
+        'Social science':  hit(['society','culture','institution','norm','behavior','identity','community','class','inequality']),
+    };
+    let domain = null, domBest = 0;
+    for (const [k, v] of Object.entries(domainHits)) { if (v > domBest) { domBest = v; domain = k; } }
+
+    const conf = Math.min(88, Math.max(18, (wc > 120 ? 62 : wc > 60 ? 48 : wc > 25 ? 36 : 20) + best * 9));
+    return { objectType, researcherType, confidence: conf, domain };
+}
+
+// ═══════════════════════════════════════════════
+// QUESTION BANKS
+// ═══════════════════════════════════════════════
+const QUESTIONS = {
+    'Scientific case': [
+        { id:'fmt', text:'What form is the work in right now?',
+          opts:['Completed paper (PDF)','Draft in progress','Data + notes, no write-up','Abstract only'] },
+        { id:'sub', text:'Has it been submitted or published anywhere?',
+          opts:['Not yet','Under review','Rejected — revising','Published'] }
+    ],
+    'Observation': [
+        { id:'cnt', text:'How many times have you seen this?',
+          opts:['Once or twice','A handful of times','Many times, consistently','I\'ve documented it'] },
+        { id:'dom', text:'What domain is this in?',
+          opts:['Natural world / biology','Human behavior / social','Clinical / practice','Technology / systems','Unsure / cross-domain'] }
+    ],
+    'Framework': [
+        { id:'stg', text:'How developed is it?',
+          opts:['Core idea only','Partial structure, gaps remain','Mostly complete, needs evidence','Complete — looking for critique'] },
+        { id:'nov', text:'Relation to existing work?',
+          opts:['Extends existing frameworks','Challenges existing frameworks','Fills a gap where nothing exists','I\'m not sure what exists'] }
+    ],
+    'Wisdom': [
+        { id:'yrs', text:'How long has this understanding been building?',
+          opts:['Under 5 years','5–15 years','15+ years','Hard to say — it\'s accumulated'] },
+        { id:'val', text:'Have you tested this against peers in your field?',
+          opts:['Yes — general agreement','Yes — disagreement exists','Not formally','This is unusual in my field'] }
+    ],
+    'Passing thought': [
+        { id:'rec', text:'Is this new, or has it come back before?',
+          opts:['Just occurred to me','It keeps coming back','Been with me a while','Can\'t remember not having it'] }
+    ]
+};
+
+function getQs() { return QUESTIONS[S.objectType] || QUESTIONS['Observation']; }
+
+// ═══════════════════════════════════════════════
+// RENDER
+// ═══════════════════════════════════════════════
+function renderBadges() {
+    const { objectType, researcherType, confidence } = S;
+    if (!objectType) return;
+    document.getElementById('cls').style.display = 'block';
+    const row = document.getElementById('bdg');
+    const sig = confidence > 65 ? 'strong signal' : confidence > 40 ? 'developing' : 'early read';
+    row.innerHTML = `<span class="badge-label">Reading:</span>
+        <span class="badge object">${objectType}</span>
+        <span class="badge person">${researcherType}</span>
+        <span class="badge signal">${sig}</span>`;
+}
+
+function renderQuestions() {
+    const qs = getQs();
+    const c = document.getElementById('questions');
+    c.innerHTML = '';
+    qs.forEach(q => {
+        const d = document.createElement('div');
+        d.className = 'q-block';
+        d.innerHTML = `<div class="q-text">${q.text}</div>
+            <div class="q-opts">${q.opts.map(o =>
+                `<button class="q-opt" data-qid="${q.id}" data-v="${o}">${o}</button>`).join('')}
+            </div>`;
+        c.appendChild(d);
+    });
+    c.querySelectorAll('.q-opt').forEach(b => {
+        b.addEventListener('click', () => {
+            c.querySelectorAll(`[data-qid="${b.dataset.qid}"]`).forEach(x => x.classList.remove('sel'));
+            b.classList.add('sel');
+            S.answers[b.dataset.qid] = b.dataset.v;
+            maybeShowReview();
+        });
+    });
+}
+
+function maybeShowReview() {
+    const hasContent = S.text.length > 25 || S.file;
+    const allDone = getQs().every(q => S.answers[q.id]);
+    document.getElementById('review-btn-wrap').style.display = (hasContent && allDone) ? 'block' : 'none';
+}
+
+function renderReviewPanel() {
+    const { objectType, researcherType, confidence, file, answers } = S;
+    const cl = confidence > 65 ? 'High' : confidence > 40 ? 'Moderate' : 'Low — more detail would help';
+    let rows = `
+        <div class="review-row"><span class="rk">Object</span><span class="rv">${objectType}</span></div>
+        <div class="review-row"><span class="rk">Researcher</span><span class="rv">${researcherType}</span></div>
+        <div class="review-row"><span class="rk">Confidence</span><span class="rv">${cl}</span></div>
+        ${file ? `<div class="review-row"><span class="rk">File</span><span class="rv">${file.name}</span></div>` : ''}
+        ${Object.entries(answers).map(([k,v]) => `<div class="review-row">
+            <span class="rk">${k}</span><span class="rv">${v}</span></div>`).join('')}
+    `;
+    document.getElementById('review-rows').innerHTML = rows;
+    document.getElementById('review-panel').classList.add('on');
+    var rp = document.getElementById('review-panel');
+    if (rp && rp.scrollIntoView) rp.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+// ═══════════════════════════════════════════════
+// LAYER 2
+// ═══════════════════════════════════════════════
+function goLayer2() {
+    var l1 = document.getElementById('layer1');
+    var l2 = document.getElementById('layer2');
+    if (l1) l1.style.display = 'none';
+    if (l2) { l2.classList.add('on'); l2.style.display = 'block'; }
+    document.getElementById('t1').classList.remove('active');
+    document.getElementById('t2').classList.add('active');
+    buildL2Summary();
+    initLabelBrowser();
+    syncDomainToBrowser();
+    setTimeout(function() { window.scrollTo(0, 0); }, 60);
+}
+
+function buildL2Summary() {
+    const { objectType, researcherType, confidence, file, answers } = S;
+    const dom = answers['dom'] || '—';
+    let subType = { 'Scientific case':'Academic paper / study', 'Framework':'Conceptual framework',
+        'Wisdom':'Practice knowledge', 'Observation':'Empirical observation', 'Passing thought':'Early-stage idea' }[objectType] || objectType;
+
+    document.getElementById('l2-summary').innerHTML = `
+        <div class="s-row"><span class="sk">Object</span><span class="sv">${objectType}</span></div>
+        <div class="s-row"><span class="sk">Submission type</span><span class="sv">${subType}</span></div>
+        ${dom !== '—' ? `<div class="s-row"><span class="sk">Domain signal</span><span class="sv">${dom}</span></div>` : ''}
+        ${file ? `<div class="s-row"><span class="sk">File</span><span class="sv">${file.name}</span></div>` : ''}
+        <div class="s-row"><span class="sk">Researcher</span><span class="sv">${researcherType}</span></div>
+    `;
+
+    // Show academic fields for papers
+    if (objectType === 'Scientific case') {
+        document.getElementById('academic-fields').style.display = 'block';
+    }
+}
+
+// Hope selection
+document.querySelectorAll('.hope').forEach(b => {
+    b.addEventListener('click', () => {
+        document.querySelectorAll('.hope').forEach(x => x.classList.remove('sel'));
+        b.classList.add('sel');
+        S.hope = b.dataset.v;
+        showEpistemicLight();
+        showConfidenceMeter();
+        document.getElementById('conf-block').style.display = 'block';
+        var cb = document.getElementById('conf-block');
+        if (cb && cb.scrollIntoView) cb.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    });
+});
+
+const LIGHT_MSG = {
+    feedback: s => `Substantive feedback is the core of what this system provides. For a ${s.objectType.toLowerCase()}, expect the reading to focus on ${s.objectType === 'Scientific case' ? 'hypothesis structure, evidence chain, and scope conditions' : s.objectType === 'Observation' ? 'accumulation, precision, and premature theorizing risk' : s.objectType === 'Framework' ? 'internal coherence, axiom identification, and explanatory scope' : 'formalization path and scope conditions'}.`,
+    credibility: s => `The WCI (Woodchipper Credibility Index) scores across nine dimensions. For a ${s.objectType.toLowerCase()}, the most predictive are evidence quality, theoretical coherence, and scope precision. The score is a reading from a specific vertex — not a verdict. You'll receive the number, the band, and the per-dimension breakdown.`,
+    review: s => `Peer review in the traditional sense requires a journal and editor. What this system provides is a structured pre-review: your work assessed against the standards of your claimed domain, plus a WCI signal for where it would likely land. If you have a specific journal in mind, name it in the submission details above — we can calibrate to its scope.`,
+    publication: s => `Publication is downstream of review, which is downstream of credibility threshold. The most useful thing right now is a clear picture of where the work stands and what needs to change. If it's already at threshold, we'll help identify the right venue. Either way, you leave with actionable next steps.`,
+    discovery: s => `Naming what you have is the core work of the Entry Layer — and you've done most of it already. The assessment will give you a precise account of what kind of claim this is, which practices apply to developing it, and what the characteristic failure modes are. Researchers often find the thing they thought they had turns out to be something more specific and more interesting.`,
+    improvement: s => `The assessment will specify what to improve and in what order. For a ${s.objectType.toLowerCase()}, the most common improvement targets are: ${s.objectType === 'Observation' ? 'precision of the observation, accumulation of instances, resistance to premature theorizing' : s.objectType === 'Scientific case' ? 'hypothesis specificity, evidence chain completeness, and scope honesty' : 'internal consistency, scope definition, and grounding of foundational commitments'}.`,
+    validation: s => `Honest answer: this system won't tell you that you're right. It will tell you exactly where you stand relative to the standards of your claimed domain. For many people, that is more useful than validation — it's a map, not a verdict. The most useful validation available here: a precise account of what is strong, and what a skeptic would need to see to take it seriously.`
+};
+
+function showEpistemicLight() {
+    const el = document.getElementById('e-light');
+    const fn = LIGHT_MSG[S.hope];
+    if (fn) { el.textContent = fn(S); el.style.display = 'block'; }
+}
+
+function showConfidenceMeter() {
+    const { confidence } = S;
+    const lv = confidence > 65 ? 'hi' : confidence > 40 ? 'md' : 'lo';
+    const note = confidence > 65 ? 'high — clear classification' : confidence > 40 ? 'moderate — more detail would sharpen this' : 'low — the more you share, the better we calibrate';
+    document.getElementById('meter').innerHTML = `
+        <div class="meter-bar"><div class="meter-fill ${lv}" style="width:${confidence}%"></div></div>
+        <div class="meter-note">${confidence}% classification confidence — ${note}</div>
+    `;
+}
+
+// Save → hard feedback + prophecy
+document.getElementById('btn-save').addEventListener('click', () => {
+    document.getElementById('btn-save').textContent = 'Saved.';
+    document.getElementById('btn-save').disabled = true;
+    renderHardFeedback();
+    renderProphecy();
+    var hs = document.getElementById('hard-section');
+    if (hs && hs.scrollIntoView) hs.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+});
+
+function renderHardFeedback() {
+    const { objectType, researcherType, hope, confidence } = S;
+    const blocks = buildHardBlocks(objectType, researcherType, hope, confidence);
+    document.getElementById('hard-blocks').innerHTML = blocks.map(b => `
+        <div class="h-block ${b.t}">
+            <div class="h-title">${b.title}</div>
+            ${b.body}
+        </div>`).join('');
+    document.getElementById('hard-section').classList.add('on');
+}
+
+function buildHardBlocks(obj, res, hope, conf) {
+    const blocks = [];
+    if (obj === 'Scientific case') {
+        blocks.push({ t:'positive', title:'Entry point', body:'A scientific case is the most evaluable object in this system. The WCI is calibrated for exactly this. The question is whether the hypothesis-evidence relationship is tight enough, and whether the scope claimed matches the evidence offered.' });
+        blocks.push({ t:'notice', title:'Watch for', body:'The most common failure mode: scope overclaim. The study shows X in context Y, and the conclusions drift toward X in general. The WCI will surface this. Reviewers will surface it if it isn\'t caught here first.' });
+    } else if (obj === 'Observation') {
+        blocks.push({ t:'notice', title:'Classification note', body:'An observation is not yet a claim — it is the substrate of one. The most important next move is not theorizing. It is accumulation: more instances, more contexts, more precision. The difference between a powerful observation and an anecdote is accumulation and precision, not intelligence or insight.' });
+        blocks.push({ t: conf < 50 ? 'critical' : 'notice', title:'Primary risk', body:'Pattern-matching from insufficient instances is the failure mode. Confirmation bias shapes which instances get noticed. Hard practice: deliberately seek cases where the pattern should appear but doesn\'t.' });
+    } else if (obj === 'Framework') {
+        blocks.push({ t:'positive', title:'Framework territory', body:'Frameworks are evaluated differently from hypotheses. The question is not "is this true?" but "is this coherent, useful, and does it outperform alternatives?" The WCI-zero instrument is calibrated for this. Proceed to WCI when the framework begins generating testable predictions.' });
+        blocks.push({ t:'notice', title:'Hardest question', body:'What does this framework predict that competing frameworks do not? What would falsify the framework as a whole — not a prediction from it, but the framework itself? If these questions can\'t be answered, the framework is still pre-scientific. That is not disqualifying — it changes which evaluation is appropriate.' });
+    } else if (obj === 'Wisdom') {
+        blocks.push({ t:'positive', title:'High-value input', body:'Practice knowledge is one of the most underutilized epistemic resources in formal research. Thirty years of clinical or field experience seeing a consistent pattern has real evidential weight. It is not anecdotal simply because it is not controlled. The challenge is formalization without distortion.' });
+        blocks.push({ t:'notice', title:'Key move', body:'Where does this wisdom fail? Every practitioner-derived insight has scope conditions — contexts where it doesn\'t apply or breaks down. Finding those edges is the most important step toward making this formally evaluable.' });
+    } else {
+        blocks.push({ t:'notice', title:'Early stage', body:'What you have is the beginning of something, not a complete thing. That is the correct state for this object type. The most important move now: capture it precisely and do not evaluate it yet. Premature evaluation collapses ideas that needed more time to develop.' });
+    }
+    if (hope === 'review' || hope === 'publication') {
+        blocks.push({ t: obj === 'Scientific case' ? 'notice' : 'critical', title:'Venue readiness',
+            body: obj === 'Scientific case'
+                ? 'For peer review and publication: WCI above 70 = strong submission. 55–70 = revision likely before acceptance. Below 55 = foundational work needed first.'
+                : `A ${obj.toLowerCase()} typically needs development work before it is publication-ready. This is not a weakness — the system is routing correctly.` });
+    }
+    return blocks;
+}
+
+const PROPHECY = {
+    'Scientific case': {
+        text: s => `This is a <em>${s.confidence > 65 ? 'high-confidence' : s.confidence > 40 ? 'moderate-confidence' : 'early-stage'}</em> scientific case from a <em>${s.researcherType.toLowerCase()}</em>. Most likely trajectory: WCI assessment → targeted revision on the 2–3 lowest-scoring dimensions → submission. Typical cycle time from this point to publication-ready: <em>one to three revision passes</em>, depending on how tight the evidence chain already is.`,
+        steps: ['Entry (now)', 'WCI assessment', 'Revision', 'Submission']
+    },
+    'Observation': {
+        text: s => `A <em>${s.confidence > 65 ? 'well-formed' : 'developing'}</em> observation from a <em>${s.researcherType.toLowerCase()}</em>. The trajectory runs through accumulation before theorizing. Once enough instances exist with enough precision, this converts naturally into a hypothesis — at which point the WCI is the right instrument. For now: <em>this is substrate work, not timeline work</em>.`,
+        steps: ['Entry (now)', 'Accumulate', 'Theorize', 'WCI']
+    },
+    'Framework': {
+        text: s => `A <em>${s.confidence > 65 ? 'developed' : 'emerging'}</em> framework from a <em>${s.researcherType.toLowerCase()}</em>. The WCI-zero instrument is the right next step — coherence, explanatory power, paradigm status. Hypothesis generation from the framework comes after that. <em>Do not submit to journals yet</em>: frameworks need a paradigm to sit in. That work happens here first.`,
+        steps: ['Entry (now)', 'WCI-zero', 'Hypothesis gen.', 'WCI → journal']
+    },
+    'Wisdom': {
+        text: s => `Practice knowledge from a <em>${s.researcherType.toLowerCase()}</em>. The trajectory is formalization: scope conditions, disconfirming cases, literature comparison. <em>This is publishable material</em> — but it needs one more layer of work before the pipeline can score it. Highly worth doing.`,
+        steps: ['Entry (now)', 'Formalize', 'WCI-zero', 'Submission']
+    },
+    'Passing thought': {
+        text: s => `An early idea from a <em>${s.researcherType.toLowerCase()}</em>. This is the beginning of a trajectory, not a point on one. Only prediction worth making: <em>if this keeps coming back, it means something</em>. Let it develop. Don't evaluate it yet. Return when it has more shape — the system will be here.`,
+        steps: ['Captured', 'Incubate', 'Return', 'Classify again']
+    }
+};
+
+function renderProphecy() {
+    const p = PROPHECY[S.objectType] || PROPHECY['Observation'];
+    document.getElementById('p-text').innerHTML = p.text(S);
+    const steps = p.steps;
+    document.getElementById('traj').innerHTML = steps.map((s, i) => `
+        ${i > 0 ? '<div class="t-line"></div>' : ''}
+        <div class="t-step">
+            <div class="t-dot ${i === 0 ? 'now' : 'next'}"></div>
+            <div class="t-label">${s}</div>
+        </div>`).join('');
+    document.getElementById('prophecy').classList.add('on');
+    setTimeout(() => {
+        document.getElementById('btn-routes').style.display = 'inline-block';
+    }, 400);
+}
+
+document.getElementById('btn-routes').addEventListener('click', goLayer3);
+
+// ═══════════════════════════════════════════════
+// DOMAIN TAXONOMY & LABEL BROWSER
+// ═══════════════════════════════════════════════
+
+const TAXONOMY = {
+  'Mathematics': {
+    system: 'MSC 2020', authority: 'AMS · zbMATH',
+    codes: {
+      '00': { label:'General / Foundations',   sub:{'00A':'General mathematics','00B':'Conference proceedings','00-XX':'Research exposition'} },
+      '03': { label:'Logic & Set Theory',       sub:{'03A':'Philosophical aspects','03B':'General logic','03C':'Model theory','03D':'Computability & recursion','03E':'Set theory','03F':'Proof theory'} },
+      '05': { label:'Combinatorics',            sub:{'05A':'Enumerative combinatorics','05B':'Designs & configurations','05C':'Graph theory','05D':'Extremal combinatorics','05E':'Algebraic combinatorics'} },
+      '11': { label:'Number Theory',            sub:{'11A':'Elementary number theory','11B':'Sequences & sets','11G':'Arithmetic algebraic geometry','11N':'Multiplicative number theory','11P':'Additive number theory'} },
+      '14': { label:'Algebraic Geometry',       sub:{'14A':'Foundations','14C':'Cycles & subschemes','14E':'Birational geometry','14G':'Arithmetic aspects','14H':'Curves'} },
+      '20': { label:'Group Theory',             sub:{'20A':'Foundations','20B':'Permutation groups','20C':'Representation theory','20D':'Abstract finite groups','20E':'Structure & classification'} },
+      '26': { label:'Real Functions',           sub:{'26A':'Functions of 1 variable','26B':'Functions of n variables','26C':'Polynomials','26D':'Inequalities'} },
+      '35': { label:'Partial Differential Eqs', sub:{'35A':'General topics','35B':'Qualitative properties','35J':'Elliptic equations','35K':'Parabolic equations','35L':'Hyperbolic equations'} },
+      '53': { label:'Differential Geometry',    sub:{'53A':'Classical differential geometry','53B':'Local differential geometry','53C':'Riemannian & pseudo-Riemannian','53D':'Symplectic geometry & contact'} },
+      '60': { label:'Probability Theory',       sub:{'60A':'Foundations','60B':'Probability on structures','60G':'Stochastic processes','60H':'Stochastic analysis','60J':'Markov chains'} },
+      '68': { label:'Computer Science',         sub:{'68N':'Software','68P':'Computing & information','68Q':'Theory of computing','68T':'AI & machine learning','68W':'Algorithms'} },
+    }
+  },
+  'Economics': {
+    system: 'JEL Classification', authority: 'AEA',
+    codes: {
+      'A': { label:'General Economics',         sub:{'A1':'General economics','A2':'Economic education','A3':'Collective works'} },
+      'C': { label:'Mathematical Methods',      sub:{'C0':'General','C1':'Econometric methods','C3':'Multiple equation models','C6':'Mathematical methods','C7':'Game theory','C8':'Data & statistics','C9':'Design of experiments'} },
+      'D': { label:'Microeconomics',            sub:{'D1':'Household behavior','D2':'Production & firms','D3':'Distribution','D4':'Market structure','D5':'General equilibrium','D6':'Welfare economics','D7':'Collective decisions','D8':'Information & uncertainty'} },
+      'E': { label:'Macroeconomics',            sub:{'E1':'Aggregate models','E2':'Consumption & saving','E3':'Prices & business fluctuations','E4':'Money & interest rates','E5':'Monetary policy','E6':'Macroeconomic policy'} },
+      'F': { label:'International Economics',   sub:{'F1':'Trade','F2':'International factor movements','F3':'International finance','F4':'Macroeconomic aspects of trade','F5':'International relations','F6':'Globalization'} },
+      'G': { label:'Financial Economics',       sub:{'G0':'General','G1':'Financial markets','G2':'Financial institutions','G3':'Corporate finance','G4':'Behavioral finance','G5':'Household finance'} },
+      'H': { label:'Public Economics',          sub:{'H1':'Structure of government','H2':'Taxation','H3':'Fiscal policies','H4':'Publicly provided goods','H5':'Government expenditures','H6':'National budget','H7':'Local government'} },
+      'I': { label:'Health, Education & Welfare',sub:{'I0':'General','I1':'Health','I2':'Education','I3':'Welfare, well-being, poverty'} },
+      'J': { label:'Labor Economics',           sub:{'J1':'Demographic economics','J2':'Labor supply & demand','J3':'Wages','J4':'Labor markets','J5':'Labor–management relations','J6':'Mobility & unemployment','J7':'Discrimination'} },
+      'O': { label:'Development & Growth',      sub:{'O1':'Economic development','O2':'Development planning','O3':'Innovation & R&D','O4':'Economic growth & aggregate productivity'} },
+    }
+  },
+  'Biology': {
+    system: 'Biology (broad)', authority: 'Woodchipper intermediate taxonomy',
+    codes: {
+      'MOL': { label:'Molecular & Cell Biology', sub:{'MOL.GEN':'Genomics & genetics','MOL.PRO':'Proteomics','MOL.CEL':'Cell biology','MOL.MET':'Metabolomics'} },
+      'EVO': { label:'Evolutionary Biology',     sub:{'EVO.PHY':'Phylogenetics','EVO.POP':'Population genetics','EVO.ECO':'Evolutionary ecology','EVO.DEV':'Evo-devo'} },
+      'ECO': { label:'Ecology',                  sub:{'ECO.COM':'Community ecology','ECO.MAR':'Marine ecology','ECO.TER':'Terrestrial ecology','ECO.BEH':'Behavioral ecology'} },
+      'NEU': { label:'Neuroscience',             sub:{'NEU.COG':'Cognitive neuroscience','NEU.SYS':'Systems neuroscience','NEU.MOL':'Molecular neuroscience','NEU.DEV':'Developmental neuroscience'} },
+      'MIC': { label:'Microbiology',             sub:{'MIC.BAC':'Bacteriology','MIC.VIR':'Virology','MIC.MYC':'Mycology','MIC.ENV':'Environmental microbiology'} },
+      'DEV': { label:'Developmental Biology',    sub:{'DEV.EMB':'Embryology','DEV.STE':'Stem cells','DEV.PAT':'Patterning & morphogenesis'} },
+      'PHY': { label:'Physiology',               sub:{'PHY.CAR':'Cardiovascular','PHY.NEU':'Neurophysiology','PHY.END':'Endocrinology','PHY.IMM':'Immunology'} },
+    }
+  },
+  'Medicine': {
+    system: 'MeSH 2024', authority: 'NLM',
+    codes: {
+      'A': { label:'Anatomy',                    sub:{'A01':'Body regions','A02':'Musculoskeletal','A03':'Digestive system','A08':'Nervous system','A09':'Sense organs','A10':'Tissues'} },
+      'C': { label:'Diseases',                   sub:{'C01':'Infections','C04':'Neoplasms','C05':'Musculoskeletal diseases','C10':'Nervous system diseases','C14':'Cardiovascular diseases','C20':'Immune diseases'} },
+      'D': { label:'Chemicals & Drugs',          sub:{'D01':'Inorganic chemicals','D02':'Organic chemicals','D03':'Heterocyclic compounds','D04':'Polycyclic compounds','D06':'Hormones','D09':'Carbohydrates'} },
+      'E': { label:'Techniques & Equipment',     sub:{'E01':'Diagnosis','E02':'Therapeutics','E03':'Anesthesia & analgesia','E04':'Surgical procedures','E05':'Investigative techniques'} },
+      'F': { label:'Psychiatry & Psychology',    sub:{'F01':'Behavior','F02':'Psychological phenomena','F03':'Mental disorders','F04':'Behavioral disciplines'} },
+      'G': { label:'Biological Sciences',        sub:{'G01':'Biological sciences','G02':'Chemical phenomena','G03':'Metabolism','G04':'Cell biology','G05':'Genetics','G07':'Physiological phenomena'} },
+      'N': { label:'Health Care',                sub:{'N01':'Population characteristics','N02':'Health care facilities','N03':'Health care quality','N04':'Health services','N05':'Health care evaluation'} },
+    }
+  },
+  'Computer Science': {
+    system: 'ACM CCS 2012', authority: 'ACM',
+    codes: {
+      'TH': { label:'Theory of computation',     sub:{'TH.MOD':'Models of computation','TH.COM':'Computational complexity','TH.ALG':'Design and analysis of algorithms','TH.LOG':'Logic','TH.RAN':'Randomness & computation'} },
+      'CM': { label:'Computing methodologies',   sub:{'CM.AI':'Artificial intelligence','CM.ML':'Machine learning','CM.CG':'Computer graphics','CM.CV':'Computer vision','CM.SIM':'Simulation'} },
+      'HW': { label:'Hardware',                  sub:{'HW.ARC':'Computer systems organization','HW.EMB':'Embedded systems','HW.VLS':'VLSI design','HW.NET':'Networks on chip'} },
+      'SW': { label:'Software engineering',      sub:{'SW.DES':'Software design','SW.PRO':'Software prototyping','SW.VER':'Software verification','SW.LAN':'Programming languages'} },
+      'IS': { label:'Information systems',       sub:{'IS.DAT':'Database management','IS.INF':'Information retrieval','IS.WEB':'Web information systems','IS.DEC':'Decision support'} },
+      'HCI': { label:'Human-centered computing', sub:{'HCI.HCI':'Human–computer interaction','HCI.VIS':'Visualization','HCI.ACC':'Accessibility','HCI.UBI':'Ubiquitous computing'} },
+      'SEC': { label:'Security & privacy',       sub:{'SEC.FOR':'Formal methods','SEC.NET':'Network security','SEC.SYS':'Systems security','SEC.CRY':'Cryptography'} },
+    }
+  },
+  'Physics': {
+    system: 'Physics (broad)', authority: 'Woodchipper intermediate taxonomy',
+    codes: {
+      'QM': { label:'Quantum mechanics',         sub:{'QM.FUN':'Foundations','QM.INF':'Quantum information','QM.OPT':'Quantum optics','QM.CMP':'Condensed matter'} },
+      'CM': { label:'Classical mechanics',       sub:{'CM.DYN':'Dynamics','CM.FLU':'Fluid mechanics','CM.ELA':'Elasticity','CM.CHA':'Chaos & nonlinear dynamics'} },
+      'ST': { label:'Statistical physics',       sub:{'ST.THE':'Thermodynamics','ST.STA':'Statistical mechanics','ST.PHA':'Phase transitions'} },
+      'EM': { label:'Electromagnetism',          sub:{'EM.CLA':'Classical EM','EM.OPT':'Optics','EM.PLA':'Plasmonics'} },
+      'PP': { label:'Particle physics',          sub:{'PP.HEP':'High energy physics','PP.NUC':'Nuclear physics','PP.SMO':'Standard model'} },
+      'AS': { label:'Astrophysics & cosmology',  sub:{'AS.COS':'Cosmology','AS.AST':'Astrophysics','AS.GRA':'Gravitational waves','AS.PLN':'Planetary science'} },
+      'MP': { label:'Mathematical physics',      sub:{'MP.QFT':'Quantum field theory','MP.STR':'String theory','MP.GEN':'General relativity','MP.INT':'Integrable systems'} },
+    }
+  },
+  'Philosophy': {
+    system: 'PhilArchive taxonomy', authority: 'PhilArchive / Woodchipper',
+    codes: {
+      'EPI': { label:'Epistemology',             sub:{'EPI.KNO':'Knowledge','EPI.JUS':'Justification','EPI.SKE':'Skepticism','EPI.SOC':'Social epistemology','EPI.FOR':'Formal epistemology'} },
+      'MET': { label:'Metaphysics',              sub:{'MET.ONT':'Ontology','MET.TIM':'Time & change','MET.CAS':'Causation','MET.MOD':'Modality & possible worlds','MET.IDE':'Identity & persistence'} },
+      'ETH': { label:'Ethics',                   sub:{'ETH.NOR':'Normative ethics','ETH.MET':'Metaethics','ETH.APP':'Applied ethics','ETH.POL':'Political philosophy'} },
+      'LOG': { label:'Logic',                    sub:{'LOG.FOR':'Formal logic','LOG.PHI':'Philosophy of logic','LOG.MOD':'Modal logic','LOG.INF':'Informal logic'} },
+      'MIN': { label:'Philosophy of Mind',       sub:{'MIN.CON':'Consciousness','MIN.INT':'Intentionality','MIN.COG':'Cognitive science','MIN.AI':'Philosophy of AI'} },
+      'SCI': { label:'Philosophy of Science',    sub:{'SCI.GEN':'General philosophy of science','SCI.PHY':'Philosophy of physics','SCI.BIO':'Philosophy of biology','SCI.SOC':'Philosophy of social science'} },
+      'LAN': { label:'Philosophy of Language',   sub:{'LAN.MEA':'Meaning & reference','LAN.PRG':'Pragmatics','LAN.TRU':'Truth'} },
+    }
+  },
+  'Social Science': {
+    system: 'Social science (broad)', authority: 'Woodchipper intermediate taxonomy',
+    codes: {
+      'SOC': { label:'Sociology',                sub:{'SOC.INS':'Institutions','SOC.STR':'Social stratification','SOC.CUL':'Culture','SOC.NET':'Social networks','SOC.MOV':'Social movements'} },
+      'ANT': { label:'Anthropology',             sub:{'ANT.CUL':'Cultural anthropology','ANT.SOC':'Social anthropology','ANT.PHY':'Biological anthropology','ANT.ARC':'Archaeology'} },
+      'POL': { label:'Political Science',        sub:{'POL.COM':'Comparative politics','POL.INT':'International relations','POL.THE':'Political theory','POL.PUB':'Public policy'} },
+      'PSY': { label:'Psychology',               sub:{'PSY.COG':'Cognitive','PSY.SOC':'Social','PSY.DEV':'Developmental','PSY.CLI':'Clinical','PSY.NEU':'Neuropsychology'} },
+      'LIN': { label:'Linguistics',              sub:{'LIN.SYN':'Syntax','LIN.SEM':'Semantics','LIN.PHO':'Phonology','LIN.SOC':'Sociolinguistics','LIN.COG':'Cognitive linguistics'} },
+      'COM': { label:'Communication Studies',    sub:{'COM.MED':'Media studies','COM.INT':'Interpersonal communication','COM.PUB':'Public communication','COM.DIG':'Digital communication'} },
+    }
+  },
+  'Journalism': {
+    system: 'IPTC Media Topics', authority: 'IPTC',
+    codes: {
+      '01': { label:'Arts, entertainment, culture',sub:{'01001':'Architecture','01002':'Cinema','01003':'Dance','01004':'Fashion','01005':'Literature','01006':'Music','01007':'Theatre'} },
+      '04': { label:'Economy, business, finance',  sub:{'04001':'Agriculture','04002':'Commodities','04003':'Economic policy','04004':'Financial markets','04005':'Labour','04006':'Trade'} },
+      '06': { label:'Environment',                 sub:{'06001':'Climate change','06002':'Natural disasters','06003':'Pollution','06004':'Conservation','06005':'Weather'} },
+      '07': { label:'Health',                      sub:{'07001':'Disease & conditions','07002':'Healthcare policy','07003':'Medical research','07004':'Mental health','07005':'Nutrition'} },
+      '11': { label:'Politics',                    sub:{'11001':'Elections & voting','11002':'Government policy','11003':'International organisations','11004':'Political parties','11005':'War & conflict'} },
+      '13': { label:'Science & technology',        sub:{'13001':'Biology','13002':'Chemistry','13003':'Engineering','13004':'Mathematics','13005':'Physics','13006':'Technology'} },
+      '14': { label:'Society',                     sub:{'14001':'Demographics','14002':'Education','14003':'Human rights','14004':'Migration','14005':'Religion'} },
+    }
+  },
+  'Humanities': {
+    system: 'Humanities (broad)', authority: 'Woodchipper intermediate taxonomy',
+    codes: {
+      'LIT': { label:'Literature',               sub:{'LIT.THE':'Literary theory & criticism','LIT.COM':'Comparative literature','LIT.NAT':'National literatures','LIT.GEN':'Genre studies'} },
+      'HIS': { label:'History',                  sub:{'HIS.ANC':'Ancient history','HIS.MED':'Medieval history','HIS.MOD':'Modern history','HIS.SOC':'Social history','HIS.INT':'Intellectual history'} },
+      'ART': { label:'Art History',              sub:{'ART.ANT':'Antiquity','ART.MED':'Medieval','ART.MOD':'Modern & contemporary','ART.PHO':'Photography','ART.DIG':'Digital arts'} },
+      'REL': { label:'Religious Studies',        sub:{'REL.COM':'Comparative religion','REL.HIS':'History of religion','REL.PHI':'Philosophy of religion','REL.THE':'Theology'} },
+      'CLA': { label:'Classical Studies',        sub:{'CLA.GRE':'Ancient Greek','CLA.LAT':'Latin','CLA.ARC':'Classical archaeology','CLA.MYT':'Mythology'} },
+      'CUL': { label:'Cultural Studies',         sub:{'CUL.MED':'Media & culture','CUL.POC':'Postcolonial studies','CUL.GEN':'Gender studies','CUL.RCE':'Race & ethnicity'} },
+    }
+  },
+};
+
+// Domain aliases (from classify()) → taxonomy key
+const DOMAIN_MAP = {
+  'Mathematics':     'Mathematics',
+  'Medicine':        'Medicine',
+  'Biology':         'Biology',
+  'Economics':       'Economics',
+  'Computer science':'Computer Science',
+  'Physics':         'Physics',
+  'Philosophy':      'Philosophy',
+  'Social science':  'Social Science',
+};
+
+// Label browser state
+let LB = {
+  domain:       null,   // selected domain key (taxonomy key)
+  topCode:      null,   // selected top-level code
+  selectedLabels: [],   // { code, label, system } objects
+};
+
+function initLabelBrowser() {
+  const strip = document.getElementById('domain-strip');
+  strip.innerHTML = '';
+  Object.keys(TAXONOMY).forEach(d => {
+    const btn = document.createElement('button');
+    btn.textContent = d;
+    btn.className   = 'lb-domain-btn';
+    btn.dataset.d   = d;
+    if (d === LB.domain) btn.classList.add('on');
+    btn.addEventListener('click', () => selectDomain(d));
+    strip.appendChild(btn);
+  });
+  renderCodeBrowser();
+  renderSelectedLabels();
+}
+
+function selectDomain(d) {
+  LB.domain  = d;
+  LB.topCode = null;
+  document.querySelectorAll('.lb-domain-btn').forEach(b => {
+    b.classList.toggle('on', b.dataset.d === d);
+  });
+  renderCodeBrowser();
+}
+
+function renderCodeBrowser() {
+  const browser = document.getElementById('code-browser');
+  if (!LB.domain) { browser.style.display = 'none'; return; }
+  browser.style.display = 'block';
+  const tax = TAXONOMY[LB.domain];
+  document.getElementById('cb-system').textContent = `${tax.system} — ${tax.authority}`;
+
+  // Top-level codes
+  const top = document.getElementById('cb-toplevel');
+  top.innerHTML = '';
+  Object.entries(tax.codes).forEach(([code, entry]) => {
+    const btn = document.createElement('button');
+    btn.className = 'lb-code-btn' + (LB.topCode === code ? ' on' : '');
+    btn.innerHTML = `<span class="lb-code-id">${code}</span> ${entry.label}`;
+    btn.addEventListener('click', () => {
+      LB.topCode = code;
+      renderCodeBrowser();
+    });
+    top.appendChild(btn);
+  });
+
+  // Sub-codes
+  const sub = document.getElementById('cb-sublevel');
+  sub.innerHTML = '';
+  if (LB.topCode && tax.codes[LB.topCode]) {
+    const subs = tax.codes[LB.topCode].sub;
+    Object.entries(subs).forEach(([scode, slabel]) => {
+      const alreadyIn = LB.selectedLabels.find(l => l.code === scode);
+      const btn = document.createElement('button');
+      btn.className = 'lb-sub-btn' + (alreadyIn ? ' added' : '');
+      btn.innerHTML = `<span class="lb-code-id">${scode}</span> ${slabel}`;
+      btn.addEventListener('click', () => addLabel({ code:scode, label:slabel, system:TAXONOMY[LB.domain].system }));
+      sub.appendChild(btn);
+    });
+  }
+}
+
+function addLabel(lbl) {
+  if (LB.selectedLabels.find(l => l.code === lbl.code)) return;
+  LB.selectedLabels.push(lbl);
+  S.subjectLabels = LB.selectedLabels;
+  renderCodeBrowser();
+  renderSelectedLabels();
+}
+
+function removeLabel(code) {
+  LB.selectedLabels = LB.selectedLabels.filter(l => l.code !== code);
+  S.subjectLabels = LB.selectedLabels;
+  renderCodeBrowser();
+  renderSelectedLabels();
+}
+
+function renderSelectedLabels() {
+  const el = document.getElementById('selected-labels');
+  if (LB.selectedLabels.length === 0) {
+    el.innerHTML = '<span style="font-size:12px;color:var(--dim);font-style:italic;">No labels selected yet.</span>';
+    return;
+  }
+  el.innerHTML = LB.selectedLabels.map(l => `
+    <span class="lb-selected-chip">
+      <span class="lb-chip-code">${l.code}</span>
+      ${l.label}
+      <span class="lb-chip-sys">${l.system}</span>
+      <button class="lb-chip-rm" data-code="${l.code}">×</button>
+    </span>`).join('');
+  el.querySelectorAll('.lb-chip-rm').forEach(btn => {
+    btn.addEventListener('click', () => removeLabel(btn.dataset.code));
+  });
+}
+
+// Free text add
+document.getElementById('label-add-btn').addEventListener('click', () => {
+  const inp = document.getElementById('label-freetext');
+  const val = inp.value.trim();
+  if (!val) return;
+  addLabel({ code: 'custom', label: val, system: 'Custom' });
+  inp.value = '';
+});
+document.getElementById('label-freetext').addEventListener('keydown', e => {
+  if (e.key === 'Enter') document.getElementById('label-add-btn').click();
+});
+
+// Auto-select domain from detected signal
+function syncDomainToBrowser() {
+  const detected = S.domain;
+  if (detected && DOMAIN_MAP[detected] && !LB.domain) {
+    selectDomain(DOMAIN_MAP[detected]);
+  }
+}
+
+// ═══════════════════════════════════════════════
+// WIRING
+// ═══════════════════════════════════════════════
+let timer = null;
+document.getElementById('main-entry').addEventListener('input', e => {
+    S.text = e.target.value;
+    S.entryText = e.target.value;
+    clearTimeout(timer);
+    if (S.text.length > 18) {
+        timer = setTimeout(() => {
+            const r = classify(S.text);
+            Object.assign(S, r);
+            updateTrajectory(S.confidence / 100);
+            renderBadges();
+            S.answers = {};
+            renderQuestions();
+            maybeShowReview();
+        }, 550);
+    }
+});
+
+document.getElementById('drop').addEventListener('click', () => document.getElementById('file-in').click());
+document.getElementById('file-in').addEventListener('change', e => {
+    const f = e.target.files[0]; if (!f) return;
+    S.file = f;
+    const t = f.type;
+    S.fileType = t.includes('pdf') || t.includes('text') || t.includes('document') ? 'document'
+        : t.includes('audio') ? 'audio' : t.includes('video') ? 'video'
+        : t.includes('image') ? 'image' : t.includes('csv') || t.includes('spreadsheet') ? 'data' : 'file';
+    if (!S.objectType) {
+        S.objectType = (S.fileType === 'document' || S.fileType === 'data') ? 'Scientific case' : 'Observation';
+        S.researcherType = S.fileType === 'document' ? 'Researcher' : 'Curious observer';
+        S.confidence = S.fileType === 'document' ? 55 : 38;
+    }
+    updateTrajectory(S.confidence / 100);
+    document.getElementById('drop').innerHTML = `<strong>${f.name}</strong><small>${(f.size/1024).toFixed(0)} KB · ${S.fileType}</small>`;
+    renderBadges(); renderQuestions(); maybeShowReview();
+});
+
+['dragover'].forEach(ev => document.getElementById('drop').addEventListener(ev, e => { e.preventDefault(); }));
+document.getElementById('drop').addEventListener('drop', e => {
+    e.preventDefault();
+    const f = e.dataTransfer.files[0];
+    if (f) { const dt = new DataTransfer(); dt.items.add(f); document.getElementById('file-in').files = dt.files; document.getElementById('file-in').dispatchEvent(new Event('change')); }
+});
+
+document.getElementById('btn-review').addEventListener('click', renderReviewPanel);
+document.getElementById('re-link').addEventListener('click', () => {
+    document.getElementById('review-panel').classList.remove('on');
+    document.getElementById('main-entry').focus();
+});
+document.getElementById('btn-l2').addEventListener('click', goLayer2);
+
+// ═══════════════════════════════════════════════
+// LAYER 3 — ROUTES
+// ═══════════════════════════════════════════════
+const ROUTE_LABELS = {
+    summary:         'Quick summary review',
+    wci:             'WCI score',
+    'full-eval':     'Full evaluation + recommendations',
+    impact:          'Impact assessment',
+    title:           'Title and framing',
+    rounds:          'Automated improvement rounds',
+    registry:        'Submit to Woodchipper registry',
+    'journal-api':   'Export to journal submission API',
+    observatory:     'Submit to Observatory.wiki',
+    export:          'Print / export',
+    // ports
+    'wc-uri':        'Woodchipper URI (assigned)',
+    orcid:           'ORCID work record',
+    'zenodo-doi':    'DOI via Zenodo / DataCite',
+    arxiv:           'arXiv deposit',
+    preprint:        'Preprint server deposit',
+    sherpa:          'Open access check (SHERPA/RoMEO)',
+    crossref:        'CrossRef DOI (journal)',
+    'observatory-reg':'Observatory.wiki publish',
+};
+
+const selectedRoutes = new Set();
+
+function goLayer3() {
+    var l2 = document.getElementById('layer2');
+    var l3 = document.getElementById('layer3');
+    if (l2) { l2.classList.remove('on'); l2.style.display = 'none'; }
+    if (l3) { l3.classList.add('on'); l3.style.display = 'block'; }
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    document.getElementById('t3').classList.add('active');
+    renderAmbientNote();
+    renderEpistemicFooter();
+    updatePortCards();
+    setTimeout(function() { window.scrollTo(0, 0); }, 60);
+}
+
+function renderAmbientNote() {
+    const { objectType, researcherType } = S;
+    const notes = {
+        'Scientific case': `Your work has the shape of a scientific claim. That means it enters a conversation that has been going on for a long time, with established rules for what counts as evidence. The routes below are different ways of positioning it in that conversation — from "how strong is this?" to "who should read it?"`,
+        'Observation': `An observation is not yet in conversation with the field — it's still gathering. The routes below can help you understand what you have, begin to formalize it, or simply give it a permanent address so it doesn't disappear. You don't need to be ready for peer review to use this system.`,
+        'Framework': `A framework is a bid for how to think about something. It enters the world differently from a hypothesis — it asks people to see through it, not just check it. The routes below reflect that: some are about coherence, some are about reach, some are about building the evidence base that would make the framework arguable.`,
+        'Wisdom': `Practice knowledge enters formal discourse on its own terms. The routes below can help you formalize what you know, find the existing literature it speaks to, and make the case that thirty years of clinical observation is not anecdote.`,
+        'Passing thought': `Even an early idea deserves a home. The routes below range from "just give this a permanent address" to "help me understand what this is trying to be." Nothing here requires you to have a finished thing.`
+    };
+    const note = notes[objectType] || notes['Observation'];
+    document.getElementById('ambient-note').innerHTML = note;
+}
+
+function renderEpistemicFooter() {
+    const { objectType, hope } = S;
+    let footer = `<strong>A note on what you're doing.</strong>
+        Every piece of work — from a passing observation to a completed paper — exists in a context
+        of how information moves, how claims earn trust, and how knowledge gets made.
+        This system is one lens on that context. It won't tell you whether your work matters.
+        It will tell you what kind of thing it is, where it stands, and what comes next
+        if you want it to travel further.`;
+
+    if (objectType === 'Scientific case') {
+        footer = `<strong>Science is a conversation, not a verdict.</strong>
+            A WCI score is a reading from one angle at one moment. Peer review is a conversation with people
+            who have been thinking about this longer than you have. Publication is an invitation to be challenged.
+            Each route below is a different way of entering that conversation — with more or less readiness,
+            more or less formality. The system is here to help you choose honestly.`;
+    } else if (objectType === 'Observation') {
+        footer = `<strong>Observations are the beginning of everything.</strong>
+            Darwin kept notebooks for twenty years before writing a word of <em>On the Origin of Species</em>.
+            Not because he was slow — because he was accumulating. The routes below include ways to give your
+            observation a permanent address, ways to begin formalizing it, and ways to understand what it
+            might eventually become.`;
+    } else if (objectType === 'Framework') {
+        footer = `<strong>Frameworks precede hypotheses.</strong>
+            A framework is not wrong if it can't be falsified yet — it's pre-scientific, which is a
+            real and necessary stage. Newton's mechanics were a framework before they were a science.
+            The routes below include tools for frameworks at this stage: coherence evaluation, paradigm mapping,
+            and the patient work of turning intuition into something arguable.`;
+    }
+
+    document.getElementById('epist-footer').innerHTML = footer;
+}
+
+// Route card selection
+// Preprint server map — domain signal → server
+const PREPRINT_SERVERS = {
+    'Biology':          { name:'bioRxiv', url:'biorxiv.org' },
+    'Medicine':         { name:'medRxiv', url:'medrxiv.org' },
+    'Economics':        { name:'SSRN',    url:'ssrn.com'    },
+    'Social science':   { name:'SocArXiv',url:'osf.io/preprints/socarxiv' },
+    'Physics':          { name:'arXiv',   url:'arxiv.org'   },
+    'Mathematics':      { name:'arXiv',   url:'arxiv.org'   },
+    'Computer science': { name:'arXiv',   url:'arxiv.org'   },
+    'Philosophy':       { name:'PhilArchive', url:'philarchive.org' },
+};
+
+function updatePortCards() {
+    const domain = S.domain;
+    const server = domain ? PREPRINT_SERVERS[domain] : null;
+    const preprintTarget = document.getElementById('preprint-target');
+    const preprintDesc   = document.getElementById('preprint-desc');
+    const preprintTag    = document.getElementById('preprint-tag');
+    if (server) {
+        preprintTarget.textContent = `↗ ${server.url}`;
+        preprintDesc.textContent   = `${server.name} detected from your domain signal. Fields pre-filled. One-click deposit once configured.`;
+        preprintTag.textContent    = 'soon';
+        preprintTag.className      = 'rc-tag soon';
+    }
+    // arXiv: only show as available for STEM domains
+    const stemDomains = ['Physics','Mathematics','Computer science','Biology'];
+    const arxivCard = document.getElementById('port-arxiv');
+    if (arxivCard) {
+        if (domain && stemDomains.includes(domain)) {
+            arxivCard.classList.remove('locked');
+        } else if (domain) {
+            arxivCard.classList.add('locked');
+        }
+    }
+}
+
+document.querySelectorAll('.route-card, .port-card').forEach(card => {
+    card.addEventListener('click', () => {
+        if (card.classList.contains('locked')) return;
+        const route = card.dataset.route;
+        if (!route) return;
+        // wc-uri is always selected, not toggleable
+        if (route === 'wc-uri') return;
+        if (selectedRoutes.has(route)) {
+            selectedRoutes.delete(route);
+            card.classList.remove('sel');
+        } else {
+            selectedRoutes.add(route);
+            card.classList.add('sel');
+        }
+        updateRoutesSummary();
+    });
+});
+
+function updateRoutesSummary() {
+    const summary = document.getElementById('routes-summary');
+    const list = document.getElementById('rs-list');
+    if (selectedRoutes.size === 0) {
+        summary.classList.remove('on');
+        return;
+    }
+    const routes = [...selectedRoutes];
+    list.innerHTML = routes.map((r, i) => `
+        <li><span class="rs-num">${i+1}</span>${ROUTE_LABELS[r]}</li>`).join('');
+    summary.classList.add('on');
+}
+
+document.getElementById('btn-proceed').addEventListener('click', () => {
+    const routes = [...selectedRoutes];
+    const msg = routes.length === 0
+        ? 'Select at least one route to proceed.'
+        : `Starting: ${routes.map(r => ROUTE_LABELS[r]).join(', ')}.`;
+    document.getElementById('btn-proceed').textContent = routes.length > 0 ? '✓ Routes confirmed' : 'Select a route';
+    if (routes.length > 0) document.getElementById('btn-proceed').disabled = true;
+});
+
+// ═══════════════════════════════════════════════
+// EXIT & EXPORT
+// ═══════════════════════════════════════════════
+function openExport() {
+    // Populate captured state from S
+    const setVal = (id, val, fallback) => {
+        const el = document.getElementById(id);
+        if (val) { el.textContent = val; el.classList.remove('empty'); }
+        else { el.textContent = fallback || 'Not yet captured'; el.classList.add('empty'); }
+    };
+
+    setVal('ex-type',       S.objectType,     null);
+    setVal('ex-researcher', S.researcherType, null);
+    setVal('ex-domain',     S.domain,         null);
+    setVal('ex-intent',     S.hope,           null);
+
+    // Assessment — check if prophecy was generated
+    const prophecyEl = document.getElementById('prophecy');
+    const hasAssessment = prophecyEl && prophecyEl.classList.contains('on');
+    setVal('ex-assessment', hasAssessment ? 'Trajectory assessment generated' : null, null);
+
+    // Stages
+    const stagesCompleted = [];
+    if (S.objectType)    stagesCompleted.push('Layer 1 — Entry');
+    if (S.hope)          stagesCompleted.push('Layer 2 — Intent');
+    if (selectedRoutes && selectedRoutes.size > 0) stagesCompleted.push('Layer 3 — Stages selected');
+    setVal('ex-stages', stagesCompleted.length ? stagesCompleted.join(' · ') : null, null);
+
+    document.getElementById('export-overlay').classList.add('on');
+}
+
+function closeExport() {
+    document.getElementById('export-overlay').classList.remove('on');
+}
+
+document.getElementById('btn-exit').addEventListener('click', openExport);
+document.getElementById('btn-cancel-export').addEventListener('click', closeExport);
+document.getElementById('btn-resume').addEventListener('click', closeExport);
+
+// Format selection
+let selectedFmt = 'pdf';
+document.querySelectorAll('.fmt-card').forEach(card => {
+    card.addEventListener('click', () => {
+        document.querySelectorAll('.fmt-card').forEach(c => c.classList.remove('sel'));
+        card.classList.add('sel');
+        selectedFmt = card.dataset.fmt;
+    });
+});
+
+// Export action
+document.getElementById('btn-export-go').addEventListener('click', () => {
+    const btn = document.getElementById('btn-export-go');
+    const fmtNames = { pdf:'PDF', markdown:'Markdown', json:'JSON', copy:'Clipboard' };
+
+    // Build export payload
+    const payload = {
+        objectType:     S.objectType     || null,
+        researcherType: S.researcherType || null,
+        domain:         S.domain         || null,
+        intent:         S.hope           || null,
+        entryText:      S.entryText      || null,
+        format:         selectedFmt,
+        exportedAt:     new Date().toISOString(),
+    };
+
+    if (selectedFmt === 'copy') {
+        const text = [
+            'WOODCHIPPER EXPORT',
+            '──────────────────',
+            `Object type:     ${payload.objectType     || '—'}`,
+            `Researcher type: ${payload.researcherType || '—'}`,
+            `Domain signal:   ${payload.domain         || '—'}`,
+            `Intent:          ${payload.intent         || '—'}`,
+            '',
+            payload.entryText ? `Entry:\n${payload.entryText}` : '',
+        ].join('\n');
+        navigator.clipboard.writeText(text).then(() => {
+            btn.textContent = '✓ Copied to clipboard';
+            btn.disabled = true;
+        });
+    } else {
+        // For prototype purposes: signal success
+        btn.textContent = `✓ Exported as ${fmtNames[selectedFmt]}`;
+        btn.disabled = true;
+        setTimeout(() => {
+            btn.textContent = 'Export →';
+            btn.disabled = false;
+            closeExport();
+        }, 1800);
+    }
+});
+
+// Close overlay on background click
+document.getElementById('export-overlay').addEventListener('click', function(e) {
+    if (e.target === this) closeExport();
+});
+
+// ═══════════════════════════════════════════════
+// NAV
+// ═══════════════════════════════════════════════
+document.getElementById('t1').addEventListener('click', () => {
+    document.getElementById('layer1').style.display = 'block';
+    var l2 = document.getElementById('layer2');
+    var l3 = document.getElementById('layer3');
+    l2.classList.remove('on'); l2.style.display = 'none';
+    l3.classList.remove('on'); l3.style.display = 'none';
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    document.getElementById('t1').classList.add('active');
+    setTimeout(function() { window.scrollTo(0, 0); }, 60);
+});
+document.getElementById('t2').addEventListener('click', () => { if (S.objectType) goLayer2(); });
+document.getElementById('t3').addEventListener('click', () => { if (S.hope) goLayer3(); });
+</script>
+</body>
+</html>

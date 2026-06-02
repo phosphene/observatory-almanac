@@ -1133,7 +1133,7 @@
         <button class="tab active" id="t1">Layer 1 — Entry</button>
         <button class="tab"        id="t2">Layer 2 — Intent</button>
         <button class="tab"        id="t3">Layer 3 — Stages</button>
-        <button class="tab"        id="t4">Layer 4 — Process</button>
+        <button class="tab"        id="t4">Layer 4 — Confirmation</button>
         <button class="btn-exit"   id="btn-exit">↗ Exit &amp; Export</button>
     </div>
 </header>
@@ -1291,7 +1291,22 @@
     <hr class="div">
     <div class="layer-tag">Layer 2</div>
     <h1>What are you hoping for?</h1>
-    <p class="subtitle">Here's what we think you're giving us — and what you can expect in return.</p>
+    <p class="subtitle">Tell us what you need — then we'll tell you what we think you've brought and what you can expect.</p>
+
+    <!-- What you're hoping for -->
+    <div class="block">
+        <div class="block-tag">What result are you hoping for?</div>
+        <div class="hope-grid" id="hopes">
+            <button class="hope" data-v="feedback">Substantive feedback</button>
+            <button class="hope" data-v="credibility">Credibility assessment (WCI)</button>
+            <button class="hope" data-v="review">Peer review path</button>
+            <button class="hope" data-v="publication">Publication</button>
+            <button class="hope" data-v="discovery">Help naming what I have</button>
+            <button class="hope" data-v="improvement">Know what to improve</button>
+            <button class="hope" data-v="validation">Validation</button>
+        </div>
+        <div class="e-light" id="e-light"></div>
+    </div>
 
     <!-- What we think you're giving us -->
     <div class="block">
@@ -1338,51 +1353,6 @@
         </div>
     </div>
 
-    <!-- Subject labels browser -->
-    <div class="block" id="label-browser-block">
-        <div class="block-tag">Subject labels</div>
-        <p style="font-size:13px;color:var(--dim);margin-bottom:16px;line-height:1.6;">
-            Find your domain, then drill into its classification system. Selected labels travel with the work — into the registry, the ports, the WCI calibration.
-        </p>
-
-        <!-- Domain strip -->
-        <div id="domain-strip" style="display:flex;gap:7px;flex-wrap:wrap;margin-bottom:18px;"></div>
-
-        <!-- Code browser: top-level + subcodes -->
-        <div id="code-browser" style="display:none;">
-            <div id="cb-system" style="font-family:'Courier New',monospace;font-size:9px;letter-spacing:0.35em;text-transform:uppercase;color:var(--dim);margin-bottom:10px;"></div>
-            <div id="cb-toplevel" style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px;"></div>
-            <div id="cb-sublevel" style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:16px;min-height:28px;"></div>
-        </div>
-
-        <!-- Selected labels -->
-        <div id="selected-labels" style="display:flex;gap:6px;flex-wrap:wrap;min-height:32px;margin-bottom:10px;"></div>
-
-        <!-- Free text fallback -->
-        <div style="display:flex;gap:8px;align-items:center;margin-top:6px;">
-            <input type="text" id="label-freetext" class="e-input" placeholder="Add a custom label…" style="flex:1;padding:7px 12px;font-size:12px;">
-            <button id="label-add-btn" style="padding:7px 14px;background:var(--surface2);border:1px solid var(--border);border-radius:6px;color:var(--dim);font-size:12px;cursor:pointer;font-family:var(--font-sans);">Add</button>
-        </div>
-        <div style="font-size:10px;color:var(--dim);margin-top:6px;font-style:italic;">
-            Can't find your area? Use the free text box. The system will match it to the nearest formal code.
-        </div>
-    </div>
-
-    <!-- What you're hoping for -->
-    <div class="block">
-        <div class="block-tag">What result are you hoping for?</div>
-        <div class="hope-grid" id="hopes">
-            <button class="hope" data-v="feedback">Substantive feedback</button>
-            <button class="hope" data-v="credibility">Credibility assessment (WCI)</button>
-            <button class="hope" data-v="review">Peer review path</button>
-            <button class="hope" data-v="publication">Publication</button>
-            <button class="hope" data-v="discovery">Help naming what I have</button>
-            <button class="hope" data-v="improvement">Know what to improve</button>
-            <button class="hope" data-v="validation">Validation</button>
-        </div>
-        <div class="e-light" id="e-light"></div>
-    </div>
-
     <!-- Confidence + save -->
     <div class="block" id="conf-block" style="display:none">
         <div class="block-tag">What you can expect</div>
@@ -1425,10 +1395,10 @@
 
     <!-- Ambient epistemological note — adaptive -->
     <div class="ambient-note" id="ambient-note">
-        Your work is now entering a system that has an opinion about it.
-        That opinion is <em>not a verdict</em> — it is a reading from a specific angle, at a specific moment.
-        Every route below produces a different kind of knowledge about what you've made.
-        Choose what you actually need.
+        This is a commitment. The routes you choose determine what happens to your work next.
+        Selecting an evaluation route — assessment, WCI, full eval — means your work will be read
+        and scored against a defined rubric. Results arrive after that evaluation is complete,
+        not at the end of this form. Choose what you actually need.
     </div>
 
     <!-- CLUSTER 1: ASSESS -->
@@ -1593,6 +1563,29 @@
         </div>
     </div>
 
+    <!-- Subject labels — metadata for the committed routes -->
+    <div class="block" id="label-browser-block" style="margin-top:32px;">
+        <div class="block-tag">Subject labels</div>
+        <p style="font-size:13px;color:var(--dim);margin-bottom:16px;line-height:1.6;">
+            Find your domain, then select the appropriate classification codes.
+            These labels travel with the work into the registry, the evaluation, and any external ports.
+        </p>
+        <div id="domain-strip" style="display:flex;gap:7px;flex-wrap:wrap;margin-bottom:18px;"></div>
+        <div id="code-browser" style="display:none;">
+            <div id="cb-system" style="font-family:'Courier New',monospace;font-size:9px;letter-spacing:0.35em;text-transform:uppercase;color:var(--dim);margin-bottom:10px;"></div>
+            <div id="cb-toplevel" style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px;"></div>
+            <div id="cb-sublevel" style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:16px;min-height:28px;"></div>
+        </div>
+        <div id="selected-labels" style="display:flex;gap:6px;flex-wrap:wrap;min-height:32px;margin-bottom:10px;"></div>
+        <div style="display:flex;gap:8px;align-items:center;margin-top:6px;">
+            <input type="text" id="label-freetext" class="e-input" placeholder="Add a custom label…" style="flex:1;padding:7px 12px;font-size:12px;">
+            <button id="label-add-btn" style="padding:7px 14px;background:var(--surface2);border:1px solid var(--border);border-radius:6px;color:var(--dim);font-size:12px;cursor:pointer;font-family:var(--font-sans);">Add</button>
+        </div>
+        <div style="font-size:10px;color:var(--dim);margin-top:6px;font-style:italic;">
+            Can't find your area? Use the free text box. The system will match it to the nearest formal code.
+        </div>
+    </div>
+
     <!-- Routes summary + proceed -->
     <div class="routes-summary" id="routes-summary">
         <div class="rs-tag">Selected routes</div>
@@ -1618,9 +1611,9 @@
 ══════════════════════════════════════════════ -->
 <div id="layer4">
     <hr class="div">
-    <div class="layer-tag">Layer 4</div>
+    <div class="layer-tag">Layer 4 — Confirmation</div>
     <h1>Your work is in.</h1>
-    <p class="subtitle">Permanent address assigned. Selected routes are queued below.</p>
+    <p class="subtitle">Intake complete. Your address is permanent from this moment. What happens next depends on the routes you chose.</p>
 
     <!-- URI Block -->
     <div class="block">
@@ -1629,79 +1622,45 @@
             <span id="l4-uri-text">woodchipper.wiki/—</span>
             <button class="l4-copy-btn" id="l4-copy-uri">Copy</button>
         </div>
-        <div style="font-size:12px;color:var(--dim);line-height:1.6;">
-            Permanent. Citeable. Works without journal acceptance, institutional affiliation, or funder sign-off.
+        <div style="font-size:12px;color:var(--dim);line-height:1.7;margin-top:10px;">
+            Permanent. Citeable. Independent of journal acceptance, institution, or funder.
             This address is yours regardless of what happens downstream.
         </div>
     </div>
 
-    <!-- Route queue -->
+    <!-- What you committed to -->
     <div class="block">
-        <div class="block-tag">Route queue</div>
+        <div class="block-tag">What you committed to</div>
+        <div style="font-size:13px;color:var(--dim);margin-bottom:18px;line-height:1.7;">
+            These routes are queued. Routes marked <em>evaluation required</em> will produce
+            results — including any scores — only after the actual content has been read and assessed.
+            That process begins now. You will be notified when results are ready.
+        </div>
         <div id="l4-route-queue"></div>
     </div>
 
-    <!-- WCI panel — shown when wci or full-eval is selected -->
-    <div id="l4-wci-panel" style="display:none;">
-        <div class="wci-panel">
-            <div class="block-tag">WCI — Woodchipper Credibility Index</div>
-            <div class="wci-score-display">
-                <span class="wci-number" id="l4-wci-score">—</span>
-                <span class="wci-max">/ 100</span>
-                <span class="wci-band" id="l4-wci-band"></span>
-            </div>
-            <div class="wci-desc" id="l4-wci-desc"></div>
-            <div id="l4-wci-dims"></div>
-            <div style="margin-top:18px;font-size:12px;color:var(--dim);font-style:italic;line-height:1.6;" id="l4-wci-note"></div>
-        </div>
+    <!-- Intake record -->
+    <div class="block">
+        <div class="block-tag">Intake record</div>
+        <div id="l4-intake-rows" style="font-size:13px;color:var(--text-2);line-height:2.1;"></div>
     </div>
 
-    <!-- Summary panel — shown when summary or full-eval is selected -->
-    <div id="l4-summary-panel" style="display:none;">
-        <div class="block" style="margin-top:20px;">
-            <div class="block-tag">Quick summary</div>
-            <div id="l4-summary-text" style="font-size:14px;line-height:1.8;color:var(--text-1);"></div>
-        </div>
+    <!-- What happens next -->
+    <div class="block" style="background:none;border-color:var(--border);">
+        <div class="block-tag">What happens next</div>
+        <div id="l4-next" style="font-size:13px;color:var(--dim);line-height:1.9;"></div>
     </div>
 
-    <!-- Registry panel — shown when registry is selected -->
-    <div id="l4-registry-panel" style="display:none;">
-        <div class="block" style="margin-top:20px;background:rgba(129,199,132,0.04);border-color:rgba(129,199,132,0.2);">
-            <div class="block-tag" style="color:var(--green);">Registry — Submitted</div>
-            <div id="l4-registry-text" style="font-size:14px;line-height:1.7;color:var(--text-1);"></div>
+    <!-- Note on evaluation and scoring -->
+    <div style="margin-top:32px;padding:20px 24px;background:rgba(79,142,245,0.04);border:1px solid rgba(79,142,245,0.12);border-radius:8px;">
+        <div style="font-size:10px;letter-spacing:0.12em;text-transform:uppercase;color:var(--accent);margin-bottom:10px;font-family:var(--font-mono);">On evaluation and scoring</div>
+        <div style="font-size:13px;color:var(--dim);line-height:1.8;">
+            Any scores — including WCI — are produced by evaluating the actual content of your work.
+            They cannot be generated from intake data alone. If you selected an evaluation route,
+            results will arrive when that evaluation is complete. The score is not a verdict:
+            it is a reading from a specific angle, against a defined rubric, at a specific moment.
+            You will see exactly which dimensions were assessed and what each one measured.
         </div>
-    </div>
-
-    <!-- Export panel — shown when export is selected -->
-    <div id="l4-export-panel" style="display:none;">
-        <div class="l4-export-panel">
-            <div class="block-tag">Export</div>
-            <div style="font-size:13px;color:var(--dim);margin-bottom:4px;">Download or copy your work and assessment in any format.</div>
-            <div class="l4-export-grid">
-                <button class="l4-export-btn" data-fmt="pdf">
-                    <span>PDF</span>
-                    <span class="fmt">clean · portable</span>
-                </button>
-                <button class="l4-export-btn" data-fmt="markdown">
-                    <span>Markdown</span>
-                    <span class="fmt">plain text · structured</span>
-                </button>
-                <button class="l4-export-btn" data-fmt="json">
-                    <span>JSON</span>
-                    <span class="fmt">structured data · machine-readable</span>
-                </button>
-                <button class="l4-export-btn" data-fmt="clipboard">
-                    <span>Copy to clipboard</span>
-                    <span class="fmt">plain text summary</span>
-                </button>
-            </div>
-        </div>
-    </div>
-
-    <!-- What comes next -->
-    <div class="block" style="margin-top:28px;background:none;border-color:var(--border);">
-        <div class="block-tag">What comes next</div>
-        <div id="l4-next" style="font-size:13px;color:var(--dim);line-height:1.8;"></div>
     </div>
 </div>
 
@@ -2883,88 +2842,37 @@ function slugify(text) {
            || Math.random().toString(36).slice(2, 8);
 }
 
-function generateWCI() {
-    // Generate a plausible WCI score distribution based on object type & confidence
-    const base = Math.round(S.confidence * 0.82 + 6);
-    const objectAdjust = {
-        'Scientific case': 0, 'Observation': -8, 'Framework': -4,
-        'Wisdom': -6, 'Passing thought': -16
-    }[S.objectType] || 0;
-    const overall = Math.max(18, Math.min(88, base + objectAdjust));
-
-    const DIMS = [
-        { name: 'Claim precision',       key: 'cp' },
-        { name: 'Evidence quality',      key: 'eq' },
-        { name: 'Methodology',           key: 'meth' },
-        { name: 'Theoretical coherence', key: 'tc' },
-        { name: 'Scope calibration',     key: 'sc' },
-        { name: 'Literature positioning',key: 'lp' },
-        { name: 'Novelty',               key: 'nov' },
-        { name: 'Reproducibility',       key: 'rep' },
-        { name: 'Argument structure',    key: 'as' },
-    ];
-
-    // Weight distribution: some dims score higher, some lower, with variance
-    const weights = [1.1, 0.95, 0.9, 1.05, 1.0, 0.85, 1.15, 0.8, 1.0];
-    const dims = DIMS.map((d, i) => {
-        const noise = (Math.random() - 0.5) * 14;
-        const raw = Math.round((overall / 10) * weights[i] + noise * 0.4);
-        const score = Math.max(1, Math.min(10, raw));
-        return { ...d, score };
-    });
-
-    const band = overall >= 72 ? 'STRONG' : overall >= 55 ? 'DEVELOPING'
-               : overall >= 38 ? 'EARLY' : 'PRE-SCIENTIFIC';
-    return { overall, band, dims };
-}
-
+// ── Route metadata (labels, icons, descriptions, evaluation flag) ──────────
+// evaluation_required: true means this route produces results ONLY after
+// the actual content has been evaluated. No score or output exists at
+// intake time. Results arrive asynchronously after evaluation completes.
 const ROUTE_META = {
-    summary:         { icon: '◎', note: 'A plain-language account of what this is, what is strong, and what is underdeveloped.', status: 'ready' },
-    wci:             { icon: '◈', note: 'Nine-dimension credibility score with band and per-dimension breakdown.', status: 'queued' },
-    'full-eval':     { icon: '◈', note: 'WCI plus structured analysis and prioritised recommendations.', status: 'queued' },
-    impact:          { icon: '◎', note: 'What would happen if this work landed — who it reaches, what it changes.', status: 'soon' },
-    title:           { icon: '✦', note: 'Improved title, abstract, and opening frame based on what the work actually is.', status: 'ready' },
-    rounds:          { icon: '⟳', note: 'Automated eval → revise → re-eval cycles. You approve each pass.', status: 'soon' },
-    registry:        { icon: '🔗', note: 'Your work enters the registry with its WCI score and metadata.', status: 'ready' },
-    'journal-api':   { icon: '📤', note: 'Prepared for journal submission (EditFlow, ScholarOne, or direct).', status: 'soon' },
-    observatory:     { icon: '🌐', note: 'Enters Observatory editorial workflow for expert-reviewed publication.', status: 'soon' },
-    export:          { icon: '⬇', note: 'PDF, Markdown, JSON, or clipboard export of work and assessment.', status: 'ready' },
-    'wc-uri':        { icon: '🔗', note: 'Assigned on entry. Permanent and citeable.', status: 'assigned' },
-    orcid:           { icon: '🆔', note: 'Pushed to your ORCID profile once OAuth is connected.', status: 'soon' },
-    'zenodo-doi':    { icon: '📦', note: 'DOI minted via Zenodo. Free. Immediately citable.', status: 'ready' },
-    arxiv:           { icon: '📄', note: 'arXiv deposit prepared for your subject area.', status: 'soon' },
-    preprint:        { icon: '🗞', note: 'Routed to domain-specific preprint server.', status: 'soon' },
-    sherpa:          { icon: '⚖️', note: 'SHERPA/RoMEO open access check and rights retention language.', status: 'ready' },
-    crossref:        { icon: '🏛', note: 'CrossRef DOI — available after journal acceptance.', status: 'soon' },
-    'observatory-reg':{ icon: '🌐', note: 'Observatory.wiki editorial submission.', status: 'soon' },
+    summary:          { icon: '◎', note: 'Plain-language account of the work — what it is, what is strong, what is underdeveloped.', evaluation_required: true },
+    wci:              { icon: '◈', note: 'Nine-dimension WCI score with band and per-dimension breakdown. Requires evaluation of content.', evaluation_required: true },
+    'full-eval':      { icon: '◈', note: 'WCI plus structured analysis and a prioritized recommendation set. Requires evaluation of content.', evaluation_required: true },
+    impact:           { icon: '◎', note: 'Who this work reaches and what it changes — requires evaluation. Coming soon.', evaluation_required: true, soon: true },
+    title:            { icon: '✦', note: 'Improved title, abstract, and opening frame based on what the work actually is.', evaluation_required: true },
+    rounds:           { icon: '⟳', note: 'Eval → recommend → revise → re-eval cycles. You approve each pass. Coming soon.', evaluation_required: true, soon: true },
+    registry:         { icon: '🔗', note: 'Work enters the Woodchipper registry — permanently addressable and indexed.', evaluation_required: false },
+    'journal-api':    { icon: '📤', note: 'Submission prepared for journal API (EditFlow, ScholarOne, direct). Coming soon.', evaluation_required: false, soon: true },
+    observatory:      { icon: '🌐', note: 'Enters Observatory editorial workflow for expert-reviewed publication. Coming soon.', evaluation_required: false, soon: true },
+    export:           { icon: '⬇', note: 'Export available after evaluation completes — PDF, Markdown, JSON, or citation text.', evaluation_required: true },
+    'wc-uri':         { icon: '🔗', note: 'Assigned at intake. Permanent and citeable from this moment.', evaluation_required: false, assigned: true },
+    orcid:            { icon: '🆔', note: 'Pushed to your ORCID profile. Requires OAuth. Coming soon.', evaluation_required: false, soon: true },
+    'zenodo-doi':     { icon: '📦', note: 'DOI minted via Zenodo / DataCite. Free. Available immediately after intake.', evaluation_required: false },
+    arxiv:            { icon: '📄', note: 'arXiv deposit prepared for your subject area. Coming soon.', evaluation_required: false, soon: true },
+    preprint:         { icon: '🗞', note: 'Routed to domain-specific preprint server. Coming soon.', evaluation_required: false, soon: true },
+    sherpa:           { icon: '⚖️', note: 'SHERPA/RoMEO open access check and rights retention language.', evaluation_required: false },
+    crossref:         { icon: '🏛', note: 'CrossRef DOI — available after journal acceptance only.', evaluation_required: false, soon: true },
+    'observatory-reg':{ icon: '🌐', note: 'Observatory.wiki editorial submission. Coming soon.', evaluation_required: false, soon: true },
 };
 
-function buildNextSteps(routes) {
-    const immediate = routes.filter(r => (ROUTE_META[r] || {}).status === 'ready');
-    const queued    = routes.filter(r => (ROUTE_META[r] || {}).status === 'queued');
-    const coming    = routes.filter(r => (ROUTE_META[r] || {}).status === 'soon');
-    const parts = [];
-    if (immediate.length) parts.push(`<strong style="color:var(--text-1);">Available now:</strong> ${immediate.map(r => ROUTE_LABELS[r]).join(', ')}.`);
-    if (queued.length)    parts.push(`<strong style="color:var(--text-1);">Processing:</strong> ${queued.map(r => ROUTE_LABELS[r]).join(', ')} — results below.`);
-    if (coming.length)    parts.push(`<strong style="color:var(--text-1);">Coming soon:</strong> ${coming.map(r => ROUTE_LABELS[r]).join(', ')} — you will be notified when these routes are live.`);
-    parts.push(`Your Woodchipper URI is permanent from this point — it does not depend on any downstream route completing.`);
-    return parts.join('<br><br>');
-}
-
-function buildSummaryText(objectType, researcherType, title) {
-    const titleStr = title ? `"${title}"` : 'your submission';
-    const summaries = {
-        'Scientific case':  `${titleStr} is a scientific claim from a ${researcherType.toLowerCase()}. The central contribution is identifiable. The key evaluation questions are: how specific is the hypothesis, how complete is the evidence chain, and how well-calibrated is the scope relative to what the data actually supports. The most common failure mode for work at this stage is scope drift — the conclusion outrunning the evidence.`,
-        'Observation':      `${titleStr} is an empirical observation from a ${researcherType.toLowerCase()}. The observation is recorded with some precision. The critical next step is accumulation — more instances across more contexts — before theorizing begins. The observation is not yet a claim, and should not be treated as one.`,
-        'Framework':        `${titleStr} is a conceptual framework from a ${researcherType.toLowerCase()}. Frameworks are evaluated on coherence and explanatory power, not falsifiability. The key question is whether the framework makes novel predictions or simply re-describes what is already known. The WCI-zero instrument is the appropriate evaluation tool at this stage.`,
-        'Wisdom':           `${titleStr} represents practice knowledge from a ${researcherType.toLowerCase()}. The material is rich and accumulated. To make it formally arguable, the key move is scope definition: where does this hold, and — more importantly — where does it not? Identifying the failure conditions is the work that turns wisdom into evidence.`,
-        'Passing thought':  `${titleStr} is an early-stage idea from a ${researcherType.toLowerCase()}. It is captured here before it is anything. The system has assigned it a permanent address and recorded its current state. No evaluation is appropriate yet.`,
-    };
-    return summaries[objectType] || summaries['Observation'];
-}
-
 function goLayer4() {
-    const routes = ['wc-uri', ...selectedRoutes];
+    // ARCHITECTURAL INVARIANT:
+    // L4 is confirmation and handoff only. No evaluation has occurred.
+    // No score exists. Evaluation happens downstream after intake completes.
+    // WCI and any other scoring arrive asynchronously after content is read.
+
     var l3 = document.getElementById('layer3');
     var l4 = document.getElementById('layer4');
     if (l3) { l3.classList.remove('on'); l3.style.display = 'none'; }
@@ -2972,25 +2880,36 @@ function goLayer4() {
     document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
     document.getElementById('t4').classList.add('active');
 
-    // Generate URI
+    // Assign URI
     const typeSlug = (S.objectType || 'work').toLowerCase().replace(/\s+/g, '-');
     const titleSlug = slugify(S.workTitle || S.entryText);
     const uri = `woodchipper.wiki/${typeSlug}/${titleSlug}`;
     document.getElementById('l4-uri-text').textContent = uri;
+    let uriListenerAdded = false;
     document.getElementById('l4-copy-uri').addEventListener('click', () => {
+        if (uriListenerAdded) return;
         navigator.clipboard.writeText(`https://${uri}`).then(() => {
             const btn = document.getElementById('l4-copy-uri');
             btn.textContent = 'Copied';
             setTimeout(() => { btn.textContent = 'Copy'; }, 1600);
         });
     });
+    uriListenerAdded = true;
 
-    // Route queue
+    // Route queue — shows what was committed to and whether evaluation is required
+    const routes = ['wc-uri', ...selectedRoutes];
     const queue = document.getElementById('l4-route-queue');
     queue.innerHTML = '';
     routes.forEach(r => {
-        const meta = ROUTE_META[r] || { icon: '○', note: ROUTE_LABELS[r] || r, status: 'soon' };
-        const statusLabel = { assigned:'assigned', ready:'ready', queued:'processing', soon:'coming soon' }[meta.status] || meta.status;
+        const meta = ROUTE_META[r] || { icon: '○', note: ROUTE_LABELS[r] || r, evaluation_required: false };
+        const statusLabel = meta.assigned ? 'assigned'
+            : meta.soon ? 'coming soon'
+            : meta.evaluation_required ? 'evaluation required'
+            : 'queued';
+        const statusClass = meta.assigned ? 'assigned'
+            : meta.soon ? 'soon'
+            : meta.evaluation_required ? 'queued'
+            : 'ready';
         const card = document.createElement('div');
         card.className = 'route-status-card';
         card.innerHTML = `
@@ -2999,84 +2918,44 @@ function goLayer4() {
                 <div class="rs-name">${ROUTE_LABELS[r] || r}</div>
                 <div class="rs-note">${meta.note}</div>
             </div>
-            <div class="rs-status ${meta.status}">${statusLabel}</div>`;
+            <div class="rs-status ${statusClass}">${statusLabel}</div>`;
         queue.appendChild(card);
     });
 
-    // WCI panel
-    const hasWCI = selectedRoutes.has('wci') || selectedRoutes.has('full-eval');
-    if (hasWCI) {
-        const wci = generateWCI();
-        document.getElementById('l4-wci-score').textContent = wci.overall;
-        document.getElementById('l4-wci-band').textContent = wci.band;
-        const bandDesc = {
-            STRONG: 'Strong submission. The work meets the bar for most peer-reviewed venues. See dimension breakdown for targeted improvement.',
-            DEVELOPING: 'Developing. Solid foundations with identifiable gaps. Revision around the 2–3 lowest dimensions would move this to the next band.',
-            EARLY: 'Early stage. The work is not yet at the threshold for peer review submission. The path forward is clear from the dimension breakdown.',
-            'PRE-SCIENTIFIC': 'Pre-scientific. The claim structure needs to be developed before formal evaluation is appropriate. This is a normal and necessary stage.',
-        }[wci.band] || '';
-        document.getElementById('l4-wci-desc').textContent = bandDesc;
-        const dimsEl = document.getElementById('l4-wci-dims');
-        dimsEl.innerHTML = wci.dims.map(d => {
-            const pct = Math.round(d.score / 10 * 100);
-            const color = d.score >= 7 ? 'var(--green)' : d.score >= 5 ? 'var(--amber)' : '#e05252';
-            return `<div class="wci-dim-row">
-                <span class="wci-dim-name">${d.name}</span>
-                <div class="wci-dim-bar-wrap"><div class="wci-dim-bar" style="width:${pct}%;background:${color};"></div></div>
-                <span class="wci-dim-score">${d.score}/10</span>
-            </div>`;
-        }).join('');
-        const lowestDims = [...wci.dims].sort((a,b) => a.score - b.score).slice(0,2);
-        document.getElementById('l4-wci-note').textContent =
-            `Lowest dimensions: ${lowestDims.map(d => d.name).join(' and ')}. Improving these two would have the highest leverage on the overall score.`;
-        document.getElementById('l4-wci-panel').style.display = 'block';
-    }
+    // Intake record — what the system captured
+    const intakeEl = document.getElementById('l4-intake-rows');
+    const rows = [
+        ['Object type',      S.objectType      || '—'],
+        ['Researcher type',  S.researcherType  || '—'],
+        ['Working title',    S.workTitle       || '(untitled)'],
+        ['Domain',           S.domain          || '—'],
+        ['What you need',    S.hope            || '—'],
+        ['Subject labels',   S.subjectLabels && S.subjectLabels.length ? S.subjectLabels.join(', ') : '—'],
+    ];
+    intakeEl.innerHTML = rows.map(([label, val]) =>
+        `<div style="display:flex;gap:16px;">
+            <span style="color:var(--text-3);min-width:130px;font-family:var(--font-mono);font-size:11px;text-transform:uppercase;letter-spacing:0.08em;padding-top:2px;">${label}</span>
+            <span style="color:var(--text-1);">${val}</span>
+        </div>`
+    ).join('');
 
-    // Summary panel
-    const hasSummary = selectedRoutes.has('summary') || selectedRoutes.has('full-eval');
-    if (hasSummary) {
-        document.getElementById('l4-summary-text').innerHTML = buildSummaryText(S.objectType, S.researcherType, S.workTitle);
-        document.getElementById('l4-summary-panel').style.display = 'block';
-    }
+    // What happens next — honest account per route category
+    const evalRoutes = routes.filter(r => r !== 'wc-uri' && (ROUTE_META[r] || {}).evaluation_required && !(ROUTE_META[r] || {}).soon);
+    const immediateRoutes = routes.filter(r => r !== 'wc-uri' && !(ROUTE_META[r] || {}).evaluation_required && !(ROUTE_META[r] || {}).soon);
+    const soonRoutes = routes.filter(r => (ROUTE_META[r] || {}).soon);
 
-    // Registry panel
-    if (selectedRoutes.has('registry')) {
-        document.getElementById('l4-registry-text').innerHTML =
-            `Your work has been submitted to the Woodchipper registry under <span style="font-family:var(--font-mono);color:var(--green);font-size:13px;">woodchipper.wiki/${typeSlug}/${titleSlug}</span>.<br><br>
-            It is now permanently addressable and discoverable. Registry entries are indexed within 24 hours.`;
-        document.getElementById('l4-registry-panel').style.display = 'block';
+    const nextParts = [];
+    nextParts.push(`<strong style="color:var(--text-1);">Your URI is permanent from this moment.</strong> It does not depend on any evaluation completing — it is yours regardless of what happens downstream.`);
+    if (evalRoutes.length) {
+        nextParts.push(`<strong style="color:var(--text-1);">Evaluation queued:</strong> ${evalRoutes.map(r => ROUTE_LABELS[r]).join(', ')}. Your work will now be read and assessed against the relevant rubric. Results — including any scores — will be returned when that evaluation is complete. You will be notified.`);
     }
-
-    // Export panel
-    if (selectedRoutes.has('export')) {
-        document.getElementById('l4-export-panel').style.display = 'block';
-        document.querySelectorAll('.l4-export-btn').forEach(btn => {
-            btn.addEventListener('click', () => {
-                const fmt = btn.dataset.fmt;
-                if (fmt === 'clipboard') {
-                    const text = [
-                        'WOODCHIPPER EXPORT',
-                        `URI: https://${uri}`,
-                        `Object: ${S.objectType || '—'}`,
-                        `Researcher: ${S.researcherType || '—'}`,
-                        `Domain: ${S.domain || '—'}`,
-                        '',
-                        S.entryText || '',
-                    ].join('\n');
-                    navigator.clipboard.writeText(text).then(() => {
-                        btn.querySelector('span:first-child').textContent = '✓ Copied';
-                        setTimeout(() => { btn.querySelector('span:first-child').textContent = 'Copy to clipboard'; }, 1800);
-                    });
-                } else {
-                    btn.querySelector('span:first-child').textContent = `✓ ${fmt.toUpperCase()} exported`;
-                    setTimeout(() => { btn.querySelector('span:first-child').textContent = { pdf:'PDF', markdown:'Markdown', json:'JSON' }[fmt]; }, 1800);
-                }
-            });
-        });
+    if (immediateRoutes.length) {
+        nextParts.push(`<strong style="color:var(--text-1);">Processing now:</strong> ${immediateRoutes.map(r => ROUTE_LABELS[r]).join(', ')}. These routes do not require evaluation and will be initiated immediately.`);
     }
-
-    // What comes next
-    document.getElementById('l4-next').innerHTML = buildNextSteps([...selectedRoutes]);
+    if (soonRoutes.length) {
+        nextParts.push(`<strong style="color:var(--text-1);">Coming soon:</strong> ${soonRoutes.map(r => ROUTE_LABELS[r]).join(', ')}. You will be notified when these routes become available for your submission.`);
+    }
+    document.getElementById('l4-next').innerHTML = nextParts.join('<br><br>');
 
     setTimeout(function() { window.scrollTo(0, 0); }, 60);
 }

@@ -1134,6 +1134,7 @@
         <button class="tab"        id="t2">Layer 2 — Intent</button>
         <button class="tab"        id="t3">Layer 3 — Stages</button>
         <button class="tab"        id="t4">Layer 4 — Confirmation</button>
+        <button class="tab"        id="t5">Layer 5 — Review</button>
         <button class="btn-exit"   id="btn-exit">↗ Exit &amp; Export</button>
     </div>
 </header>
@@ -1660,6 +1661,76 @@
             results will arrive when that evaluation is complete. The score is not a verdict:
             it is a reading from a specific angle, against a defined rubric, at a specific moment.
             You will see exactly which dimensions were assessed and what each one measured.
+        </div>
+    </div>
+
+    <!-- Proceed to Review -->
+    <div style="margin-top:36px;">
+        <button class="btn-primary" id="btn-to-review">Before we begin — confirm what you brought →</button>
+        <div style="margin-top:10px;font-size:12px;color:var(--text-3);line-height:1.6;">
+            We'll show you what we heard. You can correct anything before evaluation starts.
+        </div>
+    </div>
+</div>
+
+<!-- ══════════════════════════════════════════════
+     LAYER 5 — REVIEW
+     The system demonstrates it has understood
+     the work before evaluation begins.
+     Researcher confirms or corrects.
+     Evaluation is then submitted.
+══════════════════════════════════════════════ -->
+<div id="layer5">
+    <hr class="div">
+    <div class="layer-tag">Layer 5 — Review</div>
+    <h1>Before we begin.</h1>
+    <p class="subtitle">Here is what we understood you to have brought. Read it. Correct anything that's off. Then confirm — and evaluation begins.</p>
+
+    <!-- Mirror block — system's reading of the work -->
+    <div class="block" id="l5-mirror-block">
+        <div class="block-tag">What we heard</div>
+        <div id="l5-mirror" style="font-size:14px;line-height:1.9;color:var(--text-1);"></div>
+    </div>
+
+    <!-- What will be evaluated -->
+    <div class="block" id="l5-eval-scope-block">
+        <div class="block-tag">What we will evaluate</div>
+        <div id="l5-eval-questions" style="font-size:13px;color:var(--text-2);line-height:1.9;"></div>
+    </div>
+
+    <!-- What we won't evaluate (scope honesty) -->
+    <div class="block" id="l5-scope-limits-block">
+        <div class="block-tag">What this evaluation does not cover</div>
+        <div id="l5-scope-limits" style="font-size:13px;color:var(--dim);line-height:1.9;font-style:italic;"></div>
+    </div>
+
+    <!-- Correction prompt -->
+    <div style="padding:18px 22px;background:var(--surface);border:1px solid var(--border);border-radius:8px;margin-bottom:28px;">
+        <div style="font-size:13px;color:var(--text-2);line-height:1.7;">
+            <strong style="color:var(--text-1);">Does this reflect what you brought?</strong><br>
+            If anything is wrong — the object type, the framing, the scope — go back and adjust before confirming.
+            Once evaluation begins, the rubric is fixed to this reading.
+        </div>
+        <div style="margin-top:14px;display:flex;gap:10px;align-items:center;flex-wrap:wrap;">
+            <button class="btn-secondary" id="l5-back-btn"
+                style="padding:9px 20px;background:transparent;border:1px solid var(--border);border-radius:6px;color:var(--text-2);font-size:13px;cursor:pointer;font-family:var(--font-sans);transition:all 0.2s;">
+                ← Something's off — go back
+            </button>
+            <span style="font-size:12px;color:var(--text-3);">or</span>
+            <button class="btn-primary" id="l5-confirm-btn">This is right — begin evaluation →</button>
+        </div>
+    </div>
+
+    <!-- Post-confirm state (hidden until confirmed) -->
+    <div id="l5-confirmed" style="display:none;">
+        <div style="padding:28px 28px;background:rgba(76,175,128,0.05);border:1px solid rgba(76,175,128,0.2);border-radius:10px;text-align:center;">
+            <div style="font-size:22px;margin-bottom:14px;">✓</div>
+            <div style="font-size:15px;color:var(--text-1);font-weight:500;margin-bottom:10px;">Evaluation submitted.</div>
+            <div style="font-size:13px;color:var(--dim);line-height:1.8;max-width:460px;margin:0 auto;">
+                Your work is now in the evaluation queue. You will be notified when results — including any scores — are ready.
+                Your URI is permanent and citeable from this moment regardless of the outcome.
+            </div>
+            <div id="l5-confirmed-uri" style="margin-top:18px;font-family:var(--font-mono);font-size:13px;color:var(--green);"></div>
         </div>
     </div>
 </div>
@@ -2961,6 +3032,160 @@ function goLayer4() {
 }
 
 // ═══════════════════════════════════════════════
+// LAYER 5 — REVIEW
+// System reads back what it understood.
+// Researcher confirms or corrects.
+// Only then does evaluation begin.
+// ═══════════════════════════════════════════════
+
+const MIRROR_TEMPLATES = {
+    'Scientific case': (S) => {
+        const title = S.workTitle ? `"${S.workTitle}"` : 'your submission';
+        const researcher = (S.researcherType || 'researcher').toLowerCase();
+        const domain = S.domain ? ` in ${S.domain}` : '';
+        const age = S.answers && S.answers['how-long'] ? ` — work you've been developing for ${S.answers['how-long']}` : '';
+        return `You've brought a scientific claim${domain}. ${title} is the work of a ${researcher}${age}. ` +
+            `You described it as: <em style="color:var(--text-1);">"${(S.entryText || '').slice(0, 180).trim()}${(S.entryText || '').length > 180 ? '…' : ''}"</em> ` +
+            `<br><br>What we heard: a hypothesis or claim supported by evidence, with a scope that extends beyond a single observation. ` +
+            `You brought this here because you want ${(S.hope || 'to understand what you have').toLowerCase()}.`;
+    },
+    'Observation': (S) => {
+        const title = S.workTitle ? `"${S.workTitle}"` : 'your submission';
+        const researcher = (S.researcherType || 'researcher').toLowerCase();
+        const domain = S.domain ? ` in ${S.domain}` : '';
+        return `You've brought an empirical observation${domain}. ${title} is from a ${researcher}. ` +
+            `You described it as: <em style="color:var(--text-1);">"${(S.entryText || '').slice(0, 180).trim()}${(S.entryText || '').length > 180 ? '…' : ''}"</em> ` +
+            `<br><br>What we heard: something you have noticed — possibly more than once — that you want to record and understand before theorizing about it. ` +
+            `It is not yet a claim, and you are not treating it as one. You brought this because you want ${(S.hope || 'to name what you have').toLowerCase()}.`;
+    },
+    'Framework': (S) => {
+        const title = S.workTitle ? `"${S.workTitle}"` : 'your submission';
+        const researcher = (S.researcherType || 'researcher').toLowerCase();
+        const domain = S.domain ? ` in ${S.domain}` : '';
+        return `You've brought a conceptual framework${domain}. ${title} is from a ${researcher}. ` +
+            `You described it as: <em style="color:var(--text-1);">"${(S.entryText || '').slice(0, 180).trim()}${(S.entryText || '').length > 180 ? '…' : ''}"</em> ` +
+            `<br><br>What we heard: a structured way of organizing or explaining phenomena — not a single claim, but a set of related ideas that hang together. ` +
+            `Frameworks are evaluated on coherence and explanatory power, not on falsifiability. You brought this because you want ${(S.hope || 'feedback on the structure').toLowerCase()}.`;
+    },
+    'Wisdom': (S) => {
+        const title = S.workTitle ? `"${S.workTitle}"` : 'your submission';
+        const researcher = (S.researcherType || 'researcher').toLowerCase();
+        const domain = S.domain ? ` in ${S.domain}` : '';
+        return `You've brought accumulated practice knowledge${domain}. ${title} is from a ${researcher}. ` +
+            `You described it as: <em style="color:var(--text-1);">"${(S.entryText || '').slice(0, 180).trim()}${(S.entryText || '').length > 180 ? '…' : ''}"</em> ` +
+            `<br><br>What we heard: knowledge built from experience rather than formal study — rich, situated, and hard to reduce to a testable hypothesis. ` +
+            `The key question for this kind of work is: where does it hold, and where does it not? You brought this because you want ${(S.hope || 'to understand what you can do with it').toLowerCase()}.`;
+    },
+    'Passing thought': (S) => {
+        const title = S.workTitle ? `"${S.workTitle}"` : 'your submission';
+        return `You've brought an early-stage idea. ${title} — if we can call it that yet — is something you wanted to capture before it developed further, or slipped away. ` +
+            `You described it as: <em style="color:var(--text-1);">"${(S.entryText || '').slice(0, 180).trim()}${(S.entryText || '').length > 180 ? '…' : ''}"</em> ` +
+            `<br><br>What we heard: the beginning of something. No evaluation is appropriate at this stage. ` +
+            `What we can do is record it precisely, assign it a permanent address, and help you name what it might become.`;
+    },
+};
+
+const EVAL_QUESTIONS = {
+    'Scientific case': [
+        'How precisely is the central claim stated — is it falsifiable or only suggestive?',
+        'How complete is the evidence chain — does the evidence actually support the conclusion, or does the conclusion outrun it?',
+        'How well-calibrated is the scope — does the claim reach exactly as far as the evidence, no further?',
+        'How does this work position itself against the existing literature — does it engage, ignore, or contradict the relevant prior work?',
+        'How reproducible is the methodology — could another researcher follow the same path?',
+    ],
+    'Observation': [
+        'How precisely is the observation stated — is it specific enough to be verified or replicated?',
+        'What does the accumulation record look like — how many instances, in how many contexts?',
+        'Is the observation being treated as a claim, or as evidence requiring further accumulation?',
+        'What would need to be true for this observation to become the basis of a formal hypothesis?',
+    ],
+    'Framework': [
+        'Is the framework internally coherent — do its components fit together without contradiction?',
+        'Does it have genuine explanatory power — does it account for things that weren\'t previously explicable?',
+        'Does it make novel predictions, or does it re-describe what is already known?',
+        'Can it be tested, at least in principle — is there any observation that would challenge it?',
+        'How does it relate to existing frameworks in this domain?',
+    ],
+    'Wisdom': [
+        'What are the stated conditions under which this knowledge holds?',
+        'What are the failure conditions — where does this knowledge break down or not apply?',
+        'Is the scope of the claim calibrated to the evidence base it rests on?',
+        'Could this knowledge be operationalized — converted into something testable?',
+    ],
+    'Passing thought': [
+        'What is the core intuition — stated as precisely as possible?',
+        'What would need to be true for this to become an observation? A hypothesis? A claim?',
+        'What domain does this belong to, and who would be the right person to develop it?',
+    ],
+};
+
+const SCOPE_LIMITS = {
+    'Scientific case':  'This evaluation does not assess the quality of your methodology in full technical detail — that requires domain expertise. It assesses structure, coherence, and calibration. It will not tell you whether your science is right. It will tell you whether it is argued well.',
+    'Observation':      'This evaluation does not assess whether your observation is true. It assesses how precisely it is stated and what further accumulation would be needed before it becomes a formal claim. Truth is not the question at this stage.',
+    'Framework':        'This evaluation does not assess the underlying empirical claims a framework might rest on — only the coherence and explanatory structure of the framework itself. The WCI-zero instrument is designed for this case.',
+    'Wisdom':           'This evaluation does not assess whether the practice knowledge is correct — only whether it is stated with sufficient precision to be arguable. The content is yours; the question is whether it can travel.',
+    'Passing thought':  'No formal evaluation applies to a passing thought. What the system will do is record, name, and address it. Evaluation belongs to a later stage.',
+};
+
+function goLayer5() {
+    var l4 = document.getElementById('layer4');
+    var l5 = document.getElementById('layer5');
+    if (l4) { l4.classList.remove('on'); l4.style.display = 'none'; }
+    if (l5) { l5.classList.add('on'); l5.style.display = 'block'; }
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    document.getElementById('t5').classList.add('active');
+
+    const objType = S.objectType || 'Observation';
+
+    // Mirror — system's reading of the work
+    const mirrorFn = MIRROR_TEMPLATES[objType] || MIRROR_TEMPLATES['Observation'];
+    document.getElementById('l5-mirror').innerHTML = mirrorFn(S);
+
+    // Eval questions — what will be evaluated
+    const questions = EVAL_QUESTIONS[objType] || EVAL_QUESTIONS['Observation'];
+    const hasEvalRoute = selectedRoutes.has('wci') || selectedRoutes.has('full-eval') || selectedRoutes.has('summary');
+    if (hasEvalRoute) {
+        document.getElementById('l5-eval-questions').innerHTML =
+            questions.map(q => `<div style="display:flex;gap:12px;margin-bottom:10px;">
+                <span style="color:var(--accent);flex-shrink:0;margin-top:2px;">◦</span>
+                <span>${q}</span>
+            </div>`).join('');
+    } else {
+        document.getElementById('l5-eval-scope-block').style.display = 'none';
+    }
+
+    // Scope limits
+    const limits = SCOPE_LIMITS[objType] || SCOPE_LIMITS['Observation'];
+    document.getElementById('l5-scope-limits').textContent = limits;
+
+    // Back button
+    document.getElementById('l5-back-btn').addEventListener('click', () => {
+        if (l5) { l5.classList.remove('on'); l5.style.display = 'none'; }
+        const l1 = document.getElementById('layer1');
+        if (l1) { l1.style.display = 'block'; }
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        document.getElementById('t1').classList.add('active');
+        window.scrollTo(0, 0);
+    });
+
+    // Confirm button — evaluation submitted
+    document.getElementById('l5-confirm-btn').addEventListener('click', () => {
+        document.getElementById('l5-confirm-btn').disabled = true;
+        document.getElementById('l5-confirm-btn').textContent = '✓ Submitted';
+        document.getElementById('l5-back-btn').disabled = true;
+        document.getElementById('l5-back-btn').style.opacity = '0.4';
+        document.getElementById('l5-confirmed').style.display = 'block';
+        const typeSlug = (S.objectType || 'work').toLowerCase().replace(/\s+/g, '-');
+        const titleSlug = slugify(S.workTitle || S.entryText);
+        document.getElementById('l5-confirmed-uri').textContent =
+            `woodchipper.wiki/${typeSlug}/${titleSlug}`;
+        setTimeout(() => window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' }), 80);
+    });
+
+    setTimeout(function() { window.scrollTo(0, 0); }, 60);
+}
+
+// ═══════════════════════════════════════════════
 // EXIT & EXPORT
 // ═══════════════════════════════════════════════
 function openExport() {
@@ -3065,9 +3290,11 @@ document.getElementById('t1').addEventListener('click', () => {
     var l2 = document.getElementById('layer2');
     var l3 = document.getElementById('layer3');
     var l4 = document.getElementById('layer4');
+    var l5 = document.getElementById('layer5');
     l2.classList.remove('on'); l2.style.display = 'none';
     l3.classList.remove('on'); l3.style.display = 'none';
     l4.classList.remove('on'); l4.style.display = 'none';
+    if (l5) { l5.classList.remove('on'); l5.style.display = 'none'; }
     document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
     document.getElementById('t1').classList.add('active');
     setTimeout(function() { window.scrollTo(0, 0); }, 60);
@@ -3075,6 +3302,8 @@ document.getElementById('t1').addEventListener('click', () => {
 document.getElementById('t2').addEventListener('click', () => { if (S.objectType) goLayer2(); });
 document.getElementById('t3').addEventListener('click', () => { if (S.hope) goLayer3(); });
 document.getElementById('t4').addEventListener('click', () => { if (selectedRoutes.size > 0) goLayer4(); });
+document.getElementById('t5').addEventListener('click', () => { if (selectedRoutes.size > 0 && document.getElementById('layer4').style.display === 'none') goLayer5(); });
+document.getElementById('btn-to-review').addEventListener('click', () => goLayer5());
 </script>
 </body>
 </html>

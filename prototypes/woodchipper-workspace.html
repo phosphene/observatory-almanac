@@ -903,7 +903,7 @@ function goLayer(target) {
     else if (i === currentIdx) pill.classList.add('active');
     else pill.classList.add('locked');
   });
-  document.getElementById('form-panel').scrollTo(0, 0);
+  document.getElementById('form-panel').scrollTop = 0;
 }
 
 document.getElementById('btn-l1-next').addEventListener('click', () => goLayer('l2'));
@@ -1018,7 +1018,7 @@ function createNodeEl(n) {
     if (e.target.classList.contains('node-alert')) {
       // Signal back to form — switch to split and scroll form to top
       setLayout('layout-split');
-      document.getElementById('form-panel').scrollTo({ top:0, behavior:'smooth' });
+      document.getElementById('form-panel').scrollTop = 0;
       return;
     }
     onNodeClick(n.id, e);

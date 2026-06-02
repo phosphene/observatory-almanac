@@ -1,0 +1,1245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Woodchipper — Workspace</title>
+  <style>
+    :root {
+      --bg:         #111111;
+      --surface:    #191919;
+      --surface-2:  #222222;
+      --surface-3:  #2a2a2a;
+      --border:     rgba(255,255,255,0.07);
+      --border-hi:  rgba(255,255,255,0.15);
+      --text-1:     #e2e2e2;
+      --text-2:     #888888;
+      --text-3:     #444444;
+      --accent:     #4f8ef5;
+      --green:      #4caf80;
+      --amber:      #f5a623;
+      --red:        #e05252;
+      --dim:        #666666;
+      --font-sans:  'Inter', -apple-system, system-ui, sans-serif;
+      --font-mono:  'JetBrains Mono', 'Fira Code', ui-monospace, monospace;
+      --form-w:     100%;
+      --transition: 0.38s cubic-bezier(0.4,0,0.2,1);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { height: 100%; overflow: hidden; }
+    body { font-family: var(--font-sans); background: var(--bg); color: var(--text-1); }
+
+    /* ── HEADER ─────────────────────────────── */
+    .header {
+      height: 48px;
+      display: flex; align-items: center;
+      padding: 0 18px; gap: 16px;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      position: relative; z-index: 100;
+      flex-shrink: 0;
+    }
+    .wordmark {
+      font-family: var(--font-mono); font-size: 11px;
+      letter-spacing: 0.35em; text-transform: uppercase; color: var(--dim);
+    }
+    .h-sep { width:1px; height:18px; background:var(--border); }
+    .h-label { font-size: 12px; color: var(--text-2); }
+
+    /* Layout toggle */
+    .layout-toggle {
+      display: flex; gap: 2px;
+      background: var(--bg); border: 1px solid var(--border);
+      border-radius: 8px; padding: 3px; margin-left: auto;
+    }
+    .lt-btn {
+      padding: 5px 14px; border-radius: 6px;
+      border: none; background: transparent;
+      color: var(--text-3); font-size: 11px;
+      font-family: var(--font-sans); cursor: pointer;
+      transition: all 0.15s; letter-spacing: 0.04em;
+      display: flex; align-items: center; gap: 6px;
+    }
+    .lt-btn:hover { color: var(--text-2); }
+    .lt-btn.active { background: var(--surface-2); color: var(--text-1); }
+    .lt-icon { font-size: 13px; }
+
+    /* Session badge */
+    .session-badge {
+      display: flex; align-items: center; gap: 7px;
+      padding: 4px 12px; border: 1px solid var(--border);
+      border-radius: 20px; font-size: 11px; color: var(--dim);
+      margin-left: 12px;
+    }
+    .session-dot {
+      width:6px; height:6px; border-radius:50%;
+      background: var(--text-3);
+      transition: background 0.3s, box-shadow 0.3s;
+    }
+    .session-dot.in-progress {
+      background: var(--accent);
+      box-shadow: 0 0 6px var(--accent);
+      animation: pulse 1.8s ease-in-out infinite;
+    }
+    .session-dot.submitted { background: var(--green); box-shadow: 0 0 5px var(--green); }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; } 50% { opacity: 0.4; }
+    }
+    #session-label { transition: color 0.2s; }
+
+    /* ── WORKSPACE SHELL ────────────────────── */
+    .workspace-shell {
+      display: flex;
+      height: calc(100vh - 48px);
+      overflow: hidden;
+    }
+
+    /* ── FORM PANEL ─────────────────────────── */
+    .form-panel {
+      width: 100%;
+      flex-shrink: 0;
+      overflow-y: auto;
+      border-right: 1px solid var(--border);
+      transition: width var(--transition), opacity var(--transition);
+      position: relative;
+    }
+    .form-inner {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 40px 36px 80px;
+    }
+    body.layout-board .form-panel {
+      width: 0; opacity: 0; pointer-events: none; overflow: hidden;
+    }
+    body.layout-split .form-panel { width: 52%; }
+    body.layout-split .form-inner { padding: 28px 24px 60px; max-width: 100%; }
+
+    /* ── BOARD PANEL ────────────────────────── */
+    .board-panel {
+      flex: 1; min-width: 0;
+      display: flex; flex-direction: column;
+      overflow: hidden;
+      opacity: 0; pointer-events: none;
+      transition: opacity var(--transition);
+    }
+    body.layout-split .board-panel,
+    body.layout-board .board-panel {
+      opacity: 1; pointer-events: all;
+    }
+
+    .board-toolbar {
+      height: 38px; flex-shrink: 0;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      display: flex; align-items: center;
+      padding: 0 12px; gap: 4px;
+    }
+    .tb-btn {
+      padding: 4px 10px; border-radius: 5px;
+      background: transparent; border: 1px solid transparent;
+      color: var(--text-3); font-size: 11px;
+      cursor: pointer; font-family: var(--font-sans);
+      transition: all 0.12s;
+    }
+    .tb-btn:hover { background: var(--surface-2); color: var(--text-2); }
+    .tb-btn.active { background: var(--accent); border-color: var(--accent); color:#fff; }
+    .tb-sep { width:1px; height:16px; background:var(--border); margin:0 4px; }
+    .tb-hint { margin-left:auto; font-size:10px; color:var(--text-3); font-family:var(--font-mono); }
+
+    .board-canvas-wrap {
+      flex: 1; position: relative; overflow: hidden;
+      background: var(--bg);
+      background-image: radial-gradient(circle, rgba(255,255,255,0.025) 1px, transparent 1px);
+      background-size: 26px 26px;
+    }
+    .conn-svg {
+      position: absolute; top:0; left:0; width:100%; height:100%;
+      pointer-events: none; z-index: 1;
+    }
+    .nodes-wrap { position: absolute; top:0; left:0; width:100%; height:100%; }
+
+    /* ── NODES ──────────────────────────────── */
+    .wc-node {
+      position: absolute; width: 210px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 9px;
+      padding: 12px 14px 10px;
+      cursor: default; user-select: none;
+      z-index: 2;
+      transition: border-color 0.2s, box-shadow 0.2s, opacity 0.3s;
+    }
+    .wc-node:hover { border-color: var(--border-hi); }
+    .wc-node.selected { border-color: var(--accent); box-shadow: 0 0 0 2px rgba(79,142,245,0.15); }
+
+    /* State: in-progress */
+    .wc-node.state-in-progress {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 2px rgba(79,142,245,0.12),
+                  0 0 18px rgba(79,142,245,0.08);
+      animation: node-pulse 2.2s ease-in-out infinite;
+    }
+    @keyframes node-pulse {
+      0%, 100% { box-shadow: 0 0 0 2px rgba(79,142,245,0.12), 0 0 18px rgba(79,142,245,0.08); }
+      50%       { box-shadow: 0 0 0 3px rgba(79,142,245,0.22), 0 0 28px rgba(79,142,245,0.14); }
+    }
+
+    /* State: active */
+    .wc-node.state-active { border-color: rgba(76,175,128,0.4); }
+
+    /* State: needs-attention */
+    .wc-node.state-needs-attention {
+      opacity: 0.45;
+      border-color: rgba(224,82,82,0.3);
+    }
+    .wc-node.state-needs-attention:hover { opacity: 0.75; }
+
+    /* Red indicator badge */
+    .node-alert {
+      position: absolute; top: -7px; right: -7px;
+      width: 18px; height: 18px; border-radius: 50%;
+      background: var(--red);
+      border: 2px solid var(--bg);
+      display: none; align-items: center; justify-content: center;
+      font-size: 10px; color: #fff; font-weight: 700;
+      cursor: pointer; z-index: 10;
+      box-shadow: 0 0 8px rgba(224,82,82,0.5);
+    }
+    .state-needs-attention .node-alert { display: flex; }
+
+    /* Active indicator (top-right dot) */
+    .node-state-dot {
+      position: absolute; top: 10px; right: 12px;
+      width: 7px; height: 7px; border-radius: 50%;
+      background: var(--text-3);
+    }
+    .state-in-progress  .node-state-dot { background: var(--accent); box-shadow: 0 0 5px var(--accent); }
+    .state-active       .node-state-dot { background: var(--green);  box-shadow: 0 0 4px var(--green); }
+    .state-needs-attention .node-state-dot { background: var(--red); }
+
+    .node-type-row { display:flex; align-items:center; gap:6px; margin-bottom:7px; margin-right:16px; }
+    .node-type-dot { width:6px; height:6px; border-radius:50%; flex-shrink:0; }
+    .t-sci    { background: #4f8ef5; }
+    .t-obs    { background: #4caf80; }
+    .t-frm    { background: #b088f5; }
+    .t-wis    { background: #f5a623; }
+    .t-tho    { background: #555; }
+    .node-type-label {
+      font-size:9px; font-family:var(--font-mono);
+      text-transform:uppercase; letter-spacing:0.12em; color:var(--text-3);
+    }
+    .node-title {
+      font-size:12px; font-weight:500; color:var(--text-1);
+      line-height:1.4; margin-bottom:7px; word-break:break-word;
+    }
+    .node-title.empty { color:var(--text-3); font-style:italic; }
+    .node-uri {
+      font-family:var(--font-mono); font-size:9px; color:var(--text-3);
+      margin-bottom:8px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
+    }
+    .node-routes { display:flex; gap:4px; flex-wrap:wrap; margin-bottom:6px; }
+    .node-route-tag {
+      font-size:9px; font-family:var(--font-mono);
+      text-transform:uppercase; letter-spacing:0.06em;
+      color:var(--text-3); background:var(--surface-2);
+      border:1px solid var(--border); border-radius:3px; padding:1px 5px;
+    }
+    .node-status-label {
+      font-size:9px; font-family:var(--font-mono);
+      text-transform:uppercase; letter-spacing:0.1em;
+      color:var(--text-3); margin-top:4px;
+    }
+    .state-in-progress  .node-status-label { color:var(--accent); }
+    .state-active       .node-status-label { color:var(--green); }
+    .state-needs-attention .node-status-label { color:var(--red); }
+
+    /* Drag handle */
+    .node-drag { position:absolute; top:0;left:0;right:0;height:32px; cursor:grab; border-radius:9px 9px 0 0; }
+    .node-drag:active { cursor:grabbing; }
+
+    /* ── FORM STYLES ────────────────────────── */
+    .layer-tag {
+      font-size:9px; font-family:var(--font-mono);
+      text-transform:uppercase; letter-spacing:0.18em; color:var(--text-3);
+      margin-bottom:10px;
+    }
+    h1 { font-size:22px; font-weight:400; margin-bottom:8px; }
+    body.layout-split h1 { font-size:18px; }
+    .subtitle { font-size:14px; color:var(--dim); line-height:1.7; margin-bottom:28px; }
+    body.layout-split .subtitle { font-size:13px; margin-bottom:20px; }
+    .field-label {
+      font-size:9px; font-family:var(--font-mono);
+      text-transform:uppercase; letter-spacing:0.12em; color:var(--text-3);
+      margin-bottom:8px;
+    }
+    .field-group { margin-bottom:24px; }
+    .field-input {
+      width:100%; padding:10px 14px;
+      background:var(--surface-2); border:1px solid var(--border);
+      border-radius:7px; color:var(--text-1); font-size:14px;
+      font-family:var(--font-sans); outline:none;
+      transition:border-color 0.15s;
+    }
+    .field-input:focus { border-color:var(--border-hi); }
+    body.layout-split .field-input { font-size:13px; padding:8px 12px; }
+    textarea.field-input { resize:vertical; min-height:80px; line-height:1.6; }
+    body.layout-split textarea.field-input { min-height:60px; }
+    .type-grid {
+      display:grid; grid-template-columns:repeat(3,1fr); gap:8px;
+    }
+    body.layout-split .type-grid { grid-template-columns:repeat(2,1fr); gap:6px; }
+    .type-card {
+      padding:10px 12px; background:var(--surface-2);
+      border:1px solid var(--border); border-radius:7px;
+      cursor:pointer; transition:all 0.15s; text-align:center;
+    }
+    .type-card:hover { border-color:var(--border-hi); }
+    .type-card.selected { border-color:var(--accent); background:rgba(79,142,245,0.06); }
+    .type-card-icon { font-size:16px; margin-bottom:4px; }
+    .type-card-label { font-size:11px; color:var(--text-2); line-height:1.3; }
+
+    .hope-grid { display:flex; flex-direction:column; gap:6px; }
+    .hope-opt {
+      padding:10px 14px; background:var(--surface-2);
+      border:1px solid var(--border); border-radius:7px;
+      cursor:pointer; font-size:13px; color:var(--text-2);
+      transition:all 0.15s;
+    }
+    .hope-opt:hover { border-color:var(--border-hi); color:var(--text-1); }
+    .hope-opt.selected { border-color:var(--accent); color:var(--text-1); background:rgba(79,142,245,0.05); }
+
+    .route-list { display:flex; flex-direction:column; gap:8px; }
+    .route-item {
+      display:flex; align-items:flex-start; gap:14px;
+      padding:12px 14px; background:var(--surface-2);
+      border:1px solid var(--border); border-radius:7px;
+      cursor:pointer; transition:all 0.15s;
+    }
+    .route-item:hover { border-color:var(--border-hi); }
+    .route-item.selected { border-color:var(--accent); background:rgba(79,142,245,0.05); }
+    .route-check {
+      width:16px; height:16px; border-radius:4px;
+      border:1px solid var(--border); flex-shrink:0; margin-top:2px;
+      display:flex; align-items:center; justify-content:center;
+      font-size:10px; color:transparent; background:transparent;
+      transition:all 0.12s;
+    }
+    .route-item.selected .route-check {
+      border-color:var(--accent); background:var(--accent); color:#fff;
+    }
+    .route-name { font-size:13px; font-weight:500; color:var(--text-1); margin-bottom:2px; }
+    .route-desc { font-size:11px; color:var(--dim); line-height:1.5; }
+
+    .layer-nav {
+      display:flex; gap:3px; margin-bottom:28px;
+      border-bottom:1px solid var(--border); padding-bottom:0;
+    }
+    .layer-pill {
+      padding:7px 16px; font-size:11px;
+      color:var(--text-3); cursor:pointer;
+      border-bottom:2px solid transparent;
+      transition:all 0.15s; font-family:var(--font-mono);
+      letter-spacing:0.06em; text-transform:uppercase;
+      margin-bottom:-1px;
+    }
+    .layer-pill:hover { color:var(--text-2); }
+    .layer-pill.active { color:var(--text-1); border-bottom-color:var(--accent); }
+    .layer-pill.done   { color:var(--green); }
+    .layer-pill.locked { color:var(--text-3); cursor:not-allowed; }
+
+    .layer-section { display:none; }
+    .layer-section.active { display:block; }
+
+    .btn-next {
+      padding:11px 28px; background:var(--accent); border:none;
+      border-radius:7px; color:#fff; font-size:14px;
+      font-family:var(--font-sans); cursor:pointer;
+      transition:opacity 0.15s; margin-top:8px;
+    }
+    .btn-next:hover { opacity:0.88; }
+    body.layout-split .btn-next { font-size:13px; padding:9px 22px; }
+
+    .btn-back {
+      padding:11px 22px; background:transparent;
+      border:1px solid var(--border); border-radius:7px;
+      color:var(--text-2); font-size:14px;
+      font-family:var(--font-sans); cursor:pointer;
+      transition:all 0.15s; margin-top:8px; margin-right:10px;
+    }
+    .btn-back:hover { border-color:var(--border-hi); color:var(--text-1); }
+
+    .confirm-row {
+      display:flex; gap:12px; align-items:center;
+      padding:10px 16px; background:var(--surface-2);
+      border-radius:6px; margin-bottom:8px;
+    }
+    .confirm-key {
+      font-family:var(--font-mono); font-size:10px;
+      text-transform:uppercase; letter-spacing:0.1em; color:var(--text-3);
+      min-width:110px;
+    }
+    .confirm-val { font-size:13px; color:var(--text-1); }
+    .confirm-uri {
+      font-family:var(--font-mono); font-size:12px; color:var(--green);
+      padding:12px 16px; background:var(--surface-2);
+      border:1px solid rgba(76,175,128,0.25); border-radius:7px;
+      margin-bottom:16px; word-break:break-all;
+    }
+
+    .submitted-state {
+      text-align:center; padding:40px 20px;
+    }
+    .submitted-check {
+      width:56px; height:56px; border-radius:50%;
+      background:rgba(76,175,128,0.1); border:2px solid var(--green);
+      display:flex; align-items:center; justify-content:center;
+      font-size:24px; color:var(--green);
+      margin:0 auto 20px;
+    }
+    .submitted-title { font-size:18px; font-weight:400; margin-bottom:8px; }
+    .submitted-sub { font-size:13px; color:var(--dim); line-height:1.7; }
+    .board-cta {
+      margin-top:24px; padding:12px 24px;
+      background:transparent; border:1px solid var(--border);
+      border-radius:7px; color:var(--text-2); font-size:13px;
+      cursor:pointer; font-family:var(--font-sans); transition:all 0.15s;
+    }
+    .board-cta:hover { border-color:var(--accent); color:var(--accent); }
+
+    /* Connection picker */
+    .conn-picker {
+      position:fixed; z-index:300;
+      background:var(--surface-2); border:1px solid var(--border-hi);
+      border-radius:8px; padding:8px; display:none;
+      box-shadow:0 8px 24px rgba(0,0,0,0.5);
+    }
+    .conn-picker.open { display:block; }
+    .cp-title {
+      font-size:9px; font-family:var(--font-mono);
+      text-transform:uppercase; letter-spacing:0.1em;
+      color:var(--text-3); margin-bottom:6px; padding:0 4px;
+    }
+    .cp-btn {
+      display:block; width:100%; padding:6px 10px;
+      background:transparent; border:1px solid transparent; border-radius:4px;
+      color:var(--text-2); font-size:12px; text-align:left; cursor:pointer;
+      font-family:var(--font-sans); transition:all 0.1s;
+    }
+    .cp-btn:hover { background:var(--surface-3); color:var(--text-1); }
+  </style>
+</head>
+<body class="layout-form">
+
+<!-- ── HEADER ── -->
+<header class="header">
+  <span class="wordmark">Woodchipper</span>
+  <div class="h-sep"></div>
+  <span class="h-label">Workspace</span>
+
+  <div class="layout-toggle">
+    <button class="lt-btn active" data-layout="layout-form">
+      <span class="lt-icon">≡</span> Form
+    </button>
+    <button class="lt-btn" data-layout="layout-split">
+      <span class="lt-icon">⊞</span> Split
+    </button>
+    <button class="lt-btn" data-layout="layout-board">
+      <span class="lt-icon">⊟</span> Board
+    </button>
+  </div>
+
+  <div class="session-badge">
+    <div class="session-dot" id="session-dot"></div>
+    <span id="session-label">No active session</span>
+  </div>
+</header>
+
+<!-- ── WORKSPACE ── -->
+<div class="workspace-shell">
+
+  <!-- ── FORM PANEL ── -->
+  <div class="form-panel" id="form-panel">
+    <div class="form-inner">
+
+      <!-- Layer navigation pills -->
+      <div class="layer-nav" id="layer-nav">
+        <div class="layer-pill active" data-layer="l1" id="pill-l1">L1 · Entry</div>
+        <div class="layer-pill locked"  data-layer="l2" id="pill-l2">L2 · Intent</div>
+        <div class="layer-pill locked"  data-layer="l3" id="pill-l3">L3 · Routes</div>
+        <div class="layer-pill locked"  data-layer="l4" id="pill-l4">L4 · Confirm</div>
+      </div>
+
+      <!-- ── L1: ENTRY ── -->
+      <div class="layer-section active" id="l1">
+        <div class="layer-tag">Layer 1 — Entry</div>
+        <h1>What are you bringing in?</h1>
+        <p class="subtitle">Give it a title, tell us what kind of thing it is, and describe it in your own words.</p>
+
+        <div class="field-group">
+          <div class="field-label">Working title</div>
+          <input class="field-input" type="text" id="f-title" placeholder="What are you thinking of calling it?">
+        </div>
+
+        <div class="field-group">
+          <div class="field-label">What kind of thing is this?</div>
+          <div class="type-grid">
+            <div class="type-card" data-type="Scientific case">
+              <div class="type-card-icon">⬡</div>
+              <div class="type-card-label">Scientific case</div>
+            </div>
+            <div class="type-card" data-type="Observation">
+              <div class="type-card-icon">◎</div>
+              <div class="type-card-label">Observation</div>
+            </div>
+            <div class="type-card" data-type="Framework">
+              <div class="type-card-icon">⊛</div>
+              <div class="type-card-label">Framework</div>
+            </div>
+            <div class="type-card" data-type="Wisdom">
+              <div class="type-card-icon">◈</div>
+              <div class="type-card-label">Wisdom</div>
+            </div>
+            <div class="type-card" data-type="Passing thought">
+              <div class="type-card-icon">○</div>
+              <div class="type-card-label">Passing thought</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="field-group">
+          <div class="field-label">Describe it — your words</div>
+          <textarea class="field-input" id="f-description" placeholder="What did you find, think, or notice? Be as specific or as rough as it is right now."></textarea>
+        </div>
+
+        <button class="btn-next" id="btn-l1-next">Set expectations →</button>
+      </div>
+
+      <!-- ── L2: INTENT ── -->
+      <div class="layer-section" id="l2">
+        <div class="layer-tag">Layer 2 — Intent</div>
+        <h1>What do you need from this?</h1>
+        <p class="subtitle">Before we assess anything, tell us what you came here for. This shapes everything downstream.</p>
+
+        <div class="field-group">
+          <div class="field-label">What you're hoping for</div>
+          <div class="hope-grid">
+            <div class="hope-opt" data-hope="Credibility assessment (WCI)">A credibility assessment — I want to know how it holds up</div>
+            <div class="hope-opt" data-hope="Feedback on structure">Feedback on structure and argument — not scoring</div>
+            <div class="hope-opt" data-hope="Help naming what I have">Help naming what I actually have — I'm not sure of the type</div>
+            <div class="hope-opt" data-hope="A permanent record">A permanent record and address — nothing more, not yet</div>
+            <div class="hope-opt" data-hope="Know what to improve">Know what to improve before I take it further</div>
+          </div>
+        </div>
+
+        <div class="field-group">
+          <div class="field-label">Domain (optional)</div>
+          <input class="field-input" type="text" id="f-domain" placeholder="e.g. Behavioral biology, Linguistics, Ecology…">
+        </div>
+
+        <button class="btn-back" id="btn-l2-back">← Back</button>
+        <button class="btn-next" id="btn-l2-next">Choose routes →</button>
+      </div>
+
+      <!-- ── L3: ROUTES ── -->
+      <div class="layer-section" id="l3">
+        <div class="layer-tag">Layer 3 — Routes</div>
+        <h1>What do you want to do with it?</h1>
+        <p class="subtitle">Select one or more routes. Each produces a different kind of knowledge about what you've made.</p>
+
+        <div class="route-list">
+          <div class="route-item" data-route="assess">
+            <div class="route-check">✓</div>
+            <div>
+              <div class="route-name">Assess</div>
+              <div class="route-desc">Dimensional review. What's working, what isn't. Not a score — a read.</div>
+            </div>
+          </div>
+          <div class="route-item" data-route="wci">
+            <div class="route-check">✓</div>
+            <div>
+              <div class="route-name">WCI — Credibility Score</div>
+              <div class="route-desc">Woodchipper Credibility Index. Requires evaluation of actual content. Score returns async.</div>
+            </div>
+          </div>
+          <div class="route-item" data-route="develop">
+            <div class="route-check">✓</div>
+            <div>
+              <div class="route-name">Develop</div>
+              <div class="route-desc">Structured path toward a publishable version. Iterated, not rushed.</div>
+            </div>
+          </div>
+          <div class="route-item" data-route="publish">
+            <div class="route-check">✓</div>
+            <div>
+              <div class="route-name">Publish</div>
+              <div class="route-desc">Route toward Observatory, journal submission, or preprint.</div>
+            </div>
+          </div>
+          <div class="route-item" data-route="register">
+            <div class="route-check">✓</div>
+            <div>
+              <div class="route-name">Register</div>
+              <div class="route-desc">Permanent URI. DOI, ORCID, arXiv linkage. Citeable from this moment.</div>
+            </div>
+          </div>
+        </div>
+
+        <div style="margin-top:24px;">
+          <button class="btn-back" id="btn-l3-back">← Back</button>
+          <button class="btn-next" id="btn-l3-next">Confirm submission →</button>
+        </div>
+      </div>
+
+      <!-- ── L4: CONFIRM ── -->
+      <div class="layer-section" id="l4">
+        <div class="layer-tag">Layer 4 — Confirmation</div>
+        <h1>Your work is in.</h1>
+        <p class="subtitle">Permanent address assigned. Review before evaluation begins.</p>
+
+        <div class="confirm-uri" id="l4-uri">woodchipper.wiki/—</div>
+
+        <div id="l4-rows"></div>
+
+        <div style="margin-top:24px;padding:14px 18px;background:rgba(79,142,245,0.04);border:1px solid rgba(79,142,245,0.12);border-radius:7px;font-size:12px;color:var(--dim);line-height:1.8;margin-bottom:24px;">
+          Any scores — including WCI — are produced by reading the actual content.
+          They cannot be generated from intake data alone. Results arrive when evaluation is complete.
+        </div>
+
+        <div id="submitted-wrap" style="display:none;">
+          <div class="submitted-state">
+            <div class="submitted-check">✓</div>
+            <div class="submitted-title">Evaluation submitted.</div>
+            <div class="submitted-sub">
+              Your work is now in the pipeline. Results will arrive when evaluation is complete.<br>
+              The board shows the live state of your submission.
+            </div>
+            <button class="board-cta" onclick="setLayout('layout-split')">See it on the board →</button>
+          </div>
+        </div>
+
+        <div id="l4-actions">
+          <button class="btn-back" id="btn-l4-back">← Back</button>
+          <button class="btn-next" id="btn-l4-submit">Begin evaluation →</button>
+        </div>
+      </div>
+
+    </div><!-- /form-inner -->
+  </div><!-- /form-panel -->
+
+  <!-- ── BOARD PANEL ── -->
+  <div class="board-panel" id="board-panel">
+    <div class="board-toolbar">
+      <button class="tb-btn active" data-tool="select">↖ Select</button>
+      <button class="tb-btn" data-tool="connect">⌇ Connect</button>
+      <button class="tb-btn" data-tool="delete" style="color:var(--red)">✕ Delete</button>
+      <div class="tb-sep"></div>
+      <span class="tb-hint" id="board-hint">Select tool · drag to move</span>
+    </div>
+    <div class="board-canvas-wrap" id="board-canvas">
+      <svg class="conn-svg" id="conn-svg">
+        <defs>
+          <marker id="arr" markerWidth="7" markerHeight="5" refX="6" refY="2.5" orient="auto">
+            <polygon points="0 0, 7 2.5, 0 5" fill="rgba(255,255,255,0.18)"/>
+          </marker>
+          <marker id="arr-r" markerWidth="7" markerHeight="5" refX="6" refY="2.5" orient="auto">
+            <polygon points="0 0, 7 2.5, 0 5" fill="rgba(224,82,82,0.6)"/>
+          </marker>
+          <marker id="arr-a" markerWidth="7" markerHeight="5" refX="6" refY="2.5" orient="auto">
+            <polygon points="0 0, 7 2.5, 0 5" fill="rgba(79,142,245,0.7)"/>
+          </marker>
+        </defs>
+      </svg>
+      <div class="nodes-wrap" id="nodes-wrap"></div>
+    </div>
+  </div>
+
+</div><!-- /workspace-shell -->
+
+<!-- Connection type picker -->
+<div class="conn-picker" id="conn-picker">
+  <div class="cp-title">Relationship</div>
+  <button class="cp-btn" data-rel="builds-on">Builds on</button>
+  <button class="cp-btn" data-rel="cites">Cites</button>
+  <button class="cp-btn" data-rel="contradicts" style="color:var(--red)">Contradicts</button>
+  <button class="cp-btn" data-rel="extends">Extends</button>
+  <button class="cp-btn" data-rel="related">Related</button>
+  <button class="cp-btn" data-rel="cancel" style="color:var(--dim);border-top:1px solid var(--border);margin-top:4px;padding-top:8px;border-radius:0">Cancel</button>
+</div>
+
+<script>
+// ═══════════════════════════════════════════════════════
+// FORM STATE — single source of truth
+// ═══════════════════════════════════════════════════════
+const F = {
+  title:       '',
+  type:        '',
+  description: '',
+  domain:      '',
+  hope:        '',
+  routes:      new Set(),
+  layer:       'l1',   // current layer
+  submitted:   false,
+};
+
+// ═══════════════════════════════════════════════════════
+// BOARD STATE
+// ═══════════════════════════════════════════════════════
+const SESSION_NODE_ID = 'session';
+
+let nodes = [
+  // Demo nodes — connected to session node
+  {
+    id: 'n1',
+    title: 'Social rank and glucocorticoid reactivity in baboon troops',
+    objectType: 'Scientific case',
+    uri: 'woodchipper.wiki/scientific-case/rank-cortisol',
+    routes: ['wci', 'register'],
+    state: 'active',
+    evalResult: { band: 'STRONG', score: 74 },
+    x: 30, y: 60,
+  },
+  {
+    id: 'n2',
+    title: 'Hierarchical stress cascade — cross-species framework',
+    objectType: 'Framework',
+    uri: 'woodchipper.wiki/framework/stress-cascade',
+    routes: ['wci', 'assess'],
+    state: 'needs-attention',
+    evalResult: null,
+    x: 300, y: 20,
+  },
+  {
+    id: 'n3',
+    title: 'Cortisol elevation in subordinate males — 14-year field record',
+    objectType: 'Observation',
+    uri: 'woodchipper.wiki/observation/cortisol-subordinate',
+    routes: ['register'],
+    state: 'active',
+    evalResult: null,
+    x: 30, y: 280,
+  },
+  {
+    id: SESSION_NODE_ID,
+    title: '',
+    objectType: '',
+    uri: '',
+    routes: [],
+    state: 'empty',   // empty | in-progress | submitted
+    evalResult: null,
+    x: 300, y: 240,
+  },
+];
+
+let connections = [
+  { id: 'c1', from: 'n1', to: 'n2', type: 'builds-on' },
+  { id: 'c2', from: 'n3', to: 'n1', type: 'builds-on' },
+  // Session node connections — appear when session node becomes in-progress
+  { id: 'c3', from: SESSION_NODE_ID, to: 'n1', type: 'cites' },
+  { id: 'c4', from: SESSION_NODE_ID, to: 'n2', type: 'extends' },
+];
+
+let selectedId = null;
+let activeTool = 'select';
+let connectSource = null;
+let pendingConnTo = null;
+let dragging = null;
+let dragOffset = { x:0, y:0 };
+
+const TYPE_DOT = {
+  'Scientific case': 't-sci',
+  'Observation':     't-obs',
+  'Framework':       't-frm',
+  'Wisdom':          't-wis',
+  'Passing thought': 't-tho',
+};
+
+const REL_LABELS = {
+  'builds-on': 'Builds on',
+  'cites':     'Cites',
+  'contradicts':'Contradicts',
+  'extends':   'Extends',
+  'related':   'Related to',
+};
+
+// ═══════════════════════════════════════════════════════
+// LIVE SYNC: form → board
+// Updates session node whenever F changes
+// ═══════════════════════════════════════════════════════
+function syncSessionNode() {
+  const sn = nodes.find(n => n.id === SESSION_NODE_ID);
+  if (!sn) return;
+
+  const hasContent = F.title || F.type || F.description;
+
+  if (F.submitted) {
+    sn.state = 'submitted';
+    sn.title = F.title || '(untitled)';
+    sn.objectType = F.type || 'Work';
+    sn.uri = makeURI();
+    sn.routes = [...F.routes];
+    // Connected nodes that were "needs-attention" waiting for this → go active
+    nodes.forEach(n => { if (n.state === 'needs-attention') n.state = 'active'; });
+  } else if (hasContent) {
+    sn.state = 'in-progress';
+    sn.title = F.title || '(filling…)';
+    sn.objectType = F.type || '—';
+    sn.uri = F.title ? 'woodchipper.wiki/…/' + slugify(F.title) : 'woodchipper.wiki/…';
+    sn.routes = [...F.routes];
+    // Mark connected nodes as needs-attention (session node not done yet)
+    connections
+      .filter(c => c.from === SESSION_NODE_ID || c.to === SESSION_NODE_ID)
+      .forEach(c => {
+        const otherId = c.from === SESSION_NODE_ID ? c.to : c.from;
+        const other = nodes.find(n => n.id === otherId);
+        if (other && other.state === 'active') other.state = 'needs-attention';
+      });
+  } else {
+    sn.state = 'empty';
+    sn.title = '';
+    sn.objectType = '';
+    sn.uri = '';
+    sn.routes = [];
+    // Reset connected nodes
+    nodes.forEach(n => {
+      if (n.state === 'needs-attention') n.state = 'active';
+    });
+  }
+
+  updateSessionBadge();
+  renderNodes();
+  renderConnections();
+}
+
+function updateSessionBadge() {
+  const dot = document.getElementById('session-dot');
+  const label = document.getElementById('session-label');
+  dot.className = 'session-dot';
+  if (F.submitted) {
+    dot.classList.add('submitted');
+    label.textContent = 'Submitted';
+    label.style.color = 'var(--green)';
+  } else if (F.title || F.type) {
+    dot.classList.add('in-progress');
+    label.textContent = F.title ? `"${F.title.slice(0,24)}${F.title.length>24?'…':''}"` : 'In progress';
+    label.style.color = 'var(--accent)';
+  } else {
+    label.textContent = 'No active session';
+    label.style.color = '';
+  }
+}
+
+function makeURI() {
+  const type = (F.type || 'work').toLowerCase().replace(/\s+/g,'-');
+  const slug = slugify(F.title || F.description || 'untitled');
+  return `woodchipper.wiki/${type}/${slug}`;
+}
+
+function slugify(text) {
+  if (!text) return 'untitled';
+  return text.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,28) || 'untitled';
+}
+
+// ═══════════════════════════════════════════════════════
+// FORM WIRING
+// ═══════════════════════════════════════════════════════
+document.getElementById('f-title').addEventListener('input', e => {
+  F.title = e.target.value.trim();
+  syncSessionNode();
+});
+
+document.getElementById('f-description').addEventListener('input', e => {
+  F.description = e.target.value.trim();
+  syncSessionNode();
+});
+
+document.getElementById('f-domain').addEventListener('input', e => {
+  F.domain = e.target.value.trim();
+});
+
+document.querySelectorAll('.type-card').forEach(card => {
+  card.addEventListener('click', () => {
+    document.querySelectorAll('.type-card').forEach(c => c.classList.remove('selected'));
+    card.classList.add('selected');
+    F.type = card.dataset.type;
+    syncSessionNode();
+  });
+});
+
+document.querySelectorAll('.hope-opt').forEach(opt => {
+  opt.addEventListener('click', () => {
+    document.querySelectorAll('.hope-opt').forEach(o => o.classList.remove('selected'));
+    opt.classList.add('selected');
+    F.hope = opt.dataset.hope;
+  });
+});
+
+document.querySelectorAll('.route-item').forEach(item => {
+  item.addEventListener('click', () => {
+    const route = item.dataset.route;
+    if (F.routes.has(route)) {
+      F.routes.delete(route);
+      item.classList.remove('selected');
+    } else {
+      F.routes.add(route);
+      item.classList.add('selected');
+    }
+    syncSessionNode();
+  });
+});
+
+// Layer navigation
+function goLayer(target) {
+  document.querySelectorAll('.layer-section').forEach(s => s.classList.remove('active'));
+  document.getElementById(target).classList.add('active');
+  F.layer = target;
+  // Update pills
+  const order = ['l1','l2','l3','l4'];
+  const currentIdx = order.indexOf(target);
+  order.forEach((id, i) => {
+    const pill = document.getElementById('pill-' + id);
+    if (!pill) return;
+    pill.classList.remove('active','done','locked');
+    if (i < currentIdx)  pill.classList.add('done');
+    else if (i === currentIdx) pill.classList.add('active');
+    else pill.classList.add('locked');
+  });
+  document.getElementById('form-panel').scrollTo(0, 0);
+}
+
+document.getElementById('btn-l1-next').addEventListener('click', () => goLayer('l2'));
+document.getElementById('btn-l2-back').addEventListener('click', () => goLayer('l1'));
+document.getElementById('btn-l2-next').addEventListener('click', () => goLayer('l3'));
+document.getElementById('btn-l3-back').addEventListener('click', () => goLayer('l2'));
+document.getElementById('btn-l3-next').addEventListener('click', () => {
+  // populate L4 confirm view
+  document.getElementById('l4-uri').textContent = makeURI();
+  const rows = [
+    ['Type',   F.type   || '—'],
+    ['Domain', F.domain || '—'],
+    ['Need',   F.hope   || '—'],
+    ['Routes', F.routes.size ? [...F.routes].join(', ') : 'None selected'],
+  ];
+  document.getElementById('l4-rows').innerHTML = rows.map(([k,v]) =>
+    `<div class="confirm-row">
+      <span class="confirm-key">${k}</span>
+      <span class="confirm-val">${v}</span>
+    </div>`
+  ).join('');
+  goLayer('l4');
+});
+document.getElementById('btn-l4-back').addEventListener('click', () => goLayer('l3'));
+document.getElementById('btn-l4-submit').addEventListener('click', () => {
+  F.submitted = true;
+  syncSessionNode();
+  document.getElementById('l4-actions').style.display = 'none';
+  document.getElementById('submitted-wrap').style.display = 'block';
+});
+
+// Pill clicks (only allow going back to done layers)
+document.querySelectorAll('.layer-pill').forEach(pill => {
+  pill.addEventListener('click', () => {
+    if (pill.classList.contains('done')) goLayer(pill.dataset.layer);
+  });
+});
+
+// ═══════════════════════════════════════════════════════
+// LAYOUT CONTROL
+// ═══════════════════════════════════════════════════════
+function setLayout(mode) {
+  document.body.className = mode;
+  document.querySelectorAll('.lt-btn').forEach(b => {
+    b.classList.toggle('active', b.dataset.layout === mode);
+  });
+}
+
+document.querySelectorAll('.lt-btn').forEach(btn => {
+  btn.addEventListener('click', () => setLayout(btn.dataset.layout));
+});
+
+// ═══════════════════════════════════════════════════════
+// RENDER NODES
+// ═══════════════════════════════════════════════════════
+function renderNodes() {
+  const wrap = document.getElementById('nodes-wrap');
+  const existing = new Set(nodes.map(n => n.id));
+  wrap.querySelectorAll('.wc-node').forEach(el => {
+    if (!existing.has(el.dataset.id)) el.remove();
+  });
+  nodes.forEach(n => {
+    let el = document.getElementById('board-node-' + n.id);
+    if (!el) { el = createNodeEl(n); wrap.appendChild(el); }
+    updateNodeEl(el, n);
+  });
+}
+
+function getNodeStateClass(n) {
+  if (n.id === SESSION_NODE_ID) {
+    if (n.state === 'submitted') return 'state-active';
+    if (n.state === 'in-progress') return 'state-in-progress';
+    return 'state-empty';
+  }
+  if (n.state === 'needs-attention') return 'state-needs-attention';
+  if (n.state === 'active') return 'state-active';
+  return '';
+}
+
+function getStatusLabel(n) {
+  if (n.id === SESSION_NODE_ID) {
+    if (n.state === 'submitted') return 'submitted';
+    if (n.state === 'in-progress') return 'in progress ●';
+    return 'waiting for entry';
+  }
+  if (n.state === 'needs-attention') return 'needs attention';
+  if (n.evalResult) return n.evalResult.band + (n.evalResult.score ? ' · ' + n.evalResult.score : '');
+  return 'active';
+}
+
+function createNodeEl(n) {
+  const el = document.createElement('div');
+  el.className = 'wc-node';
+  el.id = 'board-node-' + n.id;
+  el.dataset.id = n.id;
+  el.innerHTML = `
+    <div class="node-drag"></div>
+    <div class="node-state-dot"></div>
+    <div class="node-alert" title="Waiting for connected work to complete — fill the form to resolve">!</div>
+    <div class="node-type-row">
+      <div class="node-type-dot" id="ndot-${n.id}"></div>
+      <div class="node-type-label" id="ntype-${n.id}"></div>
+    </div>
+    <div class="node-title" id="ntitle-${n.id}"></div>
+    <div class="node-uri" id="nuri-${n.id}"></div>
+    <div class="node-routes" id="nroutes-${n.id}"></div>
+    <div class="node-status-label" id="nstatus-${n.id}"></div>`;
+
+  el.querySelector('.node-drag').addEventListener('mousedown', e => startDrag(e, n.id));
+  el.addEventListener('mousedown', e => {
+    if (e.target.classList.contains('node-drag')) return;
+    if (e.target.classList.contains('node-alert')) {
+      // Signal back to form — switch to split and scroll form to top
+      setLayout('layout-split');
+      document.getElementById('form-panel').scrollTo({ top:0, behavior:'smooth' });
+      return;
+    }
+    onNodeClick(n.id, e);
+  });
+
+  return el;
+}
+
+function updateNodeEl(el, n) {
+  el.style.left = n.x + 'px';
+  el.style.top  = n.y + 'px';
+  el.className = 'wc-node ' + getNodeStateClass(n) + (selectedId === n.id ? ' selected' : '');
+
+  const dotCls = TYPE_DOT[n.objectType] || '';
+  const dotEl = document.getElementById('ndot-' + n.id);
+  if (dotEl) { dotEl.className = 'node-type-dot ' + dotCls; }
+
+  const typeEl = document.getElementById('ntype-' + n.id);
+  if (typeEl) typeEl.textContent = n.objectType || (n.id === SESSION_NODE_ID ? 'New submission' : 'Unknown');
+
+  const titleEl = document.getElementById('ntitle-' + n.id);
+  if (titleEl) {
+    if (n.id === SESSION_NODE_ID && !n.title) {
+      titleEl.className = 'node-title empty';
+      titleEl.textContent = 'Start filling the form →';
+    } else {
+      titleEl.className = 'node-title';
+      titleEl.textContent = n.title || '(untitled)';
+    }
+  }
+
+  const uriEl = document.getElementById('nuri-' + n.id);
+  if (uriEl) uriEl.textContent = n.uri || '';
+
+  const routesEl = document.getElementById('nroutes-' + n.id);
+  if (routesEl) {
+    routesEl.innerHTML = (n.routes || []).map(r =>
+      `<span class="node-route-tag">${r}</span>`
+    ).join('');
+  }
+
+  const statusEl = document.getElementById('nstatus-' + n.id);
+  if (statusEl) statusEl.textContent = getStatusLabel(n);
+}
+
+// ═══════════════════════════════════════════════════════
+// RENDER CONNECTIONS
+// ═══════════════════════════════════════════════════════
+function renderConnections() {
+  const svg = document.getElementById('conn-svg');
+  svg.querySelectorAll('.conn-el').forEach(el => el.remove());
+
+  // Only show session node connections when it has content
+  const sn = nodes.find(n => n.id === SESSION_NODE_ID);
+  const showSessionConns = sn && sn.state !== 'empty';
+
+  connections.forEach(c => {
+    const isSessionConn = c.from === SESSION_NODE_ID || c.to === SESSION_NODE_ID;
+    if (isSessionConn && !showSessionConns) return;
+
+    const fromNode = nodes.find(n => n.id === c.from);
+    const toNode   = nodes.find(n => n.id === c.to);
+    if (!fromNode || !toNode) return;
+
+    const fw = 210, fh = 160, tw = 210, th = 160;
+    const fx = fromNode.x + fw / 2, fy = fromNode.y + fh / 2;
+    const tx = toNode.x   + tw / 2, ty = toNode.y   + th / 2;
+
+    const isNeedsAttn = (fromNode.state === 'needs-attention' || toNode.state === 'needs-attention') && isSessionConn;
+    const isSelected  = selectedId === c.from || selectedId === c.to;
+
+    const color = isNeedsAttn ? 'rgba(224,82,82,0.4)'
+                : isSelected  ? 'rgba(79,142,245,0.6)'
+                : 'rgba(255,255,255,0.12)';
+    const marker = isNeedsAttn ? 'url(#arr-r)'
+                 : isSelected  ? 'url(#arr-a)'
+                 : 'url(#arr)';
+
+    const line = document.createElementNS('http://www.w3.org/2000/svg','line');
+    line.setAttribute('x1', fx); line.setAttribute('y1', fy);
+    line.setAttribute('x2', tx); line.setAttribute('y2', ty);
+    line.setAttribute('stroke', color);
+    line.setAttribute('stroke-width', isNeedsAttn ? '1.5' : '1');
+    line.setAttribute('stroke-dasharray', isNeedsAttn ? '4 3' : 'none');
+    line.setAttribute('marker-end', marker);
+    line.classList.add('conn-el');
+    svg.appendChild(line);
+
+    // Label
+    const mx = (fx + tx) / 2, my = (fy + ty) / 2;
+    const labelText = (REL_LABELS[c.type] || c.type).toUpperCase();
+    const g = document.createElementNS('http://www.w3.org/2000/svg','g');
+    g.classList.add('conn-el');
+    const bg = document.createElementNS('http://www.w3.org/2000/svg','rect');
+    const lw = labelText.length * 5.5 + 8;
+    bg.setAttribute('x', mx - lw/2); bg.setAttribute('y', my - 8);
+    bg.setAttribute('width', lw);   bg.setAttribute('height', 14);
+    bg.setAttribute('rx', 3);
+    bg.setAttribute('fill', '#191919');
+    bg.setAttribute('stroke', isNeedsAttn ? 'rgba(224,82,82,0.3)' : 'rgba(255,255,255,0.06)');
+    const txt = document.createElementNS('http://www.w3.org/2000/svg','text');
+    txt.setAttribute('x', mx); txt.setAttribute('y', my + 1);
+    txt.setAttribute('text-anchor','middle'); txt.setAttribute('dominant-baseline','middle');
+    txt.setAttribute('fill', isNeedsAttn ? 'rgba(224,82,82,0.7)' : 'rgba(255,255,255,0.2)');
+    txt.setAttribute('font-size','8'); txt.setAttribute('font-family','monospace');
+    txt.setAttribute('letter-spacing','0.1em');
+    txt.textContent = labelText;
+    g.appendChild(bg); g.appendChild(txt);
+    svg.appendChild(g);
+  });
+}
+
+// ═══════════════════════════════════════════════════════
+// DRAG
+// ═══════════════════════════════════════════════════════
+function startDrag(e, id) {
+  if (activeTool === 'delete') return;
+  if (activeTool === 'connect') { onNodeClick(id, e); return; }
+  e.preventDefault();
+  dragging = id;
+  const n = nodes.find(x => x.id === id);
+  const canvasRect = document.getElementById('board-canvas').getBoundingClientRect();
+  dragOffset.x = e.clientX - canvasRect.left - n.x;
+  dragOffset.y = e.clientY - canvasRect.top  - n.y;
+  onNodeClick(id, e);
+}
+
+document.addEventListener('mousemove', e => {
+  if (!dragging) return;
+  const n = nodes.find(x => x.id === dragging);
+  if (!n) return;
+  const canvasRect = document.getElementById('board-canvas').getBoundingClientRect();
+  n.x = Math.max(0, e.clientX - canvasRect.left - dragOffset.x);
+  n.y = Math.max(0, e.clientY - canvasRect.top  - dragOffset.y);
+  const el = document.getElementById('board-node-' + n.id);
+  if (el) { el.style.left = n.x + 'px'; el.style.top = n.y + 'px'; }
+  renderConnections();
+});
+document.addEventListener('mouseup', () => { dragging = null; });
+
+// ═══════════════════════════════════════════════════════
+// SELECTION + CONNECT + DELETE
+// ═══════════════════════════════════════════════════════
+function onNodeClick(id, e) {
+  if (activeTool === 'delete') {
+    if (id !== SESSION_NODE_ID) {
+      nodes = nodes.filter(n => n.id !== id);
+      connections = connections.filter(c => c.from !== id && c.to !== id);
+    }
+    renderNodes(); renderConnections(); return;
+  }
+  if (activeTool === 'connect') {
+    if (!connectSource) {
+      connectSource = id;
+      const el = document.getElementById('board-node-' + id);
+      if (el) el.style.borderColor = 'var(--amber)';
+      document.getElementById('board-hint').textContent = 'Click target node to complete connection';
+    } else if (connectSource !== id) {
+      pendingConnTo = id;
+      const toNode = nodes.find(n => n.id === id);
+      if (toNode) {
+        const canvasRect = document.getElementById('board-canvas').getBoundingClientRect();
+        const picker = document.getElementById('conn-picker');
+        picker.style.left = (canvasRect.left + toNode.x + 220) + 'px';
+        picker.style.top  = (canvasRect.top  + toNode.y) + 'px';
+        picker.classList.add('open');
+      }
+    }
+    return;
+  }
+  selectedId = id;
+  renderNodes(); renderConnections();
+}
+
+document.getElementById('board-canvas').addEventListener('mousedown', e => {
+  if (e.target === document.getElementById('board-canvas') ||
+      e.target === document.getElementById('nodes-wrap') ||
+      e.target.tagName === 'svg' || e.target.tagName === 'SVG') {
+    selectedId = null; connectSource = null;
+    renderNodes(); renderConnections();
+  }
+});
+
+document.querySelectorAll('.tb-btn[data-tool]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    activeTool = btn.dataset.tool;
+    document.querySelectorAll('.tb-btn[data-tool]').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    connectSource = null;
+    const hints = {
+      select:  'Select · drag to move nodes',
+      connect: 'Click source node, then target node',
+      delete:  'Click a node or arrow to remove it',
+    };
+    document.getElementById('board-hint').textContent = hints[activeTool] || '';
+    renderNodes();
+  });
+});
+
+document.getElementById('conn-picker').addEventListener('click', e => {
+  const btn = e.target.closest('.cp-btn');
+  if (!btn) return;
+  document.getElementById('conn-picker').classList.remove('open');
+  const rel = btn.dataset.rel;
+  if (rel !== 'cancel' && connectSource && pendingConnTo) {
+    connections.push({ id:'c'+Date.now(), from:connectSource, to:pendingConnTo, type:rel });
+  }
+  connectSource = null; pendingConnTo = null;
+  renderNodes(); renderConnections();
+  document.getElementById('board-hint').textContent = 'Select · drag to move nodes';
+  document.querySelectorAll('.tb-btn[data-tool]').forEach(b =>
+    b.classList.toggle('active', b.dataset.tool === 'select'));
+  activeTool = 'select';
+});
+
+// ═══════════════════════════════════════════════════════
+// INIT
+// ═══════════════════════════════════════════════════════
+renderNodes();
+renderConnections();
+updateSessionBadge();
+</script>
+</body>
+</html>

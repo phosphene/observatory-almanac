@@ -1,0 +1,4 @@
+# Staging environment — content will migrate to observatory.wiki
+# Disallow all crawlers until production migration is complete.
+User-agent: *
+Disallow: /

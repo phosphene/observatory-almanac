@@ -1,6 +1,6 @@
 # South Asian Recipes
 
-*The Observatory Almanac â Human Hearth*
+*The Observatory Almanac — Human Hearth*
 
 Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Temple-Cuisine] [Maritime-Spice]
 
@@ -10,7 +10,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 ### Butter Chicken (Murgh Makhani)
 
-**Region:** Punjab | **Lineage:** [Mughal-Court â Colonial-Fusion]
+**Region:** Punjab | **Lineage:** [Mughal-Court → Colonial-Fusion]
 
 **Ingredients:**
 - 1 kg chicken thighs, skinless, cut into pieces
@@ -39,7 +39,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 **Method:**
 1. Mix yogurt, lemon juice, chili powder, garam masala, turmeric, and oil. Marinate chicken minimum 4 hours or overnight.
-2. Grill or broil chicken at high heat until charred at edges, about 8â10 min per side. Set aside.
+2. Grill or broil chicken at high heat until charred at edges, about 8–10 min per side. Set aside.
 3. In a heavy pan, heat butter and oil. Add cumin seeds, sizzle 30 seconds.
 4. Add onions, cook until deep golden, 15 min.
 5. Add garlic and ginger, cook 2 min.
@@ -65,20 +65,20 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 1 onion, finely chopped
 - 5 garlic cloves, minced
 - 1 in ginger, grated
-- 2 tomatoes, purÃ©ed
+- 2 tomatoes, puréed
 - 1 tsp cumin seeds
 - 1 tsp coriander powder
 - 1 tsp garam masala
-- Â½ tsp Kashmiri chili powder
+- ½ tsp Kashmiri chili powder
 - 100 ml cream
 - Salt to taste
 
 **Method:**
-1. Boil soaked lentils and beans in 1.5 L water until completely soft, 45â60 min (or pressure cook 20 min). Reserve cooking water.
+1. Boil soaked lentils and beans in 1.5 L water until completely soft, 45–60 min (or pressure cook 20 min). Reserve cooking water.
 2. Heat butter and oil; add cumin seeds, then onion. Cook until deep brown, 20 min.
-3. Add garlic and ginger; cook 2 min. Add tomato purÃ©e; cook until oil separates, 15 min.
-4. Add spices and cooked lentils with some cooking water. Simmer on very low heat 45â60 min, stirring occasionally.
-5. Stir in cream, simmer 10 more min. The long simmer is essential â restaurant versions cook 6â8 hours.
+3. Add garlic and ginger; cook 2 min. Add tomato purée; cook until oil separates, 15 min.
+4. Add spices and cooked lentils with some cooking water. Simmer on very low heat 45–60 min, stirring occasionally.
+5. Stir in cream, simmer 10 more min. The long simmer is essential — restaurant versions cook 6–8 hours.
 
 *Historical note: The long slow cook over dying embers overnight is the hallmark of dhaba (roadside restaurant) cuisine.*
 
@@ -103,7 +103,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 **Method:**
 1. Boil all greens in 500 ml water until very soft, 30 min.
 2. Drain, cool, and blend roughly (texture preferred over smooth).
-3. Heat ghee; sautÃ© onion until golden, add garlic, ginger, and chilies.
+3. Heat ghee; sauté onion until golden, add garlic, ginger, and chilies.
 4. Add blended greens, stir well. Add corn flour, mix thoroughly.
 5. Simmer 20 min, stirring to prevent sticking. Serve with makki di roti (corn flatbread) and white butter.
 
@@ -118,7 +118,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 **Ingredients:**
 - 300 g all-purpose flour
 - 1 tsp baking powder
-- Â½ tsp baking soda
+- ½ tsp baking soda
 - 150 g plain yogurt
 - 1 tsp sugar
 - 1 tsp salt
@@ -129,14 +129,14 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 1 onion, finely chopped
 - 2 green chilies, chopped
 - 1 tsp chaat masala
-- Â½ tsp amchur (dry mango powder)
+- ½ tsp amchur (dry mango powder)
 - Fresh coriander
 
 **Method:**
 1. Mix flour, baking powder, baking soda, sugar, salt. Rub in oil.
 2. Add yogurt gradually, knead into soft dough. Rest 2 hours covered.
 3. Mix all filling ingredients.
-4. Divide dough into 6 balls. Roll each, add filling, seal, and roll again carefully to Â½ cm thickness.
+4. Divide dough into 6 balls. Roll each, add filling, seal, and roll again carefully to ½ cm thickness.
 5. Cook in tandoor or on a very hot tawa (griddle), pressing gently. Brush with butter.
 
 *Historical note: Amritsar's famous kulcha stalls have fed pilgrims visiting the Golden Temple for centuries.*
@@ -148,16 +148,16 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 **Region:** Punjab | **Lineage:** [Street-Food]
 
 **Ingredients:**
-- 400 g dried chickpeas, soaked overnight (or 2 Ã 400 g cans)
+- 400 g dried chickpeas, soaked overnight (or 2 × 400 g cans)
 - 3 tbsp oil
 - 2 onions, finely chopped
 - 5 garlic cloves, minced
 - 1 in ginger, grated
-- 3 tomatoes, purÃ©ed
+- 3 tomatoes, puréed
 - 2 tsp coriander powder
 - 1 tsp cumin powder
 - 1 tsp Kashmiri chili powder
-- Â½ tsp turmeric
+- ½ tsp turmeric
 - 1 tsp garam masala
 - 1 tsp amchur
 - 2 tea bags (for colour, optional)
@@ -176,7 +176,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 ### Tandoori Chicken
 
-**Region:** Punjab | **Lineage:** [Mughal-Court â Street-Food]
+**Region:** Punjab | **Lineage:** [Mughal-Court → Street-Food]
 
 **Ingredients:**
 - 1 whole chicken, cut into 8 pieces, skin removed, deep-scored
@@ -194,9 +194,9 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 **Method:**
 1. Score chicken deeply. Rub with 1 tsp salt and 1 tbsp lemon juice. Rest 20 min.
-2. Mix all marinade ingredients. Coat chicken thoroughly into scores. Marinate 8â24 hours.
+2. Mix all marinade ingredients. Coat chicken thoroughly into scores. Marinate 8–24 hours.
 3. Bring to room temperature 30 min before cooking.
-4. Cook in very hot oven (240Â°C/460Â°F) or over charcoal grill 25â30 min, turning once, until charred at edges.
+4. Cook in very hot oven (240°C/460°F) or over charcoal grill 25–30 min, turning once, until charred at edges.
 5. Rest 5 min. Serve with mint chutney, naan, sliced onion, and lemon.
 
 *Historical note: The tandoor clay oven has been used in the Indus Valley region for over 5,000 years.*
@@ -217,13 +217,13 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 3 shallots, sliced
 - 4 garlic cloves, sliced
 - 1 in ginger, julienned
-- 2â3 green chilies, slit
+- 2–3 green chilies, slit
 - 2 tsp Kashmiri chili powder
 - 1 tsp coriander powder
-- Â½ tsp turmeric
+- ½ tsp turmeric
 - 200 ml thick coconut milk
 - 200 ml thin coconut milk
-- 3â4 pieces Kodampuli (Gambooge / kokum), soaked in warm water
+- 3–4 pieces Kodampuli (Gambooge / kokum), soaked in warm water
 - Salt to taste
 
 **Method:**
@@ -232,7 +232,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 3. Add thin coconut milk and Kodampuli with soaking water. Bring to simmer.
 4. Add fish, cook 8 min without stirring aggressively.
 5. Pour in thick coconut milk, simmer 3 min. Do not boil after adding thick milk.
-6. Rest 10 min before serving â flavour improves dramatically.
+6. Rest 10 min before serving — flavour improves dramatically.
 
 *Historical note: Kodampuli (Gambooge) is unique to Kerala coast and gives this curry its distinctive sour tang.*
 
@@ -240,7 +240,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 ### Prawn Moilee
 
-**Region:** Kerala | **Lineage:** [Maritime-Spice â Colonial-Fusion]
+**Region:** Kerala | **Lineage:** [Maritime-Spice → Colonial-Fusion]
 
 **Ingredients:**
 - 500 g large prawns, peeled and deveined
@@ -250,7 +250,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 4 garlic cloves, sliced
 - 1 in ginger, julienned
 - 3 green chilies, slit
-- Â½ tsp turmeric
+- ½ tsp turmeric
 - 400 ml thin coconut milk
 - 200 ml thick coconut milk
 - 2 sprigs curry leaves
@@ -270,7 +270,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 ### Appam (Lacy Rice Pancakes)
 
-**Region:** Kerala | **Lineage:** [Ancient-Vedic â Maritime-Spice]
+**Region:** Kerala | **Lineage:** [Ancient-Vedic → Maritime-Spice]
 
 **Ingredients:**
 - 300 g raw white rice, soaked 4 hours
@@ -278,15 +278,15 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 150 ml thin coconut milk
 - 1 tsp active dry yeast
 - 1 tsp sugar
-- Â½ tsp salt
+- ½ tsp salt
 
 **Method:**
 1. Dissolve yeast in 3 tbsp warm water with sugar. Rest 10 min until frothy.
 2. Blend raw and cooked rice together with coconut milk to smooth batter.
-3. Mix in yeast. Batter should be like thin crÃªpe batter.
-4. Ferment overnight in warm place (8â12 hours). Batter will bubble and rise.
+3. Mix in yeast. Batter should be like thin crêpe batter.
+4. Ferment overnight in warm place (8–12 hours). Batter will bubble and rise.
 5. Add salt. Heat an appam pan or small wok. Ladle batter, swirl quickly so edges coat the pan thinly while centre is thicker.
-6. Cover, cook 2â3 min until centre is set and edges are lacy and crisp.
+6. Cover, cook 2–3 min until centre is set and edges are lacy and crisp.
 
 *Historical note: Appam is thought to have been introduced to Kerala by early Syrian Christian settlers.*
 
@@ -307,13 +307,13 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 2 tsp black pepper, crushed
 - 1 tsp fennel seeds, lightly crushed
 - 1 tsp coriander powder
-- Â½ tsp turmeric
+- ½ tsp turmeric
 - 1 tsp garam masala
 - 2 tbsp coconut flakes (scraped fresh coconut preferred)
 - Salt to taste
 
 **Method:**
-1. Pressure cook beef with turmeric, Â½ tsp pepper, salt, and 100 ml water for 20 min until tender.
+1. Pressure cook beef with turmeric, ½ tsp pepper, salt, and 100 ml water for 20 min until tender.
 2. Heat coconut oil; fry coconut flakes until golden. Remove.
 3. In same oil fry shallots and onions until deep brown.
 4. Add garlic, ginger, curry leaves. Add fennel, pepper, coriander, garam masala.
@@ -326,20 +326,20 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 ### Sambar
 
-**Region:** Tamil Nadu / Kerala | **Lineage:** [Ancient-Vedic â Temple-Cuisine]
+**Region:** Tamil Nadu / Kerala | **Lineage:** [Ancient-Vedic → Temple-Cuisine]
 
 **Ingredients:**
 - 150 g toor dal (split pigeon peas)
 - 200 g tamarind pulp or 3 tbsp tamarind paste
 - 3 tbsp oil
 - 1 tsp mustard seeds
-- Â½ tsp cumin seeds
+- ½ tsp cumin seeds
 - 2 dried red chilies
 - 10 curry leaves
 - 1 onion, chopped
 - 2 tomatoes, chopped
 - 2 tbsp sambar powder
-- Â½ tsp turmeric
+- ½ tsp turmeric
 - 1 tsp sugar
 - Vegetables: drumstick (moringa pods), eggplant, pearl onions, carrot, potato
 - Salt to taste
@@ -360,7 +360,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 ### Hilsa Fish in Mustard Sauce (Shorshe Ilish)
 
-**Region:** Bengal | **Lineage:** [Ancient-Vedic â Maritime-Spice]
+**Region:** Bengal | **Lineage:** [Ancient-Vedic → Maritime-Spice]
 
 **Ingredients:**
 - 6 hilsa fish steaks (or substitute with shad or herring)
@@ -374,7 +374,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - Salt to taste
 
 **Method:**
-1. Soak both mustard seeds in water 30 min. Blend with green chilies, a little water, and Â½ tsp salt into a smooth paste.
+1. Soak both mustard seeds in water 30 min. Blend with green chilies, a little water, and ½ tsp salt into a smooth paste.
 2. Marinate fish with turmeric, salt, and 1 tbsp mustard oil, 20 min.
 3. Heat mustard oil until smoking; reduce heat. Add nigella seeds, slit chilies.
 4. Add fish; sear 2 min per side.
@@ -400,7 +400,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 4 cloves
 - 1 onion, sliced
 - 1 tsp ginger paste
-- Â½ tsp turmeric
+- ½ tsp turmeric
 - 1 tsp sugar
 - 2 tbsp grated coconut
 - Salt to taste
@@ -428,9 +428,9 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 **Method:**
 1. Bring milk to boil, then simmer until reduced to 750 ml, stirring constantly.
-2. Add jaggery and sugar; stir until dissolved. Cool to 43Â°C (just warm to touch).
+2. Add jaggery and sugar; stir until dissolved. Cool to 43°C (just warm to touch).
 3. Whisk in yogurt as starter. Pour into earthenware pots or small ceramic bowls.
-4. Set in warm place 6â8 hours or until firmly set.
+4. Set in warm place 6–8 hours or until firmly set.
 5. Refrigerate 4 hours before serving cold.
 
 *Historical note: Earthenware pots absorb excess moisture, creating mishti doi's characteristic thick, creamy texture.*
@@ -446,8 +446,8 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 4 tbsp white poppy seeds (posto), soaked 30 min
 - 3 tbsp mustard oil
 - 1 tsp nigella seeds
-- 2â3 green chilies, slit
-- Â½ tsp turmeric
+- 2–3 green chilies, slit
+- ½ tsp turmeric
 - Salt to taste
 
 **Method:**
@@ -467,10 +467,10 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 **Ingredients:**
 - 2 L full-fat milk
-- 3â4 tbsp lemon juice or white vinegar
+- 3–4 tbsp lemon juice or white vinegar
 - 1 L water
 - 400 g sugar
-- 2â3 cardamom pods
+- 2–3 cardamom pods
 - 1 tsp rose water
 
 **Method:**
@@ -490,7 +490,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 ### Dhokla
 
-**Region:** Gujarat | **Lineage:** [Ancient-Vedic â Temple-Cuisine]
+**Region:** Gujarat | **Lineage:** [Ancient-Vedic → Temple-Cuisine]
 
 **Ingredients:**
 - 200 g chana dal (Bengal gram), soaked overnight
@@ -498,7 +498,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 1 in ginger
 - 2 green chilies
 - 1 tsp turmeric
-- 1 tsp Eno fruit salt (or Â½ tsp baking soda)
+- 1 tsp Eno fruit salt (or ½ tsp baking soda)
 - 1 tbsp lemon juice
 - Salt to taste
 
@@ -514,12 +514,12 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 1. Blend soaked dal, yogurt, ginger, and chilies to a smooth, thick batter.
 2. Add turmeric, salt, lemon juice. Mix well.
 3. Grease a flat-bottomed steel container. Add Eno to batter, mix quickly, pour into container.
-4. Steam 20â22 min until a toothpick comes out clean.
+4. Steam 20–22 min until a toothpick comes out clean.
 5. Cool 5 min; cut into squares.
 6. Heat oil for tempering; splutter mustard seeds, curry leaves, chilies. Pour over dhokla.
 7. Drizzle sugar water over. Garnish with coriander and coconut.
 
-*Historical note: Dhokla's fermentation process predates modern food science â ancient Indians understood lactic acid fermentation.*
+*Historical note: Dhokla's fermentation process predates modern food science — ancient Indians understood lactic acid fermentation.*
 
 ---
 
@@ -549,7 +549,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 5. Add green chickpeas and muthiya last 10 min.
 6. Traditionally cooked inverted (ultu) underground; the slow cook is key.
 
-*Historical note: Undhiyu means "upside down" â it was traditionally cooked in clay pots inverted over a wood fire in a pit.*
+*Historical note: Undhiyu means "upside down" — it was traditionally cooked in clay pots inverted over a wood fire in a pit.*
 
 ---
 
@@ -561,7 +561,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 200 g toor dal
 - 1 tbsp oil
 - 1 tsp mustard seeds
-- Â½ tsp cumin seeds
+- ½ tsp cumin seeds
 - 1 tsp turmeric
 - 2 tbsp jaggery
 - 2 tbsp tamarind pulp
@@ -581,10 +581,10 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 1. Pressure cook dal until very soft. Mash well.
 2. Make tadka: heat oil, mustard seeds, cumin. Add to dal with remaining spices, jaggery, and tamarind. Simmer 10 min.
 3. Make dhokli dough. Roll thin (2 mm), cut into diamond shapes.
-4. Bring dal to rolling boil; drop dhokli pieces in. Cook 15â20 min until dhokli is cooked through.
+4. Bring dal to rolling boil; drop dhokli pieces in. Cook 15–20 min until dhokli is cooked through.
 5. Adjust consistency with water. Serve garnished with ghee and coriander.
 
-*Historical note: Dal dhokli is Gujarat's answer to pasta â a complete meal of dal and wheat in one pot.*
+*Historical note: Dal dhokli is Gujarat's answer to pasta — a complete meal of dal and wheat in one pot.*
 
 ---
 
@@ -592,7 +592,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 ### Chettinad Chicken Curry
 
-**Region:** Tamil Nadu | **Lineage:** [Ancient-Vedic â Maritime-Spice]
+**Region:** Tamil Nadu | **Lineage:** [Ancient-Vedic → Maritime-Spice]
 
 **Ingredients:**
 - 1 kg chicken, cut into pieces
@@ -615,7 +615,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 2 tbsp coriander seeds
 - 1 in ginger
 - 6 garlic cloves
-- Â½ tsp turmeric
+- ½ tsp turmeric
 
 **Method:**
 1. Dry roast all masala spices until fragrant. Cool, blend with ginger and garlic to paste.
@@ -641,7 +641,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 10 curry leaves
 - 2 dried red chilies
 - 1 tsp peppercorns, crushed
-- Â½ tsp turmeric
+- ½ tsp turmeric
 - 1 tsp rasam powder
 - 2 tomatoes, chopped
 - 1 tsp jaggery
@@ -672,14 +672,14 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 1 tbsp cashew nuts
 - 10 curry leaves
 - 1 in ginger, finely chopped
-- Â½ tsp turmeric
+- ½ tsp turmeric
 - Salt to taste
 
 **Method:**
 1. Dry roast dal until lightly golden. Mix with rice.
 2. Cook rice and dal together in 900 ml water until very soft and mushy (pressure cook 3 whistles).
 3. Heat ghee; fry cashews golden. Add cumin, pepper, curry leaves, ginger. Sizzle.
-4. Pour over rice-dal mixture, add turmeric and salt. Mix vigorously â texture should be porridge-like.
+4. Pour over rice-dal mixture, add turmeric and salt. Mix vigorously — texture should be porridge-like.
 5. Serve hot with coconut chutney and sambar.
 
 *Historical note: Pongal (the dish) is the centerpiece of Pongal (the harvest festival), offered to the sun god.*
@@ -696,7 +696,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 400 g whole wheat flour
 - 100 g semolina
 - 4 tbsp ghee
-- Â½ tsp salt
+- ½ tsp salt
 - Water to knead (stiff dough)
 
 **Dal (five-lentil):**
@@ -714,10 +714,10 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 3 tbsp ghee
 - 4 tbsp jaggery, grated
 - 2 tbsp assorted nuts, crushed
-- Â½ tsp cardamom
+- ½ tsp cardamom
 
 **Method:**
-1. Knead stiff dough for baati. Shape into 8 balls. Bake on fire embers 25 min, or in 200Â°C oven 40 min, turning halfway.
+1. Knead stiff dough for baati. Shape into 8 balls. Bake on fire embers 25 min, or in 200°C oven 40 min, turning halfway.
 2. Soak and boil all five dals until very soft. Make spiced tadka and combine.
 3. For churma: rub ghee into flour, add water to make stiff dough. Bake small pieces, then crumble and mix with jaggery, nuts, cardamom.
 4. Serve baati broken and dipped in generous ghee, alongside dal and churma.
@@ -739,7 +739,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 25 Mathania red chilies (or mix of Kashmiri chili and a few hot chilies), soaked and blended to paste
 - 200 g plain yogurt
 - 1 tsp coriander powder
-- Â½ tsp turmeric
+- ½ tsp turmeric
 - 1 tsp garam masala
 - Salt to taste
 
@@ -790,27 +790,27 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 6. Add thin coconut milk and tamarind. Simmer covered 25 min.
 7. Add thick coconut milk; simmer uncovered 10 min. Oil will float on surface when done.
 
-*Historical note: Sri Lankan curries use roasted (not raw) curry powder â the roasting creates a deeper, darker, smokier flavour.*
+*Historical note: Sri Lankan curries use roasted (not raw) curry powder — the roasting creates a deeper, darker, smokier flavour.*
 
 ---
 
 ### Hoppers (Appa)
 
-**Region:** Sri Lanka | **Lineage:** [Ancient-Vedic â Maritime-Spice]
+**Region:** Sri Lanka | **Lineage:** [Ancient-Vedic → Maritime-Spice]
 
 **Ingredients:**
 - 300 g raw white rice, soaked 4 hours
 - 200 ml thin coconut milk
 - 1 tsp active dry yeast
 - 1 tsp sugar
-- Â½ tsp salt
+- ½ tsp salt
 - 1 tbsp thick coconut milk per hopper (for egg hoppers)
 - 1 egg per hopper (for egg hoppers)
 
 **Method:**
 1. Blend soaked rice with coconut milk to very smooth batter.
 2. Dissolve yeast in 3 tbsp warm water with sugar. Add to batter.
-3. Ferment 8â12 hours. Batter should be frothy and slightly sour.
+3. Ferment 8–12 hours. Batter should be frothy and slightly sour.
 4. Add salt. Batter should coat back of spoon.
 5. Heat appam pan (curved wok); grease lightly. Pour ladle of batter, swirl.
 6. For egg hoppers: add 1 tbsp thick coconut milk in center, crack an egg, cover, cook until white is set but yolk still runny.
@@ -834,10 +834,10 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 **Method:**
 1. Mix all ingredients together.
 2. Using fingertips, massage and squeeze mixture so lime juice and salt penetrate the coconut.
-3. Taste and adjust â should be spicy, sour, salty, and deeply savoury.
+3. Taste and adjust — should be spicy, sour, salty, and deeply savoury.
 4. Serve fresh alongside rice, hoppers, or string hoppers.
 
-*Historical note: Maldive fish is Sri Lanka's answer to umami â sun-dried tuna that keeps for months without refrigeration.*
+*Historical note: Maldive fish is Sri Lanka's answer to umami — sun-dried tuna that keeps for months without refrigeration.*
 
 ---
 
@@ -845,7 +845,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 ### Karahi Gosht
 
-**Region:** Pakistan (KPK / Punjab) | **Lineage:** [Mughal-Court â Street-Food]
+**Region:** Pakistan (KPK / Punjab) | **Lineage:** [Mughal-Court → Street-Food]
 
 **Ingredients:**
 - 1 kg mutton or goat, bone-in, cut into pieces
@@ -885,7 +885,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 3 onions, thinly sliced
 - 2 tbsp ginger paste
 - 2 tbsp garlic paste
-- 2 tbsp nihari masala (or: 1 tsp each fennel, coriander, red chili; Â½ tsp each cumin, cardamom, clove, cinnamon, black pepper)
+- 2 tbsp nihari masala (or: 1 tsp each fennel, coriander, red chili; ½ tsp each cumin, cardamom, clove, cinnamon, black pepper)
 - 1 tbsp whole wheat flour
 - 1 tsp turmeric
 - 1.5 L water or bone broth
@@ -898,11 +898,11 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 2. Add ginger and garlic paste; cook 2 min.
 3. Add nihari masala and turmeric; cook 3 min.
 4. Add meat; brown on all sides.
-5. Add water or broth. Bring to boil, then reduce to very low heat. Simmer 4â5 hours (or pressure cook 1.5 hours) until meat falls off bone.
+5. Add water or broth. Bring to boil, then reduce to very low heat. Simmer 4–5 hours (or pressure cook 1.5 hours) until meat falls off bone.
 6. Mix flour with 3 tbsp water; stir into broth to thicken. Simmer 15 min.
 7. Serve in bowls topped with all garnishes. Eat with naan for breakfast.
 
-*Historical note: Nihari means "morning" â it was served at dawn to Mughal emperor Aurangzeb's court after Fajr prayers.*
+*Historical note: Nihari means "morning" — it was served at dawn to Mughal emperor Aurangzeb's court after Fajr prayers.*
 
 ---
 
@@ -934,7 +934,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 2. Separately pressure cook meat with ginger, garlic, chili, turmeric 30 min until falling apart.
 3. Shred meat finely. Blend wheat-dal mixture roughly (keep some texture).
 4. Combine meat and dal mixture. Heat oil in large pan; add cumin, then combined mixture.
-5. Cook on medium heat 30â40 min, stirring constantly to prevent sticking. Mixture should pull from sides.
+5. Cook on medium heat 30–40 min, stirring constantly to prevent sticking. Mixture should pull from sides.
 6. Add garam masala; adjust salt. Texture should be thick and porridge-like.
 7. Serve topped with all garnishes.
 
@@ -962,7 +962,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 2. Coat fish steaks thoroughly with paste. Let marinate 30 min.
 3. Place fish in a steel tiffin or covered bowl. Pour any remaining paste over.
 4. Steam in a pressure cooker or steamer 20 min.
-5. Serve immediately with rice â the steam intensifies the mustard aroma dramatically.
+5. Serve immediately with rice — the steam intensifies the mustard aroma dramatically.
 
 *Historical note: Bhapa (steaming) is a distinctly Bengali technique that preserves the delicate fat of hilsa without drying it out.*
 
@@ -970,7 +970,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 ### Beef Bhuna
 
-**Region:** Bangladesh | **Lineage:** [Mughal-Court â Street-Food]
+**Region:** Bangladesh | **Lineage:** [Mughal-Court → Street-Food]
 
 **Ingredients:**
 - 800 g beef, cut into chunks
@@ -990,12 +990,12 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 1. Marinate beef in yogurt and all spices (except garam masala) for 2 hours.
 2. Heat oil; fry onions until very deep brown, almost crispy.
 3. Add garlic and ginger paste; cook 3 min.
-4. Add marinated beef. Cook on high heat without water â bhuna means "dry frying."
-5. Stir frequently, allowing meat to sear in its own juices. Cook 45â60 min.
+4. Add marinated beef. Cook on high heat without water — bhuna means "dry frying."
+5. Stir frequently, allowing meat to sear in its own juices. Cook 45–60 min.
 6. Only add splashes of water if completely sticking. Final dish should be very dry with oil separating.
 7. Add garam masala. Serve with rice or paratha.
 
-*Historical note: Bhuna technique produces intense concentrated flavors by cooking out all the water â a patience-rewarding method.*
+*Historical note: Bhuna technique produces intense concentrated flavors by cooking out all the water — a patience-rewarding method.*
 
 ---
 
@@ -1008,7 +1008,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 **Ingredients (puris):**
 - 150 g semolina (suji)
 - 50 g all-purpose flour
-- Â½ tsp salt
+- ½ tsp salt
 - Oil for frying
 
 **Pani (spiced water):**
@@ -1031,11 +1031,11 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 **Method:**
 1. Knead semolina, flour, and salt with water into stiff dough. Rest 30 min covered.
 2. Roll very thin (2 mm). Cut into 3 cm circles.
-3. Deep fry in hot oil â they should puff immediately. Drain, cool, store airtight.
+3. Deep fry in hot oil — they should puff immediately. Drain, cool, store airtight.
 4. Blend all pani ingredients except water. Strain through sieve. Mix into cold water. Chill.
 5. To serve: poke hole in puri, fill with chickpea-potato mixture, dip into pani, eat whole in one bite.
 
-*Historical note: Pani puri's origin is debated between Uttar Pradesh (golgappa), Bengal (puchka), and Maharashtra â each region fiercely claims superiority.*
+*Historical note: Pani puri's origin is debated between Uttar Pradesh (golgappa), Bengal (puchka), and Maharashtra — each region fiercely claims superiority.*
 
 ---
 
@@ -1049,13 +1049,13 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 10 curry leaves
 - 2 green chilies, minced
 - 1 in ginger, grated
-- Â½ tsp turmeric
+- ½ tsp turmeric
 - 2 tbsp coriander
 - Salt to taste
 
 **Batter:**
 - 150 g chickpea flour (besan)
-- Â½ tsp turmeric
+- ½ tsp turmeric
 - Pinch of baking soda
 - Salt, water
 
@@ -1073,7 +1073,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 ### Masala Chai
 
-**Region:** India (pan-regional) | **Lineage:** [Colonial-Fusion â Street-Food]
+**Region:** India (pan-regional) | **Lineage:** [Colonial-Fusion → Street-Food]
 
 **Ingredients (2 cups):**
 - 400 ml water
@@ -1083,27 +1083,27 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 4 green cardamom pods, cracked
 - 2 cloves
 - 1 small cinnamon piece
-- Â½ in fresh ginger, sliced
+- ½ in fresh ginger, sliced
 - 2 peppercorns
 
 **Method:**
 1. Bring water to boil with all spices. Simmer 5 min to extract flavours.
 2. Add milk; bring back to boil.
-3. Add tea; simmer 2â3 min (strength to taste).
+3. Add tea; simmer 2–3 min (strength to taste).
 4. Add sugar; stir. Strain into cups through fine sieve.
 5. Pour back and forth between pot and cup (cutting) for frothy top.
 
-*Historical note: India became a tea-drinking nation because the British promoted chai to sell Assam plantation surplus â before that, chai was coffee country.*
+*Historical note: India became a tea-drinking nation because the British promoted chai to sell Assam plantation surplus — before that, chai was coffee country.*
 
 ---
 
 ### Samosa
 
-**Region:** India (pan-regional) | **Lineage:** [Mughal-Court â Street-Food]
+**Region:** India (pan-regional) | **Lineage:** [Mughal-Court → Street-Food]
 
 **Pastry:**
 - 300 g all-purpose flour
-- Â½ tsp carom seeds (ajwain)
+- ½ tsp carom seeds (ajwain)
 - 1 tsp salt
 - 5 tbsp oil
 - Cold water
@@ -1117,7 +1117,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 2 green chilies, minced
 - 1 tsp coriander powder
 - 1 tsp amchur
-- Â½ tsp garam masala
+- ½ tsp garam masala
 - Fresh coriander
 - Salt
 
@@ -1126,7 +1126,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 2. Cook filling: heat oil, cumin seeds, ginger, chilies. Add potatoes and peas with all spices. Cool.
 3. Divide dough into 10 balls. Roll each into 15 cm oval, cut in half. Form cone from semicircle, seal edge.
 4. Fill with 2 tbsp filling. Seal top edge tightly using flour-water paste.
-5. Deep fry on medium heat (170Â°C) 8â10 min until golden brown.
+5. Deep fry on medium heat (170°C) 8–10 min until golden brown.
 
 *Historical note: Samosas were introduced to the Indian subcontinent by Persian and Central Asian traders in the 10th century.*
 
@@ -1141,7 +1141,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 **Ingredients:**
 - 200 g milk powder (full-fat)
 - 3 tbsp all-purpose flour
-- Â½ tsp baking powder
+- ½ tsp baking powder
 - 3 tbsp ghee, melted
 - 5 tbsp milk (approximately)
 - Oil for frying
@@ -1153,9 +1153,9 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 1 tbsp rose water
 
 **Method:**
-1. Mix milk powder, flour, baking powder. Add ghee; mix. Add milk gradually â dough should be soft, not sticky. Rest 10 min.
+1. Mix milk powder, flour, baking powder. Add ghee; mix. Add milk gradually — dough should be soft, not sticky. Rest 10 min.
 2. Boil water and sugar until sugar dissolves; add cardamom and rose water. Keep warm.
-3. Shape dough into smooth balls (no cracks). Fry in medium-low oil (160Â°C) 8â10 min, rolling constantly, until deep golden.
+3. Shape dough into smooth balls (no cracks). Fry in medium-low oil (160°C) 8–10 min, rolling constantly, until deep golden.
 4. Drop immediately into warm syrup. Soak minimum 2 hours.
 5. Serve warm or at room temperature.
 
@@ -1165,7 +1165,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 ### Kheer (Rice Pudding)
 
-**Region:** India (pan-regional) | **Lineage:** [Ancient-Vedic â Temple-Cuisine]
+**Region:** India (pan-regional) | **Lineage:** [Ancient-Vedic → Temple-Cuisine]
 
 **Ingredients:**
 - 1.5 L full-fat milk
@@ -1183,18 +1183,18 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 3. Add saffron milk, cardamom, rose water. Stir.
 4. Serve warm or chilled, topped with nuts.
 
-*Historical note: Kheer is offered to Hindu deities as prasad (sacred food) â it appears in ancient Sanskrit texts as "kshirika."*
+*Historical note: Kheer is offered to Hindu deities as prasad (sacred food) — it appears in ancient Sanskrit texts as "kshirika."*
 
 ---
 
 ### Jalebi
 
-**Region:** India / Pakistan | **Lineage:** [Mughal-Court â Street-Food]
+**Region:** India / Pakistan | **Lineage:** [Mughal-Court → Street-Food]
 
 **Ingredients:**
 - 200 g all-purpose flour
 - 2 tbsp corn starch
-- Â½ tsp turmeric (for colour)
+- ½ tsp turmeric (for colour)
 - 1 tsp active dry yeast
 - 1 tsp sugar
 - 300 ml water (approximately)
@@ -1208,10 +1208,10 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 
 **Method:**
 1. Dissolve yeast in 3 tbsp warm water with sugar. Rest 10 min.
-2. Mix flour, cornstarch, turmeric. Add yeast and enough water for a smooth, thick batter. Ferment 8â12 hours.
+2. Mix flour, cornstarch, turmeric. Add yeast and enough water for a smooth, thick batter. Ferment 8–12 hours.
 3. Make syrup: boil sugar and water to one-thread consistency. Add cardamom and saffron. Keep warm.
 4. Fill batter into a squeeze bottle or piping bag with small nozzle.
-5. Squirt batter into hot oil (180Â°C) in concentric spirals, 5â7 cm diameter. Fry until crisp.
+5. Squirt batter into hot oil (180°C) in concentric spirals, 5–7 cm diameter. Fry until crisp.
 6. Drop immediately into warm syrup 30 seconds. Remove and serve hot.
 
 *Historical note: Jalebi is a South Asian version of Zalabia, an ancient Middle Eastern sweet described in 10th-century cookbooks.*
@@ -1268,7 +1268,7 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - Salt to taste
 
 **Method:**
-1. Marinate meat in yogurt, biryani masala, chili, turmeric, Â½ the fried onions, herbs, lemon, salt for 2 hours.
+1. Marinate meat in yogurt, biryani masala, chili, turmeric, ½ the fried onions, herbs, lemon, salt for 2 hours.
 2. Par-boil rice with whole spices and salt until 70% cooked. Drain.
 3. In heavy pot, layer: marinated meat, then rice, saffron milk, mint, coriander, remaining fried onions, ghee.
 4. Seal pot with tight lid or dough (dum). Cook on high 5 min, then lowest possible heat 40 min.
@@ -1296,23 +1296,23 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 **Method:**
 1. Dissolve yeast in warm water with sugar. Rest 10 min.
 2. Mix flour and salt. Add yeast water, yogurt, and oil. Knead into smooth, soft dough 10 min.
-3. Cover; rise in warm place 1â2 hours until doubled.
+3. Cover; rise in warm place 1–2 hours until doubled.
 4. Divide into 8 balls. Rest 10 min.
-5. Roll or stretch into teardrop shapes, 3â4 mm thick.
+5. Roll or stretch into teardrop shapes, 3–4 mm thick.
 6. Cook on very hot tawa (cast iron griddle) or under broiler. When bubbles form, flip; cook until charred spots appear.
 7. Brush immediately with butter. Serve hot.
 
-*Historical note: Naan was the flatbread of the Mughal elite â the word comes from Persian for "bread," reflecting its Central Asian roots.*
+*Historical note: Naan was the flatbread of the Mughal elite — the word comes from Persian for "bread," reflecting its Central Asian roots.*
 
 ---
 
 ### Paratha
 
-**Region:** Punjab | **Lineage:** [Ancient-Vedic â Street-Food]
+**Region:** Punjab | **Lineage:** [Ancient-Vedic → Street-Food]
 
 **Ingredients:**
 - 300 g whole wheat flour (atta)
-- Â½ tsp salt
+- ½ tsp salt
 - 2 tbsp oil
 - Warm water to knead
 - Ghee or oil for cooking
@@ -1341,8 +1341,8 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 - 1 garlic clove
 - 1 in ginger
 - 2 tbsp lemon juice
-- Â½ tsp cumin powder
-- Â½ tsp black salt
+- ½ tsp cumin powder
+- ½ tsp black salt
 - Salt to taste
 - Water as needed
 
@@ -1350,21 +1350,21 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 1. Blend all ingredients to smooth paste, using minimum water.
 2. Adjust salt and lemon. Store refrigerated up to 5 days.
 
-*Historical note: Fresh chutneys (chatni = licked) pre-date recorded history in South Asia â a living culinary tradition.*
+*Historical note: Fresh chutneys (chatni = licked) pre-date recorded history in South Asia — a living culinary tradition.*
 
 ---
 
 ### Tamarind Chutney
 
-**Region:** India (pan-regional) | **Lineage:** [Ancient-Vedic â Street-Food]
+**Region:** India (pan-regional) | **Lineage:** [Ancient-Vedic → Street-Food]
 
 **Ingredients:**
 - 100 g tamarind block, soaked in 400 ml warm water
 - 100 g jaggery, grated
 - 1 tsp cumin powder (roasted)
 - 1 tsp Kashmiri chili powder
-- Â½ tsp ginger powder
-- Â½ tsp black salt
+- ½ tsp ginger powder
+- ½ tsp black salt
 - Salt to taste
 
 **Method:**
@@ -1383,20 +1383,20 @@ Lineage tags: [Ancient-Vedic] [Mughal-Court] [Colonial-Fusion] [Street-Food] [Te
 **Ingredients:**
 - 400 g plain yogurt, whisked smooth
 - 1 cucumber, grated and squeezed dry
-- Â½ tsp cumin powder (roasted)
-- Â½ tsp chaat masala
+- ½ tsp cumin powder (roasted)
+- ½ tsp chaat masala
 - Fresh coriander and mint
 - Salt to taste
 - Optional: pomegranate seeds
 
 **Method:**
-1. Whisk yogurt with Â½ tsp salt until smooth.
+1. Whisk yogurt with ½ tsp salt until smooth.
 2. Add cucumber, cumin, and chaat masala. Mix.
 3. Top with coriander, mint, and pomegranate.
 4. Chill 30 min before serving alongside biryani or curries.
 
-*Historical note: Raita's cooling function is literal â yogurt's probiotics and coolness physiologically counteract chili heat.*
+*Historical note: Raita's cooling function is literal — yogurt's probiotics and coolness physiologically counteract chili heat.*
 
 ---
 
-*End of South Asian Recipes â 65+ recipes covering Punjab, Kerala, Bengal, Gujarat, Tamil Nadu, Rajasthan, Sri Lanka, Bangladesh, and Pakistan.*
+*End of South Asian Recipes — 65+ recipes covering Punjab, Kerala, Bengal, Gujarat, Tamil Nadu, Rajasthan, Sri Lanka, Bangladesh, and Pakistan.*

@@ -1,10 +1,10 @@
 # Darts
 
-*The Observatory Almanac â Universal Rulebook*
+*The Observatory Almanac — Universal Rulebook*
 
 ---
 
-Darts is a precision throwing sport requiring the player to stand at a fixed distance and hurl small pointed projectiles at a circular target board divided into numbered scoring sectors. Originating in English pubs in the nineteenth century, darts evolved into a globally competitive sport with professional tours, televised world championships, and a rich culture of league play. The game rewards mathematical fluency as much as throwing accuracy â a player who cannot calculate checkouts under pressure will lose to one who can, even if the throwing mechanics are equal.
+Darts is a precision throwing sport requiring the player to stand at a fixed distance and hurl small pointed projectiles at a circular target board divided into numbered scoring sectors. Originating in English pubs in the nineteenth century, darts evolved into a globally competitive sport with professional tours, televised world championships, and a rich culture of league play. The game rewards mathematical fluency as much as throwing accuracy — a player who cannot calculate checkouts under pressure will lose to one who can, even if the throwing mechanics are equal.
 
 ---
 
@@ -12,25 +12,25 @@ Darts is a precision throwing sport requiring the player to stand at a fixed dis
 
 ```
                      20
-               âââââââ´ââââââ
-           18  â     20     â  5
-         âââââââ¤   âââââ   âââââââ
-     12  â  18 â  DâBullâ  â  5  â 9
-    ââââââ¤     â   âââââ   â     ââââââ
-    â 12 â   âââ´ââââââââââââ´ââ   â 9  â
-    â    â   â  outer bull   â   â    â
- 11 â¤    â   â   inner bull  â   â    â 14
-    â    â   âââ¬ââââââââââââ¬ââ   â    â
-    ââââââ¤     â           â     ââââââ
-     8   â  11 â           â 14  â 16
-         âââââââ¤           âââââââ
-           7   â     3     â  17
-               âââââââ¬ââââââ
+               ┌─────┴─────┐
+           18  │     20     │  5
+         ┌─────┤   ┌───┐   ├─────┐
+     12  │  18 │  D│Bull│  │  5  │ 9
+    ┌────┤     │   └───┘   │     ├────┐
+    │ 12 │   ┌─┴───────────┴─┐   │ 9  │
+    │    │   │  outer bull   │   │    │
+ 11 ┤    │   │   inner bull  │   │    ├ 14
+    │    │   └─┬───────────┬─┘   │    │
+    └────┤     │           │     ├────┘
+     8   │  11 │           │ 14  │ 16
+         └─────┤           ├─────┘
+           7   │     3     │  17
+               └─────┬─────┘
                       6
 ```
 
 **Full numbered layout (clockwise from top):**
-20 â 1 â 18 â 4 â 13 â 6 â 10 â 15 â 2 â 17 â 3 â 19 â 7 â 16 â 8 â 11 â 14 â 9 â 12 â 5
+20 — 1 — 18 — 4 — 13 — 6 — 10 — 15 — 2 — 17 — 3 — 19 — 7 — 16 — 8 — 11 — 14 — 9 — 12 — 5
 
 This precise arrangement is not random: high-value numbers are flanked by low-value numbers (20 is flanked by 1 and 5), penalizing inaccuracy.
 
@@ -38,9 +38,9 @@ This precise arrangement is not random: high-value numbers are flanked by low-va
 
 | Zone | Description | Score |
 | --- | --- | --- |
-| Single segment | Main body of a number sector | Face value (1â20) |
-| Double ring | Narrow outer ring | 2Ã face value |
-| Triple ring | Narrow inner ring | 3Ã face value |
+| Single segment | Main body of a number sector | Face value (1–20) |
+| Double ring | Narrow outer ring | 2× face value |
+| Triple ring | Narrow inner ring | 3× face value |
 | Outer bull (25) | Green ring around bull | 25 points |
 | Inner bull / bullseye | Red center | 50 points |
 
@@ -49,9 +49,9 @@ This precise arrangement is not random: high-value numbers are flanked by low-va
 
 ### The Throw Line (Oche)
 
-The oche (pronounced "ockey") is the throw line. Players must stand behind it or directly over it â no part of the throwing foot may extend past the front edge.
+The oche (pronounced "ockey") is the throw line. Players must stand behind it or directly over it — no part of the throwing foot may extend past the front edge.
 
-**Distance:** 7 feet 9Â¼ inches (2.37 meters) from the face of the board to the oche.
+**Distance:** 7 feet 9¼ inches (2.37 meters) from the face of the board to the oche.
 **Board height:** The center of the bullseye is exactly 5 feet 8 inches (1.73 meters) from the floor.
 
 These dimensions are standardized by the British Darts Organisation (BDO) and World Darts Federation (WDF).
@@ -62,7 +62,7 @@ These dimensions are standardized by the British Darts Organisation (BDO) and Wo
 
 ### Grip
 
-The dart is held between the thumb and two or three fingers. The grip should be firm but not tense â squeezing the dart causes muscle fatigue and inconsistency. Common grips:
+The dart is held between the thumb and two or three fingers. The grip should be firm but not tense — squeezing the dart causes muscle fatigue and inconsistency. Common grips:
 
 * **Two-finger grip:** Thumb and index finger. Minimal contact, best for light darts.
 * **Three-finger grip:** Thumb, index, and middle finger. Most common in recreational and professional play.
@@ -81,9 +81,9 @@ Whatever stance is chosen, the key is a stable, repeatable base. The throwing sh
 ### The Throw
 
 1. **Raise** the dart to eye level, aligning it with the target.
-2. **Draw back** â retract the forearm at the elbow while keeping the upper arm stable.
-3. **Release** â extend the forearm forward in a smooth arc, releasing the dart at the same point in every throw.
-4. **Follow through** â extend the arm and fingers fully toward the target after release.
+2. **Draw back** — retract the forearm at the elbow while keeping the upper arm stable.
+3. **Release** — extend the forearm forward in a smooth arc, releasing the dart at the same point in every throw.
+4. **Follow through** — extend the arm and fingers fully toward the target after release.
 
 The elbow acts as a pivot point. The wrist adds final acceleration and should snap forward at release. Inconsistency in the elbow's vertical plane causes horizontal grouping errors; inconsistency in force causes vertical spread.
 
@@ -111,7 +111,7 @@ If a player's remaining score would go below zero, or reach exactly 1 (which is 
 - All three darts' scores for that turn are void.
 - The player's score reverts to what it was at the start of that turn.
 
-**Example:** Player has 32 remaining. Needs double 16. Throws triple 16 (48) instead â score would go to -16. Bust. Reverts to 32.
+**Example:** Player has 32 remaining. Needs double 16. Throws triple 16 (48) instead — score would go to -16. Bust. Reverts to 32.
 
 **Example:** Player has 3 remaining. Hits single 2 (leaves 1). Cannot finish on 1. Remaining darts are thrown but cannot score. Reverts to 3 at start of next turn.
 
@@ -166,7 +166,7 @@ A faster version using 301 as the starting total. Often played with double-in as
 
 ### Overview
 
-Cricket is a darts game for two players or teams in which specific numbers are "closed out" by hitting them three times. Once a player has closed a number (hit it three times), they may score points on it until the opponent also closes it. The player or team with the higher score when all numbers are closed wins â provided they have closed all required numbers.
+Cricket is a darts game for two players or teams in which specific numbers are "closed out" by hitting them three times. Once a player has closed a number (hit it three times), they may score points on it until the opponent also closes it. The player or team with the higher score when all numbers are closed wins — provided they have closed all required numbers.
 
 ### Numbers in Play
 
@@ -181,7 +181,7 @@ To close a number, a player must accumulate **3 marks** on it. A mark is:
 - A double hit = 2 marks
 - A triple hit = 3 marks (closes in one dart)
 
-Once a player has 3 marks on a number, it is "open" for that player â additional hits score points. The number is fully "closed" (dead) when **both players have 3 marks on it.** Once closed, neither player scores on it.
+Once a player has 3 marks on a number, it is "open" for that player — additional hits score points. The number is fully "closed" (dead) when **both players have 3 marks on it.** Once closed, neither player scores on it.
 
 ### Scoring
 
@@ -238,7 +238,7 @@ Around the Board (also called Around the Clock, Around the World) is a darts pra
 
 ### Practice Applications
 
-Around the Board is an excellent practice routine. Tracking completion time (total darts thrown to complete the circuit) is a reliable skill metric. Strong players complete the circuit in 20â30 darts; beginners may use 60 or more.
+Around the Board is an excellent practice routine. Tracking completion time (total darts thrown to complete the circuit) is a reliable skill metric. Strong players complete the circuit in 20–30 darts; beginners may use 60 or more.
 
 ---
 
@@ -252,6 +252,6 @@ Around the Board is an excellent practice routine. Tracking completion time (tot
 
 ---
 
-*The Observatory Almanac â rules compiled from World Darts Federation (WDF) and British Darts Organisation (BDO) standards, with reference to Professional Darts Corporation (PDC) formats.*
+*The Observatory Almanac — rules compiled from World Darts Federation (WDF) and British Darts Organisation (BDO) standards, with reference to Professional Darts Corporation (PDC) formats.*
 
-### ð¯ Scorecard
+### 🎯 Scorecard

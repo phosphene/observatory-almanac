@@ -1,8 +1,8 @@
 # Logical Fallacies
 
-*The Observatory Almanac â Section 19*
+*The Observatory Almanac — Section 19*
 
-A logical fallacy is an error in reasoning â an argument that seems valid but isn't. Recognizing them helps you think more clearly, argue more effectively, and resist manipulation.
+A logical fallacy is an error in reasoning — an argument that seems valid but isn't. Recognizing them helps you think more clearly, argue more effectively, and resist manipulation.
 
 **Format for each entry:**
 - **Name** / Also Known As
@@ -19,7 +19,7 @@ A logical fallacy is an error in reasoning â an argument that seems valid b
 
 **Definition:** Attacking the person making the argument rather than the argument itself.
 
-**Example:** "You shouldn't listen to Dr. [X]'s advice on nutrition â they're clearly overweight."
+**Example:** "You shouldn't listen to Dr. [X]'s advice on nutrition — they're clearly overweight."
 
 **Why it's persuasive:** We naturally evaluate sources, and trustworthiness of a person does matter *sometimes*. It feels like relevant information even when it isn't.
 
@@ -31,7 +31,7 @@ A logical fallacy is an error in reasoning â an argument that seems valid b
 
 *Also known as: Misrepresentation*
 
-**Definition:** Misrepresenting someone's argument to make it easier to attack â arguing against a distorted version of what they actually said.
+**Definition:** Misrepresenting someone's argument to make it easier to attack — arguing against a distorted version of what they actually said.
 
 **Example:** Person A: "I think we should increase the education budget." Person B: "So you think throwing money at problems is always the solution?"
 
@@ -47,9 +47,9 @@ A logical fallacy is an error in reasoning â an argument that seems valid b
 
 **Definition:** Claiming something is true because an authority figure says so, without evaluating the evidence.
 
-**Example:** "This diet must work â a celebrity trainer endorsed it."
+**Example:** "This diet must work — a celebrity trainer endorsed it."
 
-**Note:** Citing genuine experts *is* reasonable â the fallacy occurs when (a) the authority isn't expert in this specific domain, (b) there's significant expert disagreement being ignored, or (c) the authority is used as a substitute for evidence rather than a supplement.
+**Note:** Citing genuine experts *is* reasonable — the fallacy occurs when (a) the authority isn't expert in this specific domain, (b) there's significant expert disagreement being ignored, or (c) the authority is used as a substitute for evidence rather than a supplement.
 
 **Why it's persuasive:** We correctly use expert consensus as evidence, and distinguishing genuine expertise from inappropriate appeal is cognitively demanding.
 
@@ -79,7 +79,7 @@ A logical fallacy is an error in reasoning â an argument that seems valid b
 
 **Example:** "If we allow same-day marijuana sales, next they'll be selling heroin at elementary schools."
 
-**Note:** Not all slippery slope arguments are fallacious â sometimes there really are incremental effects. The fallacy occurs when the chain of causation is assumed rather than demonstrated.
+**Note:** Not all slippery slope arguments are fallacious — sometimes there really are incremental effects. The fallacy occurs when the chain of causation is assumed rather than demonstrated.
 
 **Why it's persuasive:** Fear of extreme outcomes is visceral. The claimed chain feels intuitive even without evidence.
 
@@ -109,7 +109,7 @@ A logical fallacy is an error in reasoning â an argument that seems valid b
 
 **Example:** "You say I shouldn't smoke, but you smoked for 20 years."
 
-**Why it's persuasive:** Hypocrisy is genuinely relevant to trust and credibility. The problem is that hypocrisy doesn't make a claim false â a hypocritical doctor can still give correct medical advice.
+**Why it's persuasive:** Hypocrisy is genuinely relevant to trust and credibility. The problem is that hypocrisy doesn't make a claim false — a hypocritical doctor can still give correct medical advice.
 
 **How to counter it:** "Whether I've been consistent is a separate question. The argument stands on its own merits regardless."
 
@@ -121,9 +121,9 @@ A logical fallacy is an error in reasoning â an argument that seems valid b
 
 **Definition:** Arguing something is true or correct because many people believe it.
 
-**Example:** "Millions of people have tried this supplement â it must work."
+**Example:** "Millions of people have tried this supplement — it must work."
 
-**Why it's persuasive:** Social proof is a powerful cognitive shortcut. When something is widely accepted, it's often *because* it's true â so the heuristic usually works, which makes the exceptions hard to catch.
+**Why it's persuasive:** Social proof is a powerful cognitive shortcut. When something is widely accepted, it's often *because* it's true — so the heuristic usually works, which makes the exceptions hard to catch.
 
 **How to counter it:** "Popularity isn't evidence of truth. What's the actual evidence? Lots of people once believed the earth was flat."
 
@@ -137,7 +137,7 @@ A logical fallacy is an error in reasoning â an argument that seems valid b
 
 **Example:** (Showing a sad child) "Think of the children. You must support this policy."
 
-**Note:** Emotions are legitimate in argumentation â empathy and values matter. The fallacy occurs when emotion *replaces* evidence rather than accompanying it.
+**Note:** Emotions are legitimate in argumentation — empathy and values matter. The fallacy occurs when emotion *replaces* evidence rather than accompanying it.
 
 **Why it's persuasive:** Emotion is processed faster and more powerfully than logic. We feel before we think.
 
@@ -165,7 +165,7 @@ A logical fallacy is an error in reasoning â an argument that seems valid b
 
 **Definition:** Drawing a broad conclusion from an insufficient number of examples.
 
-**Example:** "I've met three rude people from that city â everyone there is unfriendly."
+**Example:** "I've met three rude people from that city — everyone there is unfriendly."
 
 **Why it's persuasive:** Vivid personal experience feels convincing. We're wired to learn from individual cases, which works fine for immediate environments but fails at scale.
 
@@ -224,7 +224,7 @@ A logical fallacy is an error in reasoning â an argument that seems valid b
 **Example:** "No true [group member] would do that." (Used to dismiss counterexamples.)
 Person A: "Some Christians support [policy]." Person B: "No *true* Christian would."
 
-**Why it's persuasive:** It's unfalsifiable â any counterexample can be excluded by definition. It feels like clarification.
+**Why it's persuasive:** It's unfalsifiable — any counterexample can be excluded by definition. It feels like clarification.
 
 **How to counter it:** "You're changing the definition of the group to exclude the counterexample. That makes your claim unfalsifiable."
 
@@ -250,9 +250,9 @@ Person A: "Some Christians support [policy]." Person B: "No *true* Christian wou
 
 **Definition:** Arguing that something is good because it's natural, or bad because it's unnatural.
 
-**Example:** "This supplement is safe â it's completely natural!" (Arsenic and botulinum toxin are natural too.)
+**Example:** "This supplement is safe — it's completely natural!" (Arsenic and botulinum toxin are natural too.)
 
-**Why it's persuasive:** Nature carries associations of health, purity, and balance â associations that sometimes have merit but are not universally true.
+**Why it's persuasive:** Nature carries associations of health, purity, and balance — associations that sometimes have merit but are not universally true.
 
 **How to counter it:** "Natural and synthetic are categories, not value judgments. Many natural things are harmful, many synthetic things are beneficial. What's the actual evidence of safety/efficacy?"
 
@@ -296,7 +296,7 @@ Person A: "Some Christians support [policy]." Person B: "No *true* Christian wou
 
 **Why it's persuasive:** Demanding disproof is an effective rhetorical move. Absence of disproof feels like evidence.
 
-**How to counter it:** "The burden of proof lies with the person making the claim. I don't need to disprove it â you need to prove it. What evidence do you have?"
+**How to counter it:** "The burden of proof lies with the person making the claim. I don't need to disprove it — you need to prove it. What evidence do you have?"
 
 ---
 
@@ -318,7 +318,7 @@ Person A: "Some Christians support [policy]." Person B: "No *true* Christian wou
 
 *Also known as: Data dredging, cherry-picking*
 
-**Definition:** Selecting data that supports a conclusion while ignoring contradictory data â the reverse of proper hypothesis testing (like shooting at a barn and drawing bullseyes around where the bullets hit).
+**Definition:** Selecting data that supports a conclusion while ignoring contradictory data — the reverse of proper hypothesis testing (like shooting at a barn and drawing bullseyes around where the bullets hit).
 
 **Example:** "This stock analyst correctly predicted 7 market movements this year!" (They made 30 predictions and you're hearing about the 7 hits.)
 
@@ -334,7 +334,7 @@ Person A: "Some Christians support [policy]." Person B: "No *true* Christian wou
 
 **Definition:** Using a personal story or single instance as evidence for a broad claim.
 
-**Example:** "My grandmother smoked until 95 and was perfectly healthy â smoking can't be that bad."
+**Example:** "My grandmother smoked until 95 and was perfectly healthy — smoking can't be that bad."
 
 **Why it's persuasive:** Personal stories are vivid, emotionally resonant, and immediately available. They feel more real than abstract statistics.
 
@@ -362,7 +362,7 @@ Person A: "Some Christians support [policy]." Person B: "No *true* Christian wou
 
 **Definition:** Believing that past independent random events influence future probabilities.
 
-**Example:** "It's been heads 8 times in a row â it has to be tails next." (Each coin flip is independent.)
+**Example:** "It's been heads 8 times in a row — it has to be tails next." (Each coin flip is independent.)
 
 **Why it's persuasive:** Our brains are expectation machines that seek balance and patterns. Random streaks feel unsustainable.
 
@@ -376,7 +376,7 @@ Person A: "Some Christians support [policy]." Person B: "No *true* Christian wou
 
 **Definition:** Arguing that something is good or correct simply because it's old or traditional.
 
-**Example:** "Marriage has always been defined this way â we shouldn't change it."
+**Example:** "Marriage has always been defined this way — we shouldn't change it."
 
 **Why it's persuasive:** Tradition often encodes tested wisdom. It's not always wrong to value it. The fallacy occurs when tradition is used as a substitute for evaluation.
 
@@ -388,7 +388,7 @@ Person A: "Some Christians support [policy]." Person B: "No *true* Christian wou
 
 *Also known as: Origin fallacy*
 
-**Definition:** Evaluating an argument by its source rather than its content â either dismissing good arguments because of their origin or accepting bad ones for the same reason.
+**Definition:** Evaluating an argument by its source rather than its content — either dismissing good arguments because of their origin or accepting bad ones for the same reason.
 
 **Example:** "That idea came from a political opponent, so it must be wrong." / "That came from our side, so it must be right."
 
@@ -419,11 +419,11 @@ Person A: "Some Christians support [policy]." Person B: "No *true* Christian wou
 
 **Definition:** People with limited knowledge in a domain tend to overestimate their competence, while experts tend to underestimate theirs.
 
-**The curve:** Novices gain a little knowledge â peak confidence â learn more â confidence crashes ("I don't know anything") â continue learning â calibrated expertise.
+**The curve:** Novices gain a little knowledge → peak confidence → learn more → confidence crashes ("I don't know anything") → continue learning → calibrated expertise.
 
 **Example:** The person who spent a weekend reading about vaccines and is now certain the medical establishment is wrong. The expert immunologist who hedges everything with "the evidence suggests" and lists caveats.
 
-**Why it's relevant:** Overconfident novices sound more certain than genuine experts. Certainty â  correctness.
+**Why it's relevant:** Overconfident novices sound more certain than genuine experts. Certainty ≠ correctness.
 
 **How to counter it:** Look for calibrated uncertainty in experts ("the evidence suggests," "in most cases"). Notice uncaveated certainty in non-experts as a red flag, not a sign of confidence.
 
@@ -431,14 +431,14 @@ Person A: "Some Christians support [policy]." Person B: "No *true* Christian wou
 
 ## 30. Confirmation Bias
 
-*(Cognitive bias, not strictly a fallacy â but essential)*
+*(Cognitive bias, not strictly a fallacy — but essential)*
 *Also known as: Myside bias*
 
 **Definition:** The tendency to seek out, interpret, and remember information in ways that confirm existing beliefs while ignoring contradictory evidence.
 
 **Example:** Reading only news sources that agree with your political views. Remembering the predictions you got right and forgetting the ones you got wrong.
 
-**Why it's universal:** It's not a failure of intelligence â it's a feature of how all human brains process information. No one is immune.
+**Why it's universal:** It's not a failure of intelligence — it's a feature of how all human brains process information. No one is immune.
 
 **How to counter it:**
 1. Actively seek out the strongest version of the opposing view
@@ -485,6 +485,6 @@ Person A: "Some Christians support [policy]." Person B: "No *true* Christian wou
 
 ---
 
-*Knowing these fallacies doesn't make you right â it makes you better at figuring out what's right. Use them to evaluate arguments (including your own) not to win debates.*
+*Knowing these fallacies doesn't make you right — it makes you better at figuring out what's right. Use them to evaluate arguments (including your own) not to win debates.*
 
 ---

@@ -2,7 +2,7 @@
 
 ## 50 Lessons in Legal & Contractual Navigation
 
-*You will sign thousands of documents in your lifetime. Most people sign without reading. The ones who read â and understand â live materially better lives.*
+*You will sign thousands of documents in your lifetime. Most people sign without reading. The ones who read — and understand — live materially better lives.*
 
 ---
 
@@ -10,7 +10,7 @@
 
 ### Lesson 1: What a Lease Actually Is
 
-A lease is a legally binding contract that transfers the right to occupy property in exchange for rent. Unlike a handshake deal, it governs what happens when things go wrong: who pays for what, who can be removed, and under what conditions. Before signing, understand that you are not doing the landlord a favor â you are entering a mutual agreement with legal weight on both sides.
+A lease is a legally binding contract that transfers the right to occupy property in exchange for rent. Unlike a handshake deal, it governs what happens when things go wrong: who pays for what, who can be removed, and under what conditions. Before signing, understand that you are not doing the landlord a favor — you are entering a mutual agreement with legal weight on both sides.
 
 **What to confirm before you sign:**
 - Term (start date, end date, renewal terms)
@@ -23,7 +23,7 @@ A lease is a legally binding contract that transfers the right to occupy propert
 
 ### Lesson 2: The Clauses You Must Redline
 
-"Redlining" means marking up a contract with proposed changes. Many people don't know this is allowed â and many landlords will accept reasonable amendments.
+"Redlining" means marking up a contract with proposed changes. Many people don't know this is allowed — and many landlords will accept reasonable amendments.
 
 **Clauses to push back on:**
 
@@ -42,7 +42,7 @@ Security deposits are the most common source of tenant-landlord disputes. Here's
 
 **At move-in:**
 1. Do a written walk-through with the landlord *before* your belongings enter
-2. Photograph every room from multiple angles â walls, floors, fixtures, appliances
+2. Photograph every room from multiple angles — walls, floors, fixtures, appliances
 3. Note every existing defect in writing; have landlord co-sign
 4. Keep a copy of the checklist (never give landlord your only copy)
 5. Note the date and time on all photos (phone timestamps work)
@@ -50,33 +50,33 @@ Security deposits are the most common source of tenant-landlord disputes. Here's
 **During tenancy:**
 - Report repairs in writing (text or email creates a paper trail)
 - Keep copies of all communications
-- Never let the landlord verbally agree to anything â get it in writing
+- Never let the landlord verbally agree to anything — get it in writing
 
 **At move-out:**
-- Request a pre-move-out inspection (required in some states â California, for example)
+- Request a pre-move-out inspection (required in some states — California, for example)
 - Leave the unit cleaner than you found it
 - Photograph again using the same angles as move-in
 - Get the landlord's forwarding-address receipt for your deposit
 
-**Know the deadlines:** Most states require landlords to return deposits within 14â30 days. If they miss the deadline or improperly withhold, you may be entitled to 2â3x the deposit amount plus attorney fees.
+**Know the deadlines:** Most states require landlords to return deposits within 14–30 days. If they miss the deadline or improperly withhold, you may be entitled to 2–3x the deposit amount plus attorney fees.
 
 ### Lesson 4: Red Flags in a Lease
 
 Some clauses are so problematic they should make you walk away, or at minimum consult an attorney:
 
-ð© **"Tenant waives all rights to..."** â Courts often void these, but you shouldn't start a relationship that way.
+🚩 **"Tenant waives all rights to..."** — Courts often void these, but you shouldn't start a relationship that way.
 
-ð© **No security deposit receipt** â Required by law in many states. Absence suggests disorganization or bad faith.
+🚩 **No security deposit receipt** — Required by law in many states. Absence suggests disorganization or bad faith.
 
-ð© **Landlord can terminate for any reason** â If you have an at-will lease with no tenant protections written in, you have no stability.
+🚩 **Landlord can terminate for any reason** — If you have an at-will lease with no tenant protections written in, you have no stability.
 
-ð© **Rent can increase at any time** â Fixed-term leases should have fixed rent; get any increases formalized.
+🚩 **Rent can increase at any time** — Fixed-term leases should have fixed rent; get any increases formalized.
 
-ð© **Inspection rights with no notice** â Illegal in most U.S. jurisdictions. Landlords need 24â48 hours notice except in true emergencies.
+🚩 **Inspection rights with no notice** — Illegal in most U.S. jurisdictions. Landlords need 24–48 hours notice except in true emergencies.
 
-ð© **Tenant responsible for structural repairs** â This is landlord territory in virtually every jurisdiction.
+🚩 **Tenant responsible for structural repairs** — This is landlord territory in virtually every jurisdiction.
 
-ð© **No written lease at all** â You have rights under oral leases, but enforcing them is much harder.
+🚩 **No written lease at all** — You have rights under oral leases, but enforcing them is much harder.
 
 ### Lesson 5: Know Your State's Tenant Rights
 
@@ -99,7 +99,7 @@ Tenant rights vary dramatically by state and city. Some cities (New York, San Fr
 
 **Never give a number first.** Whoever names a number first in salary negotiation anchors the conversation, usually to their disadvantage. If pressed, use deflection:
 
-*"I'd love to understand the full scope of the role and compensation package before discussing numbers â can you share the budgeted range for this position?"*
+*"I'd love to understand the full scope of the role and compensation package before discussing numbers — can you share the budgeted range for this position?"*
 
 Most employers now have to disclose ranges by law in many states (Colorado, California, New York, Washington). Use those disclosures.
 
@@ -107,13 +107,13 @@ Most employers now have to disclose ranges by law in many states (Colorado, Cali
 
 Walk in knowing what the market pays. Use multiple sources:
 
-* **Glassdoor.com** â Self-reported salaries, varies in accuracy
-* **Levels.fyi** â Excellent for tech roles
-* **Bureau of Labor Statistics (bls.gov)** â Official occupational wage data
-* **LinkedIn Salary** â Requires Premium or data sharing
-* **H-1B Visa database** â For technical roles, this public database shows what employers actually pay foreign workers; highly accurate
-* **Industry associations** â Many publish annual compensation surveys
-* **Recruiters** â Have conversations with recruiters; they know the market
+* **Glassdoor.com** — Self-reported salaries, varies in accuracy
+* **Levels.fyi** — Excellent for tech roles
+* **Bureau of Labor Statistics (bls.gov)** — Official occupational wage data
+* **LinkedIn Salary** — Requires Premium or data sharing
+* **H-1B Visa database** — For technical roles, this public database shows what employers actually pay foreign workers; highly accurate
+* **Industry associations** — Many publish annual compensation surveys
+* **Recruiters** — Have conversations with recruiters; they know the market
 
 Build a range with three numbers in mind:
 - **Floor:** Below this, you decline
@@ -124,19 +124,19 @@ Build a range with three numbers in mind:
 
 When you get an offer:
 
-**Step 1 â Express enthusiasm, don't accept:**
+**Step 1 — Express enthusiasm, don't accept:**
 *"I'm really excited about this role and the team. I'd like to take a day to review the offer. Can I get back to you by [specific time tomorrow]?"*
 
-**Step 2 â Counter with your anchor:**
+**Step 2 — Counter with your anchor:**
 *"I've done research on compensation for this role in this market, and given my [specific skills/experience], I was expecting something closer to [anchor number]. Is there flexibility there?"*
 
-**Step 3 â Stay silent after your counter.** The first person to speak after a counter offer often loses ground.
+**Step 3 — Stay silent after your counter.** The first person to speak after a counter offer often loses ground.
 
-**Step 4 â If they push back:**
+**Step 4 — If they push back:**
 *"I understand there are constraints. What would you need to see from me to justify [target number]? And is there flexibility on [signing bonus / equity / other benefit]?"*
 
-**Step 5 â If base is firm, negotiate everything else:**
-- Signing bonus (often easier to give â doesn't affect annual salary band)
+**Step 5 — If base is firm, negotiate everything else:**
+- Signing bonus (often easier to give — doesn't affect annual salary band)
 - Additional vacation days
 - Remote work flexibility
 - Professional development budget
@@ -146,10 +146,10 @@ When you get an offer:
 
 ### Lesson 9: Negotiating Raises
 
-Asking for a raise is different from negotiating a new offer. You have history â use it.
+Asking for a raise is different from negotiating a new offer. You have history — use it.
 
 **The setup:**
-- Document your wins in advance. Keep a "brag file" â every project completed, metric improved, cost saved, client retained
+- Document your wins in advance. Keep a "brag file" — every project completed, metric improved, cost saved, client retained
 - Ask at the right time: after a visible win, before budget cycles, not during company crises
 - Request a meeting specifically for this topic; don't ambush at a performance review
 
@@ -163,18 +163,18 @@ Then get that answer in writing.
 
 ### Lesson 10: Benefits That Are Worth Real Money
 
-The benefits package is often worth 20â40% of base salary. Don't ignore:
+The benefits package is often worth 20–40% of base salary. Don't ignore:
 
 | Benefit | Real Value |
 | --- | --- |
-| Health insurance (employer-paid) | $5,000â$25,000/year |
+| Health insurance (employer-paid) | $5,000–$25,000/year |
 | 401(k) match (5% of $80k salary) | $4,000/year |
 | Equity (startups) | Potentially enormous |
-| Remote work (eliminates commute) | $3,000â$8,000/year in time + costs |
+| Remote work (eliminates commute) | $3,000–$8,000/year in time + costs |
 | Student loan assistance | Up to $5,250/year tax-free |
-| HSA contributions | $1,000â$3,000/year |
-| Professional development | $1,000â$5,000/year |
-| Cell phone / home office stipend | $600â$2,400/year |
+| HSA contributions | $1,000–$3,000/year |
+| Professional development | $1,000–$5,000/year |
+| Cell phone / home office stipend | $600–$2,400/year |
 
 When comparing two offers, add these up before declaring a winner.
 
@@ -187,33 +187,33 @@ When comparing two offers, add these up before declaring a winner.
 Fine print exists to protect the company, not you. Understanding its structure is the first step to reading it effectively.
 
 Fine print typically contains:
-- **Definitions** â How the company defines key terms (often narrowly)
-- **Limitation of liability clauses** â Caps on what they owe you
-- **Arbitration clauses** â Forces disputes into private arbitration rather than courts
-- **Auto-renewal clauses** â Binds you to future terms
-- **Modification clauses** â Allows them to change terms unilaterally
-- **Force majeure** â What happens when circumstances change
+- **Definitions** — How the company defines key terms (often narrowly)
+- **Limitation of liability clauses** — Caps on what they owe you
+- **Arbitration clauses** — Forces disputes into private arbitration rather than courts
+- **Auto-renewal clauses** — Binds you to future terms
+- **Modification clauses** — Allows them to change terms unilaterally
+- **Force majeure** — What happens when circumstances change
 
 You don't need to understand every word. You need to find these sections and understand what they mean for worst-case scenarios.
 
-### Lesson 12: Insurance Fine Print â The Policy You Actually Have
+### Lesson 12: Insurance Fine Print — The Policy You Actually Have
 
 Health, auto, renters, and life insurance policies contain language that determines whether your claim will be paid. The key sections:
 
 **What to look for in any insurance policy:**
 
-* **Exclusions** â What they explicitly won't cover. This is the most important section.
-* **Definitions** â "Accident" vs. "incident" vs. "occurrence" have precise meanings
-* **Coverage limits** â Per incident? Per year? Lifetime maximum?
-* **Deductible structure** â Individual vs. family deductibles; how they reset
-* **Subrogation rights** â Can the insurer recover from third parties in your name?
-* **Claims filing deadlines** â Missing these can void coverage
-* **Coordination of benefits** â If you have multiple policies, which pays first?
+* **Exclusions** — What they explicitly won't cover. This is the most important section.
+* **Definitions** — "Accident" vs. "incident" vs. "occurrence" have precise meanings
+* **Coverage limits** — Per incident? Per year? Lifetime maximum?
+* **Deductible structure** — Individual vs. family deductibles; how they reset
+* **Subrogation rights** — Can the insurer recover from third parties in your name?
+* **Claims filing deadlines** — Missing these can void coverage
+* **Coordination of benefits** — If you have multiple policies, which pays first?
 
 **Common health insurance traps:**
 - Out-of-network providers in in-network facilities (get written confirmation before procedures)
 - Prior authorization requirements (get this in writing before any expensive procedure)
-- Balance billing â your insurer pays, but the provider bills you for the "balance"
+- Balance billing — your insurer pays, but the provider bills you for the "balance"
 - Annual vs. lifetime limits on specific treatments
 
 ### Lesson 13: Phone Contracts and Carrier Agreements
@@ -221,9 +221,9 @@ Health, auto, renters, and life insurance policies contain language that determi
 Modern phone carriers use contracts to lock in revenue streams while giving themselves maximum flexibility.
 
 **What they hide:**
-- Early termination fees (often $150â$350 per line, prorated)
-- Throttling language â "unlimited" plans often throttle after 30â50GB
-- International roaming charges that can reach $10â$15/MB without a plan
+- Early termination fees (often $150–$350 per line, prorated)
+- Throttling language — "unlimited" plans often throttle after 30–50GB
+- International roaming charges that can reach $10–$15/MB without a plan
 - Automatic price increases (some plans allow increases mid-contract)
 - BYOD vs. carrier-locked device status
 - Auto-pay discount requirements (remove auto-pay and rate goes up)
@@ -251,7 +251,7 @@ The gym membership is a case study in aggressive fine print. The industry is not
 - January memberships often have waived initiation fees
 - Threatening to cancel often produces retention offers
 - Corporate gym rates (check if your employer has one)
-- "New member" promos vs. locked rates â ask to be grandfathered
+- "New member" promos vs. locked rates — ask to be grandfathered
 
 **Cancellation:** Many gyms require certified mail for cancellation. Send it, keep the receipt. If they claim they didn't receive it and keep charging you, dispute with your credit card company and provide the certified mail receipt.
 
@@ -260,22 +260,22 @@ The gym membership is a case study in aggressive fine print. The industry is not
 A car purchase involves multiple overlapping contracts. Each one is a separate negotiation.
 
 **The contracts:**
-1. **Purchase agreement** â Price, terms, included features, delivery date
-2. **Financing agreement** â Interest rate, term, balloon payments, early payoff penalties
-3. **Extended warranty** â What it covers, deductibles, claim process, cancellation terms
-4. **GAP insurance** â Covers difference between car value and loan if totaled (often overpriced at dealerships)
-5. **Paint/fabric protection** â Usually not worth the price; you can get better products yourself
+1. **Purchase agreement** — Price, terms, included features, delivery date
+2. **Financing agreement** — Interest rate, term, balloon payments, early payoff penalties
+3. **Extended warranty** — What it covers, deductibles, claim process, cancellation terms
+4. **GAP insurance** — Covers difference between car value and loan if totaled (often overpriced at dealerships)
+5. **Paint/fabric protection** — Usually not worth the price; you can get better products yourself
 
 **Finance office tricks to watch:**
 - Last-minute "required" products added to your payment
-- Payment-focused selling ("Only $50 more per month!" â which could be $3,600 total)
+- Payment-focused selling ("Only $50 more per month!" — which could be $3,600 total)
 - Yo-yo financing (they call you back saying financing fell through)
 - "As-is" language on used cars that strips protections
 
 **Your rights:**
-- You can cancel an extended warranty within a certain period (varies by state, often 30â60 days)
+- You can cancel an extended warranty within a certain period (varies by state, often 30–60 days)
 - GAP insurance is available from your car insurance company, usually much cheaper
-- You don't have to finance through the dealer â pre-arrange financing with your bank or credit union
+- You don't have to finance through the dealer — pre-arrange financing with your bank or credit union
 
 ---
 
@@ -283,7 +283,7 @@ A car purchase involves multiple overlapping contracts. Each one is a separate n
 
 ### Lesson 16: How Credit Scores Work
 
-Your credit score is a 3-digit number (300â850) that determines how much you pay for borrowed money. It's calculated using five factors:
+Your credit score is a 3-digit number (300–850) that determines how much you pay for borrowed money. It's calculated using five factors:
 
 | Factor | Weight | What Helps |
 | --- | --- | --- |
@@ -294,15 +294,15 @@ Your credit score is a 3-digit number (300â850) that determines how much yo
 | New inquiries | 10% | Don't apply for many accounts at once |
 
 **Score ranges:**
-- 800+: Exceptional â best rates available
-- 740â799: Very good â near-best rates
-- 670â739: Good â decent rates
-- 580â669: Fair â higher rates, limited options
-- Below 580: Poor â difficulty qualifying
+- 800+: Exceptional — best rates available
+- 740–799: Very good — near-best rates
+- 670–739: Good — decent rates
+- 580–669: Fair — higher rates, limited options
+- Below 580: Poor — difficulty qualifying
 
 ### Lesson 17: Reading Your Credit Report
 
-You are entitled to one free credit report per year from each of the three bureaus (Equifax, Experian, TransUnion) at AnnualCreditReport.com. Check all three â they often differ.
+You are entitled to one free credit report per year from each of the three bureaus (Equifax, Experian, TransUnion) at AnnualCreditReport.com. Check all three — they often differ.
 
 **What to look for:**
 - Accounts you don't recognize (potential identity theft)
@@ -321,21 +321,21 @@ You are entitled to one free credit report per year from each of the three burea
 
 ### Lesson 18: Getting Out of Credit Card Debt
 
-Credit card debt at 18â29% APR is among the most destructive financial forces available to consumers. Here's how to escape it:
+Credit card debt at 18–29% APR is among the most destructive financial forces available to consumers. Here's how to escape it:
 
-**Step 1 â Stop the bleeding:** Stop adding to the cards while you pay them down. Cut them up if necessary; cancel Apple Pay/Google Pay.
+**Step 1 — Stop the bleeding:** Stop adding to the cards while you pay them down. Cut them up if necessary; cancel Apple Pay/Google Pay.
 
-**Step 2 â Choose a payoff strategy:**
+**Step 2 — Choose a payoff strategy:**
 
-*Avalanche method:* Pay minimums on all cards; put all extra money toward highest-interest card. Mathematically optimal â saves the most money.
+*Avalanche method:* Pay minimums on all cards; put all extra money toward highest-interest card. Mathematically optimal — saves the most money.
 
-*Snowball method:* Pay minimums on all cards; put all extra money toward lowest-balance card. Psychologically effective â gives quick wins that sustain motivation.
+*Snowball method:* Pay minimums on all cards; put all extra money toward lowest-balance card. Psychologically effective — gives quick wins that sustain motivation.
 
-**Step 3 â Consider consolidation options:**
-- Balance transfer card (0% intro APR for 12â21 months â requires good credit)
+**Step 3 — Consider consolidation options:**
+- Balance transfer card (0% intro APR for 12–21 months — requires good credit)
 - Personal loan at lower rate than cards
 - Debt management plan through nonprofit credit counseling (NFCC.org)
-- Home equity loan (risky â your home is collateral)
+- Home equity loan (risky — your home is collateral)
 
 **What NOT to do:**
 - Debt settlement companies (often make things worse, destroy credit)
@@ -347,12 +347,12 @@ Credit card debt at 18â29% APR is among the most destructive financial forc
 Creditors will negotiate. They prefer partial payment to no payment.
 
 **For current accounts in hardship:**
-Call and say: *"I'm experiencing financial hardship and want to continue being a good customer, but I'm struggling to make my payments. Can you offer a hardship plan â a temporary reduced payment or interest rate?"*
+Call and say: *"I'm experiencing financial hardship and want to continue being a good customer, but I'm struggling to make my payments. Can you offer a hardship plan — a temporary reduced payment or interest rate?"*
 
 Many issuers have unpublicized hardship programs: temporary 0% APR, reduced minimums, fee waivers.
 
 **For accounts already in default:**
-Once an account is charged off and sold to a collection agency, you can often settle for 25â60 cents on the dollar.
+Once an account is charged off and sold to a collection agency, you can often settle for 25–60 cents on the dollar.
 
 Script: *"I want to resolve this account. I can't pay the full amount, but I can pay [lower amount] in a lump sum to settle this fully. Can you accept that?"*
 
@@ -366,7 +366,7 @@ Under the Fair Debt Collection Practices Act (FDCPA), you have rights when colle
 2. They must stop collection activity until they validate
 3. They cannot call before 8 AM or after 9 PM
 4. They cannot call your workplace if you tell them not to
-5. You can send a cease-communication letter (certified mail) â they must stop all contact except to notify of legal action
+5. You can send a cease-communication letter (certified mail) — they must stop all contact except to notify of legal action
 6. If they violate FDCPA, you can sue them for $1,000 per violation
 
 ---
@@ -378,7 +378,7 @@ Under the Fair Debt Collection Practices Act (FDCPA), you have rights when colle
 Small claims court is a division of civil court designed for everyday people to resolve disputes without attorneys. It's faster, cheaper, and less formal than regular civil court.
 
 **Limits (vary by state):**
-- Most states: $5,000â$10,000
+- Most states: $5,000–$10,000
 - California: $12,500 (individuals), $6,250 (businesses)
 - Tennessee: $25,000
 - Delaware: $15,000
@@ -391,12 +391,12 @@ Small claims court is a division of civil court designed for everyday people to 
 - Car accidents
 - Defective products
 
-### Lesson 22: Before You Sue â The Demand Letter
+### Lesson 22: Before You Sue — The Demand Letter
 
 Always send a formal demand letter before filing. This:
 1. Documents your attempt to resolve without court
 2. Gives the other party a chance to settle (often they will)
-3. Judges expect it â it shows good faith
+3. Judges expect it — it shows good faith
 4. Starts the paper trail
 
 **Demand letter elements:**
@@ -404,7 +404,7 @@ Always send a formal demand letter before filing. This:
 - Date
 - Description of the dispute and amount owed
 - Why you are owed this amount (attach supporting documents)
-- Demand for payment/action by specific date (typically 14â30 days)
+- Demand for payment/action by specific date (typically 14–30 days)
 - Statement that you will file in small claims court if not resolved
 - Your signature
 
@@ -415,7 +415,7 @@ Send via certified mail, return receipt requested. Keep a copy.
 **Filing:**
 1. Go to the courthouse clerk's office (or online in many jurisdictions)
 2. Fill out the complaint form
-3. Pay the filing fee ($30â$100, often recoverable if you win)
+3. Pay the filing fee ($30–$100, often recoverable if you win)
 4. Serve the defendant (court staff can often help; typically via certified mail or sheriff)
 
 **Preparing your case:**
@@ -423,7 +423,7 @@ Send via certified mail, return receipt requested. Keep a copy.
 - Create a one-page summary of your claim
 - Gather: contracts, receipts, photos, texts, emails, bank records
 - Make 3 copies of everything (you, defendant, judge)
-- Practice your statement â 2 minutes, focused on facts and dollar amounts
+- Practice your statement — 2 minutes, focused on facts and dollar amounts
 - Bring witnesses if relevant (and notify them of the date)
 
 **At the hearing:**
@@ -441,9 +441,9 @@ Winning in small claims court is only step one. If the defendant doesn't pay vol
 - **Wage garnishment:** Court orders their employer to withhold a portion of wages
 - **Bank levy:** Court orders their bank to freeze and transfer funds
 - **Property lien:** Places a lien on real estate they own (affects any future sale)
-- **Till tap:** For businesses with cash registers â a marshal literally takes cash
+- **Till tap:** For businesses with cash registers — a marshal literally takes cash
 
-**Process:** File the judgment for enforcement, pay a small fee, request the collection method. This often requires knowing where the defendant works or banks â public records, social media, or a judgment debtor examination (they're required to appear and answer questions about their finances) can help.
+**Process:** File the judgment for enforcement, pay a small fee, request the collection method. This often requires knowing where the defendant works or banks — public records, social media, or a judgment debtor examination (they're required to appear and answer questions about their finances) can help.
 
 ---
 
@@ -474,13 +474,13 @@ The U.S. tax system is pay-as-you-go. Most employees have taxes withheld; self-e
 
 ### Lesson 26: Deductions You're Probably Missing
 
-The goal isn't to pay zero taxes â it's to pay what you legally owe, no more.
+The goal isn't to pay zero taxes — it's to pay what you legally owe, no more.
 
 **Standard deduction (2024):** $14,600 single / $29,200 married. If your itemized deductions exceed this, itemize.
 
 **Itemized deductions:**
 - Mortgage interest (up to $750,000 in loan principal)
-- State and local taxes (SALT) â capped at $10,000
+- State and local taxes (SALT) — capped at $10,000
 - Charitable contributions (cash or property to qualified organizations)
 - Medical expenses exceeding 7.5% of AGI
 - Unreimbursed casualty losses in federally declared disaster areas
@@ -507,18 +507,18 @@ The goal isn't to pay zero taxes â it's to pay what you legally owe, no mor
 An IRS notice is not a lawsuit. Most are routine and easily resolved.
 
 **Common notices:**
-- **CP2000:** IRS found income on a 1099 that doesn't match your return â respond with explanation or amended return
-- **CP501/503/504:** Balance due notices â respond with payment or dispute
-- **CP90:** Final notice of intent to levy â take immediately seriously; you have 30 days to respond
-- **Letter 1058:** Notice of intent to levy â file Collection Due Process hearing request within 30 days
+- **CP2000:** IRS found income on a 1099 that doesn't match your return — respond with explanation or amended return
+- **CP501/503/504:** Balance due notices — respond with payment or dispute
+- **CP90:** Final notice of intent to levy — take immediately seriously; you have 30 days to respond
+- **Letter 1058:** Notice of intent to levy — file Collection Due Process hearing request within 30 days
 
 **Response protocol:**
-1. Read the notice carefully â understand exactly what they're claiming
-2. Don't ignore it â silence implies agreement
+1. Read the notice carefully — understand exactly what they're claiming
+2. Don't ignore it — silence implies agreement
 3. Respond by the deadline via certified mail
 4. Keep copies of everything
 5. If disputed: gather your documentation and write a clear explanation
-6. If you owe: even if you can't pay all at once, set up an installment agreement (Form 9465) â this stops enforcement while you pay
+6. If you owe: even if you can't pay all at once, set up an installment agreement (Form 9465) — this stops enforcement while you pay
 
 **When to get professional help:** Any notice involving fraud allegations, levies on wages/bank accounts, or amounts over $10,000 warrants a tax professional or tax attorney.
 
@@ -528,7 +528,7 @@ An IRS notice is not a lawsuit. Most are routine and easily resolved.
 
 ### Lesson 28: Why Estate Planning Is Not Just for the Wealthy
 
-Estate planning is about control â making sure your wishes are followed when you can't express them yourself. Without it:
+Estate planning is about control — making sure your wishes are followed when you can't express them yourself. Without it:
 
 * A court decides who gets your assets (probate)
 * A judge appoints a guardian for your minor children
@@ -538,7 +538,7 @@ Estate planning is about control â making sure your wishes are followed whe
 
 You don't need to be wealthy to need these protections. You need them the moment you have assets, dependents, or preferences about your own medical care.
 
-### Lesson 29: The Will â Your Foundational Document
+### Lesson 29: The Will — Your Foundational Document
 
 A will (formally, a "last will and testament") is a legal document stating how you want your assets distributed after death. It also names:
 
@@ -566,14 +566,14 @@ A will (formally, a "last will and testament") is a legal document stating how y
 **DIY options:** LegalZoom, Trust & Will, Rocket Lawyer (adequate for simple estates)
 **When to hire an attorney:** Complex estates, blended families, business interests, special needs beneficiaries
 
-### Lesson 30: Power of Attorney â Who Manages Your Affairs
+### Lesson 30: Power of Attorney — Who Manages Your Affairs
 
 A power of attorney (POA) designates someone to make financial and/or legal decisions on your behalf if you're unable to.
 
 **Types:**
-- **Durable POA:** Survives incapacity (you want this â a regular POA ends if you become incapacitated)
+- **Durable POA:** Survives incapacity (you want this — a regular POA ends if you become incapacitated)
 - **Limited POA:** For a specific transaction (e.g., signing real estate documents while you're traveling)
-- **Springing POA:** Takes effect only upon incapacity (requires medical certification â can create delays in emergencies)
+- **Springing POA:** Takes effect only upon incapacity (requires medical certification — can create delays in emergencies)
 
 **What a financial POA can do:**
 - Access bank accounts, pay bills, manage investments
@@ -587,7 +587,7 @@ A power of attorney (POA) designates someone to make financial and/or legal deci
 - Keep the original in a safe place; your agent needs it to act
 - You can revoke it at any time while you're competent
 
-### Lesson 31: Healthcare Directives â Your Medical Voice
+### Lesson 31: Healthcare Directives — Your Medical Voice
 
 Two documents cover medical decision-making:
 
@@ -607,16 +607,16 @@ States your wishes about specific medical situations:
 
 **Critical:** These documents are useless if no one can find them. Store originals in a known location; give copies to your healthcare agent, your primary physician, and any specialists; consider filing with your state registry if available.
 
-**POLST form:** For people with serious illness, a POLST (Physician Orders for Life-Sustaining Treatment) translates your wishes into medical orders that must be followed. Different from an advance directive â ask your doctor.
+**POLST form:** For people with serious illness, a POLST (Physician Orders for Life-Sustaining Treatment) translates your wishes into medical orders that must be followed. Different from an advance directive — ask your doctor.
 
-### Lesson 32: Trusts â When You Need More Than a Will
+### Lesson 32: Trusts — When You Need More Than a Will
 
 A trust is a legal arrangement where a trustee holds assets for the benefit of beneficiaries. Trusts offer:
 
-* **Avoidance of probate** â assets pass directly without court involvement
-* **Privacy** â unlike wills, trusts aren't public record
-* **Control over distributions** â you can set conditions (e.g., at age 25, or for education only)
-* **Incapacity planning** â the trustee can manage assets if you become incapacitated
+* **Avoidance of probate** — assets pass directly without court involvement
+* **Privacy** — unlike wills, trusts aren't public record
+* **Control over distributions** — you can set conditions (e.g., at age 25, or for education only)
+* **Incapacity planning** — the trustee can manage assets if you become incapacitated
 
 **Revocable Living Trust:** The most common type for estate planning. You are both the grantor and trustee during your lifetime; a successor trustee takes over at death or incapacity. Fully revocable while you're alive and competent.
 
@@ -626,18 +626,18 @@ A trust is a legal arrangement where a trustee holds assets for the benefit of b
 - Minor or disabled beneficiaries
 - Blended family dynamics
 - Business ownership
-- Total estate over $1â2 million (probate costs justify the upfront investment)
+- Total estate over $1–2 million (probate costs justify the upfront investment)
 
 **Funding the trust is essential:** A trust only controls what's in it. After creating a trust, you must re-title assets (bank accounts, real estate, investment accounts) into the trust's name, or they'll still go through probate.
 
-### Lesson 33: Beneficiary Designations â The Document That Overrides Everything
+### Lesson 33: Beneficiary Designations — The Document That Overrides Everything
 
-Retirement accounts (401(k), IRA), life insurance, and payable-on-death (POD) bank accounts pass to beneficiaries named on the account itself â not according to your will.
+Retirement accounts (401(k), IRA), life insurance, and payable-on-death (POD) bank accounts pass to beneficiaries named on the account itself — not according to your will.
 
 **This is a common source of family tragedy:**
 - Divorced person forgets to update their ex as beneficiary on a $200,000 IRA
-- Widowed person leaves retirement account to a deceased spouse â now it goes to probate
-- Person leaves account to their estate instead of a person â triggers probate for an account designed to avoid it
+- Widowed person leaves retirement account to a deceased spouse — now it goes to probate
+- Person leaves account to their estate instead of a person — triggers probate for an account designed to avoid it
 
 **Action items:**
 1. Pull out every retirement account, life insurance policy, and savings account
@@ -662,7 +662,7 @@ Your digital life has monetary and sentimental value. Without planning, it may b
 - Digital businesses
 
 **Action steps:**
-1. Create a digital asset inventory â list every account, username, and access method
+1. Create a digital asset inventory — list every account, username, and access method
 2. Store this securely (password manager with emergency access, or encrypted document)
 3. Include instructions in your will for your executor
 4. Use a service like 1Password's emergency kit or Bitwarden's emergency access feature
@@ -672,14 +672,14 @@ Your digital life has monetary and sentimental value. Without planning, it may b
 
 The minimum viable estate plan for most adults:
 
-â **Will** â naming executor, guardian (if applicable), and beneficiaries
-â **Durable financial power of attorney** â your financial backup
-â **Healthcare power of attorney / healthcare proxy** â your medical decision-maker
-â **Advance directive / living will** â your medical wishes
-â **Updated beneficiary designations** on all accounts
-â **Digital asset inventory** in a secure, accessible location
+☐ **Will** — naming executor, guardian (if applicable), and beneficiaries
+☐ **Durable financial power of attorney** — your financial backup
+☐ **Healthcare power of attorney / healthcare proxy** — your medical decision-maker
+☐ **Advance directive / living will** — your medical wishes
+☐ **Updated beneficiary designations** on all accounts
+☐ **Digital asset inventory** in a secure, accessible location
 
-**Review triggers:** Marriage, divorce, birth or adoption, major asset acquisition, death of a named person in your documents, move to a new state (POA and healthcare directive requirements vary), and simply every 3â5 years.
+**Review triggers:** Marriage, divorce, birth or adoption, major asset acquisition, death of a named person in your documents, move to a new state (POA and healthcare directive requirements vary), and simply every 3–5 years.
 
 ---
 
@@ -687,7 +687,7 @@ The minimum viable estate plan for most adults:
 
 ### Lesson 36: When to Get a Lawyer
 
-Most people wait too long to consult an attorney because they assume it's expensive. A one-hour consultation ($150â$350) often costs less than the mistake it prevents.
+Most people wait too long to consult an attorney because they assume it's expensive. A one-hour consultation ($150–$350) often costs less than the mistake it prevents.
 
 **Situations where you should get legal advice:**
 - Before signing any contract involving $5,000+ or long-term obligations
@@ -700,15 +700,15 @@ Most people wait too long to consult an attorney because they assume it's expens
 - Estate planning beyond basic documents
 
 **Low-cost legal resources:**
-- **Legal aid societies** â Free for qualifying income levels
-- **Law school clinics** â Supervised students, free or low-cost
-- **State bar referral services** â Often offer reduced-fee initial consultations
-- **NOLO.com** â Self-help legal information and forms
-- **Avvo.com / LegalMatch** â Attorney directories with ratings
+- **Legal aid societies** — Free for qualifying income levels
+- **Law school clinics** — Supervised students, free or low-cost
+- **State bar referral services** — Often offer reduced-fee initial consultations
+- **NOLO.com** — Self-help legal information and forms
+- **Avvo.com / LegalMatch** — Attorney directories with ratings
 
 ### Lesson 37: Understanding Arbitration Clauses
 
-Mandatory arbitration clauses are embedded in nearly every contract you sign â credit cards, phone service, employment agreements, home purchases. They waive your right to sue in court.
+Mandatory arbitration clauses are embedded in nearly every contract you sign — credit cards, phone service, employment agreements, home purchases. They waive your right to sue in court.
 
 **What they do:**
 - Force disputes into private arbitration (not public courts)
@@ -716,7 +716,7 @@ Mandatory arbitration clauses are embedded in nearly every contract you sign â�
 - Use arbitrators often paid by the company that wrote the clause
 - Results are usually final and not subject to appeal
 
-**Can you avoid them?** Increasingly difficult. Some companies allow opt-out (usually within 30 days of signing; requires written notice). Class action waivers are particularly problematic â they prevent customers from banding together over small, widespread harms.
+**Can you avoid them?** Increasingly difficult. Some companies allow opt-out (usually within 30 days of signing; requires written notice). Class action waivers are particularly problematic — they prevent customers from banding together over small, widespread harms.
 
 **What to look for:** "Any dispute will be resolved through binding arbitration" / "You waive your right to a jury trial" / "Class action waiver"
 
@@ -740,10 +740,10 @@ Traffic stops are high-stakes encounters where knowing your rights matters:
 **Do:**
 - Keep hands visible at all times
 - Move slowly and deliberately
-- Inform the officer before reaching for documents: *"My registration is in the glove box â may I reach for it?"*
+- Inform the officer before reaching for documents: *"My registration is in the glove box — may I reach for it?"*
 - Remain calm regardless of how the officer behaves
 
-**If stopped without cause:** Request the reason. You do not have to consent to a stop without reasonable suspicion (but do not physically resist â contest it legally afterward).
+**If stopped without cause:** Request the reason. You do not have to consent to a stop without reasonable suspicion (but do not physically resist — contest it legally afterward).
 
 ### Lesson 39: Consumer Protections You Can Actually Use
 
@@ -771,7 +771,7 @@ Federal and state consumer protection laws give you tools most people never use:
 
 **State lemon laws:**
 - Typically cover new vehicles that have repeated defects after multiple repair attempts
-- Trigger: usually 3â4 attempts to fix same defect, or 30 days out of service in first year
+- Trigger: usually 3–4 attempts to fix same defect, or 30 days out of service in first year
 - Remedy: buyback or replacement
 
 **How to file a complaint:** CFPB (financial products), FTC (fraud/deceptive practices), your state attorney general's consumer protection division, BBB (limited legal power but creates record).
@@ -784,7 +784,7 @@ Non-compete agreements are among the most commonly signed and least understood e
 
 **Enforceability varies dramatically:**
 - California, North Dakota, Oklahoma: Non-competes largely unenforceable (except in sale of business)
-- Most other states: Courts use a "reasonableness" test â scope, geography, duration
+- Most other states: Courts use a "reasonableness" test — scope, geography, duration
 - FTC issued a rule in 2024 attempting to ban most non-competes nationally (under legal challenge)
 
 **What "reasonable" typically means:**
@@ -799,9 +799,9 @@ Non-compete agreements are among the most commonly signed and least understood e
 
 **If you violate one:** Companies often threaten but rarely sue (expensive litigation, uncertain outcome). Consult an employment attorney before assuming you're stuck.
 
-### Lesson 41: Intellectual Property â What You Own
+### Lesson 41: Intellectual Property — What You Own
 
-If you create â write, design, code, photograph, record â you have intellectual property rights even without registration.
+If you create — write, design, code, photograph, record — you have intellectual property rights even without registration.
 
 **Copyright:**
 - Exists automatically upon creation of original work
@@ -826,19 +826,19 @@ If you create â write, design, code, photograph, record â you have int
 - Protects inventions and processes
 - Must be novel, non-obvious, and useful
 - 20-year protection for utility patents
-- Application through USPTO.gov; complex â usually requires a patent attorney
+- Application through USPTO.gov; complex — usually requires a patent attorney
 
 ### Lesson 42: Contracts That Cannot Be Enforced
 
 Some contract clauses are unenforceable as a matter of law, regardless of what you signed:
 
-* **Clauses requiring illegal activity** â You cannot contract to do something illegal
-* **Unconscionable terms** â Courts can void terms so one-sided they "shock the conscience"
-* **Clauses against public policy** â Cannot waive rights that laws specifically protect
-* **Fraudulently induced contracts** â If someone lied to get you to sign, the contract may be voidable
-* **Contracts with minors** â Generally voidable by the minor
-* **Capacity issues** â Contracts signed while incapacitated (intoxication, mental incapacity) may be voidable
-* **Non-disclosure agreements covering illegal conduct** â An employer cannot use an NDA to prevent you from reporting crimes
+* **Clauses requiring illegal activity** — You cannot contract to do something illegal
+* **Unconscionable terms** — Courts can void terms so one-sided they "shock the conscience"
+* **Clauses against public policy** — Cannot waive rights that laws specifically protect
+* **Fraudulently induced contracts** — If someone lied to get you to sign, the contract may be voidable
+* **Contracts with minors** — Generally voidable by the minor
+* **Capacity issues** — Contracts signed while incapacitated (intoxication, mental incapacity) may be voidable
+* **Non-disclosure agreements covering illegal conduct** — An employer cannot use an NDA to prevent you from reporting crimes
 
 Knowing this matters when someone says "but you signed the contract." The existence of a signature doesn't end the analysis.
 
@@ -848,7 +848,7 @@ One of the most commonly misunderstood areas of landlord-tenant law:
 
 **Standard rule (most U.S. states):** Landlord must give 24-48 hours advance notice before entering (check your state).
 
-**Exceptions â landlord may enter immediately:**
+**Exceptions — landlord may enter immediately:**
 - True emergencies (fire, burst pipe, evidence of imminent harm)
 - Abandonment
 
@@ -862,7 +862,7 @@ One of the most commonly misunderstood areas of landlord-tenant law:
 1. Document: Note date, time, circumstances
 2. Send a written letter citing the specific statute they violated
 3. Contact local tenant advocacy or housing authority
-4. If persistent: This may constitute unlawful harassment or constructive eviction â grounds for breaking the lease without penalty in some jurisdictions
+4. If persistent: This may constitute unlawful harassment or constructive eviction — grounds for breaking the lease without penalty in some jurisdictions
 
 ### Lesson 44: Identity Theft Recovery
 
@@ -870,10 +870,10 @@ Identity theft is a legal and financial emergency requiring systematic action.
 
 **Immediate steps:**
 1. **Place a fraud alert** with one credit bureau (it notifies the others): Call Equifax, Experian, or TransUnion
-2. **Freeze your credit** at all three bureaus â free, prevents new accounts from being opened
+2. **Freeze your credit** at all three bureaus — free, prevents new accounts from being opened
 3. **File an FTC identity theft report** at IdentityTheft.gov (creates an official record)
-4. **File a police report** â your local police department or the jurisdiction where the theft occurred
-5. **Contact affected institutions** â bank fraud department, credit card issuers, any institution where accounts were opened fraudulently
+4. **File a police report** — your local police department or the jurisdiction where the theft occurred
+5. **Contact affected institutions** — bank fraud department, credit card issuers, any institution where accounts were opened fraudulently
 
 **Dispute fraudulent accounts:**
 Write to the credit bureau with your FTC report and police report. They must block fraudulent information. Write to the creditor with the same. Request deletion of the fraudulent account.
@@ -892,23 +892,23 @@ The Fair Housing Act prohibits discrimination in housing based on race, color, n
 - Applying different screening criteria to different applicants
 
 **If you suspect discrimination:**
-1. Document everything â keep records of all communications
+1. Document everything — keep records of all communications
 2. File a complaint with HUD (hud.gov/fairhousing) within 1 year of the discriminatory act
 3. File a complaint with your state's civil rights agency
 4. Consult a fair housing attorney (many work on contingency)
 
-### Lesson 46: Bankruptcy â What It Actually Does
+### Lesson 46: Bankruptcy — What It Actually Does
 
 Bankruptcy is not failure. It's a legal tool designed to give people a fresh start.
 
 **Chapter 7 (Liquidation):**
-- Most debts discharged within 3â6 months
-- Non-exempt assets may be sold (but most people have nothing to liquidate â exemptions cover most common assets)
+- Most debts discharged within 3–6 months
+- Non-exempt assets may be sold (but most people have nothing to liquidate — exemptions cover most common assets)
 - Stays on credit report 10 years
 - Requires means test (income below state median qualifies automatically)
 
 **Chapter 13 (Reorganization):**
-- Repayment plan over 3â5 years
+- Repayment plan over 3–5 years
 - Can save a home from foreclosure
 - Stays on credit report 7 years
 - Income must cover secured debts + priority debts + plan payments
@@ -920,20 +920,20 @@ Bankruptcy is not failure. It's a legal tool designed to give people a fresh sta
 - Debts from fraud or intentional harm
 - Most criminal fines and restitution
 
-**Before filing:** Exhaust alternatives â debt negotiation, consolidation, nonprofit credit counseling. Bankruptcy has long-term consequences but may be the right answer for truly overwhelming debt.
+**Before filing:** Exhaust alternatives — debt negotiation, consolidation, nonprofit credit counseling. Bankruptcy has long-term consequences but may be the right answer for truly overwhelming debt.
 
 ### Lesson 47: Your Rights as an Employee
 
 Federal law establishes a floor of employee rights. Many states go further.
 
 **Key federal protections:**
-- **Minimum wage** â Federal: $7.25/hr (many states higher)
-- **Overtime** â 1.5x for hours over 40/week (for non-exempt employees)
-- **FMLA** â 12 weeks of unpaid leave for qualifying family/medical events (employers with 50+)
-- **ADA** â Reasonable accommodations for disabilities
-- **Title VII** â No discrimination based on race, color, religion, sex, national origin
-- **NLRA** â Right to discuss wages, organize, and engage in concerted activity
-- **OSHA** â Safe workplace; right to report hazards without retaliation
+- **Minimum wage** — Federal: $7.25/hr (many states higher)
+- **Overtime** — 1.5x for hours over 40/week (for non-exempt employees)
+- **FMLA** — 12 weeks of unpaid leave for qualifying family/medical events (employers with 50+)
+- **ADA** — Reasonable accommodations for disabilities
+- **Title VII** — No discrimination based on race, color, religion, sex, national origin
+- **NLRA** — Right to discuss wages, organize, and engage in concerted activity
+- **OSHA** — Safe workplace; right to report hazards without retaliation
 
 **Common violations:**
 - Misclassification as "independent contractor" to avoid benefits/overtime
@@ -945,24 +945,24 @@ Federal law establishes a floor of employee rights. Many states go further.
 
 ### Lesson 48: Contracts for Freelancers
 
-Every freelance project should begin with a written contract. It protects you â not just the client.
+Every freelance project should begin with a written contract. It protects you — not just the client.
 
 **Essential freelance contract provisions:**
 
-1. **Scope of work** â Precise description of deliverables; what is NOT included
-2. **Payment terms** â Amount, currency, payment schedule, method (e.g., net-15 by ACH)
-3. **Late payment penalty** â 1.5%/month is standard
-4. **Deposit** â 25â50% upfront for new clients, especially for large projects
-5. **Revision rounds** â How many included; rate for additional revisions
-6. **Kill fee** â If client cancels, they owe a percentage (typically 25â50%)
-7. **Intellectual property assignment** â When does IP transfer? (Best practice: upon full payment)
-8. **Confidentiality** â If applicable
-9. **Independent contractor status** â You are not an employee
-10. **Dispute resolution** â Governing state law and jurisdiction
+1. **Scope of work** — Precise description of deliverables; what is NOT included
+2. **Payment terms** — Amount, currency, payment schedule, method (e.g., net-15 by ACH)
+3. **Late payment penalty** — 1.5%/month is standard
+4. **Deposit** — 25–50% upfront for new clients, especially for large projects
+5. **Revision rounds** — How many included; rate for additional revisions
+6. **Kill fee** — If client cancels, they owe a percentage (typically 25–50%)
+7. **Intellectual property assignment** — When does IP transfer? (Best practice: upon full payment)
+8. **Confidentiality** — If applicable
+9. **Independent contractor status** — You are not an employee
+10. **Dispute resolution** — Governing state law and jurisdiction
 
 **Free templates:** AND CO / Honeybook, AIGA standard form of agreement, docracy.com
 
-### Lesson 49: Real Estate Transactions â Protecting Yourself
+### Lesson 49: Real Estate Transactions — Protecting Yourself
 
 Buying or selling a home involves multiple legal documents and multiple opportunities for problems.
 
@@ -970,18 +970,18 @@ Buying or selling a home involves multiple legal documents and multiple opportun
 - **Purchase agreement:** Everything negotiated goes here; verbal promises mean nothing after closing
 - **Due diligence period:** Time to inspect, investigate, and withdraw; use it fully
 - **Title search and title insurance:** Protects against undisclosed liens, easements, or ownership disputes
-- **Home inspection:** Never waive this; a $400â$600 inspection can surface $50,000 in problems
+- **Home inspection:** Never waive this; a $400–$600 inspection can surface $50,000 in problems
 - **Lead paint disclosure** (pre-1978 homes): Required by federal law
 - **ALTA/settlement statement:** Review every line item at closing; question anything unfamiliar
 
 **For sellers:**
 - **Disclosure obligations:** Most states require disclosure of known material defects; hiding defects creates legal liability
-- **Agent fiduciary duty:** Your agent legally owes you loyalty, disclosure, confidentiality, obedience, reasonable care, and accounting â hold them to it
+- **Agent fiduciary duty:** Your agent legally owes you loyalty, disclosure, confidentiality, obedience, reasonable care, and accounting — hold them to it
 - **Contingency management:** Understand every contingency in the offer and the dates they expire
 
 ### Lesson 50: When Contracts Go Wrong
 
-When someone breaches a contract, you have options â but also obligations.
+When someone breaches a contract, you have options — but also obligations.
 
 **Mitigation duty:** You are legally required to take reasonable steps to reduce your damages after a breach. You can't sit on your hands and let losses pile up; the court will reduce your recovery if you fail to mitigate.
 

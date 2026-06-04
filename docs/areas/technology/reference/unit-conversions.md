@@ -1,6 +1,6 @@
 # Unit Conversions Reference
 
-*The Observatory Almanac â Section 15.1*
+*The Observatory Almanac — Section 15.1*
 
 ---
 
@@ -15,7 +15,7 @@
 | 1 yard (yd) | 1,760 yards = 1 mile |
 | 1 mile (mi) | 5,280 feet = 1,760 yards |
 
-### Imperial â Metric
+### Imperial ↔ Metric
 
 | Imperial | Metric | Metric | Imperial |
 | --- | --- | --- | --- |
@@ -27,7 +27,7 @@
 | 1 mile | 1.609 km | 1 km | 3,281 ft |
 | 1 mile | 1,609 m |  |  |
 
-### Quick Reference â Inches to Centimeters
+### Quick Reference — Inches to Centimeters
 
 | Inches | cm | Inches | cm |
 | --- | --- | --- | --- |
@@ -39,7 +39,7 @@
 | 6" | 15.2 | 60" (5 ft) | 152.4 |
 | 9" | 22.9 | 72" (6 ft) | 182.9 |
 
-### Quick Reference â Miles to Kilometers
+### Quick Reference — Miles to Kilometers
 
 | Miles | km | km | Miles |
 | --- | --- | --- | --- |
@@ -74,7 +74,7 @@
 | 2,240 pounds | = 1 long ton (UK) |
 | 14 pounds | = 1 stone (UK) |
 
-### Imperial â Metric
+### Imperial ↔ Metric
 
 | Imperial | Metric | Metric | Imperial |
 | --- | --- | --- | --- |
@@ -85,7 +85,7 @@
 | 1 long ton | 1,016 kg | 1 tonne | 1.102 short tons |
 | 1 stone | 6.350 kg | 1 kg | 0.157 stone |
 
-### Quick Reference â Pounds to Kilograms
+### Quick Reference — Pounds to Kilograms
 
 | lb | kg | kg | lb |
 | --- | --- | --- | --- |
@@ -137,7 +137,7 @@
 | 1 UK gallon | = 8 pints = 4.546 L |
 | 1 US gallon | = 8 US pints = 3.785 L |
 
-### Volume â Metric
+### Volume ↔ Metric
 
 | US | Metric |
 | --- | --- |
@@ -152,7 +152,7 @@
 | 1 US gallon | 3,785 ml (3.785 L) |
 | 1 UK gallon | 4,546 ml (4.546 L) |
 
-### Metric â US
+### Metric → US
 
 | Metric | US |
 | --- | --- |
@@ -172,17 +172,17 @@
 
 | Convert | Formula |
 | --- | --- |
-| Fahrenheit â Celsius | Â°C = (Â°F â 32) Ã 5/9 |
-| Celsius â Fahrenheit | Â°F = (Â°C Ã 9/5) + 32 |
-| Celsius â Kelvin | K = Â°C + 273.15 |
-| Kelvin â Celsius | Â°C = K â 273.15 |
-| Fahrenheit â Kelvin | K = (Â°F + 459.67) Ã 5/9 |
+| Fahrenheit → Celsius | °C = (°F − 32) × 5/9 |
+| Celsius → Fahrenheit | °F = (°C × 9/5) + 32 |
+| Celsius → Kelvin | K = °C + 273.15 |
+| Kelvin → Celsius | °C = K − 273.15 |
+| Fahrenheit → Kelvin | K = (°F + 459.67) × 5/9 |
 
 ### Quick Reference Chart
 
-| Â°F | Â°C | Description |
+| °F | °C | Description |
 | --- | --- | --- |
-| -40 | -40 | Equal point (-40Â°F = -40Â°C) |
+| -40 | -40 | Equal point (-40°F = -40°C) |
 | 0 | -17.8 | Very cold winter day |
 | 14 | -10 | Severe cold |
 | 32 | 0 | Water freezes |
@@ -206,7 +206,7 @@
 
 ### Key Kelvin Reference Points
 
-| K | Â°C | Description |
+| K | °C | Description |
 | --- | --- | --- |
 | 0 | -273.15 | Absolute zero |
 | 273.15 | 0 | Water freezes |
@@ -220,20 +220,20 @@
 
 | Imperial | Metric |
 | --- | --- |
-| 1 sq inch (inÂ²) | 6.452 cmÂ² |
-| 1 sq foot (ftÂ²) | 929.0 cmÂ² = 0.0929 mÂ² |
-| 1 sq yard (ydÂ²) | 0.836 mÂ² |
-| 1 acre | 4,047 mÂ² = 0.405 hectare |
-| 1 acre | 43,560 ftÂ² |
-| 1 sq mile | 2.590 kmÂ² = 259 hectares |
+| 1 sq inch (in²) | 6.452 cm² |
+| 1 sq foot (ft²) | 929.0 cm² = 0.0929 m² |
+| 1 sq yard (yd²) | 0.836 m² |
+| 1 acre | 4,047 m² = 0.405 hectare |
+| 1 acre | 43,560 ft² |
+| 1 sq mile | 2.590 km² = 259 hectares |
 | 1 sq mile | 640 acres |
 
 | Metric | Imperial |
 | --- | --- |
-| 1 cmÂ² | 0.155 inÂ² |
-| 1 mÂ² | 10.764 ftÂ² = 1.196 ydÂ² |
+| 1 cm² | 0.155 in² |
+| 1 m² | 10.764 ft² = 1.196 yd² |
 | 1 hectare | 2.471 acres |
-| 1 kmÂ² | 0.386 sq miles = 247.1 acres |
+| 1 km² | 0.386 sq miles = 247.1 acres |
 
 ### Quick Area Reference
 
@@ -272,11 +272,11 @@
 
 ### Speed Conversion Formulas
 
-* mph â km/h: multiply by 1.609
-* km/h â mph: multiply by 0.621
-* mph â knots: multiply by 0.869
-* knots â mph: multiply by 1.151
-* knots â km/h: multiply by 1.852
+* mph → km/h: multiply by 1.609
+* km/h → mph: multiply by 0.621
+* mph → knots: multiply by 0.869
+* knots → mph: multiply by 1.151
+* knots → km/h: multiply by 1.852
 
 ---
 
@@ -304,8 +304,8 @@
 | --- | --- | --- | --- |
 | 0 | 0 | 0 | Vacuum |
 | Sea level air | 14.696 | 1.01 | Standard atmosphere |
-| Car tire | 30â35 | 2.07â2.41 | Typical inflation |
-| Road bike tire | 80â130 | 5.5â9.0 | High pressure |
+| Car tire | 30–35 | 2.07–2.41 | Typical inflation |
+| Road bike tire | 80–130 | 5.5–9.0 | High pressure |
 | Blood pressure systolic (normal) | ~1.74 | ~0.12 | 120 mmHg |
 
 ---
@@ -368,13 +368,13 @@
 
 | Flour Type | Grams | oz |
 | --- | --- | --- |
-| All-purpose (spooned & leveled) | 120â125 g | 4.25 oz |
-| All-purpose (scooped/packed) | 140â160 g | 5â5.5 oz |
-| Bread flour | 120â130 g | 4.3 oz |
+| All-purpose (spooned & leveled) | 120–125 g | 4.25 oz |
+| All-purpose (scooped/packed) | 140–160 g | 5–5.5 oz |
+| Bread flour | 120–130 g | 4.3 oz |
 | Cake flour | 100 g | 3.5 oz |
 | Whole wheat flour | 120 g | 4.25 oz |
 | Almond flour | 96 g | 3.4 oz |
-| Oat flour | 90â100 g | 3.2 oz |
+| Oat flour | 90–100 g | 3.2 oz |
 | Cornstarch | 120 g | 4.25 oz |
 | Rice flour | 160 g | 5.6 oz |
 | Rye flour | 102 g | 3.6 oz |
@@ -401,16 +401,16 @@
 
 | Fahrenheit | Celsius | Gas Mark | Description |
 | --- | --- | --- | --- |
-| 250Â°F | 120Â°C | Â½ | Very slow/low |
-| 300Â°F | 150Â°C | 2 | Slow |
-| 325Â°F | 165Â°C | 3 | Moderately slow |
-| 350Â°F | 175Â°C | 4 | Moderate |
-| 375Â°F | 190Â°C | 5 | Moderately hot |
-| 400Â°F | 200Â°C | 6 | Hot |
-| 425Â°F | 220Â°C | 7 | Very hot |
-| 450Â°F | 230Â°C | 8 | Extremely hot |
-| 475Â°F | 245Â°C | 9 | Broil/grill range |
-| 500Â°F | 260Â°C | 10 | Maximum |
+| 250°F | 120°C | ½ | Very slow/low |
+| 300°F | 150°C | 2 | Slow |
+| 325°F | 165°C | 3 | Moderately slow |
+| 350°F | 175°C | 4 | Moderate |
+| 375°F | 190°C | 5 | Moderately hot |
+| 400°F | 200°C | 6 | Hot |
+| 425°F | 220°C | 7 | Very hot |
+| 450°F | 230°C | 8 | Extremely hot |
+| 475°F | 245°C | 9 | Broil/grill range |
+| 500°F | 260°C | 10 | Maximum |
 
 ### US Liquid Measures Quick Reference
 
@@ -437,26 +437,26 @@
 
 | Length | Approximate |
 | --- | --- |
-| Width of thumb | â 1 inch |
-| Length of hand (palm to middle finger tip) | â 7 inches |
-| Arm span (adult) | â height in inches |
-| Stride (walking) | â 2.5 feet |
-| Step (pace) | â 2.5â3 feet |
-| 1,000 steps | â 0.5 miles |
-| 2,000 steps | â 1 mile |
-| 10,000 steps | â 5 miles (â8 km) |
+| Width of thumb | ≈ 1 inch |
+| Length of hand (palm to middle finger tip) | ≈ 7 inches |
+| Arm span (adult) | ≈ height in inches |
+| Stride (walking) | ≈ 2.5 feet |
+| Step (pace) | ≈ 2.5–3 feet |
+| 1,000 steps | ≈ 0.5 miles |
+| 2,000 steps | ≈ 1 mile |
+| 10,000 steps | ≈ 5 miles (≈8 km) |
 
 ---
 
-*Section 15.1 â The Observatory Almanac*
+*Section 15.1 — The Observatory Almanac*
 
 ---
 
-## ð Convert Now
+## 🔄 Convert Now
 
 ### Unit Converter
 
-â
+→
 
 
 Length

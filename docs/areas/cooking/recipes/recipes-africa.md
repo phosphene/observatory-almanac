@@ -1,19 +1,19 @@
 # African Recipes
 
-## The Observatory Almanac â Human Hearth
+## The Observatory Almanac — Human Hearth
 
 ---
 
 ## WEST AFRICAN CUISINE
 
-*Lineage: Saharan-Sahelian â Atlantic forest cultures â Transatlantic diaspora influence*
+*Lineage: Saharan-Sahelian → Atlantic forest cultures → Transatlantic diaspora influence*
 
 ---
 
 ### Jollof Rice
 
 **Region:** West Africa (Senegal origin; Ghana, Nigeria, Sierra Leone traditions)
-**Lineage:** Wolof thieboudienne â regional variations across West Africa
+**Lineage:** Wolof thieboudienne → regional variations across West Africa
 
 **Ingredients:**
 - 400 g long-grain parboiled rice
@@ -33,12 +33,12 @@
 **Method:**
 1. Blend tomatoes, red peppers, scotch bonnet, and half the onion into smooth paste.
 2. Heat oil in heavy pot; fry sliced onion until golden.
-3. Add tomato blend; fry over high heat, stirring frequently, for 20â25 minutes until paste reduces and darkens, losing raw tomato flavour.
+3. Add tomato blend; fry over high heat, stirring frequently, for 20–25 minutes until paste reduces and darkens, losing raw tomato flavour.
 4. Add bay leaves, thyme, curry powder, and crumbled stock cube; stir well.
 5. Wash rice until water runs clear; add to tomato base.
 6. Pour in stock; stir once. Liquid should just cover rice.
 7. Bring to boil; reduce to very low heat. Layer sliced tomatoes and onion rings on top; cover tightly.
-8. Cook 30â40 minutes on lowest heat possible. The slight smoky bottom crust ("party jollof" effect) is prized.
+8. Cook 30–40 minutes on lowest heat possible. The slight smoky bottom crust ("party jollof" effect) is prized.
 9. Fluff with fork; serve with fried plantain, chicken, or coleslaw.
 
 *Historical note: Jollof rice descended from the Senegambian thieboudienne; the ongoing "Jollof Wars" between Nigeria and Ghana is an affectionate cultural rivalry.*
@@ -79,7 +79,7 @@
 
 ### Fufu
 
-**Region:** West and Central Africa (Ghana, Nigeria, CÃ´te d'Ivoire, Congo)
+**Region:** West and Central Africa (Ghana, Nigeria, Côte d'Ivoire, Congo)
 **Lineage:** Pre-agricultural root-crop pounding traditions
 
 **Ingredients:**
@@ -88,22 +88,22 @@
 - Water for boiling and pounding
 
 **Method:**
-1. Boil cassava and plantain in separate pots until completely soft, about 30â45 minutes.
+1. Boil cassava and plantain in separate pots until completely soft, about 30–45 minutes.
 2. Drain well; transfer to wooden mortar while still very hot.
 3. Begin pounding with pestle, adding tablespoons of hot water as needed.
-4. Pound rhythmically, turning dough between strokes, for 15â20 minutes until smooth, stretchy, and cohesive.
+4. Pound rhythmically, turning dough between strokes, for 15–20 minutes until smooth, stretchy, and cohesive.
 5. Fufu should pull away cleanly from the mortar and have no lumps.
 6. Shape into smooth ball; serve immediately in individual bowls.
 7. Break off pieces with fingers; mould into ball, make depression, and use to scoop soup.
 
-*Historical note: Pounding fufu together has social significance across West Africa â it is a communal activity often shared between households.*
+*Historical note: Pounding fufu together has social significance across West Africa — it is a communal activity often shared between households.*
 
 ---
 
 ### Suya
 
 **Region:** Northern Nigeria, Niger, Cameroon (Hausa-Fulani origin)
-**Lineage:** Nomadic Fulani cattle herding â Hausa spice trade traditions
+**Lineage:** Nomadic Fulani cattle herding → Hausa spice trade traditions
 
 **Ingredients:**
 - 800 g beef sirloin or tenderloin, thinly sliced
@@ -113,7 +113,7 @@
 - 1 tsp ground cayenne
 - 1 tsp garlic powder
 - 1 tsp onion powder
-- 1 tsp ground suya spice (yaji) â or additional spice blend
+- 1 tsp ground suya spice (yaji) — or additional spice blend
 - Salt to taste
 - Vegetable oil for basting
 
@@ -121,7 +121,7 @@
 1. Combine groundnut powder and all spices into suya spice blend (yaji).
 2. Thread beef slices onto skewers; brush lightly with oil.
 3. Press suya spice mix firmly onto meat on all sides.
-4. Grill over hot charcoal, turning frequently, until charred in spots and cooked through, about 8â10 minutes.
+4. Grill over hot charcoal, turning frequently, until charred in spots and cooked through, about 8–10 minutes.
 5. Baste with additional oil during cooking.
 6. Serve on newspaper with sliced raw onion, sliced tomato, and additional suya spice for dipping.
 
@@ -132,7 +132,7 @@
 ### Mafe (Groundnut Stew)
 
 **Region:** Mali, Senegal, Gambia, Guinea (Mandinka origin)
-**Lineage:** West African groundnut cultivation â Mande empire trade routes
+**Lineage:** West African groundnut cultivation → Mande empire trade routes
 
 **Ingredients:**
 - 800 g lamb or beef shoulder, cubed
@@ -145,14 +145,14 @@
 - 2 carrots, chunked
 - 2 sweet potatoes, cubed
 - 200 g cabbage, chunked
-- 1â2 scotch bonnet chillies
+- 1–2 scotch bonnet chillies
 - 3 tbsp vegetable oil
 - Salt and pepper
 - Fresh parsley to garnish
 
 **Method:**
 1. Brown meat in oil in batches; remove and set aside.
-2. SautÃ© onions and garlic until soft; add tomato paste and cook 3 minutes.
+2. Sauté onions and garlic until soft; add tomato paste and cook 3 minutes.
 3. Add tomatoes; cook 10 minutes until reduced.
 4. Dilute peanut butter with a ladleful of hot stock until smooth.
 5. Add peanut mixture, remaining stock, and chillies to pot with browned meat.
@@ -167,7 +167,7 @@
 ### Thieboudienne
 
 **Region:** Senegal (Casamance, Saint-Louis origin)
-**Lineage:** Wolof fishing culture â Senegambian national dish
+**Lineage:** Wolof fishing culture → Senegambian national dish
 
 **Ingredients:**
 - 1 kg firm white fish (grouper or sea bass), cut into steaks
@@ -193,7 +193,7 @@
 6. Add vegetables (hardest first: cassava and carrot, then sweet potato, then cabbage).
 7. After 20 minutes, add fried fish; simmer 10 minutes until fish is heated through and vegetables are tender.
 8. Remove fish and vegetables; reserve broth.
-9. Cook rice in broth until absorbed. Crust forms on bottom â this is valued.
+9. Cook rice in broth until absorbed. Crust forms on bottom — this is valued.
 10. Serve rice as base with fish and vegetables arranged on top.
 
 *Historical note: Thieboudienne (pronounced cheb-oo-jen) is Senegal's national dish; the fermented locust bean (netetou) gives it its distinctive umami depth.*
@@ -203,7 +203,7 @@
 ### Kelewele (Spiced Fried Plantain)
 
 **Region:** Ghana
-**Lineage:** West African plantain cultivation â Ghanaian street food tradition
+**Lineage:** West African plantain cultivation → Ghanaian street food tradition
 
 **Ingredients:**
 - 3 ripe (yellow-black) plantains, peeled and diced into 2 cm cubes
@@ -216,8 +216,8 @@
 **Method:**
 1. Mix ginger, cayenne, anise, and salt together.
 2. Toss plantain cubes in spice mixture to coat evenly.
-3. Heat oil in deep pan to 180Â°C.
-4. Fry plantain cubes in batches until deeply golden and caramelized, about 3â4 minutes.
+3. Heat oil in deep pan to 180°C.
+4. Fry plantain cubes in batches until deeply golden and caramelized, about 3–4 minutes.
 5. Drain on paper towels.
 6. Serve as street snack or alongside groundnut soup and rice.
 
@@ -228,7 +228,7 @@
 ### Chin Chin
 
 **Region:** Nigeria, Ghana (West Africa broadly)
-**Lineage:** Probable Cantonese fried dough influence via trade â West African sweet snack tradition
+**Lineage:** Probable Cantonese fried dough influence via trade → West African sweet snack tradition
 
 **Ingredients:**
 - 400 g all-purpose flour
@@ -244,11 +244,11 @@
 **Method:**
 1. Combine flour, sugar, baking powder, nutmeg, and salt.
 2. Whisk together eggs, milk, and melted butter; add to dry ingredients.
-3. Knead into smooth, slightly firm dough â about 5 minutes.
+3. Knead into smooth, slightly firm dough — about 5 minutes.
 4. Rest 15 minutes, covered.
 5. Roll small portions of dough thinly on lightly floured surface.
 6. Cut into small strips or knot shapes.
-7. Deep-fry in batches at 170Â°C, turning frequently, until golden and crunchy, about 5 minutes.
+7. Deep-fry in batches at 170°C, turning frequently, until golden and crunchy, about 5 minutes.
 8. Drain and cool on paper towels; store in airtight container.
 
 *Historical note: Chin chin is made in large batches for Nigerian and Ghanaian celebrations, including Christmas and Eid, and given as gifts.*
@@ -257,14 +257,14 @@
 
 ## ETHIOPIAN CUISINE
 
-*Lineage: Ancient Axumite empire â Ethiopian Orthodox Christian fasting traditions â Ge'ez culinary civilization*
+*Lineage: Ancient Axumite empire → Ethiopian Orthodox Christian fasting traditions → Ge'ez culinary civilization*
 
 ---
 
 ### Injera
 
 **Region:** Ethiopia and Eritrea
-**Lineage:** Ancient teff cultivation of the Horn of Africa â Axumite fermentation tradition
+**Lineage:** Ancient teff cultivation of the Horn of Africa → Axumite fermentation tradition
 
 **Ingredients:**
 - 400 g teff flour (100% teff or blend with all-purpose flour)
@@ -275,12 +275,12 @@
 **Method:**
 1. Mix teff flour with water into smooth batter; consistency of thin pancake batter.
 2. Stir in yeast if using; cover with cloth.
-3. Ferment at room temperature 2â3 days, stirring once daily. Batter will become sour and bubbly.
+3. Ferment at room temperature 2–3 days, stirring once daily. Batter will become sour and bubbly.
 4. Season with salt; add extra water if batter has thickened.
 5. Heat a large flat pan (injera is traditionally cooked on a clay mitad) over medium heat.
-6. Pour in a large circle of batter, swirling to coat pan as with a thin crÃªpe.
-7. Cover immediately; cook 2â3 minutes until surface is fully set with characteristic "eyes" (holes).
-8. Do not flip â injera cooks only on one side.
+6. Pour in a large circle of batter, swirling to coat pan as with a thin crêpe.
+7. Cover immediately; cook 2–3 minutes until surface is fully set with characteristic "eyes" (holes).
+8. Do not flip — injera cooks only on one side.
 9. Remove; allow to cool on cloth before stacking.
 
 *Historical note: Injera serves as both plate and utensil; the fermented sourdough flatbread has been the foundation of Ethiopian cuisine for at least two millennia.*
@@ -290,7 +290,7 @@
 ### Doro Wat
 
 **Region:** Ethiopia
-**Lineage:** Ethiopian Orthodox fasting cuisine â royal Amhara court tradition
+**Lineage:** Ethiopian Orthodox fasting cuisine → royal Amhara court tradition
 
 **Ingredients:**
 - 1 whole chicken, cut into 10 pieces, skinned and scored
@@ -306,12 +306,12 @@
 - 3 tbsp paprika, 1 tsp cayenne, 1 tsp fenugreek, 1/2 tsp allspice, 1/2 tsp cinnamon, 1/2 tsp coriander, 1/4 tsp cardamom, pinch of cloves
 
 **Method:**
-1. Dry-cook onions in pot over medium heat, stirring frequently, until they turn golden and reduce dramatically â about 30â40 minutes with no oil.
+1. Dry-cook onions in pot over medium heat, stirring frequently, until they turn golden and reduce dramatically — about 30–40 minutes with no oil.
 2. Add niter kibbeh; cook onions in spiced butter another 10 minutes.
 3. Stir in berbere; cook 10 minutes, stirring to prevent burning.
 4. Add tomato paste and water; bring to simmer.
 5. Add chicken pieces; stir to coat in sauce.
-6. Simmer covered for 35â40 minutes until chicken is cooked through.
+6. Simmer covered for 35–40 minutes until chicken is cooked through.
 7. Add whole peeled hard-boiled eggs; simmer 10 minutes to absorb sauce.
 8. Serve on injera with a portion of niter kibbeh swirled on top.
 
@@ -322,7 +322,7 @@
 ### Misir Wat (Spiced Red Lentils)
 
 **Region:** Ethiopia
-**Lineage:** Ethiopian Orthodox fasting cuisine (no meat on fasting days) â Ge'ez agricultural tradition
+**Lineage:** Ethiopian Orthodox fasting cuisine (no meat on fasting days) → Ge'ez agricultural tradition
 
 **Ingredients:**
 - 400 g red lentils, rinsed
@@ -350,7 +350,7 @@
 ### Kitfo
 
 **Region:** Gurage region, Ethiopia
-**Lineage:** Gurage highland cattle culture â Ethiopian steak tartare tradition
+**Lineage:** Gurage highland cattle culture → Ethiopian steak tartare tradition
 
 **Ingredients:**
 - 500 g lean beef (tenderloin or eye round), finely minced or hand-chopped
@@ -365,7 +365,7 @@
 1. Mince beef very finely by hand or through the finest die of a meat grinder.
 2. Warm niter kibbeh in pan; add mitmita and cardamom. Stir together.
 3. Remove spiced butter from heat; mix thoroughly with minced beef.
-4. Serve immediately at room temperature (kitfo leb leb â warmed through) or slightly cooked over low heat (kitfo betam leb â well done).
+4. Serve immediately at room temperature (kitfo leb leb — warmed through) or slightly cooked over low heat (kitfo betam leb — well done).
 5. Serve on injera with ayib and gomen.
 
 *Historical note: Kitfo is the prized dish of the Gurage people; cattle ownership is a mark of wealth in Gurage culture, and kitfo is reserved for guests of honour.*
@@ -375,14 +375,14 @@
 ### Tibs
 
 **Region:** Ethiopia
-**Lineage:** Ethiopian highland meat cookery â Addis Ababa restaurant culture
+**Lineage:** Ethiopian highland meat cookery → Addis Ababa restaurant culture
 
 **Ingredients:**
 - 600 g beef, lamb, or goat (tenderloin or shoulder), cut into bite-sized pieces
 - 1 large onion, sliced
 - 3 cloves garlic, minced
 - 1 tsp ginger, minced
-- 2 jalapeÃ±o or serrano peppers, sliced
+- 2 jalapeño or serrano peppers, sliced
 - 2 tbsp niter kibbeh
 - 1 tsp berbere or mitmita
 - 1 rosemary sprig
@@ -391,21 +391,21 @@
 
 **Method:**
 1. Heat niter kibbeh in cast-iron pan or skillet over high heat until smoking.
-2. Sear meat in batches, very quickly, for 2â3 minutes until browned on outside but still pink inside (for beef tibs).
-3. Remove meat; sautÃ© onion in same pan until softened.
+2. Sear meat in batches, very quickly, for 2–3 minutes until browned on outside but still pink inside (for beef tibs).
+3. Remove meat; sauté onion in same pan until softened.
 4. Add garlic, ginger, and chillies; cook 2 minutes.
 5. Return meat; add berbere and rosemary.
-6. Toss together over high heat for 1â2 minutes to combine flavors.
+6. Toss together over high heat for 1–2 minutes to combine flavors.
 7. Season; serve sizzling on injera.
 
-*Historical note: Tibs refers to any sautÃ©ed or grilled meat dish in Ethiopian cuisine; it is the everyday meat preparation distinct from the formal doro wat.*
+*Historical note: Tibs refers to any sautéed or grilled meat dish in Ethiopian cuisine; it is the everyday meat preparation distinct from the formal doro wat.*
 
 ---
 
 ### Shiro
 
 **Region:** Ethiopia and Eritrea
-**Lineage:** Ancient legume cultivation of the Horn of Africa â Orthodox fasting staple
+**Lineage:** Ancient legume cultivation of the Horn of Africa → Orthodox fasting staple
 
 **Ingredients:**
 - 200 g shiro powder (roasted chickpea flour with spices) or plain chickpea flour
@@ -417,7 +417,7 @@
 - Salt to taste
 
 **Method:**
-1. SautÃ© onion in niter kibbeh until golden; add garlic and berbere.
+1. Sauté onion in niter kibbeh until golden; add garlic and berbere.
 2. Cook 3 minutes; add half the water.
 3. Whisk shiro powder into remaining cold water until smooth; pour into pot while stirring.
 4. Cook over medium heat, stirring constantly to prevent lumps, about 15 minutes.
@@ -432,24 +432,24 @@
 ### Gomen (Ethiopian Braised Collard Greens)
 
 **Region:** Ethiopia
-**Lineage:** Ethiopian vegetable cookery â Orthodox fasting tradition
+**Lineage:** Ethiopian vegetable cookery → Orthodox fasting tradition
 
 **Ingredients:**
 - 600 g collard greens (or kale), washed and sliced
 - 1 large onion, diced
 - 4 cloves garlic, minced
 - 1 tsp ginger, grated
-- 1 jalapeÃ±o, minced (optional)
+- 1 jalapeño, minced (optional)
 - 3 tbsp niter kibbeh or olive oil
 - 1/2 tsp turmeric
 - Salt to taste
 
 **Method:**
-1. Heat niter kibbeh in large pan; sautÃ© onion until soft and golden.
-2. Add garlic, ginger, and jalapeÃ±o; cook 2 minutes.
+1. Heat niter kibbeh in large pan; sauté onion until soft and golden.
+2. Add garlic, ginger, and jalapeño; cook 2 minutes.
 3. Add sliced collard greens in batches, stirring to wilt each batch.
 4. Season with turmeric and salt.
-5. Cover and cook on medium-low heat for 15â20 minutes until greens are tender but retain some texture.
+5. Cover and cook on medium-low heat for 15–20 minutes until greens are tender but retain some texture.
 6. Adjust seasoning; serve alongside kitfo or as a fasting side dish on injera.
 
 *Historical note: Gomen is valued for its bitterness, which is considered healthful in Ethiopian tradition, and is a key accompaniment to kitfo.*
@@ -458,14 +458,14 @@
 
 ## NORTH AFRICAN CUISINE
 
-*Lineage: Berber â Arab Islamic â Ottoman â trans-Saharan trade route traditions*
+*Lineage: Berber → Arab Islamic → Ottoman → trans-Saharan trade route traditions*
 
 ---
 
 ### Lamb Tagine with Prunes and Almonds
 
 **Region:** Morocco
-**Lineage:** Berber slow-cooking tradition â Andalusian Arab influence â Moroccan imperial court cuisine
+**Lineage:** Berber slow-cooking tradition → Andalusian Arab influence → Moroccan imperial court cuisine
 
 **Ingredients:**
 - 1 kg lamb shoulder, cubed
@@ -500,7 +500,7 @@
 ### Couscous with Seven Vegetables
 
 **Region:** Morocco, Algeria, Tunisia
-**Lineage:** Berber semolina-grain preparation â Maghrebi staple cereal dish
+**Lineage:** Berber semolina-grain preparation → Maghrebi staple cereal dish
 
 **Ingredients:**
 - 500 g couscous (medium grain)
@@ -535,7 +535,7 @@
 ### Shakshuka
 
 **Region:** Tunisia (origin); widely made across North Africa and Middle East
-**Lineage:** Berber-Ottoman spiced tomato tradition â Israeli brunch adoption
+**Lineage:** Berber-Ottoman spiced tomato tradition → Israeli brunch adoption
 
 **Ingredients:**
 - 6 eggs
@@ -553,12 +553,12 @@
 - Fresh coriander and feta (optional) to serve
 
 **Method:**
-1. Heat oil in large skillet; sautÃ© onion until soft.
+1. Heat oil in large skillet; sauté onion until soft.
 2. Add bell peppers; cook 5 minutes.
 3. Add garlic and spices; cook 1 minute until fragrant.
-4. Add tomatoes and sugar; simmer 15â20 minutes until sauce thickens.
+4. Add tomatoes and sugar; simmer 15–20 minutes until sauce thickens.
 5. Make 6 wells in sauce; crack an egg into each.
-6. Cover; cook on medium-low heat until whites are set but yolks are still runny, about 7â8 minutes.
+6. Cover; cook on medium-low heat until whites are set but yolks are still runny, about 7–8 minutes.
 7. Scatter with fresh coriander and crumbled feta; serve from pan with warm bread.
 
 *Historical note: Shakshuka likely originated in Ottoman North Africa; the word comes from Tunisian Arabic and Berber roots meaning "mixture" or "shaken."*
@@ -568,7 +568,7 @@
 ### Harira
 
 **Region:** Morocco
-**Lineage:** Berber-Arab soup tradition â Ramadan iftar staple
+**Lineage:** Berber-Arab soup tradition → Ramadan iftar staple
 
 **Ingredients:**
 - 200 g lamb shoulder, diced (optional)
@@ -607,7 +607,7 @@
 ### Bastilla (Pastilla)
 
 **Region:** Fez and Marrakech, Morocco
-**Lineage:** Moorish Andalusian â Moroccan imperial cuisine â Fassi culinary art
+**Lineage:** Moorish Andalusian → Moroccan imperial cuisine → Fassi culinary art
 
 **Ingredients:**
 - 1 kg chicken pieces
@@ -621,7 +621,7 @@
 - 3 tbsp sugar
 - 50 g butter
 - Fresh coriander and parsley, chopped
-- 12â16 sheets warqa pastry (or phyllo/brick pastry)
+- 12–16 sheets warqa pastry (or phyllo/brick pastry)
 - Icing sugar and cinnamon for dusting
 
 **Method:**
@@ -630,8 +630,8 @@
 3. Mix almond meal with cinnamon, sugar, and a pinch of salt.
 4. Layer a greased round baking pan with 6 overlapping sheets of pastry, brushing each with butter.
 5. Layer egg mixture, then shredded chicken, then almond mixture.
-6. Fold pastry sheets over filling; top with remaining 6â8 sheets, brushing each with butter. Tuck edges under.
-7. Bake at 200Â°C for 20â25 minutes until crisp and golden.
+6. Fold pastry sheets over filling; top with remaining 6–8 sheets, brushing each with butter. Tuck edges under.
+7. Bake at 200°C for 20–25 minutes until crisp and golden.
 8. Invert; dust heavily with icing sugar and draw cinnamon pattern on top.
 
 *Historical note: Bastilla is considered the pinnacle of Moroccan courtly cuisine; its sweet-savoury combination traces to the Moorish Andalusian tradition.*
@@ -641,7 +641,7 @@
 ### Merguez
 
 **Region:** Tunisia, Algeria, Morocco (Maghrebi origin)
-**Lineage:** Berber lamb cookery â North African spiced sausage tradition
+**Lineage:** Berber lamb cookery → North African spiced sausage tradition
 
 **Ingredients:**
 - 600 g lamb shoulder, finely minced
@@ -660,7 +660,7 @@
 2. Fry a small portion; taste and adjust seasoning.
 3. Stuff mixture into soaked casings; twist into 15 cm links.
 4. Refrigerate 1 hour.
-5. Grill over charcoal or barbecue over high heat, turning often, until cooked through and charred, about 10â12 minutes.
+5. Grill over charcoal or barbecue over high heat, turning often, until cooked through and charred, about 10–12 minutes.
 6. Serve in baguette with harissa, cumin, and raw onion, or alongside couscous.
 
 *Historical note: Merguez arrived in French cuisine via Algerian immigration in the 20th century and are now a fixture at French barbecues.*
@@ -670,7 +670,7 @@
 ### Brik
 
 **Region:** Tunisia
-**Lineage:** Andalusian-Arab pastry tradition â Ottoman-Tunisian specialty
+**Lineage:** Andalusian-Arab pastry tradition → Ottoman-Tunisian specialty
 
 **Ingredients:**
 - 4 sheets malsouka (brik pastry) or thin phyllo
@@ -688,7 +688,7 @@
 2. Place one brik sheet in hot oiled pan; spoon tuna mixture in centre.
 3. Create a depression in the filling; crack an egg into it.
 4. Season egg; fold pastry over into half-moon, pressing edges together.
-5. Fry on both sides until golden and crisp, about 2â3 minutes per side; egg yolk should remain runny.
+5. Fry on both sides until golden and crisp, about 2–3 minutes per side; egg yolk should remain runny.
 6. Serve immediately with lemon and harissa.
 
 *Historical note: Brik is Tunisia's most iconic street food; the challenge of eating one without breaking the yolk is a Tunisian rite of passage.*
@@ -697,14 +697,14 @@
 
 ## SOUTH AFRICAN CUISINE
 
-*Lineage: Khoisan â Bantu â Cape Malay (VOC spice trade) â Boer-settler traditions*
+*Lineage: Khoisan → Bantu → Cape Malay (VOC spice trade) → Boer-settler traditions*
 
 ---
 
 ### Bobotie
 
 **Region:** Cape Town, South Africa (Cape Malay origin)
-**Lineage:** Dutch-Malay VOC trade routes â Cape Malay fusion cuisine â South African national dish
+**Lineage:** Dutch-Malay VOC trade routes → Cape Malay fusion cuisine → South African national dish
 
 **Ingredients:**
 - 750 g minced beef or lamb
@@ -722,14 +722,14 @@
 - Salt and pepper
 
 **Method:**
-1. SautÃ© onions in oil until soft; add curry powder and turmeric.
+1. Sauté onions in oil until soft; add curry powder and turmeric.
 2. Add minced meat; brown well.
 3. Squeeze bread from soaked milk (reserve milk); crumble bread into meat.
 4. Stir in jam, raisins, almonds, and lemon juice; season generously.
 5. Transfer to greased baking dish; smooth surface.
 6. Beat eggs with reserved milk; season and pour over meat.
 7. Arrange bay leaves on top.
-8. Bake at 180Â°C for 35â40 minutes until egg custard is set and golden.
+8. Bake at 180°C for 35–40 minutes until egg custard is set and golden.
 9. Serve with yellow turmeric rice, chutney, and banana slices.
 
 *Historical note: Bobotie has been the unofficial national dish of South Africa since at least the 17th century; its roots in VOC-era Cape Malay cooking make it a unique Afro-Asian fusion.*
@@ -739,7 +739,7 @@
 ### Biltong
 
 **Region:** South Africa (and Southern Africa broadly)
-**Lineage:** Khoisan drying techniques â Voortrekker preservation needs â South African cultural institution
+**Lineage:** Khoisan drying techniques → Voortrekker preservation needs → South African cultural institution
 
 **Ingredients:**
 - 1 kg beef silverside or topside, cut with the grain into thick strips
@@ -753,10 +753,10 @@
 **Method:**
 1. Mix salt, sugar, coriander, and pepper for the cure.
 2. Rub meat strips with vinegar; press cure mixture firmly into all sides.
-3. Stack meat strips in glass or ceramic dish; refrigerate 12â24 hours, turning once.
+3. Stack meat strips in glass or ceramic dish; refrigerate 12–24 hours, turning once.
 4. Remove from cure; pat dry without rinsing.
 5. Hang strips on hooks or drying rack in a cool, well-ventilated space with good airflow.
-6. Dry for 4â7 days until outer surface is hard but centre has slight give (wet biltong) or until completely hard throughout (dry biltong).
+6. Dry for 4–7 days until outer surface is hard but centre has slight give (wet biltong) or until completely hard throughout (dry biltong).
 7. Slice thinly across the grain to serve.
 
 *Historical note: Biltong (from Dutch "bil" meaning buttock and "tong" meaning strip or tongue) was essential for Dutch Voortrekkers on the Great Trek across southern Africa in the 1830s.*
@@ -766,7 +766,7 @@
 ### Bunny Chow
 
 **Region:** Durban, KwaZulu-Natal, South Africa
-**Lineage:** Indian indentured labour immigration â Durban Indian-South African street food
+**Lineage:** Indian indentured labour immigration → Durban Indian-South African street food
 
 **Ingredients:**
 - 1 unsliced white bread loaf (quarter loaf per serving)
@@ -783,7 +783,7 @@
 - 3 tbsp oil, salt
 
 **Method:**
-1. Prepare curry: brown meat; sautÃ© onion; add garlic, ginger, and masala. Add tomatoes and simmer 45 minutes until tender. Add potatoes and cook until soft.
+1. Prepare curry: brown meat; sauté onion; add garlic, ginger, and masala. Add tomatoes and simmer 45 minutes until tender. Add potatoes and cook until soft.
 2. Cut bread loaf into quarters; scoop out inside of each quarter, reserving bread "lid."
 3. Fill hollow loaf with hot curry.
 4. Place bread lid on top; serve with tomato-onion sambal.
@@ -796,7 +796,7 @@
 ### Boerewors
 
 **Region:** South Africa
-**Lineage:** Afrikaner Boer settler sausage-making â South African braai (barbecue) culture
+**Lineage:** Afrikaner Boer settler sausage-making → South African braai (barbecue) culture
 
 **Ingredients:**
 - 700 g beef chuck, minced
@@ -817,17 +817,17 @@
 3. Refrigerate 1 hour; fry small test patty and adjust seasoning.
 4. Stuff into soaked casings without packing too tightly; coil into large spiral.
 5. Refrigerate until needed.
-6. Grill as a coil over moderate braai coals, turning carefully to keep coil intact, about 20â25 minutes.
+6. Grill as a coil over moderate braai coals, turning carefully to keep coil intact, about 20–25 minutes.
 7. Serve in a bread roll or with pap (maize porridge) and chakalaka (spiced vegetable relish).
 
-*Historical note: By South African food safety law, boerewors must contain at least 90% meat and no cereal fillers â among the strictest sausage standards in the world.*
+*Historical note: By South African food safety law, boerewors must contain at least 90% meat and no cereal fillers — among the strictest sausage standards in the world.*
 
 ---
 
 ### Malva Pudding
 
 **Region:** Cape Town, South Africa
-**Lineage:** Dutch-Afrikaner baking tradition â Cape Malay sweet influence
+**Lineage:** Dutch-Afrikaner baking tradition → Cape Malay sweet influence
 
 **Ingredients:**
 - 200 g caster sugar
@@ -849,12 +849,12 @@
 - 1 tsp vanilla
 
 **Method:**
-1. Preheat oven to 180Â°C; grease a baking dish.
+1. Preheat oven to 180°C; grease a baking dish.
 2. Beat sugar and eggs until pale and thick.
 3. Beat in jam, vinegar, and vanilla.
 4. Combine flour, bicarbonate of soda, and salt; fold into egg mixture alternating with milk.
 5. Stir in melted butter; pour into baking dish.
-6. Bake 35â40 minutes until well risen and dark golden.
+6. Bake 35–40 minutes until well risen and dark golden.
 7. Make sauce: melt butter and sugar; add cream, water, and vanilla. Bring to boil.
 8. Pour hot sauce over hot pudding immediately from oven; allow to absorb.
 9. Serve warm with custard, cream, or ice cream.
@@ -866,7 +866,7 @@
 ### Potjiekos
 
 **Region:** South Africa (Afrikaner and Voortrekker tradition)
-**Lineage:** Dutch-Flemish pot cooking â Voortrekker pioneer cuisine â South African braai culture
+**Lineage:** Dutch-Flemish pot cooking → Voortrekker pioneer cuisine → South African braai culture
 
 **Ingredients:**
 - 1 kg lamb or venison, bone-in pieces
@@ -889,8 +889,8 @@
 4. Return meat; pour over wine and stock.
 5. Layer vegetables on top of meat (do not stir once layering begins).
 6. Spice with herbs and mixed spice.
-7. Cover with cast-iron lid; cook over very low coals for 3â4 hours.
-8. The condensation cycle inside the pot self-bastes the ingredients â do not lift the lid unnecessarily.
+7. Cover with cast-iron lid; cook over very low coals for 3–4 hours.
+8. The condensation cycle inside the pot self-bastes the ingredients — do not lift the lid unnecessarily.
 9. Serve directly from pot with fresh bread or pap.
 
 *Historical note: Potjiekos (little pot food) was born on the Great Trek; the three-legged cast-iron potjie pot is a symbol of Afrikaner heritage.*

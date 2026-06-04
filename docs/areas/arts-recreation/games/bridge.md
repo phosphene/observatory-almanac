@@ -1,8 +1,8 @@
 # Contract Bridge
 
-**The Partnership Card Game** Â· 4 players (2 partnerships) Â· Ages 12+ Â· 30 minââ
+**The Partnership Card Game** · 4 players (2 partnerships) · Ages 12+ · 30 min–∞
 
-Contract Bridge is widely regarded as the greatest card game ever devised. Four players form two partnerships, sitting opposite each other. First, a bidding phase determines the contractâwhich partnership will take how many tricks, and in what trump suit. Then the hand is played. The interplay of information-exchange bidding, dummy play, and defensive signaling creates a game of extraordinary depth.
+Contract Bridge is widely regarded as the greatest card game ever devised. Four players form two partnerships, sitting opposite each other. First, a bidding phase determines the contract—which partnership will take how many tricks, and in what trump suit. Then the hand is played. The interplay of information-exchange bidding, dummy play, and defensive signaling creates a game of extraordinary depth.
 
 ---
 
@@ -24,7 +24,7 @@ Four players: **North, East, South, West.** North-South are partners; East-West 
 
 Cards rank from highest to lowest: **A K Q J 10 9 8 7 6 5 4 3 2** in each suit.
 
-Suits rank (for trump and bidding purposes): **Spades (â ) > Hearts (â¥) > Diamonds (â¦) > Clubs (â£)**. This ranking is used for bidding order; suits have no inherent value otherwise.
+Suits rank (for trump and bidding purposes): **Spades (♠) > Hearts (♥) > Diamonds (♦) > Clubs (♣)**. This ranking is used for bidding order; suits have no inherent value otherwise.
 
 ---
 
@@ -43,10 +43,10 @@ A bid specifies:
 2. **Strain:** The trump suit (clubs, diamonds, hearts, spades) or no-trump (NT).
 
 The 35 possible bids are arranged in order:
-1â£ 1â¦ 1â¥ 1â  1NT
-2â£ 2â¦ 2â¥ 2â  2NT
+1♣ 1♦ 1♥ 1♠ 1NT
+2♣ 2♦ 2♥ 2♠ 2NT
 ...through...
-7â£ 7â¦ 7â¥ 7â  7NT
+7♣ 7♦ 7♥ 7♠ 7NT
 
 Each bid must be higher than the previous bid (higher level, or same level with higher strain).
 
@@ -89,19 +89,19 @@ These agreements between partners allow more efficient communication of hand str
 
 The most common American standard. Basic framework:
 
-* **Opening 1NT:** 15â17 HCP, balanced hand (no void, no singleton, at most one doubleton)
-* **Opening 2NT:** 20â21 HCP, balanced
-* **Opening 2â£:** 22+ HCP (strong, forcingâunconditional forcing bid)
-* **Opening 1 of a suit:** 12â21 HCP, normally 4+ cards in the suit bid
+* **Opening 1NT:** 15–17 HCP, balanced hand (no void, no singleton, at most one doubleton)
+* **Opening 2NT:** 20–21 HCP, balanced
+* **Opening 2♣:** 22+ HCP (strong, forcing—unconditional forcing bid)
+* **Opening 1 of a suit:** 12–21 HCP, normally 4+ cards in the suit bid
 
 ### Stayman Convention
 
-After partner opens 1NT or 2NT, a bid of **2â£** (or **3â£** after 2NT) asks partner: "Do you have a four-card major (hearts or spades)?"
+After partner opens 1NT or 2NT, a bid of **2♣** (or **3♣** after 2NT) asks partner: "Do you have a four-card major (hearts or spades)?"
 
 Responses:
-- **2â¦ (or 3â¦):** No four-card major
-- **2â¥ (or 3â¥):** Four or more hearts
-- **2â  (or 3â ):** Four or more spades (sometimes used for both 4 spades and 4 hearts)
+- **2♦ (or 3♦):** No four-card major
+- **2♥ (or 3♥):** Four or more hearts
+- **2♠ (or 3♠):** Four or more spades (sometimes used for both 4 spades and 4 hearts)
 
 Purpose: Find 4-4 major suit fits, which often produce more tricks than no-trump.
 
@@ -110,26 +110,26 @@ Purpose: Find 4-4 major suit fits, which often produce more tricks than no-trump
 The **4NT** bid asks partner how many aces they hold.
 
 Responses (Roman Keycard Blackwood, the modern version):
-- **5â£:** 0 or 3 key cards
-- **5â¦:** 1 or 4 key cards
-- **5â¥:** 2 key cards, no trump queen
-- **5â :** 2 key cards, with the trump queen
+- **5♣:** 0 or 3 key cards
+- **5♦:** 1 or 4 key cards
+- **5♥:** 2 key cards, no trump queen
+- **5♠:** 2 key cards, with the trump queen
 
 "Key cards" = the four aces plus the king of trumps. RKCB is used before slam attempts.
 
-After the response, **5NT** asks for kings. The purpose: avoid bidding small slams missing two aces (6â  missing two aces is hopeless).
+After the response, **5NT** asks for kings. The purpose: avoid bidding small slams missing two aces (6♠ missing two aces is hopeless).
 
 ### Transfer Bids (Jacoby Transfers)
 
 After partner opens 1NT:
-- **2â¦:** Transferâpartner must bid 2â¥ (shows 5+ hearts in responder's hand)
-- **2â¥:** Transferâpartner must bid 2â  (shows 5+ spades)
+- **2♦:** Transfer—partner must bid 2♥ (shows 5+ hearts in responder's hand)
+- **2♥:** Transfer—partner must bid 2♠ (shows 5+ spades)
 
 This lets the stronger hand (the 1NT opener) become declarer, concealing their strength.
 
-### Opening 2â£
+### Opening 2♣
 
-Artificial strong bid (22+ HCP or any hand too strong for a 1-level opening). Completely forcingâpartner cannot pass. Responses: **2â¦** = waiting/negative (says nothing about diamonds); 2â¥/2â /3â£/3â¦ = natural positive with good suit; 2NT = balanced, 8+ HCP.
+Artificial strong bid (22+ HCP or any hand too strong for a 1-level opening). Completely forcing—partner cannot pass. Responses: **2♦** = waiting/negative (says nothing about diamonds); 2♥/2♠/3♣/3♦ = natural positive with good suit; 2NT = balanced, 8+ HCP.
 
 ---
 
@@ -137,11 +137,11 @@ Artificial strong bid (22+ HCP or any hand too strong for a 1-level opening). Co
 
 ### Dummy
 
-The declarer's partner (dummy) lays their entire hand face up on the table after the opening lead. The dummy plays no role in the handâthe declarer plays both hands. Dummy may not give advice, indicate leads, or object to plays.
+The declarer's partner (dummy) lays their entire hand face up on the table after the opening lead. The dummy plays no role in the hand—the declarer plays both hands. Dummy may not give advice, indicate leads, or object to plays.
 
 ### The Opening Lead
 
-The defender to the left of the declarer makes the opening leadâthe first card played. The opening lead is made face down to allow partner to double-check the contract; then exposed.
+The defender to the left of the declarer makes the opening lead—the first card played. The opening lead is made face down to allow partner to double-check the contract; then exposed.
 
 **Standard leads:**
 - **From a sequence:** Lead the top card (K from KQJ)
@@ -180,7 +180,7 @@ A doubled contract scores double these trick points; redoubled scores quadruple.
 
 ### Game and Slam Bonuses
 
-**Game:** A contract worth 100+ points in trick points (3NT, 4â¥, 4â , 5â£, 5â¦).
+**Game:** A contract worth 100+ points in trick points (3NT, 4♥, 4♠, 5♣, 5♦).
 - Non-vulnerable game bonus (rubber): 300
 - Vulnerable game bonus (rubber): 500
 
@@ -226,7 +226,7 @@ After winning a game, a side becomes **vulnerable**. Being vulnerable increases 
 
 ## Duplicate Bridge
 
-In duplicate bridge, the same hands are played at multiple tables simultaneously. Players do not compete against their direct opponents at the tableâthey compete against all players who held the same cards. This eliminates luck of the deal.
+In duplicate bridge, the same hands are played at multiple tables simultaneously. Players do not compete against their direct opponents at the table—they compete against all players who held the same cards. This eliminates luck of the deal.
 
 **Matchpoint scoring:** Each board (deal) is scored independently. You earn matchpoints by outscoring pairs who held the same cards. Common in club play and tournaments.
 
@@ -250,4 +250,4 @@ Defenders communicate through card plays:
 
 *See also: Spades (simpler partnership trump game), Euchre, Cribbage*
 
-### ð¯ Scorecard
+### 🎯 Scorecard

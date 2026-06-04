@@ -17,7 +17,7 @@
 
 *Japan*
 **Ingredients:** 200g sushi-grade salmon, 300g sushi rice, wasabi, soy sauce.
-1. Slice salmon at 45Â° angle, 5mm thick.
+1. Slice salmon at 45° angle, 5mm thick.
 2. Form rice oval; add wasabi.
 3. Place salmon on top; press lightly.
 
@@ -152,7 +152,7 @@
 
 *Japan / Fukuoka*
 **Ingredients:** 2kg pork trotters + neck bones, 300g chashu pork belly, 4 soft-boiled eggs (soy-marinated), 400g fresh ramen noodles, 4 cups bean sprouts, nori, bamboo shoots (menma), 2 tbsp sesame seeds, tare (2 tbsp soy, 1 tbsp mirin, 1 tsp salt), scallions, black garlic oil.
-1. Blanch bones; drain; simmer 10â12 hrs with fresh water until broth is milky white.
+1. Blanch bones; drain; simmer 10–12 hrs with fresh water until broth is milky white.
 2. Strain broth; season with tare.
 3. Marinate eggs in soy/mirin/water 4 hrs.
 4. Braise pork belly in soy/mirin/sake/sugar 2 hrs; slice.
@@ -189,7 +189,7 @@
 *Japan*
 **Ingredients:** 1 sweet potato, 1 zucchini, 8 shishito peppers, 1 cup flour, 1 egg yolk, 1 cup ice water, oil for frying, tentsuyu (1 cup dashi, 3 tbsp soy, 3 tbsp mirin).
 1. Mix flour, egg yolk, ice water minimally (lumpy ok).
-2. Dip vegetables; fry at 175Â°C until lightly golden.
+2. Dip vegetables; fry at 175°C until lightly golden.
 3. Make tentsuyu by simmering dashi/soy/mirin.
 4. Serve immediately with sauce and grated daikon.
 
@@ -198,7 +198,7 @@
 *Japan*
 **Ingredients:** 12 large shrimp (deveined, tail-on), tempura batter, oil, tentsuyu.
 1. Score underside of shrimp; stretch straight.
-2. Coat in batter; fry at 175Â°C 2â3 min.
+2. Coat in batter; fry at 175°C 2–3 min.
 3. Drain; serve with tentsuyu + daikon.
 
 ### Kakiage (Mixed Tempura Fritter)
@@ -207,7 +207,7 @@
 **Ingredients:** 200g mixed seafood (shrimp, squid), 1 onion (thin strips), 1 carrot (julienned), tempura batter, oil.
 1. Toss seafood + veg with dry flour.
 2. Add minimal batter to bind.
-3. Drop spoonfuls in oil; fry 3â4 min.
+3. Drop spoonfuls in oil; fry 3–4 min.
 
 ### Chicken Teriyaki
 
@@ -234,7 +234,7 @@
 1. Cube chicken; alternate on skewers with scallion.
 2. Grill on charcoal or grill pan.
 3. Brush tare (soy/mirin/sake/sugar simmered thick) while grilling.
-4. Repeat 2â3 times.
+4. Repeat 2–3 times.
 
 ### Yakitori Negima (Chicken + Scallion)
 
@@ -259,7 +259,7 @@
 1. Mix pork, cabbage, garlic, ginger, soy, sesame, sake.
 2. Fill wrappers; fold with pleats.
 3. Pan-fry in oil until golden on bottom.
-4. Add Â¼ cup water; cover; steam 3 min.
+4. Add ¼ cup water; cover; steam 3 min.
 5. Uncover; cook until crisp again.
 6. Serve with ponzu or vinegar/soy dip.
 
@@ -285,7 +285,7 @@
 *Japan / Osaka*
 **Ingredients:** 200g flour, 600ml dashi, 2 eggs, 1 tsp soy, 200g cooked octopus (chopped), pickled ginger, tenkasu, scallions, takoyaki sauce, mayo, katsuobushi, aonori.
 1. Mix batter (flour + dashi + eggs + soy).
-2. Heat takoyaki pan; fill cups Â¾ with batter.
+2. Heat takoyaki pan; fill cups ¾ with batter.
 3. Add octopus, ginger, tenkasu, scallion to each.
 4. Rotate with pick as edges set; cook 3 min until round.
 5. Top with sauce, mayo, bonito, aonori.
@@ -350,8 +350,8 @@
 *Japan*
 **Ingredients:** 4 pork loin chops (1cm thick), flour, 2 eggs (beaten), panko breadcrumbs, oil, tonkatsu sauce, shredded cabbage, lemon.
 1. Pound pork thin; season with salt/pepper.
-2. Coat: flour â egg â panko.
-3. Deep-fry at 170Â°C 4â5 min until golden.
+2. Coat: flour → egg → panko.
+3. Deep-fry at 170°C 4–5 min until golden.
 4. Slice; serve with tonkatsu sauce, cabbage, lemon.
 
 ### Chicken Katsu
@@ -359,20 +359,20 @@
 *Japan*
 **Ingredients:** 4 chicken breasts (pounded thin), flour, egg, panko, oil, tonkatsu sauce, katsu curry.
 1. Same breading technique as tonkatsu.
-2. Fry at 170Â°C until golden.
+2. Fry at 170°C until golden.
 
 ### Katsu Curry
 
 *Japan*
 **Ingredients:** Chicken or pork katsu, Japanese curry roux (S&B or Vermont), 2 potatoes, 2 carrots, 1 onion, 1L water, rice.
-1. SautÃ© onion; add carrots, potatoes; add water.
+1. Sauté onion; add carrots, potatoes; add water.
 2. Simmer 20 min; add curry roux; stir until thick.
 3. Serve rice + katsu + curry.
 
 ### Katsudon (Katsu Rice Bowl)
 
 *Japan*
-**Ingredients:** 1 tonkatsu (sliced), 2 eggs, Â½ onion (sliced), 100ml dashi, 2 tbsp soy, 1 tbsp mirin, 1 tbsp sugar, rice.
+**Ingredients:** 1 tonkatsu (sliced), 2 eggs, ½ onion (sliced), 100ml dashi, 2 tbsp soy, 1 tbsp mirin, 1 tbsp sugar, rice.
 1. Simmer onion in dashi/soy/mirin/sugar 3 min.
 2. Add sliced katsu; pour beaten eggs over.
 3. Cover; cook until egg just sets.
@@ -398,11 +398,11 @@
 ### Chawanmushi (Steamed Egg Custard)
 
 *Japan*
-**Ingredients:** 4 eggs, 400ml dashi, 1 tbsp soy, 1 tbsp mirin, Â½ tsp salt, 4 shrimp, 4 shiitake mushrooms, mitsuba, kamaboko.
+**Ingredients:** 4 eggs, 400ml dashi, 1 tbsp soy, 1 tbsp mirin, ½ tsp salt, 4 shrimp, 4 shiitake mushrooms, mitsuba, kamaboko.
 1. Whisk eggs with dashi, soy, mirin, salt; strain.
 2. Place shrimp, mushroom, kamaboko in cups.
 3. Pour egg mixture over; skim bubbles.
-4. Steam at low heat (85Â°C) 12â15 min.
+4. Steam at low heat (85°C) 12–15 min.
 5. Garnish with mitsuba.
 
 ### Salmon Onigiri
@@ -433,7 +433,7 @@
 
 *Japan*
 **Ingredients:** 500g chicken thigh or beef, 2 onions (sliced), 2 carrots, 2 potatoes, 1 apple (grated), 1 box Japanese curry roux, 1L water, rice.
-1. Brown meat; sautÃ© onions until golden.
+1. Brown meat; sauté onions until golden.
 2. Add carrots, potatoes; add water + grated apple.
 3. Simmer 20 min.
 4. Break in curry roux; stir until smooth.
@@ -442,19 +442,19 @@
 ### Tamagoyaki (Rolled Omelet)
 
 *Japan*
-**Ingredients:** 4 eggs, 2 tbsp dashi, 1 tbsp mirin, 1 tsp sugar, Â½ tsp soy, oil.
+**Ingredients:** 4 eggs, 2 tbsp dashi, 1 tbsp mirin, 1 tsp sugar, ½ tsp soy, oil.
 1. Whisk eggs with dashi, mirin, sugar, soy.
 2. Heat rectangular pan; oil well.
 3. Pour thin layer; roll when set.
 4. Push roll to edge; add new layer; roll again.
-5. Repeat 3â4 times; shape in mat while warm.
+5. Repeat 3–4 times; shape in mat while warm.
 6. Cool; slice into rounds.
 
 ### Edamame (Salted Soybeans)
 
 *Japan*
 **Ingredients:** 400g frozen edamame in pods, 2 tsp salt, boiling water.
-1. Boil salted water; cook edamame 4â5 min.
+1. Boil salted water; cook edamame 4–5 min.
 2. Drain; toss with extra salt.
 3. Serve warm or cold.
 
@@ -464,7 +464,7 @@
 **Ingredients:** 300ml heavy cream, 200ml whole milk, 4 egg yolks, 100g sugar, 3 tbsp matcha powder.
 1. Whisk egg yolks + sugar + sifted matcha.
 2. Heat milk to near-boil; temper into yolk mix.
-3. Return to heat; stir until thickens (80Â°C).
+3. Return to heat; stir until thickens (80°C).
 4. Cool; fold in whipped cream.
 5. Churn in ice cream maker or freeze with stirring.
 
@@ -492,12 +492,12 @@
 1. Crush crackers; mix with melted butter; press into pan.
 2. Beat cream cheese + sugar; add eggs one by one.
 3. Add matcha dissolved in 2 tbsp hot water; fold in cream.
-4. Pour over base; bake in water bath 160Â°C 60 min.
+4. Pour over base; bake in water bath 160°C 60 min.
 
 ### Dorayaki (Pancake with Anko)
 
 *Japan*
-**Ingredients:** 2 eggs, 80g sugar, 1 tbsp honey, 120g flour, Â½ tsp baking soda, 2 tbsp water, 200g anko (red bean paste).
+**Ingredients:** 2 eggs, 80g sugar, 1 tbsp honey, 120g flour, ½ tsp baking soda, 2 tbsp water, 200g anko (red bean paste).
 1. Whisk eggs, sugar, honey.
 2. Sift in flour + baking soda; add water; rest 15 min.
 3. Cook small circles on greased pan.
@@ -534,7 +534,7 @@
 **Ingredients:** 500g chicken thigh, 3 tbsp soy, 2 tbsp sake, 1 tbsp mirin, 1 tbsp ginger (grated), 1 clove garlic, 4 tbsp potato starch, 2 tbsp flour, oil.
 1. Marinate chicken 30 min.
 2. Coat in starch + flour mix.
-3. Fry at 170Â°C 5 min; rest; fry again at 180Â°C 1 min.
+3. Fry at 170°C 5 min; rest; fry again at 180°C 1 min.
 4. Serve with lemon + mayo.
 
 ### Agedashi Tofu
@@ -542,7 +542,7 @@
 *Japan*
 **Ingredients:** 400g firm tofu, 4 tbsp potato starch, oil, 300ml tentsuyu, grated daikon, ginger, scallion.
 1. Drain tofu; cut cubes; coat in starch.
-2. Fry at 175Â°C until golden.
+2. Fry at 175°C until golden.
 3. Serve in tentsuyu; top with daikon, ginger, scallion.
 
 ### Hiyashi Chuka (Cold Ramen)
@@ -624,11 +624,11 @@
 ### Baechu Kimchi (Napa Cabbage Kimchi)
 
 *Korea*
-**Ingredients:** 1 large napa cabbage (2kg), Â½ cup coarse salt, 1 cup gochugaru (Korean chili flakes), 5 cloves garlic (minced), 1 tbsp ginger (grated), 4 scallions (chopped), 1 tbsp fish sauce, 1 tbsp salted shrimp, 1 tsp sugar, Â½ Asian pear (grated).
+**Ingredients:** 1 large napa cabbage (2kg), ½ cup coarse salt, 1 cup gochugaru (Korean chili flakes), 5 cloves garlic (minced), 1 tbsp ginger (grated), 4 scallions (chopped), 1 tbsp fish sauce, 1 tbsp salted shrimp, 1 tsp sugar, ½ Asian pear (grated).
 1. Quarter cabbage; salt between layers; rest 2 hrs; rinse; squeeze dry.
 2. Mix gochugaru, garlic, ginger, scallions, fish sauce, shrimp, sugar, pear into paste.
 3. Coat cabbage leaves with paste.
-4. Pack tightly in jar; ferment at room temp 1â2 days; refrigerate.
+4. Pack tightly in jar; ferment at room temp 1–2 days; refrigerate.
 
 ### Kkakdugi (Radish Kimchi)
 
@@ -641,7 +641,7 @@
 ### Oi Sobagi (Stuffed Cucumber Kimchi)
 
 *Korea*
-**Ingredients:** 6 kirby cucumbers, 2 tsp salt, 2 tbsp gochugaru, 1 tsp garlic, Â½ tsp ginger, 2 tbsp salted shrimp, 4 scallions, 1 tsp sugar.
+**Ingredients:** 6 kirby cucumbers, 2 tsp salt, 2 tbsp gochugaru, 1 tsp garlic, ½ tsp ginger, 2 tbsp salted shrimp, 4 scallions, 1 tsp sugar.
 1. Score cucumbers in X almost through; salt; rest 30 min; rinse.
 2. Mix filling ingredients.
 3. Stuff filling into cucumber slits.
@@ -650,7 +650,7 @@
 ### Bibimbap
 
 *Korea / Jeonju*
-**Ingredients:** 2 cups cooked rice, 100g spinach (blanched), 100g bean sprouts (blanched), 100g zucchini (julienned, sautÃ©ed), 1 carrot (julienned, sautÃ©ed), 4 shiitake (sliced, sautÃ©ed), 150g ground beef (seasoned), 4 fried eggs (sunny-side up), gochujang paste, sesame oil, sesame seeds.
+**Ingredients:** 2 cups cooked rice, 100g spinach (blanched), 100g bean sprouts (blanched), 100g zucchini (julienned, sautéed), 1 carrot (julienned, sautéed), 4 shiitake (sliced, sautéed), 150g ground beef (seasoned), 4 fried eggs (sunny-side up), gochujang paste, sesame oil, sesame seeds.
 1. Season each vegetable with garlic, sesame oil, salt.
 2. Season beef with soy/garlic/sesame/sugar; cook.
 3. Arrange all on hot rice.
@@ -687,7 +687,7 @@
 *Korea*
 **Ingredients:** 200g dangmyeon (glass noodles), 100g spinach, 3 shiitake, 1 carrot (julienned), 1 onion, 1 red bell pepper, 100g beef (sliced), 3 tbsp soy, 2 tbsp sugar, 2 tbsp sesame oil, sesame seeds.
 1. Cook noodles; toss with sesame oil.
-2. SautÃ© each vegetable separately.
+2. Sauté each vegetable separately.
 3. Cook beef with soy/sugar/sesame.
 4. Combine all with noodles; toss; adjust seasoning.
 
@@ -696,7 +696,7 @@
 *Korea*
 **Ingredients:** 400g cylindrical rice cakes (tteok), 200ml anchovy broth, 3 tbsp gochujang, 1 tbsp gochugaru, 1 tbsp soy, 1 tbsp sugar, 2 fish cakes (sliced), 3 boiled eggs, scallions.
 1. Simmer broth; add gochujang, gochugaru, soy, sugar.
-2. Add rice cakes; cook 8â10 min until sauce thickens.
+2. Add rice cakes; cook 8–10 min until sauce thickens.
 3. Add fish cakes + eggs; toss.
 4. Garnish scallions.
 
@@ -728,7 +728,7 @@
 ### Kimbap (Korean Rice Rolls)
 
 *Korea*
-**Ingredients:** 2 cups short-grain rice (seasoned with sesame oil + salt), 4 nori sheets, 100g yellow pickled radish (danmuji), 100g spinach (blanched, seasoned), 1 carrot (julienned, sautÃ©ed), 4 imitation crab sticks, 3 eggs (thin omelet strips), sesame oil, sesame seeds.
+**Ingredients:** 2 cups short-grain rice (seasoned with sesame oil + salt), 4 nori sheets, 100g yellow pickled radish (danmuji), 100g spinach (blanched, seasoned), 1 carrot (julienned, sautéed), 4 imitation crab sticks, 3 eggs (thin omelet strips), sesame oil, sesame seeds.
 1. Spread rice on nori; leave 2cm border.
 2. Arrange fillings in line on rice.
 3. Roll tightly; brush outside with sesame oil.
@@ -743,7 +743,7 @@
 ### Pajeon (Korean Scallion Pancake)
 
 *Korea*
-**Ingredients:** 1 cup flour, Â¼ cup rice flour, 1 cup cold water, 1 egg, 1 tsp salt, 15 scallions (whole), 100g squid or shrimp (optional), oil, dipping sauce (soy/rice vinegar/sesame/chili).
+**Ingredients:** 1 cup flour, ¼ cup rice flour, 1 cup cold water, 1 egg, 1 tsp salt, 15 scallions (whole), 100g squid or shrimp (optional), oil, dipping sauce (soy/rice vinegar/sesame/chili).
 1. Mix flours, water, egg, salt.
 2. Heat oil; arrange scallions in pan.
 3. Pour batter over; press seafood on top.
@@ -761,8 +761,8 @@
 
 *Korea / Modern*
 **Ingredients:** 1kg chicken pieces, 1 cup cornstarch, oil for frying. Sauce: 3 tbsp gochujang, 3 tbsp ketchup, 3 tbsp honey, 2 tbsp soy, 1 tbsp garlic, 1 tbsp sesame oil.
-1. Coat chicken in cornstarch; fry at 170Â°C 8 min; rest.
-2. Fry again at 185Â°C 3 min until extra crispy.
+1. Coat chicken in cornstarch; fry at 170°C 8 min; rest.
+2. Fry again at 185°C 3 min until extra crispy.
 3. Simmer sauce ingredients; toss chicken in sauce.
 4. Garnish sesame seeds + scallion.
 
@@ -786,7 +786,7 @@
 
 *Korea*
 **Ingredients:** 400g bean sprouts, 1 tsp sesame oil, 1 tsp soy, 1 tsp garlic (minced), 1 tsp gochugaru, 1 tsp sesame seeds, scallion.
-1. Blanch sprouts 2â3 min; drain; cool.
+1. Blanch sprouts 2–3 min; drain; cool.
 2. Toss with remaining ingredients.
 3. Serve as banchan.
 
@@ -809,7 +809,7 @@
 ### Hotteok (Sweet Pancake)
 
 *Korea / Street food*
-**Ingredients:** 2 cups flour, 1 tsp yeast, 1 tsp sugar, Â½ tsp salt, Â¾ cup warm water, oil. Filling: 3 tbsp brown sugar, 1 tsp cinnamon, 2 tbsp walnuts (chopped).
+**Ingredients:** 2 cups flour, 1 tsp yeast, 1 tsp sugar, ½ tsp salt, ¾ cup warm water, oil. Filling: 3 tbsp brown sugar, 1 tsp cinnamon, 2 tbsp walnuts (chopped).
 1. Mix dough; let rise 1 hour.
 2. Portion dough; flatten; fill with sugar mix; seal.
 3. Pan-fry in oil; press with spatula to flatten.
@@ -936,8 +936,8 @@
 
 *Korea*
 **Ingredients:** 200g beef brisket, 1 large daikon, 1L water, 1 tbsp soy, 1 tsp sesame oil, garlic, scallion.
-1. SautÃ© beef + garlic in sesame oil.
-2. Add daikon cubes; sautÃ© 2 min.
+1. Sauté beef + garlic in sesame oil.
+2. Add daikon cubes; sauté 2 min.
 3. Add water; simmer 30 min.
 4. Season with soy; top with scallion.
 
@@ -946,7 +946,7 @@
 *Korea*
 **Ingredients:** 30g dried miyeok (wakame), 200g beef brisket, 1L water, 2 tbsp soy, 1 tsp sesame oil, garlic.
 1. Soak seaweed; drain; cut.
-2. SautÃ© beef + sesame oil; add seaweed; sautÃ©.
+2. Sauté beef + sesame oil; add seaweed; sauté.
 3. Add water + garlic; simmer 30 min.
 4. Season with soy.
 
@@ -962,7 +962,7 @@
 *Korea*
 **Ingredients:** 2kg ox leg bones, 10 cups water, salt, white pepper, scallion, rice.
 1. Blanch bones; discard water.
-2. Refill; boil vigorously until broth turns milky white (4â8 hrs).
+2. Refill; boil vigorously until broth turns milky white (4–8 hrs).
 3. Season with salt; serve with rice, scallion, kimchi.
 
 ### Dak Bokkeum Tang (Spicy Braised Chicken)
@@ -971,7 +971,7 @@
 **Ingredients:** 1kg chicken pieces, 3 tbsp gochujang, 2 tbsp gochugaru, 3 tbsp soy, 1 tbsp sugar, 4 garlic cloves, 1 tbsp sesame oil, potatoes, onion, carrot.
 1. Mix sauce; coat chicken.
 2. Add to pot with vegetables; add water to cover halfway.
-3. Simmer 30â40 min until tender.
+3. Simmer 30–40 min until tender.
 
 ### Sundae (Blood Sausage)
 
@@ -979,7 +979,7 @@
 **Ingredients:** Pork intestines (cleaned), 200g dangmyeon (cooked), 100g sweet rice (cooked), pork blood, garlic, ginger, scallion, salt, sesame oil.
 1. Mix dangmyeon, rice, pork blood, seasonings.
 2. Fill intestines; tie ends.
-3. Steam 30â40 min; cool; slice.
+3. Steam 30–40 min; cool; slice.
 4. Serve with salt + gochugaru dipping seasoning.
 
 ### Eomuk (Fish Cake Skewer)
@@ -1025,7 +1025,7 @@
 ### Pajeon with Kimchi (Kimchi Jeon)
 
 *Korea*
-**Ingredients:** 1 cup kimchi (chopped), Â¾ cup flour, Â¼ cup water, 1 egg, 1 scallion, gochugaru, oil.
+**Ingredients:** 1 cup kimchi (chopped), ¾ cup flour, ¼ cup water, 1 egg, 1 scallion, gochugaru, oil.
 1. Mix all into batter.
 2. Fry thick pancake until crispy.
 3. Flip; serve with soy dipping sauce.
@@ -1035,7 +1035,7 @@
 *Korea*
 **Ingredients:** 300g beef brisket, 200g fernbrake (gosari), 200g taro stem (torangui), 4 scallions, 2 tbsp gochugaru, 1 tbsp sesame oil, 1 tsp garlic, 1L water.
 1. Boil beef; shred.
-2. SautÃ© gochugaru in sesame oil; add vegetables + beef.
+2. Sauté gochugaru in sesame oil; add vegetables + beef.
 3. Add broth; simmer 30 min.
 
 ### Hobak Juk (Pumpkin Porridge)
@@ -1052,7 +1052,7 @@
 *Korea*
 **Ingredients:** 1 cup rice (soaked), 800ml water or broth, sesame oil, salt, scallion.
 1. Simmer soaked rice in broth, stirring.
-2. Cook 30â40 min until very thick.
+2. Cook 30–40 min until very thick.
 3. Season; drizzle sesame oil.
 
 ### Sikhye (Rice Punch)
@@ -1060,7 +1060,7 @@
 *Korea / Traditional dessert drink*
 **Ingredients:** 200g malt powder, 1 cup cooked rice, 2L hot water, 100g sugar, pine nuts, dried jujube.
 1. Steep malt in hot water 1 hour; strain.
-2. Add rice to malt liquid; keep warm (60Â°C) 3â4 hrs until rice floats.
+2. Add rice to malt liquid; keep warm (60°C) 3–4 hrs until rice floats.
 3. Remove rice; add sugar; boil; cool.
 4. Serve chilled with rice grains + pine nuts.
 
@@ -1082,7 +1082,7 @@
 ### Doraji Namul (Bellflower Root Banchan)
 
 *Korea*
-**Ingredients:** 200g dried bellflower root (soaked, shredded), 1 tbsp sesame oil, 1 tsp garlic, Â½ tsp salt, gochugaru (optional).
+**Ingredients:** 200g dried bellflower root (soaked, shredded), 1 tbsp sesame oil, 1 tsp garlic, ½ tsp salt, gochugaru (optional).
 1. Knead soaked doraji with salt to remove bitterness; rinse.
 2. Stir-fry in sesame oil with garlic.
 3. Season; serve as banchan.
@@ -1121,7 +1121,7 @@
 
 *Korea / Modern viral*
 **Ingredients:** 2 tbsp instant coffee, 2 tbsp sugar, 2 tbsp hot water, milk (cold or hot).
-1. Whip coffee, sugar, hot water until stiff peaks (3â5 min by hand or 1 min electric).
+1. Whip coffee, sugar, hot water until stiff peaks (3–5 min by hand or 1 min electric).
 2. Spoon onto milk.
 3. Mix before drinking.
 
@@ -1134,4 +1134,4 @@
 
 ---
 
-*End of Japanese & Korean section â 200+ recipes across both cuisines.*
+*End of Japanese & Korean section — 200+ recipes across both cuisines.*

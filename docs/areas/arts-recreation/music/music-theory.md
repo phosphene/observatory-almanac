@@ -1,8 +1,8 @@
 # Music Theory: The Grammar of Sound
 
-> "Music is the shorthand of emotion." â Leo Tolstoy
+> "Music is the shorthand of emotion." — Leo Tolstoy
 
-Music theory is the study of the practices and possibilities of music â the grammar that underlies the language of sound. You don't need to read this to play music, just as you don't need to study linguistics to speak. But understanding it illuminates what's happening when music moves you.
+Music theory is the study of the practices and possibilities of music — the grammar that underlies the language of sound. You don't need to read this to play music, just as you don't need to study linguistics to speak. But understanding it illuminates what's happening when music moves you.
 
 ---
 
@@ -10,17 +10,17 @@ Music theory is the study of the practices and possibilities of music â the
 
 ### What Is a Note?
 
-A note is a sound with a specific pitch â determined by the frequency of vibration (Hz). A440 (the A above middle C) vibrates 440 times per second. Double the frequency, and you get the next A (880 Hz). This doubling relationship is an **octave**.
+A note is a sound with a specific pitch — determined by the frequency of vibration (Hz). A440 (the A above middle C) vibrates 440 times per second. Double the frequency, and you get the next A (880 Hz). This doubling relationship is an **octave**.
 
 ### The Twelve Notes
 
 In Western music, the octave is divided into **12 equal half-steps (semitones)**:
 
 ```
-C â C#/Db â D â D#/Eb â E â F â F#/Gb â G â G#/Ab â A â A#/Bb â B â (C)
+C — C#/Db — D — D#/Eb — E — F — F#/Gb — G — G#/Ab — A — A#/Bb — B — (C)
 ```
 
-Notes with two names (C#/Db) are **enharmonic equivalents** â the same pitch, spelled differently depending on context.
+Notes with two names (C#/Db) are **enharmonic equivalents** — the same pitch, spelled differently depending on context.
 
 ### Half Steps and Whole Steps
 
@@ -42,7 +42,7 @@ The major scale has a bright, happy quality. Its pattern of whole (W) and half (
 **W-W-H-W-W-W-H**
 
 **C Major** (all white keys on piano):
-C â D â E â F â G â A â B â C
+C — D — E — F — G — A — B — C
 
 Scale degrees:
 | Degree | Name | C Major |
@@ -62,23 +62,23 @@ Minor scales have a darker, more melancholic quality. Pattern:
 **W-H-W-W-H-W-W**
 
 **A Natural Minor** (also all white keys):
-A â B â C â D â E â F â G â A
+A — B — C — D — E — F — G — A
 
-A major scale's relative minor begins on the 6th degree. C major â A minor. G major â E minor.
+A major scale's relative minor begins on the 6th degree. C major → A minor. G major → E minor.
 
 ### Pentatonic Scales
 
-Five-note scales â the backbone of folk, blues, and rock worldwide.
+Five-note scales — the backbone of folk, blues, and rock worldwide.
 
-**Major Pentatonic (C):** C â D â E â G â A
-**Minor Pentatonic (A):** A â C â D â E â G
+**Major Pentatonic (C):** C — D — E — G — A
+**Minor Pentatonic (A):** A — C — D — E — G
 
 The minor pentatonic is perhaps the most important scale in popular music. Almost all blues, rock, and pop guitar solos draw from it.
 
 ### Blues Scale
 
 Minor pentatonic + one added "blue note" (flat 5):
-A â C â D â Eb â E â G
+A — C — D — Eb — E — G
 
 The Eb (between D and E) is the signature sound of the blues.
 
@@ -86,7 +86,7 @@ The Eb (between D and E) is the signature sound of the blues.
 
 ## Keys
 
-A **key** is the home base of a piece â the scale and tonal center around which the music revolves.
+A **key** is the home base of a piece — the scale and tonal center around which the music revolves.
 
 * A piece in **C major** uses the notes of the C major scale and resolves to C.
 * A piece in **A minor** uses the A minor scale and resolves to A.
@@ -122,12 +122,12 @@ The circle of fifths is the single most useful visual tool in music theory. It o
         Gb/F#
 ```
 
-**Moving clockwise:** Each key adds one sharp. (C â G â D â A â E â B â F#)
-**Moving counterclockwise:** Each key adds one flat. (C â F â Bb â Eb â Ab â Db â Gb)
+**Moving clockwise:** Each key adds one sharp. (C → G → D → A → E → B → F#)
+**Moving counterclockwise:** Each key adds one flat. (C → F → Bb → Eb → Ab → Db → Gb)
 
 **Adjacent keys are closely related.** Songs that modulate (change key) usually move to adjacent keys. Chord progressions often move in circle-of-fifths patterns.
 
-**Finding relative minors:** Each major key's relative minor is its 6th scale degree â and sits inside the circle (inner ring).
+**Finding relative minors:** Each major key's relative minor is its 6th scale degree — and sits inside the circle (inner ring).
 
 ---
 
@@ -158,21 +158,21 @@ An interval is the distance between two notes. Intervals are the vocabulary of m
 
 ## Chord Construction
 
-A **chord** is three or more notes played simultaneously. Chords are built by stacking intervals â typically thirds.
+A **chord** is three or more notes played simultaneously. Chords are built by stacking intervals — typically thirds.
 
 ### Triads (Three-Note Chords)
 
 **Major triad:** Root + Major 3rd + Perfect 5th
-- C major: C â E â G (intervals: 4 half steps + 3 half steps)
+- C major: C — E — G (intervals: 4 half steps + 3 half steps)
 
 **Minor triad:** Root + Minor 3rd + Perfect 5th
-- A minor: A â C â E (intervals: 3 half steps + 4 half steps)
+- A minor: A — C — E (intervals: 3 half steps + 4 half steps)
 
 **Diminished triad:** Root + Minor 3rd + Diminished 5th
-- B diminished: B â D â F (3 + 3 half steps) â tense, unstable
+- B diminished: B — D — F (3 + 3 half steps) — tense, unstable
 
 **Augmented triad:** Root + Major 3rd + Augmented 5th
-- C augmented: C â E â G# (4 + 4 half steps) â dreamy, unresolved
+- C augmented: C — E — G# (4 + 4 half steps) — dreamy, unresolved
 
 ### Seventh Chords
 
@@ -209,23 +209,23 @@ Chords in a key are numbered with Roman numerals:
 | IV | F major | F-A-C |
 | V | G major | G-B-D |
 | vi | A minor | A-C-E |
-| viiÂ° | B diminished | B-D-F |
+| vii° | B diminished | B-D-F |
 
 Uppercase = major; lowercase = minor.
 
 ### Common Progressions
 
 **I-IV-V (the foundation of blues and rock):**
-C â F â G. In any key.
+C — F — G. In any key.
 
 **I-V-vi-IV (the "four chord song"):**
-C â G â Am â F. Underlies hundreds of pop songs. Pachelbel's Canon also uses this.
+C — G — Am — F. Underlies hundreds of pop songs. Pachelbel's Canon also uses this.
 
 **I-vi-IV-V (50s progression):**
-C â Am â F â G. Doo-wop, early rock & roll.
+C — Am — F — G. Doo-wop, early rock & roll.
 
 **ii-V-I (jazz foundation):**
-Dm7 â G7 â Cmaj7. The cornerstone of jazz harmony.
+Dm7 — G7 — Cmaj7. The cornerstone of jazz harmony.
 
 ---
 
@@ -289,13 +289,13 @@ Tempo is speed, measured in BPM (beats per minute):
 | Marking | BPM range | Character |
 | --- | --- | --- |
 | Larghissimo | <20 | Extremely slow |
-| Largo | 40â60 | Very slow, broad |
-| Adagio | 66â76 | Slow, stately |
-| Andante | 76â108 | Walking pace |
-| Moderato | 108â120 | Moderate |
-| Allegro | 120â156 | Fast, lively |
-| Vivace | 156â176 | Very fast |
-| Presto | 168â200 | Very fast |
+| Largo | 40–60 | Very slow, broad |
+| Adagio | 66–76 | Slow, stately |
+| Andante | 76–108 | Walking pace |
+| Moderato | 108–120 | Moderate |
+| Allegro | 120–156 | Fast, lively |
+| Vivace | 156–176 | Very fast |
+| Presto | 168–200 | Very fast |
 | Prestissimo | >200 | As fast as possible |
 
 ---
@@ -304,10 +304,10 @@ Tempo is speed, measured in BPM (beats per minute):
 
 Music theory is a language, and like language, its grammar only matters insofar as it serves communication. You can know every rule and play music that moves no one. You can know no rules and move everyone.
 
-The value of theory is **not** to constrain but to explain â to give you vocabulary for what you're hearing and hearing, and to expand your toolkit when you get stuck. When a song you love sounds "right," theory can tell you why. When something you write sounds wrong, theory can point you toward what might fix it.
+The value of theory is **not** to constrain but to explain — to give you vocabulary for what you're hearing and hearing, and to expand your toolkit when you get stuck. When a song you love sounds "right," theory can tell you why. When something you write sounds wrong, theory can point you toward what might fix it.
 
-Start with the major scale in C. Learn the I-IV-V. Learn the minor pentatonic. Then listen actively â when music moves, ask: what's happening? Theory is the discipline of answering that question systematically.
+Start with the major scale in C. Learn the I-IV-V. Learn the minor pentatonic. Then listen actively — when music moves, ask: what's happening? Theory is the discipline of answering that question systematically.
 
 ---
 
-*Part of the Observatory Almanac â Section 21: Music & Performance*
+*Part of the Observatory Almanac — Section 21: Music & Performance*

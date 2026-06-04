@@ -1,23 +1,23 @@
 # The Two-Mode Assessment Framework
 
-ð Discovery Machine â All Questionnaires
+🔍 Discovery Machine — All Questionnaires
 
-* [ð Depression Screen (PHQ-9)](../clinical-validated/#take-the-phq-9-now)
-* [ð Anxiety Screen (GAD-7)](../clinical-validated/#take-the-gad-7-now)
-* [ð§  Big Five Personality](../self-knowledge/#take-the-big-five-now)
-* [ð¼ Career Type (RIASEC)](../vocational-personality/#holland-riasec)
-* [ð Attachment Style](../relationship-social/#attachment-style)
-* [ð³ï¸ Political Compass](../self-discovery-suite/#political-compass)
-* [â¤ï¸ Relationship Health](../relationship-dynamics/#relationship-health)
-* [ð¨ Emergency Decision Tree](../body-survival/#emergency-decision-tree)
-* [ð¡ï¸ Scam Checker](../consumer-legal/#scam-checker)
-* [ð Is This Dog Friendly?](../animal-nature/#dog-friendly)
-* [ð  Home Safety Score](../home-environment/#home-safety)
-* [ð What's That Smell/Sound?](../sensory-diagnostics/#whats-that-smell)
-* [ð§ Boundary Health Check](../relational-behavioral-deep/#boundary-health)
-* [ð Glossary Mad Libs Quiz](../mad-libs-learning/#glossary-quiz)
+* [📋 Depression Screen (PHQ-9)](../clinical-validated/#take-the-phq-9-now)
+* [📋 Anxiety Screen (GAD-7)](../clinical-validated/#take-the-gad-7-now)
+* [🧠 Big Five Personality](../self-knowledge/#take-the-big-five-now)
+* [💼 Career Type (RIASEC)](../vocational-personality/#holland-riasec)
+* [💕 Attachment Style](../relationship-social/#attachment-style)
+* [🗳️ Political Compass](../self-discovery-suite/#political-compass)
+* [❤️ Relationship Health](../relationship-dynamics/#relationship-health)
+* [🚨 Emergency Decision Tree](../body-survival/#emergency-decision-tree)
+* [🛡️ Scam Checker](../consumer-legal/#scam-checker)
+* [🐕 Is This Dog Friendly?](../animal-nature/#dog-friendly)
+* [🏠 Home Safety Score](../home-environment/#home-safety)
+* [👃 What's That Smell/Sound?](../sensory-diagnostics/#whats-that-smell)
+* [🚧 Boundary Health Check](../relational-behavioral-deep/#boundary-health)
+* [📝 Glossary Mad Libs Quiz](../mad-libs-learning/#glossary-quiz)
 
-## The Discovery Machine â Design Specification
+## The Discovery Machine — Design Specification
 
 *The Observatory Almanac | Design Document v1.0*
 
@@ -25,24 +25,24 @@
 
 ## Overview
 
-The Discovery Machine operates on a fundamental insight: there are two very different reasons someone picks up a self-assessment. The first is curiosity â a passing wonder about who they are, an invitation to play with identity. The second is genuine need â a desire to understand something real, something that might actually matter for how they live. These two motivations deserve completely different instruments.
+The Discovery Machine operates on a fundamental insight: there are two very different reasons someone picks up a self-assessment. The first is curiosity — a passing wonder about who they are, an invitation to play with identity. The second is genuine need — a desire to understand something real, something that might actually matter for how they live. These two motivations deserve completely different instruments.
 
-This document defines the architecture for a dual-mode assessment system that serves both. Every assessment in the Cabinet exists in two forms: **Discover** (ð) and **Investigate** (ð¬). They are not "short" and "long" versions of the same thing â they are philosophically different instruments designed for different purposes, different moments, and different levels of user readiness.
+This document defines the architecture for a dual-mode assessment system that serves both. Every assessment in the Cabinet exists in two forms: **Discover** (🔍) and **Investigate** (🔬). They are not "short" and "long" versions of the same thing — they are philosophically different instruments designed for different purposes, different moments, and different levels of user readiness.
 
 ---
 
 ## Part I: Mode Philosophy
 
-### Mode 1: Discover ð
+### Mode 1: Discover 🔍
 
-**The philosophy:** A Discover assessment is an invitation. It says: *Come look at this interesting thing about yourself.* It asks as few questions as needed to give someone a genuine mirror â not a precise measurement, but a reflection that provokes thought.
+**The philosophy:** A Discover assessment is an invitation. It says: *Come look at this interesting thing about yourself.* It asks as few questions as needed to give someone a genuine mirror — not a precise measurement, but a reflection that provokes thought.
 
 Discover assessments prioritize:
-- **Friction reduction** â nothing that makes someone think "this is a lot of work"
-- **Resonance over accuracy** â "which of these feels more like you?" is fine; we trust self-perception
-- **Delight** â the process itself should feel like play, not work
-- **A result that sparks** â the output should make someone say "huh, that's interesting" not just "ok"
-- **An open door** â always ends with "want to go deeper?"
+- **Friction reduction** — nothing that makes someone think "this is a lot of work"
+- **Resonance over accuracy** — "which of these feels more like you?" is fine; we trust self-perception
+- **Delight** — the process itself should feel like play, not work
+- **A result that sparks** — the output should make someone say "huh, that's interesting" not just "ok"
+- **An open door** — always ends with "want to go deeper?"
 
 Discover assessments do NOT:
 - Diagnose anything
@@ -52,24 +52,24 @@ Discover assessments do NOT:
 - Try to catch bias
 
 **Discover Question Parameters:**
-- 5â10 questions maximum
+- 5–10 questions maximum
 - Multiple choice, "pick which resonates," or scenario-based
 - No reverse scoring
 - No attention checks
-- Completion target: 2â3 minutes
+- Completion target: 2–3 minutes
 - Reading level: casual, conversational
 - Result: one or two broad categories, a brief evocative description, a question to sit with
 
-### Mode 2: Investigate ð¬
+### Mode 2: Investigate 🔬
 
-**The philosophy:** An Investigate assessment is a serious tool. It says: *Let's actually look at this.* It earns its length by producing something worth the effort â a genuinely differentiated profile that could serve as a basis for reflection, conversation, or action.
+**The philosophy:** An Investigate assessment is a serious tool. It says: *Let's actually look at this.* It earns its length by producing something worth the effort — a genuinely differentiated profile that could serve as a basis for reflection, conversation, or action.
 
 Investigate assessments prioritize:
-- **Construct validity** â measuring what they claim to measure
-- **Reliability** â getting consistent results from honest responders
-- **Bias detection** â catching response patterns that distort results
-- **Dimensional richness** â not just a label but a profile
-- **Actionability** â results that tell you something you can do with
+- **Construct validity** — measuring what they claim to measure
+- **Reliability** — getting consistent results from honest responders
+- **Bias detection** — catching response patterns that distort results
+- **Dimensional richness** — not just a label but a profile
+- **Actionability** — results that tell you something you can do with
 
 Investigate assessments DO:
 - Use reverse-scored items (acquiescence bias prevention)
@@ -81,10 +81,10 @@ Investigate assessments DO:
 - Include "when to seek support" thresholds where relevant
 
 **Investigate Question Parameters:**
-- 20â50 questions depending on construct complexity
-- Mix of Likert scale (1â5 or 1â7), yes/no, and scenario-based
+- 20–50 questions depending on construct complexity
+- Mix of Likert scale (1–5 or 1–7), yes/no, and scenario-based
 - Validity check items embedded at strategic positions
-- Completion target: 8â15 minutes
+- Completion target: 8–15 minutes
 - Reading level: clear but not dumbed down
 - Result: multi-dimensional profile, severity calibration, specific recommendations
 
@@ -355,7 +355,7 @@ secondary_dimension = argmax(score excluding primary)
 // Cluster assignment
 If score[primary] > 65: "Strong [primary]"
 Elif score[primary] > 50: "Moderate [primary] with [secondary] tendencies"
-Else: "Mixed style â [primary] and [secondary] in balance"
+Else: "Mixed style — [primary] and [secondary] in balance"
 ```
 
 ---
@@ -364,10 +364,10 @@ Else: "Mixed style â [primary] and [secondary] in balance"
 
 ### Placement Principles
 
-Validity checks must feel natural â embedded, not obvious. A user who notices they're being tested for honesty will feel surveilled, which distorts results. The goal is to make validity checks *disappear into* the assessment.
+Validity checks must feel natural — embedded, not obvious. A user who notices they're being tested for honesty will feel surveilled, which distorts results. The goal is to make validity checks *disappear into* the assessment.
 
 **Attention Checks:**
-- Place at questions 8â12 and questions 25â30 in Investigate mode
+- Place at questions 8–12 and questions 25–30 in Investigate mode
 - Frame as simple, clear instructions masquerading as questions
 - Example: "For this item, please select 'Somewhat Agree'" [framed as a formatting question]
 - Use 2 attention checks per assessment; flagging requires failing both
@@ -375,19 +375,19 @@ Validity checks must feel natural â embedded, not obvious. A user who notic
 **Reverse-Scored Items:**
 - Intersperse at minimum 1 in every 5 questions
 - Cluster near middle, not at end (end-of-test fatigue affects all items equally)
-- Flip the *phrasing*, not just the *polarity* â "I rarely feel understood" vs "I feel understood often" reads differently than just inverting the scale
+- Flip the *phrasing*, not just the *polarity* — "I rarely feel understood" vs "I feel understood often" reads differently than just inverting the scale
 
 **Consistency Pairs:**
-- 2â4 pairs per Investigate assessment
-- Pairs should be spaced 8â15 questions apart
+- 2–4 pairs per Investigate assessment
+- Pairs should be spaced 8–15 questions apart
 - Flag if delta > 2 points on a 5-point scale (suggests random responding or misreading)
 - Common pattern: concrete behavioral item + abstract belief item measuring same construct
 - "I often find myself doing X" paired with "X is something I value" (different framings)
 
 **Social Desirability Detection:**
-- 3â5 items that measure a "too-good" response pattern
-- Example: "I have never said something unkind about another person" â virtually no honest person answers True
-- High score on social desirability items â  invalid; it means *interpret emotional/social results with caution*
+- 3–5 items that measure a "too-good" response pattern
+- Example: "I have never said something unkind about another person" — virtually no honest person answers True
+- High score on social desirability items ≠ invalid; it means *interpret emotional/social results with caution*
 - The flag is "this person may be presenting an idealized self-image"
 
 ### Validity Flag Response Matrix
@@ -395,10 +395,10 @@ Validity checks must feel natural â embedded, not obvious. A user who notic
 | Flags Present | Recommendation | User Message |
 | --- | --- | --- |
 | None | Use results | Results shown normally |
-| 1 attention check failed | Interpret with caution | "We noticed one response that seemed inconsistent â results are still shown but may not fully reflect you." |
+| 1 attention check failed | Interpret with caution | "We noticed one response that seemed inconsistent — results are still shown but may not fully reflect you." |
 | 2 attention checks failed | Retake recommended | "Some responses seemed inconsistent. For the most accurate results, we recommend retaking." |
 | 2+ inconsistent pairs | Interpret with caution | "A few questions that should have similar answers looked quite different. This sometimes happens when we're answering quickly or our feelings are complicated." |
-| Social desirability elevated | Interpret with caution (specific) | "Your results look very polished â which is great! But the most useful insights often come when we include our shadow sides too." |
+| Social desirability elevated | Interpret with caution (specific) | "Your results look very polished — which is great! But the most useful insights often come when we include our shadow sides too." |
 | Multiple flags | Retake recommended | Full message explaining what was noticed |
 
 ---
@@ -407,7 +407,7 @@ Validity checks must feel natural â embedded, not obvious. A user who notic
 
 ### When Severity Applies
 
-Not all assessments require severity calibration. Self-discovery assessments about aesthetic preference or political orientation don't have a "severe" outcome. But some constructs â emotional landscape, life season, worldview â carry genuine weight, and acknowledging that matters.
+Not all assessments require severity calibration. Self-discovery assessments about aesthetic preference or political orientation don't have a "severe" outcome. But some constructs — emotional landscape, life season, worldview — carry genuine weight, and acknowledging that matters.
 
 **Severity applies when:** The construct being measured connects to wellbeing, distress, or the potential need for external support.
 
@@ -416,26 +416,26 @@ Not all assessments require severity calibration. Self-discovery assessments abo
 ### The Light / Moderate / Severe / Seek Help Framework
 
 ```
-LIGHT (0â40% of max score on relevant items):
-  â "This is part of the texture of being human."
-  â No action recommended beyond reflection
-  â Acknowledge the experience without pathologizing
+LIGHT (0–40% of max score on relevant items):
+  → "This is part of the texture of being human."
+  → No action recommended beyond reflection
+  → Acknowledge the experience without pathologizing
 
-MODERATE (41â65%):
-  â "This is worth paying attention to."
-  â Offer concrete self-care or reflection suggestions
-  â May offer resources for further exploration
+MODERATE (41–65%):
+  → "This is worth paying attention to."
+  → Offer concrete self-care or reflection suggestions
+  → May offer resources for further exploration
 
-SEVERE (66â80%):
-  â "This is significantly affecting your life."
-  â Strong recommendation to discuss with a trusted person
-  â Offer crisis-adjacent resources if applicable
+SEVERE (66–80%):
+  → "This is significantly affecting your life."
+  → Strong recommendation to discuss with a trusted person
+  → Offer crisis-adjacent resources if applicable
 
 SEEK HELP (81%+):
-  â "Please don't navigate this alone."
-  â Direct language about professional support
-  â Include specific resource types (therapist, counselor, etc.)
-  â Never gatekeep â anyone at any level can seek support
+  → "Please don't navigate this alone."
+  → Direct language about professional support
+  → Include specific resource types (therapist, counselor, etc.)
+  → Never gatekeep — anyone at any level can seek support
 ```
 
 ### Escalation Items
@@ -446,7 +446,7 @@ Some individual items carry more weight than the raw score suggests. Certain res
 * Any response indicating severe disconnection from reality
 * Any response indicating acute crisis
 
-These items are flagged with `escalation_item: true` and carry a `severity_weight` multiplier of 2.0â3.0 in the severity calculation.
+These items are flagged with `escalation_item: true` and carry a `severity_weight` multiplier of 2.0–3.0 in the severity calculation.
 
 ---
 
@@ -455,9 +455,9 @@ These items are flagged with `escalation_item: true` and carry a `severity_weigh
 ### Discover Results Template
 
 ```
-ââââââââââââââââââââââââââââ
-ð YOUR [ASSESSMENT NAME] RESULT
-ââââââââââââââââââââââââââââ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔍 YOUR [ASSESSMENT NAME] RESULT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 You are: **[RESULT LABEL]**
 
@@ -468,46 +468,46 @@ What this means: [One specific, concrete observation]
 
 Something to sit with: [A question, not an answer]
 
-ââââââââââââââââââââââââââââ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Want to go deeper? Take the Investigate version
-for a more complete picture. â [link]
+for a more complete picture. → [link]
 ```
 
 ### Investigate Results Template
 
 ```
-ââââââââââââââââââââââââââââ
-ð¬ YOUR [ASSESSMENT NAME] PROFILE
-ââââââââââââââââââââââââââââ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔬 YOUR [ASSESSMENT NAME] PROFILE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 [If validity flags present, show validity notice here]
 
 YOUR PROFILE:
-â¢ [Dimension 1]: [score/descriptor] â [1 sentence meaning]
-â¢ [Dimension 2]: [score/descriptor] â [1 sentence meaning]
-â¢ [Dimension N]: [score/descriptor] â [1 sentence meaning]
+• [Dimension 1]: [score/descriptor] — [1 sentence meaning]
+• [Dimension 2]: [score/descriptor] — [1 sentence meaning]
+• [Dimension N]: [score/descriptor] — [1 sentence meaning]
 
 WHAT STANDS OUT:
 [2-3 sentences highlighting the most distinctive features
-of this specific result â not generic, not boilerplate]
+of this specific result — not generic, not boilerplate]
 
 PATTERNS TO NOTICE:
-[What this combination means â the emergent picture from 
+[What this combination means — the emergent picture from 
 all dimensions together]
 
 [IF SEVERITY APPLIES:]
-ââââââââââââââââââââââââââââ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 WELLBEING NOTE:
 [Calibrated to severity level. See severity templates above.]
-ââââââââââââââââââââââââââââ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 THINGS TO EXPLORE:
-â¢ [Specific, actionable reflection prompt 1]
-â¢ [Specific, actionable reflection prompt 2]
-â¢ [Resource or next step if applicable]
+• [Specific, actionable reflection prompt 1]
+• [Specific, actionable reflection prompt 2]
+• [Resource or next step if applicable]
 
 WHAT THIS DOESN'T TELL YOU:
-[Honest acknowledgment of limits â what this assessment 
+[Honest acknowledgment of limits — what this assessment 
 can't measure, what to weight more or less heavily]
 ```
 
@@ -537,7 +537,7 @@ Each assessment session needs to track:
 
 ### Response Time Tracking
 
-Response time per question is worth tracking (but not surfacing to the user). Very fast responses (<500ms) may indicate random clicking. Very slow responses on attention checks may indicate re-reading the instructions â not a flag, but context for interpreting attention check failures.
+Response time per question is worth tracking (but not surfacing to the user). Very fast responses (<500ms) may indicate random clicking. Very slow responses on attention checks may indicate re-reading the instructions — not a flag, but context for interpreting attention check failures.
 
 ### Dropout Points
 
@@ -552,7 +552,7 @@ Never show all 40 questions at once. Present one question at a time. Show progre
 
 ### The "Want to Go Deeper?" Bridge
 
-Every Discover result screen must offer the Investigate path. The bridge message should reference the specific result: "You got [LABEL] â the Investigate version can tell you which specific [dimensions] drive this, and where there's more complexity." Generic CTAs convert worse than specific ones.
+Every Discover result screen must offer the Investigate path. The bridge message should reference the specific result: "You got [LABEL] — the Investigate version can tell you which specific [dimensions] drive this, and where there's more complexity." Generic CTAs convert worse than specific ones.
 
 ### Accessibility Considerations
 

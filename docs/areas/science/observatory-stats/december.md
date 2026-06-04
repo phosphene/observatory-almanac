@@ -2,7 +2,7 @@
 
 *Inspired by Harper's Index*
 
-*Daily statistics in the Observatory Stats style â startling, sourced from the world's edges.*
+*Daily statistics in the Observatory Stats style — startling, sourced from the world's edges.*
 
 ---
 
@@ -301,7 +301,7 @@
 
 * Year Steven Spielberg's film "Schindler's List" was released: 1993
 * Number of Jews Oskar Schindler saved: 1,200
-* Year the first motion picture was shown by the LumiÃ¨re brothers: 1895
+* Year the first motion picture was shown by the Lumière brothers: 1895
 * Number of films produced globally per year: 7,000
 * Percentage of all films produced worldwide that come from Bollywood: 25
 * Number of Oscars won by "Ben-Hur" when it set the record: 11
@@ -370,7 +370,7 @@
 * Year Isaac Newton was born: 1642
 * Laws of motion Newton formulated: 3
 * Age at which Newton developed the fundamentals of calculus: 22
-* Year Newton published "PhilosophiÃ¦ Naturalis Principia Mathematica": 1687
+* Year Newton published "Philosophiæ Naturalis Principia Mathematica": 1687
 * Number of prisms Newton used to demonstrate white light splitting into a spectrum: 1
 * Year Einstein's Theory of General Relativity was published: 1915
 * Speed of light in miles per second: 186,282
@@ -438,7 +438,7 @@
 * Number of countries that celebrate Boxing Day: 15
 * Year Boxing Day was enshrined as a bank holiday in the UK: 1871
 * Number of bargain hunters who shop on Boxing Day in the UK: 15,000,000
-* Amount spent by British consumers on Boxing Day sales: Â£3,700,000,000
+* Amount spent by British consumers on Boxing Day sales: £3,700,000,000
 * Percentage of Christmas gifts returned in the US: 15
 * Dollar value of returned Christmas gifts in the US annually: 800,000,000
 * Number of countries that observe a public holiday on December 26: 50

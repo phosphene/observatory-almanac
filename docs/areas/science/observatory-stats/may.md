@@ -121,7 +121,7 @@
 * Year the first symphony orchestra was established (Mannheim, Germany): 1743
 * Average number of musicians in a full symphony orchestra: 80-100
 * Percentage of professional orchestral musicians who suffer from performance-related injuries: 76
-* Number of times the conductor beats per minute during Ravel's BolÃ©ro: 76
+* Number of times the conductor beats per minute during Ravel's Boléro: 76
 
 ---
 
@@ -163,7 +163,7 @@
 
 * Year the Transcontinental Railroad was completed, at Promontory Summit, Utah: 1869
 * Length of the Transcontinental Railroad in miles: 1,776
-* Number of workers â mostly Chinese immigrants â who built the Central Pacific portion: 10,000-20,000
+* Number of workers — mostly Chinese immigrants — who built the Central Pacific portion: 10,000-20,000
 * Average daily wage of a Chinese railroad worker in 1860s dollars: 1.00
 * Average daily wage of a white railroad worker doing the same job: 1.35
 * Year the Chinese Exclusion Act, partially spurred by anti-railroad-worker sentiment, was passed: 1882
@@ -303,7 +303,7 @@
 * Speed of the landslide triggered by the eruption, in mph: 150
 * Temperature of the pyroclastic flows, in Fahrenheit: 1,300
 * Number of people killed: 57
-* Number of animals killed: 7,000 deer, elk, bear â estimated 12,000,000 fish
+* Number of animals killed: 7,000 deer, elk, bear — estimated 12,000,000 fish
 * Cubic miles of material ejected: 1
 * Miles from the eruption that ash fell: 900
 * Countries that detected the ash cloud: 11
@@ -420,7 +420,7 @@
 * Number of protests held globally in the following weeks: 4,700
 * Countries in which Black Lives Matter protests occurred: 60+
 * Number of people estimated to have participated in BLM protests globally: 26,000,000
-* Number of days Derek Chauvin kept his knee on George Floyd's neck: fractional â 9 minutes 29 seconds
+* Number of days Derek Chauvin kept his knee on George Floyd's neck: fractional — 9 minutes 29 seconds
 * Year police brutality data collection began federally in the U.S.: 2020 (still incomplete)
 * Number of unarmed Black Americans killed by police per year, estimated: 130
 * Ratio of Black Americans killed by police versus white Americans (per capita): 3:1

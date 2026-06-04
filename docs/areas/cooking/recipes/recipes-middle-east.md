@@ -1,19 +1,19 @@
 # Middle Eastern Recipes
 
-## The Observatory Almanac â Human Hearth
+## The Observatory Almanac — Human Hearth
 
 ---
 
 ## PERSIAN CUISINE
 
-*Lineage: Achaemenid imperial â Sasanian court â Islamic Golden Age refinement â Safavid elaboration*
+*Lineage: Achaemenid imperial → Sasanian court → Islamic Golden Age refinement → Safavid elaboration*
 
 ---
 
 ### Tahdig (Crispy Rice)
 
 **Region:** Iran
-**Lineage:** Ancient Persian grain cookery â Safavid court technique â Iranian national obsession
+**Lineage:** Ancient Persian grain cookery → Safavid court technique → Iranian national obsession
 
 **Ingredients:**
 - 400 g basmati rice
@@ -25,14 +25,14 @@
 
 **Method:**
 1. Rinse rice in cold water until water runs clear; soak in salted cold water for at least 30 minutes.
-2. Bring large pot of salted water to boil; drain soaked rice and parboil for 5â7 minutes until grains have just started to soften but are still firm in the center.
-3. Drain; taste for doneness â it should be al dente.
+2. Bring large pot of salted water to boil; drain soaked rice and parboil for 5–7 minutes until grains have just started to soften but are still firm in the center.
+3. Drain; taste for doneness — it should be al dente.
 4. Heat oil in bottom of non-stick pot over medium heat; swirl to coat.
 5. For potato tahdig: layer potato rounds in oil-coated bottom.
 6. Spoon parboiled rice gently into pot in pyramid shape; do not pack.
 7. Drape a clean kitchen towel under the lid; place lid on pot. This absorbs steam.
 8. Cook on medium-high heat 3 minutes to start the crust, then reduce to very low heat.
-9. Cook 35â45 minutes on low heat.
+9. Cook 35–45 minutes on low heat.
 10. Drizzle saffron water over rice; allow to sit 5 minutes off heat.
 11. Invert onto large plate in one dramatic motion; the golden crust should come out whole.
 
@@ -43,7 +43,7 @@
 ### Ghormeh Sabzi
 
 **Region:** Iran (with variants in Azerbaijan and Afghanistan)
-**Lineage:** Ancient Persian herb cultivation â medieval Islamic cookery â Iran's most popular stew
+**Lineage:** Ancient Persian herb cultivation → medieval Islamic cookery → Iran's most popular stew
 
 **Ingredients:**
 - 800 g lamb shoulder, cubed
@@ -57,12 +57,12 @@
 - Salt to taste
 
 **Method:**
-1. Fry chopped herbs in oil over medium heat, stirring frequently, for 20â30 minutes until dark green and aromatic. This is critical â raw herbs make the stew bitter.
+1. Fry chopped herbs in oil over medium heat, stirring frequently, for 20–30 minutes until dark green and aromatic. This is critical — raw herbs make the stew bitter.
 2. In a separate large pot, fry onion until golden; add turmeric and pepper.
 3. Add lamb; brown on all sides.
 4. Add soaked kidney beans; cover with water.
 5. Add fried herbs and pierced dried limes.
-6. Bring to simmer; cover and cook on low heat for 2â2.5 hours.
+6. Bring to simmer; cover and cook on low heat for 2–2.5 hours.
 7. The dried limes will release a sour, distinctive flavor. Squeeze them against pot sides to release more.
 8. Adjust seasoning with salt; sauce should be thick and intensely flavoured.
 9. Serve with plain white rice or tahdig.
@@ -74,12 +74,12 @@
 ### Fesenjan
 
 **Region:** Gilan and Mazanderan provinces, Northern Iran
-**Lineage:** Caspian Sea Persian cuisine â Safavid royal court dish
+**Lineage:** Caspian Sea Persian cuisine → Safavid royal court dish
 
 **Ingredients:**
 - 1 kg chicken pieces (or duck) or 600 g lamb meatballs
 - 300 g walnut halves, finely ground in food processor
-- 4 tbsp pomegranate molasses (adjust to taste â sweet vs sour preference varies by region)
+- 4 tbsp pomegranate molasses (adjust to taste — sweet vs sour preference varies by region)
 - 1 tbsp honey or sugar (for sweeter version)
 - 1 large onion, diced
 - 1/2 tsp turmeric
@@ -107,7 +107,7 @@
 ### Zereshk Polo (Barberry Rice with Chicken)
 
 **Region:** Iran
-**Lineage:** Persian courtly rice dishes â Safavid ceremonial cooking
+**Lineage:** Persian courtly rice dishes → Safavid ceremonial cooking
 
 **Ingredients:**
 - 400 g basmati rice (cooked as tahdig)
@@ -120,7 +120,7 @@
 
 **Method:**
 1. Prepare rice using tahdig method.
-2. Drain barberries; sautÃ© in butter for 2 minutes until plump.
+2. Drain barberries; sauté in butter for 2 minutes until plump.
 3. Add sugar; stir until slightly caramelized. Add saffron water.
 4. When rice is almost done, stir barberry mixture through top half of rice.
 5. Serve rice mounded on platter; arrange barberry mixture on top of rice.
@@ -133,7 +133,7 @@
 ### Ash Reshteh (Persian Herb Noodle Soup)
 
 **Region:** Iran
-**Lineage:** Pre-Islamic Nowruz tradition â Persian New Year and Ramadan ifthar staple
+**Lineage:** Pre-Islamic Nowruz tradition → Persian New Year and Ramadan ifthar staple
 
 **Ingredients:**
 - 200 g reshteh noodles (or linguine broken into thirds)
@@ -155,7 +155,7 @@
 2. Fry diced onion and garlic in 2 tbsp oil until golden; add turmeric and pepper.
 3. Add cooked legumes to onion base; pour in 1.5 litres water (including reserved legume liquid).
 4. Add chopped herbs; simmer 20 minutes.
-5. Add noodles; cook until tender, about 10â12 minutes.
+5. Add noodles; cook until tender, about 10–12 minutes.
 6. Meanwhile, fry sliced onion in remaining oil until very crisp and dark golden.
 7. Ladle soup into bowls; top with kashk, crispy onion, and dried mint.
 
@@ -166,7 +166,7 @@
 ### Kuku Sabzi (Persian Herb Frittata)
 
 **Region:** Iran (Gilan province origin)
-**Lineage:** Persian egg-herb cookery â Nowruz tradition
+**Lineage:** Persian egg-herb cookery → Nowruz tradition
 
 **Ingredients:**
 - 6 eggs
@@ -192,14 +192,14 @@
 
 ## IRAQI CUISINE
 
-*Lineage: Sumerian-Babylonian â Abbasid Caliphate culinary golden age â Ottoman imperial influence*
+*Lineage: Sumerian-Babylonian → Abbasid Caliphate culinary golden age → Ottoman imperial influence*
 
 ---
 
 ### Masgouf (Iraqi Grilled Fish)
 
 **Region:** Baghdad, Iraq (Tigris River tradition)
-**Lineage:** Ancient Mesopotamian river fish cookery â Abbasid-era Baghdad specialty
+**Lineage:** Ancient Mesopotamian river fish cookery → Abbasid-era Baghdad specialty
 
 **Ingredients:**
 - 1 large whole freshwater fish (carp preferred; bass or bream as alternative), about 1.5 kg
@@ -219,7 +219,7 @@
 2. Score flesh deeply; mix oil, tamarind, turmeric, cumin, paprika, garlic, lemon, salt, and pepper.
 3. Rub marinade generously all over fish; marinate 30 minutes.
 4. Traditionally: cook opened fish on wooden stakes around an open fire, flesh-side to the coals for 30 minutes, then skin-side down 20 more minutes.
-5. Modern method: grill or roast at 220Â°C on rack, flesh-side up, for 25â30 minutes until cooked through and edges charred.
+5. Modern method: grill or roast at 220°C on rack, flesh-side up, for 25–30 minutes until cooked through and edges charred.
 6. Serve on flatbread with sliced tomatoes, raw onion, and parsley.
 
 *Historical note: Masgouf is Iraq's national dish; Baghdadi families have gathered on the banks of the Tigris to eat freshly grilled carp for over two millennia.*
@@ -229,7 +229,7 @@
 ### Iraqi Dolma
 
 **Region:** Iraq (and throughout the former Ottoman empire)
-**Lineage:** Mesopotamian stuffed vegetable tradition â Ottoman palace cuisine â Iraqi family cooking
+**Lineage:** Mesopotamian stuffed vegetable tradition → Ottoman palace cuisine → Iraqi family cooking
 
 **Ingredients:**
 - 4 large tomatoes, tops removed and hollowed
@@ -256,7 +256,7 @@
 4. Layer a heavy pot: start with potato rounds, then place stuffed vegetables and vine-leaf rolls snugly together.
 5. Mix 2 tbsp tomato paste with 400 ml hot water and juice of 1 lemon; pour over dolma to nearly cover.
 6. Weigh down with heavy plate; bring to simmer.
-7. Cook on low heat, covered, for 1â1.5 hours until rice is cooked through.
+7. Cook on low heat, covered, for 1–1.5 hours until rice is cooked through.
 8. Invert carefully onto large platter.
 
 *Historical note: Iraqi dolma differs from Greek or Turkish versions by the use of pomegranate molasses and baharat spices, reflecting the Abbasid-era spice trade through Baghdad.*
@@ -266,7 +266,7 @@
 ### Kubba (Iraqi Kibbeh)
 
 **Region:** Iraq
-**Lineage:** Mesopotamian meat-grain ball tradition â regional variations across Levant and Iraq
+**Lineage:** Mesopotamian meat-grain ball tradition → regional variations across Levant and Iraq
 
 **Ingredients:**
 **Outer shell:**
@@ -290,8 +290,8 @@
 2. Knead bulgur and raw lamb mince together until it becomes a smooth, cohesive paste. Season.
 3. Wet hands; take a golf ball of shell mixture and hollow into a cup shape.
 4. Fill with cooked meat mixture; pinch and smooth outer shell closed into torpedo shape.
-5. Deep-fry at 170Â°C until deep golden brown, about 8 minutes.
-6. Alternatively, bake at 200Â°C for 20 minutes.
+5. Deep-fry at 170°C until deep golden brown, about 8 minutes.
+6. Alternatively, bake at 200°C for 20 minutes.
 7. Serve with yoghurt, lemon, and fresh herbs.
 
 *Historical note: Kubba is one of the oldest continuous food traditions in the world; kibbeh-like dishes appear in ancient Mesopotamian texts and stretch across the entire Levant.*
@@ -301,7 +301,7 @@
 ### Tashreeb
 
 **Region:** Iraq
-**Lineage:** Ancient Mesopotamian bread-and-broth tradition â Abbasid court cookery
+**Lineage:** Ancient Mesopotamian bread-and-broth tradition → Abbasid court cookery
 
 **Ingredients:**
 - 600 g lamb or chicken, bone-in pieces
@@ -321,7 +321,7 @@
 1. Brown meat in ghee; add onions and cook until golden.
 2. Add spices and cook 1 minute.
 3. Add tomatoes, tomato paste, and water.
-4. Simmer, covered, 1â1.5 hours until meat is tender.
+4. Simmer, covered, 1–1.5 hours until meat is tender.
 5. Break flatbread into pieces; arrange in serving bowl.
 6. Pour hot broth over bread to soak completely.
 7. Arrange meat over bread; ladle extra broth over top.
@@ -333,14 +333,14 @@
 
 ## GULF CUISINE
 
-*Lineage: Arabian Peninsula nomadic cookery â Indian Ocean trade network spice influence â pearl-diving culture*
+*Lineage: Arabian Peninsula nomadic cookery → Indian Ocean trade network spice influence → pearl-diving culture*
 
 ---
 
 ### Machboos (Kabsa)
 
 **Region:** Kuwait, Bahrain, Saudi Arabia, Qatar, UAE
-**Lineage:** Arabian Bedouin rice cookery â Indian Ocean trade spice influence â Gulf national dish
+**Lineage:** Arabian Bedouin rice cookery → Indian Ocean trade spice influence → Gulf national dish
 
 **Ingredients:**
 - 1 whole chicken or 1 kg lamb, bone-in
@@ -377,7 +377,7 @@
 ### Harees
 
 **Region:** Gulf states and Yemen (UAE, Bahrain, Oman, Saudi Arabia)
-**Lineage:** Ancient Arabian porridge tradition â Ramadan iftar staple
+**Lineage:** Ancient Arabian porridge tradition → Ramadan iftar staple
 
 **Ingredients:**
 - 500 g whole wheat berries, soaked overnight
@@ -390,7 +390,7 @@
 **Method:**
 1. Boil lamb in large pot with salt until falling off the bone, about 2 hours. Remove meat; shred and reserve.
 2. Add drained wheat to lamb broth; bring to boil.
-3. Simmer, stirring frequently, for 1.5â2 hours until wheat breaks down completely.
+3. Simmer, stirring frequently, for 1.5–2 hours until wheat breaks down completely.
 4. Add shredded meat and spices; stir vigorously.
 5. The dish should have consistency of thick oatmeal; no whole wheat grains should remain.
 6. Season generously.
@@ -403,7 +403,7 @@
 ### Luqaimat (Gulf Sweet Dumplings)
 
 **Region:** UAE, Bahrain, Kuwait, Oman
-**Lineage:** Middle Eastern fried dough tradition â Ramadan and celebration sweet
+**Lineage:** Middle Eastern fried dough tradition → Ramadan and celebration sweet
 
 **Ingredients:**
 - 300 g all-purpose flour
@@ -420,9 +420,9 @@
 1. Combine flour, yeast, sugar, salt, and cardamom.
 2. Add warm water; whisk into smooth, slightly thick batter.
 3. Cover; prove in warm place 1 hour until bubbly and doubled.
-4. Heat oil in deep pan to 180Â°C.
+4. Heat oil in deep pan to 180°C.
 5. Use wet spoon to scoop and drop rough balls of batter into hot oil.
-6. Fry, turning occasionally, until golden all over, about 3â4 minutes.
+6. Fry, turning occasionally, until golden all over, about 3–4 minutes.
 7. Drain on paper towels.
 8. Arrange on platter; drizzle generously with date syrup and scatter sesame seeds.
 
@@ -433,7 +433,7 @@
 ### Margoog
 
 **Region:** Saudi Arabia, Qatar, UAE
-**Lineage:** Arabian Bedouin meat-and-grain one-pot â Gulf home cooking tradition
+**Lineage:** Arabian Bedouin meat-and-grain one-pot → Gulf home cooking tradition
 
 **Ingredients:**
 - 600 g lamb or chicken, bone-in pieces
@@ -455,8 +455,8 @@
 3. Add water to cover; simmer 45 minutes until meat is tender.
 4. Add vegetables; cook 20 minutes.
 5. Tear flat bread dough into small irregular pieces; drop into simmering stew.
-6. Cook 10â15 minutes until dough pieces expand and thicken stew.
-7. Serve in deep bowls â the torn bread creates a thick, dumpling-like stew.
+6. Cook 10–15 minutes until dough pieces expand and thicken stew.
+7. Serve in deep bowls — the torn bread creates a thick, dumpling-like stew.
 
 *Historical note: Margoog is the home-style comfort food of the Gulf; the torn dough thickener recalls ancient Bedouin cooking practices with simple grain and available meat.*
 
@@ -464,14 +464,14 @@
 
 ## YEMENI CUISINE
 
-*Lineage: Ancient South Arabian Sabaean kingdom â Islamic highland cookery â Red Sea trade port traditions*
+*Lineage: Ancient South Arabian Sabaean kingdom → Islamic highland cookery → Red Sea trade port traditions*
 
 ---
 
 ### Saltah
 
 **Region:** Sana'a, Yemen
-**Lineage:** Ancient Yemeni spiced meat tradition â UNESCO-recognized national dish
+**Lineage:** Ancient Yemeni spiced meat tradition → UNESCO-recognized national dish
 
 **Ingredients:**
 - 600 g lamb or beef, cubed and cooked into stew
@@ -504,10 +504,10 @@
 ### Zhug (Yemeni Green Chilli Paste)
 
 **Region:** Yemen (and Israel via Yemeni Jewish diaspora)
-**Lineage:** Ancient Yemeni chilli-herb condiment â Levantine spread via immigration
+**Lineage:** Ancient Yemeni chilli-herb condiment → Levantine spread via immigration
 
 **Ingredients:**
-- 6 fresh green chillies (or jalapeÃ±os), roughly chopped
+- 6 fresh green chillies (or jalapeños), roughly chopped
 - 4 cloves garlic
 - Large bunch fresh coriander
 - Small bunch fresh parsley
@@ -521,7 +521,7 @@
 
 **Method:**
 1. Roughly blend or pound chillies and garlic in food processor or mortar.
-2. Add herbs; blend until coarsely chopped (not a smooth paste â texture is important).
+2. Add herbs; blend until coarsely chopped (not a smooth paste — texture is important).
 3. Add spices, olive oil, and lemon juice; blend briefly.
 4. Season with salt; adjust heat with more chillies.
 5. Store covered with a film of olive oil in the refrigerator for up to 1 week.
@@ -553,7 +553,7 @@
 3. Add hawayij; stir and cook 2 minutes.
 4. Add tomato paste and water; bring to simmer.
 5. Transfer to earthenware pot if available; cover tightly.
-6. Slow-cook at very low heat (or in 160Â°C oven) for 2â2.5 hours until meat is very tender and sauce thick.
+6. Slow-cook at very low heat (or in 160°C oven) for 2–2.5 hours until meat is very tender and sauce thick.
 7. Serve in the cooking vessel with hulba, zhug, and flatbread.
 
 *Historical note: Fahsa is the lamb stew counterpart to saltah; both reflect the Yemeni preference for long-cooked, spiced lamb eaten communally from shared vessels.*
@@ -563,7 +563,7 @@
 ### Bint al-Sahn (Yemeni Honey Bread)
 
 **Region:** Yemen
-**Lineage:** Yemeni bread-making tradition â Sana'a celebration sweet
+**Lineage:** Yemeni bread-making tradition → Sana'a celebration sweet
 
 **Ingredients:**
 - 500 g all-purpose flour
@@ -580,11 +580,11 @@
 1. Mix flour, yeast, sugar, and salt; add eggs and warm water.
 2. Knead into smooth dough; add melted butter gradually. Knead 10 minutes.
 3. Prove 1 hour until doubled.
-4. Divide dough into 8â10 portions; roll each paper-thin.
+4. Divide dough into 8–10 portions; roll each paper-thin.
 5. Layer sheets in greased round pan, brushing each with melted butter.
 6. Arrange all layers in pan; brush top generously with butter.
 7. Sprinkle with nigella seeds if using.
-8. Bake at 200Â°C for 20â25 minutes until golden and layers are crisp.
+8. Bake at 200°C for 20–25 minutes until golden and layers are crisp.
 9. Drizzle copiously with honey immediately from oven.
 
 *Historical note: Bint al-Sahn (literally "daughter of the plate") is Yemen's most famous sweet bread, traditionally made for celebrations and served as a dessert with black seed honey.*
@@ -593,14 +593,14 @@
 
 ## PALESTINIAN CUISINE
 
-*Lineage: Canaanite â Byzantine â Crusader â Ottoman â Palestinian national identity*
+*Lineage: Canaanite → Byzantine → Crusader → Ottoman → Palestinian national identity*
 
 ---
 
 ### Musakhan
 
 **Region:** Palestine (Tulkarm and Nablus region)
-**Lineage:** Ancient olive oil and sumac cookery of the Levant â Palestinian national dish
+**Lineage:** Ancient olive oil and sumac cookery of the Levant → Palestinian national dish
 
 **Ingredients:**
 - 1 whole chicken, cut into pieces
@@ -609,29 +609,29 @@
 - 1 tsp allspice
 - 1 tsp cinnamon
 - 1/2 tsp cardamom
-- 100 ml olive oil (generous â this dish celebrates olive oil)
+- 100 ml olive oil (generous — this dish celebrates olive oil)
 - 4 taboon flatbreads (or pita)
 - 75 g pine nuts, toasted
 - Salt and pepper
 
 **Method:**
-1. Season chicken with allspice, cinnamon, cardamom, and sumac; roast at 200Â°C for 35â40 minutes.
+1. Season chicken with allspice, cinnamon, cardamom, and sumac; roast at 200°C for 35–40 minutes.
 2. While chicken roasts, cook onions very slowly in generous olive oil over low heat for 45 minutes until deeply caramelized.
 3. Stir in remaining sumac; season the onion mixture.
 4. Lay flatbread on baking sheet; spread half the sumac onions over bread.
 5. Place chicken pieces on bread; top with remaining onions.
-6. Return to oven at 200Â°C for 10 minutes until bread edges crisp.
+6. Return to oven at 200°C for 10 minutes until bread edges crisp.
 7. Scatter pine nuts over top; drizzle additional olive oil.
 8. Serve torn at the table.
 
-*Historical note: Musakhan is considered Palestine's national dish; sumac â a wild berry grown on Palestinian hillsides â is its defining flavour, and olive oil from Palestinian groves its heart.*
+*Historical note: Musakhan is considered Palestine's national dish; sumac — a wild berry grown on Palestinian hillsides — is its defining flavour, and olive oil from Palestinian groves its heart.*
 
 ---
 
 ### Maqluba (Upside-Down Rice)
 
 **Region:** Palestine, Jordan, Syria
-**Lineage:** Abbasid-era layered rice cookery â Palestinian and Jordanian celebration tradition
+**Lineage:** Abbasid-era layered rice cookery → Palestinian and Jordanian celebration tradition
 
 **Ingredients:**
 - 400 g basmati rice, washed and soaked
@@ -652,7 +652,7 @@
 3. Arrange heavy pot in layers: start with tomatoes on the bottom, then meat, then fried vegetables.
 4. Drain soaked rice; layer over vegetables; add spices.
 5. Pour hot stock over rice; it should just cover the rice layer.
-6. Bring to boil; reduce to lowest heat. Cover tightly; cook 35â40 minutes.
+6. Bring to boil; reduce to lowest heat. Cover tightly; cook 35–40 minutes.
 7. Allow to rest off heat, covered, for 10 minutes.
 8. Place serving platter on top of pot; invert dramatically.
 9. Lift pot slowly; maqluba should hold its layered shape.
@@ -665,7 +665,7 @@
 ### Knafeh (Kunafah)
 
 **Region:** Nablus, Palestine (also Levant broadly)
-**Lineage:** Byzantine cheese pastry â Ottoman court sweet â Nablus specialty
+**Lineage:** Byzantine cheese pastry → Ottoman court sweet → Nablus specialty
 
 **Ingredients:**
 - 500 g kataifi (shredded wheat pastry)
@@ -688,7 +688,7 @@
 4. Press coloured kataifi into greased heavy round baking pan.
 5. Spread cheese evenly over kataifi base.
 6. Top with remaining (uncoloured) kataifi; press firmly.
-7. Bake at 200Â°C for 25â30 minutes until bottom is golden (the coloured kataifi becomes the top when inverted).
+7. Bake at 200°C for 25–30 minutes until bottom is golden (the coloured kataifi becomes the top when inverted).
 8. Invert onto large serving plate.
 9. Pour cold syrup over hot knafeh.
 10. Decorate with ground pistachio; serve immediately.
@@ -700,7 +700,7 @@
 ### Fattoush
 
 **Region:** Levant (Lebanon, Syria, Palestine)
-**Lineage:** Levantine stale bread recycling tradition â refreshing summer salad
+**Lineage:** Levantine stale bread recycling tradition → refreshing summer salad
 
 **Ingredients:**
 - 2 day-old pita breads, torn into pieces and toasted or fried until crisp
@@ -725,7 +725,7 @@
 2. Toss all vegetables and herbs in a large bowl.
 3. Add crispy bread pieces.
 4. Pour dressing over; toss gently.
-5. Serve immediately â the bread should be added at the last moment to retain some crunch.
+5. Serve immediately — the bread should be added at the last moment to retain some crunch.
 
 *Historical note: Fattoush is a bread-recycling salad born from a Levantine aversion to food waste; the sumac dressing is what distinguishes it from panzanella.*
 
@@ -734,7 +734,7 @@
 ### Mansaf
 
 **Region:** Jordan (and Palestine, Syria)
-**Lineage:** Bedouin lamb-and-rice hospitality tradition â Jordanian national ceremony
+**Lineage:** Bedouin lamb-and-rice hospitality tradition → Jordanian national ceremony
 
 **Ingredients:**
 - 1.5 kg lamb shoulder or leg, bone-in pieces

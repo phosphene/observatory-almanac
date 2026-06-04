@@ -1,4 +1,4 @@
-# Setting Up Your Smartphone â The Complete Guide
+# Setting Up Your Smartphone — The Complete Guide
 
 Getting a new phone is exciting, and a little overwhelming. Whether it's an iPhone or an Android, there's a right way to set it up that will save you headaches for years. This guide walks you through everything, step by step, side by side for both types.
 
@@ -6,7 +6,7 @@ Getting a new phone is exciting, and a little overwhelming. Whether it's an iPho
 
 ## First Things First: iPhone vs. Android
 
-Quick orientation: iPhones are made by Apple and run iOS. Android phones are made by many companies â Samsung, Google (Pixel), Motorola, OnePlus, and others â and run Google's Android software. The experience is similar in most ways, but the details differ. Throughout this guide, you'll see **iPhone** and **Android** side by side wherever they diverge.
+Quick orientation: iPhones are made by Apple and run iOS. Android phones are made by many companies — Samsung, Google (Pixel), Motorola, OnePlus, and others — and run Google's Android software. The experience is similar in most ways, but the details differ. Throughout this guide, you'll see **iPhone** and **Android** side by side wherever they diverge.
 
 ---
 
@@ -18,7 +18,7 @@ Press and hold the power button (usually on the right side or top) until you see
 
 ### Language and Region
 
-Both platforms will ask you to choose a language first, then your country or region. Choose carefully â this affects date formats, currency symbols, and which version of apps you get. If you're in the United States, choose "United States." You can change this later, but it's easier to get it right now.
+Both platforms will ask you to choose a language first, then your country or region. Choose carefully — this affects date formats, currency symbols, and which version of apps you get. If you're in the United States, choose "United States." You can change this later, but it's easier to get it right now.
 
 ### Connecting to WiFi
 
@@ -27,10 +27,10 @@ Both platforms will ask you to choose a language first, then your country or reg
 When the setup wizard asks you to connect to WiFi:
 1. Your home network name should appear in the list
 2. Tap it
-3. Type your WiFi password (it's usually on a sticker on your router â the box that connects your home to the internet)
+3. Type your WiFi password (it's usually on a sticker on your router — the box that connects your home to the internet)
 4. Tap "Connect" or "Join"
 
-If you don't have WiFi, you can use cellular data, but be aware that downloading apps and transferring your old phone's data can use several gigabytes â potentially expensive if you have a limited data plan.
+If you don't have WiFi, you can use cellular data, but be aware that downloading apps and transferring your old phone's data can use several gigabytes — potentially expensive if you have a limited data plan.
 
 ---
 
@@ -45,9 +45,9 @@ If you don't already have an Apple ID, you'll be prompted to create one. Your Ap
 1. Tap "Create a Free Apple ID"
 2. Enter your birthday (Apple requires this for account security)
 3. Enter your name
-4. Enter an email address â use one you check regularly and will have for years. A Gmail address works fine.
+4. Enter an email address — use one you check regularly and will have for years. A Gmail address works fine.
 5. Create a strong password (at least 8 characters, with numbers and symbols)
-6. You'll receive a verification email â open it and click the link
+6. You'll receive a verification email — open it and click the link
 7. You may be asked to verify with a trusted phone number
 
 **Write down your Apple ID email and password somewhere safe.** Losing access to your Apple ID can lock you out of your phone permanently.
@@ -60,23 +60,23 @@ Your Android phone runs on Google's services. You'll need a Google Account (whic
 2. If not, tap "Create account"
 3. Enter your name, choose a Gmail address (firstname.lastname or similar)
 4. Set a strong password
-5. Add a recovery phone number or email â this is crucial if you ever get locked out
+5. Add a recovery phone number or email — this is crucial if you ever get locked out
 6. Agree to the terms
 
-**Samsung users:** Samsung adds their own account on top of Google. You can skip this or create one â it's optional and adds Samsung-specific features. If you're not sure, skip it for now.
+**Samsung users:** Samsung adds their own account on top of Google. You can skip this or create one — it's optional and adds Samsung-specific features. If you're not sure, skip it for now.
 
 ---
 
 ## Transferring from an Old Phone
 
-This is where most people get nervous. Don't be â both platforms have made this remarkably easy.
+This is where most people get nervous. Don't be — both platforms have made this remarkably easy.
 
 ### iPhone to iPhone: iCloud Backup
 
 The easiest method if your old phone has iOS 12 or later:
 
 **On your old iPhone, the night before:**
-1. Go to Settings â tap your name at the top â iCloud
+1. Go to Settings → tap your name at the top → iCloud
 2. Tap "iCloud Backup"
 3. Tap "Back Up Now"
 4. Wait for it to complete (keep the phone on WiFi and plugged in)
@@ -86,22 +86,22 @@ The easiest method if your old phone has iOS 12 or later:
 1. During setup, choose "Restore from iCloud Backup"
 2. Sign in with your Apple ID
 3. Choose the backup you just made
-4. The phone downloads your apps and data â this can take 20-60 minutes depending on how much you have
+4. The phone downloads your apps and data — this can take 20-60 minutes depending on how much you have
 5. Keep it plugged in and on WiFi the whole time
 
 ### Android to Android: Google Backup
 
 Android backs up automatically to Google if you have it turned on. During new phone setup:
 1. Choose "Copy apps and data from your old device"
-2. On your old phone, you'll see a notification to help â tap it
+2. On your old phone, you'll see a notification to help — tap it
 3. Or sign into your Google account on the new phone and it will restore automatically
 
 **Samsung to Samsung: Samsung Smart Switch**
 Samsung offers a dedicated app called Smart Switch. You can transfer wirelessly or with a cable:
 1. Install Smart Switch on both phones (it may already be installed)
 2. Open the app on both phones
-3. On the old phone, tap "Send" â on the new phone, tap "Receive"
-4. Follow the prompts â it transfers contacts, photos, messages, apps, and settings
+3. On the old phone, tap "Send" — on the new phone, tap "Receive"
+4. Follow the prompts — it transfers contacts, photos, messages, apps, and settings
 
 ### Moving from Android to iPhone: Move to iOS
 
@@ -113,7 +113,7 @@ Apple made an app specifically for this called "Move to iOS." It only works duri
 4. Enter that code in the Move to iOS app on your Android
 5. It will transfer contacts, photos, videos, messages, calendars, and free apps
 
-**Paid apps won't transfer** â you'll need to repurchase Android apps on iPhone if there's a paid iOS version. Free apps usually have iPhone equivalents you can download at no cost.
+**Paid apps won't transfer** — you'll need to repurchase Android apps on iPhone if there's a paid iOS version. Free apps usually have iPhone equivalents you can download at no cost.
 
 ### Moving from iPhone to Android
 
@@ -121,7 +121,7 @@ This is trickier because Apple and Google don't cooperate as nicely.
 
 * **Photos:** Download Google Photos on your iPhone, back up your library, then access it on Android
 * **Contacts:** Go to iCloud.com on a computer, export contacts as a .vcf file, then import to Google Contacts
-* **Messages:** iMessage (blue bubble) won't work on Android. Before switching, turn off iMessage in iPhone Settings â Messages, and wait 24 hours, so texts route back through regular SMS
+* **Messages:** iMessage (blue bubble) won't work on Android. Before switching, turn off iMessage in iPhone Settings → Messages, and wait 24 hours, so texts route back through regular SMS
 
 ---
 
@@ -131,30 +131,30 @@ Your passcode is the last line of defense if someone picks up your phone. Set a 
 
 ### Setting Your Passcode
 
-**iPhone:** Settings â Face ID & Passcode (or Touch ID & Passcode) â Turn Passcode On
+**iPhone:** Settings → Face ID & Passcode (or Touch ID & Passcode) → Turn Passcode On
 - Choose "Passcode Options" to switch from a 6-digit number to a longer alphanumeric code (much more secure)
 - A 6-digit PIN is fine for most people; a 10+ character code is better
 
-**Android:** Settings â Security â Screen Lock
+**Android:** Settings → Security → Screen Lock
 - Choose PIN, Pattern, or Password
 - A 6-digit PIN or password is recommended; patterns are the weakest option
 
 ### Setting Up Face ID (iPhone) or Fingerprint (Most Phones)
 
 **iPhone Face ID:**
-1. Settings â Face ID & Passcode â Set Up Face ID
+1. Settings → Face ID & Passcode → Set Up Face ID
 2. Position your face in the circle
-3. Move your head in a slow circle â the phone maps your face in 3D
-4. Do it twice â the second time sets up an alternate look
+3. Move your head in a slow circle — the phone maps your face in 3D
+4. Do it twice — the second time sets up an alternate look
 5. Face ID works even with glasses, most hats, and in the dark
 
 **iPhone Touch ID** (older iPhones):
-1. Settings â Touch ID & Passcode â Add a Fingerprint
+1. Settings → Touch ID & Passcode → Add a Fingerprint
 2. Rest your finger on the home button repeatedly as instructed
-3. Add multiple fingers â at least your dominant index finger and thumb
+3. Add multiple fingers — at least your dominant index finger and thumb
 
 **Android Fingerprint:**
-1. Settings â Security â Fingerprint (name varies by manufacturer)
+1. Settings → Security → Fingerprint (name varies by manufacturer)
 2. Follow the on-screen guide
 3. Press firmly, then lift, repeatedly until 100% complete
 4. Add a backup finger
@@ -169,9 +169,9 @@ Once the phone is set up and running, these are the settings worth adjusting bef
 
 ### 1. Turn On Automatic Updates
 
-**iPhone:** Settings â General â Software Update â Automatic Updates â Turn on both options (Download Updates and Install iOS Updates)
+**iPhone:** Settings → General → Software Update → Automatic Updates → Turn on both options (Download Updates and Install iOS Updates)
 
-**Android:** Settings â System â System Update â check for "Auto-download over Wi-Fi" option. Also: Google Play Store app â Profile icon â Settings â Network Preferences â Auto-update apps
+**Android:** Settings → System → System Update → check for "Auto-download over Wi-Fi" option. Also: Google Play Store app → Profile icon → Settings → Network Preferences → Auto-update apps
 
 Why this matters: Security vulnerabilities are patched through updates. A phone that auto-updates stays protected without you having to remember.
 
@@ -179,27 +179,27 @@ Why this matters: Security vulnerabilities are patched through updates. A phone 
 
 This lets you locate, lock, or wipe your phone if it's stolen.
 
-**iPhone:** Settings â tap your name â Find My â Find My iPhone â Turn On. Also turn on "Send Last Location" â this pings Apple with the phone's location when the battery dies.
+**iPhone:** Settings → tap your name → Find My → Find My iPhone → Turn On. Also turn on "Send Last Location" — this pings Apple with the phone's location when the battery dies.
 
-**Android:** Settings â Security â Find My Device (or search "Find My Device" in settings). Sign in with your Google account. Test it by going to android.com/find on a computer.
+**Android:** Settings → Security → Find My Device (or search "Find My Device" in settings). Sign in with your Google account. Test it by going to android.com/find on a computer.
 
 ### 3. Set Up Emergency Contacts and Medical ID
 
 This could save your life. Emergency responders can access this information even when your phone is locked.
 
-**iPhone â Medical ID:**
+**iPhone — Medical ID:**
 1. Open the Health app (the white app with a red heart)
 2. Tap your profile picture in the top right
 3. Tap "Medical ID"
 4. Tap "Edit"
 5. Fill in: blood type, allergies, medications, medical conditions
-6. Add emergency contacts â tap "Add Emergency Contact"
+6. Add emergency contacts — tap "Add Emergency Contact"
 7. Toggle "Show When Locked" to ON
 
 To call emergency services, press and hold the side button and either volume button until the Emergency SOS slider appears.
 
 **Android:**
-1. Open Settings â Safety & Emergency (or search "Emergency information")
+1. Open Settings → Safety & Emergency (or search "Emergency information")
 2. Add medical info and emergency contacts
 3. To call emergency: Most Android phones allow pressing power button 5 times rapidly to trigger emergency SOS
 
@@ -208,14 +208,14 @@ To call emergency services, press and hold the side button and either volume but
 This silences notifications during sleep or focused time without turning off your phone.
 
 **iPhone (Focus Modes):**
-1. Settings â Focus
+1. Settings → Focus
 2. Tap "Do Not Disturb"
 3. Add a schedule (e.g., 10 PM to 7 AM)
 4. Allow calls from your Favorites or specific people to break through
 5. Turn on "Silence Unknown Callers" to block spam calls
 
 **Android:**
-1. Settings â Sound â Do Not Disturb
+1. Settings → Sound → Do Not Disturb
 2. Set a schedule
 3. Allow exceptions for contacts or apps
 
@@ -225,42 +225,42 @@ This silences notifications during sleep or focused time without turning off you
 
 Bright screens drain batteries. Auto-lock protects your phone if you set it down.
 
-**iPhone:** Settings â Display & Brightness. Set auto-lock to 1 or 2 minutes. Turn on "Auto-Brightness" (it adjusts based on ambient light).
+**iPhone:** Settings → Display & Brightness. Set auto-lock to 1 or 2 minutes. Turn on "Auto-Brightness" (it adjusts based on ambient light).
 
-**Android:** Settings â Display. Set screen timeout to 30 seconds or 1 minute. Enable adaptive brightness.
+**Android:** Settings → Display. Set screen timeout to 30 seconds or 1 minute. Enable adaptive brightness.
 
 ### 6. Battery Health Settings
 
-**iPhone:** Settings â Battery â Battery Health & Charging. Turn on "Optimized Battery Charging" â the phone learns your schedule and stops charging at 80% until you need it, which preserves long-term battery capacity.
+**iPhone:** Settings → Battery → Battery Health & Charging. Turn on "Optimized Battery Charging" — the phone learns your schedule and stops charging at 80% until you need it, which preserves long-term battery capacity.
 
-**Android (Pixel):** Settings â Battery â Adaptive charging. For Samsung: Settings â Battery â More Battery Settings â Protect Battery. This keeps charge at 85% when plugged in for extended periods.
+**Android (Pixel):** Settings → Battery → Adaptive charging. For Samsung: Settings → Battery → More Battery Settings → Protect Battery. This keeps charge at 85% when plugged in for extended periods.
 
 ### 7. Privacy: Location Services
 
 Apps constantly ask for your location. Most don't need it all the time.
 
-**iPhone:** Settings â Privacy & Security â Location Services
+**iPhone:** Settings → Privacy & Security → Location Services
 - Review each app. Change most to "While Using" or "Never"
 - Apps that genuinely need "Always On" location: navigation apps (sometimes), Find My, possibly fitness tracking
 - Apps that don't need your location at all: weather (just type your city), shopping apps, games
 
-**Android:** Settings â Location â App Permissions
+**Android:** Settings → Location → App Permissions
 - Set most apps to "Only while using the app"
-- Turn off "Improve Location Accuracy" for most people â it uses Bluetooth and WiFi to triangulate you constantly
+- Turn off "Improve Location Accuracy" for most people — it uses Bluetooth and WiFi to triangulate you constantly
 
 ### 8. Turn Off Ad Tracking
 
-**iPhone:** Settings â Privacy & Security â Tracking â Turn off "Allow Apps to Request to Track"
+**iPhone:** Settings → Privacy & Security → Tracking → Turn off "Allow Apps to Request to Track"
 
-**Android:** Settings â Privacy â Ads â "Opt out of Ads Personalization" or "Delete advertising ID"
+**Android:** Settings → Privacy → Ads → "Opt out of Ads Personalization" or "Delete advertising ID"
 
 This won't stop ads, but it stops apps from building a profile on your behavior.
 
 ### 9. Notifications: Less Is More
 
-**iPhone:** Settings â Notifications. Scroll through and tap each app. For most apps, you can turn off notification banners and sounds. Keep them on for: Messages, Phone, important news apps.
+**iPhone:** Settings → Notifications. Scroll through and tap each app. For most apps, you can turn off notification banners and sounds. Keep them on for: Messages, Phone, important news apps.
 
-**Android:** Settings â Notifications â App Notifications. Turn off everything except what you truly need.
+**Android:** Settings → Notifications → App Notifications. Turn off everything except what you truly need.
 
 ---
 
@@ -271,25 +271,25 @@ This won't stop ads, but it stops apps from building a profile on your behavior.
 **Why you need one:** The average person has 100+ online accounts. Using the same password for multiple accounts is the number one way people get hacked. A password manager remembers hundreds of unique, random passwords so you only need to remember one master password.
 
 **Recommended free options:**
-- **Bitwarden** â Open source, free, works on every device, trusted by security experts
-- **Apple Passwords (iPhone only)** â Built into iOS 18+, excellent, completely free
-- **Google Password Manager (Android)** â Built into Chrome, good for most people
+- **Bitwarden** — Open source, free, works on every device, trusted by security experts
+- **Apple Passwords (iPhone only)** — Built into iOS 18+, excellent, completely free
+- **Google Password Manager (Android)** — Built into Chrome, good for most people
 
 To install Bitwarden: search for it in the App Store (iPhone) or Google Play Store (Android), download it, create an account, and set a strong master password you'll remember.
 
 ### Banking App
 
-Search your bank's name in the app store. Download only the official app â verify it's actually your bank by checking the developer name and the number of reviews.
+Search your bank's name in the app store. Download only the official app — verify it's actually your bank by checking the developer name and the number of reviews.
 
 To set up: Open the app, tap "Enroll" or "Register," enter your account number and Social Security Number (last 4 or full, depending on the bank), set up a PIN or Face ID for the app.
 
-**Turn on alerts immediately after setup** â more on this in the Digital Payments chapter.
+**Turn on alerts immediately after setup** — more on this in the Digital Payments chapter.
 
 ### Navigation
 
-* **Apple Maps (iPhone)** â Excellent now, built-in, works offline with downloads
-* **Google Maps (both platforms)** â The gold standard; download offline maps for areas you frequently travel
-* **Waze** â Best for real-time traffic and speed traps on commutes
+* **Apple Maps (iPhone)** — Excellent now, built-in, works offline with downloads
+* **Google Maps (both platforms)** — The gold standard; download offline maps for areas you frequently travel
+* **Waze** — Best for real-time traffic and speed traps on commutes
 
 You don't need all three. Google Maps or Apple Maps plus Waze covers almost everyone.
 
@@ -297,35 +297,35 @@ You don't need all three. Google Maps or Apple Maps plus Waze covers almost ever
 
 **Why not just SMS?** Regular text messages (the green bubbles) are not encrypted. Your carrier can read them. So can law enforcement with a subpoena. They're also easy to intercept.
 
-* **iMessage** (iPhone to iPhone only) â Encrypted, free with iPhone
-* **WhatsApp** â Works on both platforms, end-to-end encrypted, widely used internationally and increasingly in the US
-* **Signal** â The most private option; end-to-end encrypted, minimal data collection, recommended if privacy matters to you
+* **iMessage** (iPhone to iPhone only) — Encrypted, free with iPhone
+* **WhatsApp** — Works on both platforms, end-to-end encrypted, widely used internationally and increasingly in the US
+* **Signal** — The most private option; end-to-end encrypted, minimal data collection, recommended if privacy matters to you
 
 ### Email
 
 Your phone's built-in Mail apps work fine for most people. To add an account:
 
-**iPhone:** Settings â Mail â Accounts â Add Account â choose Gmail, Outlook, Yahoo, or Other
+**iPhone:** Settings → Mail → Accounts → Add Account → choose Gmail, Outlook, Yahoo, or Other
 
-**Android:** Open Gmail app â tap your profile picture â Add another account
+**Android:** Open Gmail app → tap your profile picture → Add another account
 
 ### Cloud Storage
 
 Cloud storage is your backup and your file access from anywhere.
 
-* **iCloud (iPhone)** â 5 GB free, $0.99/month for 50 GB. Seamlessly backs up your phone.
-* **Google Photos/Drive (both)** â 15 GB free shared across Gmail, Drive, and Photos. Excellent photo backup.
-* **Dropbox** â 2 GB free. Good if you share files with others.
+* **iCloud (iPhone)** — 5 GB free, $0.99/month for 50 GB. Seamlessly backs up your phone.
+* **Google Photos/Drive (both)** — 15 GB free shared across Gmail, Drive, and Photos. Excellent photo backup.
+* **Dropbox** — 2 GB free. Good if you share files with others.
 
-**The most important thing:** Make sure at least one cloud backup is running. Go to Settings â iCloud â Backup (iPhone) or Settings â Google â Backup (Android) and verify it's on.
+**The most important thing:** Make sure at least one cloud backup is running. Go to Settings → iCloud → Backup (iPhone) or Settings → Google → Backup (Android) and verify it's on.
 
 ### Two-Factor Authenticator App
 
 This is better than SMS-based two-factor authentication (where a code is texted to you). SMS codes can be intercepted; an authenticator app generates codes that only work with your physical phone.
 
-* **Authy** â Free, backs up your codes to the cloud, best for most people
-* **Google Authenticator** â Free, simple, now backs up to your Google account
-* **Microsoft Authenticator** â Works well, especially with Microsoft accounts
+* **Authy** — Free, backs up your codes to the cloud, best for most people
+* **Google Authenticator** — Free, simple, now backs up to your Google account
+* **Microsoft Authenticator** — Works well, especially with Microsoft accounts
 
 ---
 
@@ -337,7 +337,7 @@ This is better than SMS-based two-factor authentication (where a code is texted 
 - iPhone with Face ID: Press **Side Button + Volume Up** at the same time, quickly
 - Older iPhone with Home Button: Press **Home Button + Power Button** at the same time
 
-The screenshot flashes at the corner of the screen. Tap it to annotate, or swipe it away to dismiss. Find screenshots in Photos â Recents.
+The screenshot flashes at the corner of the screen. Tap it to annotate, or swipe it away to dismiss. Find screenshots in Photos → Recents.
 
 **Android:**
 - Most phones: Press **Power Button + Volume Down** at the same time, quickly
@@ -351,7 +351,7 @@ The screenshot flashes at the corner of the screen. Tap it to annotate, or swipe
 2. Drag the handles to expand the selection
 3. Tap "Copy"
 4. Navigate to where you want to paste
-5. Tap and hold the empty area â tap "Paste"
+5. Tap and hold the empty area → tap "Paste"
 
 **Quick tip:** Double-tap a word to select just that word. Triple-tap to select a whole paragraph.
 
@@ -364,12 +364,12 @@ The screenshot flashes at the corner of the screen. Tap it to annotate, or swipe
 ### Setting Custom Ringtones
 
 **iPhone:**
-- Settings â Sounds & Haptics â Ringtone
-- Ringtones must be purchased or created â you can't use just any song unless you convert it (a bit technical)
+- Settings → Sounds & Haptics → Ringtone
+- Ringtones must be purchased or created — you can't use just any song unless you convert it (a bit technical)
 - GarageBand app can create custom ringtones from music
 
 **Android:**
-- Settings â Sound â Phone Ringtone
+- Settings → Sound → Phone Ringtone
 - Any MP3 file saved to your phone can be a ringtone
 - Download a song, then select it from the list
 
@@ -377,84 +377,84 @@ The screenshot flashes at the corner of the screen. Tap it to annotate, or swipe
 
 **iPhone:** Long-press any app until it jiggles (you'll see an X and everything wiggles). Drag one app on top of another to create a folder. Tap the folder name to rename it. Press the home button or tap Done to stop.
 
-**Android:** Long-press an app â drag it on top of another app â a folder appears. Tap and hold the folder name to rename.
+**Android:** Long-press an app → drag it on top of another app → a folder appears. Tap and hold the folder name to rename.
 
 ### When Your Phone Says "Storage Full"
 
 This is one of the most common frustrations.
 
 **First, find out what's using space:**
-- **iPhone:** Settings â General â iPhone Storage. You'll see a bar chart and a list by app.
-- **Android:** Settings â Storage
+- **iPhone:** Settings → General → iPhone Storage. You'll see a bar chart and a list by app.
+- **Android:** Settings → Storage
 
 **The usual culprits and solutions:**
-1. **Photos and videos** â The biggest space hog. Upload to Google Photos or iCloud, then delete from your phone's local storage. Enable "Free Up Space" in Google Photos.
-2. **Apps you don't use** â Delete apps you haven't opened in months
-3. **Downloaded music/videos** â Delete offline downloads from Spotify, Netflix, etc. when you don't need them
-4. **Messages with attachments** â Old threads with lots of photos. Delete entire conversations or clear attachments.
+1. **Photos and videos** — The biggest space hog. Upload to Google Photos or iCloud, then delete from your phone's local storage. Enable "Free Up Space" in Google Photos.
+2. **Apps you don't use** — Delete apps you haven't opened in months
+3. **Downloaded music/videos** — Delete offline downloads from Spotify, Netflix, etc. when you don't need them
+4. **Messages with attachments** — Old threads with lots of photos. Delete entire conversations or clear attachments.
 
-**iPhone shortcut:** Settings â General â iPhone Storage â scroll to the recommendations at the top â Apple suggests specific things to delete.
+**iPhone shortcut:** Settings → General → iPhone Storage → scroll to the recommendations at the top — Apple suggests specific things to delete.
 
 ### Connecting Bluetooth Headphones or Speakers
 
 **First pairing:**
-1. Put your headphones/speaker in pairing mode (usually hold the power button until a light flashes â check the manual)
-2. **iPhone:** Settings â Bluetooth â toggle Bluetooth on â your device appears in "Other Devices" â tap it
-3. **Android:** Settings â Connected Devices â Pair new device â tap the device when it appears
+1. Put your headphones/speaker in pairing mode (usually hold the power button until a light flashes — check the manual)
+2. **iPhone:** Settings → Bluetooth → toggle Bluetooth on → your device appears in "Other Devices" → tap it
+3. **Android:** Settings → Connected Devices → Pair new device → tap the device when it appears
 
-**Reconnecting after the first time:** Usually automatic when you're nearby and Bluetooth is on. If not, go back to Settings â Bluetooth and tap the device.
+**Reconnecting after the first time:** Usually automatic when you're nearby and Bluetooth is on. If not, go back to Settings → Bluetooth and tap the device.
 
-**AirPods shortcut (iPhone):** Just open the case near your iPhone â a pairing card appears on screen.
+**AirPods shortcut (iPhone):** Just open the case near your iPhone — a pairing card appears on screen.
 
 ### AirDrop (iPhone) and Nearby Share (Android)
 
-**AirDrop** â Share photos, files, and links wirelessly between Apple devices nearby.
-1. Open the photo or file â tap the Share button (box with an arrow pointing up)
+**AirDrop** — Share photos, files, and links wirelessly between Apple devices nearby.
+1. Open the photo or file → tap the Share button (box with an arrow pointing up)
 2. AirDrop icons for nearby iPhones appear at the top
 3. Tap the person's icon; they'll get a prompt to accept
 
-To receive AirDrop: **Settings â General â AirDrop â Everyone for 10 Minutes** (or Contacts Only if you don't want strangers to send you things)
+To receive AirDrop: **Settings → General → AirDrop → Everyone for 10 Minutes** (or Contacts Only if you don't want strangers to send you things)
 
-**Nearby Share (Android)** â Same concept between Android phones.
-1. Open a file or photo â tap Share â tap "Nearby Share"
+**Nearby Share (Android)** — Same concept between Android phones.
+1. Open a file or photo → tap Share → tap "Nearby Share"
 2. The other person needs Nearby Share open or their screen on nearby
 3. They accept when prompted
 
 ### Scanning QR Codes
 
-**iPhone:** Open the Camera app and point it at the QR code. A notification banner appears at the top â tap it to open the link. No extra app needed.
+**iPhone:** Open the Camera app and point it at the QR code. A notification banner appears at the top — tap it to open the link. No extra app needed.
 
-**Android:** Same â open the Camera app and point it at the QR code. A banner appears. If your camera doesn't do this, try Google Lens (tap the Google Lens icon in the Camera app or Google app).
+**Android:** Same — open the Camera app and point it at the QR code. A banner appears. If your camera doesn't do this, try Google Lens (tap the Google Lens icon in the Camera app or Google app).
 
 ### Using Your Voice Assistant
 
-**iPhone â Siri:**
+**iPhone — Siri:**
 - Say "Hey Siri" (if enabled in Settings)
 - Or press and hold the side button
 - Use it for: setting timers, making calls, sending messages, checking weather, setting reminders
 
-**Android â Google Assistant:**
+**Android — Google Assistant:**
 - Say "Hey Google" (if enabled)
 - Or press and hold the Home button
-- Same uses â Google Assistant is considered slightly more capable at answering factual questions
+- Same uses — Google Assistant is considered slightly more capable at answering factual questions
 
 **To turn on always-listening mode:**
-- **iPhone:** Settings â Siri & Search â Listen for "Hey Siri"
-- **Android:** Google app â profile picture â Settings â Google Assistant â Hey Google & Voice Match
+- **iPhone:** Settings → Siri & Search → Listen for "Hey Siri"
+- **Android:** Google app → profile picture → Settings → Google Assistant → Hey Google & Voice Match
 
 ### Casting to Your TV
 
-**iPhone â AirPlay:**
+**iPhone — AirPlay:**
 - Your TV needs to be an Apple TV, or have AirPlay built in (many newer smart TVs do), or have a third-party AirPlay device
 - In Control Center (swipe down from top right), tap "Screen Mirroring"
 - Or while watching a video, tap the AirPlay icon (rectangle with a triangle at the bottom)
 - Select your TV from the list
 
-**Android â Chromecast/Google Cast:**
+**Android — Chromecast/Google Cast:**
 - Your TV needs a Chromecast device plugged into it, or a Chromecast-capable smart TV
 - In the video app (YouTube, Netflix), tap the Cast icon (rectangle with waves in the corner)
 - Select your TV
-- Or for screen mirroring: swipe down from the top â look for "Cast" or "Screen Cast" in quick settings
+- Or for screen mirroring: swipe down from the top → look for "Cast" or "Screen Cast" in quick settings
 
 ---
 
@@ -462,7 +462,7 @@ To receive AirDrop: **Settings â General â AirDrop â Everyone for
 
 New phones are genuinely complicated, and that's okay. Most people figure out about 60% of their phone's features and use those 60% for years. You don't need to master everything today. The important things are: your account is set up, your old data is transferred, automatic updates are on, and you have a backup running.
 
-Everything else, you'll learn as you go â or you'll come back to this guide.
+Everything else, you'll learn as you go — or you'll come back to this guide.
 
 ---
 

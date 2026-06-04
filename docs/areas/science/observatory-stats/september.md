@@ -1,4 +1,4 @@
-# September â Observatory Stats
+# September — Observatory Stats
 
 *Inspired by Harper's Index*
 
@@ -112,7 +112,7 @@
 
 * Percentage of the human body that is water at birth vs. old age: 78% vs. 55%
 * Number of calories a blue whale consumes in a single day during feeding season: 1.5 million
-* Year Brazil switched its capital from Rio de Janeiro to BrasÃ­lia: 1960
+* Year Brazil switched its capital from Rio de Janeiro to Brasília: 1960
 * Average number of emails received by a US worker per day: 121
 * Percentage of people who experience phantom phone vibrations: 80%
 * Number of languages spoken in New York City: over 800
@@ -248,7 +248,7 @@
 
 * Percentage of ocean plastic that comes from just 10 rivers: 90%
 * Number of bacteria cells in the human body vs. human cells: roughly equal (previously thought to be 10:1)
-* Year the speed of light was first accurately measured (by Ole RÃ¸mer): 1676
+* Year the speed of light was first accurately measured (by Ole Rømer): 1676
 * Average number of hours Americans spend cooking per week: 37 minutes per day
 * Percentage of adults in the US who have never read a book for pleasure as an adult: 27%
 * Number of languages in which the Bible has been translated: 3,500
@@ -392,7 +392,7 @@
 * Meters by which Earth's sea level has risen since 1900: 20-23 cm
 * Percentage of animal species on Earth that have been documented: 13%
 * Average number of hairs shed from a human head daily: 50-100
-* Year the stethoscope was invented by RenÃ© Laennec (using rolled paper): 1816
+* Year the stethoscope was invented by René Laennec (using rolled paper): 1816
 * Number of hours the average American spends in traffic per year: 54
 
 ---

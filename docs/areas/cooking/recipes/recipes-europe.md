@@ -1,19 +1,19 @@
 # European Recipes
 
-## The Observatory Almanac â Human Hearth
+## The Observatory Almanac — Human Hearth
 
 ---
 
 ## FRENCH CUISINE
 
-*Lineage: Romano-Gallic â Medieval courtly â Haute cuisine refinement*
+*Lineage: Romano-Gallic → Medieval courtly → Haute cuisine refinement*
 
 ---
 
 ### Coq au Vin
 
 **Region:** Burgundy, France
-**Lineage:** Romano-Gallic â Medieval peasant â 19th-century bistro classic
+**Lineage:** Romano-Gallic → Medieval peasant → 19th-century bistro classic
 
 **Ingredients:**
 - 1 whole chicken (about 1.5 kg), cut into pieces
@@ -36,7 +36,7 @@
 2. Remove chicken from marinade; pat dry. Reserve marinade.
 3. In a large Dutch oven, render lardons in butter until golden. Remove and set aside.
 4. Brown chicken pieces in the same fat over medium-high heat, about 4 minutes per side. Remove and set aside.
-5. SautÃ© pearl onions and mushrooms until golden; remove and set aside.
+5. Sauté pearl onions and mushrooms until golden; remove and set aside.
 6. Add garlic and tomato paste to pan; cook 1 minute.
 7. Sprinkle flour over pan drippings; stir to make a roux, cook 2 minutes.
 8. Pour in reserved marinade and stock; whisk to combine, scraping up browned bits.
@@ -51,7 +51,7 @@
 ### Bouillabaisse
 
 **Region:** Marseille, Provence, France
-**Lineage:** Phoenician trader stew â ProvenÃ§al fisherman's pot â refined restaurant tradition
+**Lineage:** Phoenician trader stew → Provençal fisherman's pot → refined restaurant tradition
 
 **Ingredients:**
 - 1.5 kg mixed firm fish (monkfish, sea bass, red snapper), cut into chunks
@@ -82,14 +82,14 @@
 8. Season with salt, pepper, and cayenne.
 9. Ladle broth over toasted bread rounds spread with rouille; serve fish separately on platter.
 
-*Historical note: Marseille fishermen made bouillabaisse from unsellable rockfish; saffron and fennel are signatures of ProvenÃ§al trade routes.*
+*Historical note: Marseille fishermen made bouillabaisse from unsellable rockfish; saffron and fennel are signatures of Provençal trade routes.*
 
 ---
 
 ### Ratatouille
 
 **Region:** Nice, Provence, France
-**Lineage:** Occitan peasant vegetable cookery â ProvenÃ§al garden tradition
+**Lineage:** Occitan peasant vegetable cookery → Provençal garden tradition
 
 **Ingredients:**
 - 1 eggplant, cubed
@@ -105,7 +105,7 @@
 
 **Method:**
 1. Salt eggplant cubes and let drain in colander for 30 minutes; rinse and pat dry.
-2. Heat 2 tbsp oil in large pan; sautÃ© onion until translucent, 5 minutes.
+2. Heat 2 tbsp oil in large pan; sauté onion until translucent, 5 minutes.
 3. Add garlic; cook 1 minute.
 4. Add peppers; cook 5 minutes.
 5. Add eggplant; cook 8 minutes until starting to soften.
@@ -114,21 +114,21 @@
 8. Simmer uncovered on low heat for 30 minutes, stirring occasionally.
 9. Finish with fresh basil; serve warm or at room temperature.
 
-*Historical note: A late-summer preservation dish for garden surplus, ratatouille became a symbol of ProvenÃ§al peasant ingenuity.*
+*Historical note: A late-summer preservation dish for garden surplus, ratatouille became a symbol of Provençal peasant ingenuity.*
 
 ---
 
-### CrÃªpes
+### Crêpes
 
 **Region:** Brittany, France
-**Lineage:** Celtic buckwheat cultivation â Breton galette tradition â French national snack
+**Lineage:** Celtic buckwheat cultivation → Breton galette tradition → French national snack
 
 **Ingredients:**
 - 250 g all-purpose flour
 - 2 eggs
 - 500 ml whole milk
 - 1 tbsp melted butter
-- 1 tbsp sugar (for sweet crÃªpes)
+- 1 tbsp sugar (for sweet crêpes)
 - Pinch of salt
 - Butter for cooking
 
@@ -137,11 +137,11 @@
 2. Gradually add remaining milk; whisk until no lumps remain.
 3. Stir in melted butter, sugar, and salt.
 4. Rest batter at room temperature for 30 minutes.
-5. Heat a crÃªpe pan or flat skillet over medium-high heat; brush lightly with butter.
+5. Heat a crêpe pan or flat skillet over medium-high heat; brush lightly with butter.
 6. Pour a small ladleful of batter; tilt pan immediately to spread into thin circle.
 7. Cook until edges lift and underside is golden, about 1 minute.
 8. Flip; cook 30 seconds more.
-9. Stack crÃªpes on a plate; fill with jam, Nutella, lemon-sugar, or savory fillings.
+9. Stack crêpes on a plate; fill with jam, Nutella, lemon-sugar, or savory fillings.
 
 *Historical note: Breton galettes made from buckwheat date to the 13th century, when Crusaders brought the grain from Central Asia.*
 
@@ -150,7 +150,7 @@
 ### Cassoulet
 
 **Region:** Languedoc, France
-**Lineage:** Occitan peasant bean cookery â post-medieval meat preservation tradition
+**Lineage:** Occitan peasant bean cookery → post-medieval meat preservation tradition
 
 **Ingredients:**
 - 500 g dried white haricot beans, soaked overnight
@@ -170,23 +170,23 @@
 **Method:**
 1. Drain soaked beans; simmer in fresh water 1 hour until nearly tender. Drain and set aside.
 2. In a large Dutch oven, brown pork belly in duck fat; remove. Brown sausages; remove.
-3. SautÃ© onion and carrots until soft; add garlic and cook 1 minute.
+3. Sauté onion and carrots until soft; add garlic and cook 1 minute.
 4. Add tomatoes; cook 5 minutes.
 5. Return meats to pot; add beans, stock, and bouquet garni.
 6. Season well; bring to simmer.
 7. Nestle duck confit legs on top; tuck in sausages.
 8. Sprinkle breadcrumbs over surface.
-9. Bake uncovered at 160Â°C for 2 hours, pressing crust down into cassoulet twice during cooking to form new crust.
+9. Bake uncovered at 160°C for 2 hours, pressing crust down into cassoulet twice during cooking to form new crust.
 10. Serve directly from pot with crusty bread.
 
 *Historical note: Legend holds cassoulet was born during the Hundred Years' War in Castelnaudary, made to feed besieged townspeople with whatever meat remained.*
 
 ---
 
-### Soupe Ã  l'Oignon (French Onion Soup)
+### Soupe à l'Oignon (French Onion Soup)
 
 **Region:** Paris, France
-**Lineage:** Roman onion broth â medieval peasant soup â Les Halles market tradition
+**Lineage:** Roman onion broth → medieval peasant soup → Les Halles market tradition
 
 **Ingredients:**
 - 1 kg yellow onions, thinly sliced
@@ -199,17 +199,17 @@
 - 1 bay leaf, 2 sprigs thyme
 - Salt and pepper
 - 8 thick slices crusty baguette
-- 200 g GruyÃ¨re cheese, grated
+- 200 g Gruyère cheese, grated
 
 **Method:**
 1. Melt butter with oil in heavy pot over medium-low heat.
-2. Add onions and sugar; cook, stirring occasionally, for 45â60 minutes until deeply caramelized.
+2. Add onions and sugar; cook, stirring occasionally, for 45–60 minutes until deeply caramelized.
 3. Add garlic; cook 2 minutes.
 4. Pour in wine; boil until nearly evaporated.
 5. Add stock, bay leaf, and thyme; simmer 20 minutes. Season well.
 6. Ladle soup into oven-safe bowls; float baguette slices on top.
 7. Heap cheese generously over bread.
-8. Broil under grill until cheese is bubbling and golden, about 3â4 minutes.
+8. Broil under grill until cheese is bubbling and golden, about 3–4 minutes.
 
 *Historical note: A staple of Parisian market workers at Les Halles since the 18th century, this soup was traditionally eaten at dawn after a night's work.*
 
@@ -218,7 +218,7 @@
 ### Tarte Tatin
 
 **Region:** Sologne, Loire Valley, France
-**Lineage:** French country baking â accidental culinary classic
+**Lineage:** French country baking → accidental culinary classic
 
 **Ingredients:**
 - 1.2 kg firm apples (Granny Smith or Braeburn), peeled, cored, quartered
@@ -229,42 +229,42 @@
 - Pinch of salt
 
 **Method:**
-1. Preheat oven to 190Â°C.
+1. Preheat oven to 190°C.
 2. In a 28 cm ovenproof skillet or tarte tatin pan, melt butter over medium heat.
-3. Add sugar; cook without stirring until deep amber caramel forms, about 10â12 minutes.
+3. Add sugar; cook without stirring until deep amber caramel forms, about 10–12 minutes.
 4. Add vanilla and salt; remove from heat.
 5. Arrange apple quarters tightly in caramel, cut side up, fitting closely together.
 6. Return to medium heat; cook apples in caramel 10 minutes until beginning to soften.
 7. Drape pastry over apples, tucking edges inside rim.
-8. Bake 25â30 minutes until pastry is golden and crisp.
+8. Bake 25–30 minutes until pastry is golden and crisp.
 9. Remove from oven; cool 5 minutes, then carefully invert onto serving plate.
-10. Serve warm with crÃ¨me fraÃ®che or vanilla ice cream.
+10. Serve warm with crème fraîche or vanilla ice cream.
 
-*Historical note: Created by the sisters Tatin at their Sologne hotel in the 1880s â reputedly by mistake when apples were left too long in butter and sugar.*
+*Historical note: Created by the sisters Tatin at their Sologne hotel in the 1880s — reputedly by mistake when apples were left too long in butter and sugar.*
 
 ---
 
 ### Quiche Lorraine
 
 **Region:** Lorraine, France
-**Lineage:** German-Alsatian custard pastry â French culinary refinement
+**Lineage:** German-Alsatian custard pastry → French culinary refinement
 
 **Ingredients:**
 - 1 shortcrust pastry shell (23 cm), blind baked
-- 200 g lardons (smoked bacon), sautÃ©ed
+- 200 g lardons (smoked bacon), sautéed
 - 3 eggs
 - 200 ml double cream
 - 100 ml whole milk
-- 100 g GruyÃ¨re cheese, grated
+- 100 g Gruyère cheese, grated
 - Pinch of nutmeg
 - Salt and black pepper
 
 **Method:**
-1. Preheat oven to 180Â°C.
+1. Preheat oven to 180°C.
 2. Scatter cooked lardons over base of pastry shell.
 3. Whisk together eggs, cream, and milk; season with nutmeg, salt, and pepper.
-4. Pour custard over lardons; top with GruyÃ¨re.
-5. Bake 30â35 minutes until custard is just set with a slight wobble in the centre.
+4. Pour custard over lardons; top with Gruyère.
+5. Bake 30–35 minutes until custard is just set with a slight wobble in the centre.
 6. Cool 10 minutes before slicing. Serve warm or at room temperature.
 
 *Historical note: Named for the Lorraine region, once part of the Holy Roman Empire, where Germanic custard pie traditions merged with French pastry craft.*
@@ -273,14 +273,14 @@
 
 ## GERMAN CUISINE
 
-*Lineage: Germanic tribal â Medieval Holy Roman Empire â Prussian and Bavarian regional traditions*
+*Lineage: Germanic tribal → Medieval Holy Roman Empire → Prussian and Bavarian regional traditions*
 
 ---
 
 ### Schnitzel (Wiener Schnitzel Style)
 
 **Region:** Austria/Bavaria; widely adopted across Germany
-**Lineage:** Byzantine-Italian breaded veal â Habsburg court tradition â German Sunday staple
+**Lineage:** Byzantine-Italian breaded veal → Habsburg court tradition → German Sunday staple
 
 **Ingredients:**
 - 4 veal escalopes (or pork cutlets), about 150 g each
@@ -298,9 +298,9 @@
 3. Set up three shallow dishes: flour, beaten egg, breadcrumbs.
 4. Dredge escalopes in flour; shake off excess.
 5. Dip in egg, letting excess drip off.
-6. Press firmly into breadcrumbs, coating evenly. Do not press coating down â a loose coating fries better.
-7. Heat generous amount of oil in large pan over medium-high heat (170Â°C).
-8. Fry schnitzels 2â3 minutes per side until golden and crisp.
+6. Press firmly into breadcrumbs, coating evenly. Do not press coating down — a loose coating fries better.
+7. Heat generous amount of oil in large pan over medium-high heat (170°C).
+8. Fry schnitzels 2–3 minutes per side until golden and crisp.
 9. Drain on paper towels; serve immediately with lemon wedges and potato salad.
 
 *Historical note: The schnitzel's origins trace to breaded veal traditions in Renaissance Italy, adopted by Habsburg courts and spread through the empire.*
@@ -310,7 +310,7 @@
 ### Sauerbraten
 
 **Region:** Rhineland, Germany
-**Lineage:** Roman-Germanic roasting tradition â medieval meat preservation via acidic marinade
+**Lineage:** Roman-Germanic roasting tradition → medieval meat preservation via acidic marinade
 
 **Ingredients:**
 - 1.5 kg beef rump or shoulder
@@ -330,12 +330,12 @@
 
 **Method:**
 1. Combine vinegar, wine, water, onion, carrots, and spices in a pot; bring to boil, cool completely.
-2. Submerge beef in marinade; refrigerate 3â5 days, turning daily.
+2. Submerge beef in marinade; refrigerate 3–5 days, turning daily.
 3. Remove beef; pat dry. Strain and reserve marinade and vegetables.
 4. Brown beef on all sides in hot oil in Dutch oven; remove.
-5. SautÃ© reserved vegetables until soft; add sugar and caramelize slightly.
+5. Sauté reserved vegetables until soft; add sugar and caramelize slightly.
 6. Return beef; pour over reserved marinade.
-7. Cover and braise at 160Â°C for 2.5â3 hours until tender.
+7. Cover and braise at 160°C for 2.5–3 hours until tender.
 8. Remove beef; strain braising liquid into saucepan.
 9. Stir in crumbled gingerbread; simmer until sauce thickens.
 10. Slice beef and serve with sauce, red cabbage, and potato dumplings.
@@ -344,10 +344,10 @@
 
 ---
 
-### SpÃ¤tzle
+### Spätzle
 
-**Region:** Swabia, Baden-WÃ¼rttemberg, Germany
-**Lineage:** South Germanic peasant noodle tradition â Austrian and Alsatian parallel development
+**Region:** Swabia, Baden-Württemberg, Germany
+**Lineage:** South Germanic peasant noodle tradition → Austrian and Alsatian parallel development
 
 **Ingredients:**
 - 400 g all-purpose flour
@@ -362,19 +362,19 @@
 1. Whisk together flour, eggs, milk, salt, and nutmeg into a thick, sticky batter.
 2. Beat vigorously until batter forms bubbles and pulls from side of bowl.
 3. Bring large pot of salted water to a rolling boil.
-4. Press batter through a spÃ¤tzle maker or large-hole colander into boiling water, working in batches.
-5. Cook until spÃ¤tzle float to surface, about 2 minutes.
+4. Press batter through a spätzle maker or large-hole colander into boiling water, working in batches.
+5. Cook until spätzle float to surface, about 2 minutes.
 6. Scoop out with slotted spoon; toss immediately in butter.
-7. Serve as a side dish, or pan-fry in butter until golden for Gebratene SpÃ¤tzle.
+7. Serve as a side dish, or pan-fry in butter until golden for Gebratene Spätzle.
 
-*Historical note: Documented in Swabia since the 18th century, spÃ¤tzle are considered the quintessential Swabian comfort noodle, distinct from Italian pasta traditions.*
+*Historical note: Documented in Swabia since the 18th century, spätzle are considered the quintessential Swabian comfort noodle, distinct from Italian pasta traditions.*
 
 ---
 
 ### Kartoffelsalat (German Potato Salad)
 
 **Region:** Swabia/Bavaria, Germany (vinegar version); Northern Germany (mayo version)
-**Lineage:** Post-Columbian potato adoption â 19th-century German peasant cuisine
+**Lineage:** Post-Columbian potato adoption → 19th-century German peasant cuisine
 
 **Ingredients (Swabian vinegar style):**
 - 1 kg waxy potatoes
@@ -394,14 +394,14 @@
 5. Let stand at room temperature 30 minutes to absorb dressing.
 6. Taste and adjust seasoning; garnish with chives before serving.
 
-*Historical note: Germany's regional potato salad divide â vinegary south versus creamy north â reflects the distinct culinary identities of the former kingdoms.*
+*Historical note: Germany's regional potato salad divide — vinegary south versus creamy north — reflects the distinct culinary identities of the former kingdoms.*
 
 ---
 
 ### Stollen
 
 **Region:** Dresden, Saxony, Germany
-**Lineage:** Medieval German Christmas bread â Dresdner royal court tradition
+**Lineage:** Medieval German Christmas bread → Dresdner royal court tradition
 
 **Ingredients:**
 - 500 g strong bread flour
@@ -427,8 +427,8 @@
 5. Prove dough in a warm place for 1 hour until doubled.
 6. Roll dough into oval about 30 cm long; place marzipan log in centre.
 7. Fold one side over marzipan and press to seal the classic Stollen shape.
-8. Prove a further 30 minutes. Preheat oven to 180Â°C.
-9. Bake 40â45 minutes until golden.
+8. Prove a further 30 minutes. Preheat oven to 180°C.
+9. Bake 40–45 minutes until golden.
 10. Brush generously with melted butter while hot; dust heavily with icing sugar.
 11. Wrap and store at least 1 week before eating for best flavor.
 
@@ -439,7 +439,7 @@
 ### Bratwurst
 
 **Region:** Thuringia and Franconia, Germany
-**Lineage:** Germanic sausage-making â medieval guild craft â Nuremberg and Thuringian specialties
+**Lineage:** Germanic sausage-making → medieval guild craft → Nuremberg and Thuringian specialties
 
 **Ingredients:**
 - 700 g pork shoulder, minced or diced
@@ -460,23 +460,23 @@
 4. Fry a small amount; taste and adjust seasoning.
 5. Stuff mixture into soaked casings using sausage stuffer; twist into 15 cm links.
 6. Refrigerate for 1 hour before cooking.
-7. Grill over charcoal or pan-fry over medium heat, turning frequently, until golden brown throughout, about 15â18 minutes.
+7. Grill over charcoal or pan-fry over medium heat, turning frequently, until golden brown throughout, about 15–18 minutes.
 8. Serve with mustard, sauerkraut, and crusty roll.
 
-*Historical note: Nuremberg bratwurst guild regulations dating from 1462 stipulated exact weights and ingredients â among the earliest food quality standards in Europe.*
+*Historical note: Nuremberg bratwurst guild regulations dating from 1462 stipulated exact weights and ingredients — among the earliest food quality standards in Europe.*
 
 ---
 
 ## BRITISH CUISINE
 
-*Lineage: Anglo-Saxon â Norman â British Empire agricultural traditions*
+*Lineage: Anglo-Saxon → Norman → British Empire agricultural traditions*
 
 ---
 
 ### Shepherd's Pie
 
 **Region:** England (and Scotland), United Kingdom
-**Lineage:** Post-enclosure leftover lamb cookery â Victorian working-class staple
+**Lineage:** Post-enclosure leftover lamb cookery → Victorian working-class staple
 
 **Ingredients:**
 - 500 g minced lamb
@@ -497,14 +497,14 @@
 
 **Method:**
 1. Brown lamb mince in large pan over high heat; season well. Remove and set aside.
-2. In same pan, sautÃ© onion, carrots, and celery until soft, about 8 minutes.
+2. In same pan, sauté onion, carrots, and celery until soft, about 8 minutes.
 3. Add garlic; cook 1 minute.
 4. Stir in tomato paste; cook 2 minutes.
 5. Return lamb; add stock, Worcestershire, rosemary, and thyme.
 6. Simmer 20 minutes until sauce thickens. Stir in peas; season.
 7. Boil potatoes until tender; drain and mash with butter and milk until smooth. Season.
 8. Transfer lamb filling to large baking dish; spread mash evenly on top.
-9. Score with a fork; bake at 200Â°C for 25 minutes until topping is golden.
+9. Score with a fork; bake at 200°C for 25 minutes until topping is golden.
 
 *Historical note: Named for the shepherds who herded sheep, the term "shepherd's pie" specifically denotes lamb, while "cottage pie" uses beef.*
 
@@ -513,7 +513,7 @@
 ### Fish and Chips
 
 **Region:** England, United Kingdom
-**Lineage:** Sephardic fried fish tradition + Belgian fried potato â Victorian industrial working-class food
+**Lineage:** Sephardic fried fish tradition + Belgian fried potato → Victorian industrial working-class food
 
 **Ingredients:**
 - 4 large fillets white fish (cod, haddock, or pollock), about 200 g each
@@ -526,12 +526,12 @@
 
 **Method:**
 1. Cut potatoes into thick chips; soak in cold water 30 minutes. Pat dry.
-2. Heat oil to 130Â°C; blanch chips in batches for 4 minutes (they should be soft but not coloured). Drain and cool.
+2. Heat oil to 130°C; blanch chips in batches for 4 minutes (they should be soft but not coloured). Drain and cool.
 3. Make batter: whisk flour, baking powder, and salt; gradually whisk in cold beer until smooth. Rest 10 minutes.
-4. Raise oil temperature to 180Â°C.
+4. Raise oil temperature to 180°C.
 5. Fry blanched chips a second time until golden and crisp, about 4 minutes. Keep warm.
 6. Dust fish fillets lightly in flour; dip in batter, letting excess drip off.
-7. Fry battered fish 4â5 minutes per side until deeply golden and cooked through.
+7. Fry battered fish 4–5 minutes per side until deeply golden and cooked through.
 8. Drain on paper towels; serve with chips, malt vinegar, and mushy peas.
 
 *Historical note: Joseph Malin opened what is often cited as the first fish-and-chip shop in London around 1860, combining Jewish fried fish traditions with the chip trade.*
@@ -541,15 +541,15 @@
 ### Full English Breakfast
 
 **Region:** England, United Kingdom
-**Lineage:** Victorian-era farmhouse breakfast â industrial working-class morning meal
+**Lineage:** Victorian-era farmhouse breakfast → industrial working-class morning meal
 
 **Ingredients (per person):**
 - 2 rashers smoked back bacon
 - 2 pork sausages
-- 1â2 eggs (fried or scrambled)
+- 1–2 eggs (fried or scrambled)
 - 2 grilled tomatoes, halved
 - 100 g baked beans (tinned)
-- 4â6 mushrooms, sautÃ©ed in butter
+- 4–6 mushrooms, sautéed in butter
 - 2 slices black pudding
 - 2 slices toast (white or brown)
 - Butter for cooking
@@ -559,7 +559,7 @@
 1. Grill or fry sausages over medium heat, turning regularly, about 12 minutes until cooked through.
 2. Fry bacon in same pan until desired crispness; keep warm.
 3. Fry black pudding 2 minutes each side; keep warm.
-4. SautÃ© mushrooms in butter; season. Keep warm.
+4. Sauté mushrooms in butter; season. Keep warm.
 5. Grill or fry tomatoes until soft and slightly caramelized.
 6. Heat baked beans in small saucepan.
 7. Fry eggs in butter to preference.
@@ -572,7 +572,7 @@
 ### Beef Wellington
 
 **Region:** England, United Kingdom
-**Lineage:** French en croÃ»te technique â British celebration roast tradition
+**Lineage:** French en croûte technique → British celebration roast tradition
 
 **Ingredients:**
 - 1 kg beef tenderloin, trimmed and tied
@@ -592,10 +592,10 @@
 3. Lay plastic wrap flat; arrange Parma ham in overlapping layer.
 4. Spread mushroom mixture (duxelles) over ham.
 5. Place beef at edge; roll tightly in ham using plastic wrap to form cylinder. Refrigerate 30 minutes.
-6. Preheat oven to 220Â°C.
+6. Preheat oven to 220°C.
 7. Place ham-wrapped beef on puff pastry; roll up and seal edges with egg wash. Chill 15 minutes.
 8. Score pastry decoratively; brush with egg wash.
-9. Roast 25â30 minutes for medium-rare (internal temperature 55Â°C). Rest 10 minutes before slicing.
+9. Roast 25–30 minutes for medium-rare (internal temperature 55°C). Rest 10 minutes before slicing.
 
 *Historical note: Though named after the 1st Duke of Wellington, there is no definitive historical evidence connecting the dish to him; it likely emerged in British celebration cookery of the 19th century.*
 
@@ -604,7 +604,7 @@
 ### Cornish Pasty
 
 **Region:** Cornwall, England
-**Lineage:** Medieval pastry shell â 17thâ18th-century Cornish mining tradition
+**Lineage:** Medieval pastry shell → 17th–18th-century Cornish mining tradition
 
 **Ingredients:**
 - 400 g shortcrust or hot water crust pastry
@@ -624,7 +624,7 @@
 5. Fold pastry over to form D-shape; press edges together firmly.
 6. Crimp edge by folding and twisting to form traditional rope pattern.
 7. Cut a small steam vent; brush with beaten egg.
-8. Bake at 200Â°C for 45â55 minutes until pastry is golden brown.
+8. Bake at 200°C for 45–55 minutes until pastry is golden brown.
 
 *Historical note: Cornish miners carried pasties as portable hot lunches; the crimped crust served as a handle for arsenic-dusty hands, discarded before eating.*
 
@@ -633,7 +633,7 @@
 ### Trifle
 
 **Region:** England, United Kingdom
-**Lineage:** 16th-century syllabub and fool traditions â Victorian layered dessert
+**Lineage:** 16th-century syllabub and fool traditions → Victorian layered dessert
 
 **Ingredients:**
 - 1 day-old sponge cake or 12 trifle sponge fingers
@@ -667,7 +667,7 @@
 ### Sticky Toffee Pudding
 
 **Region:** Lake District, England
-**Lineage:** British suet pudding tradition â 20th-century restaurant classic
+**Lineage:** British suet pudding tradition → 20th-century restaurant classic
 
 **Ingredients:**
 - 200 g Medjool dates, pitted and chopped
@@ -688,10 +688,10 @@
 
 **Method:**
 1. Pour boiling water over dates; stir in bicarbonate of soda. Leave 10 minutes until soft; mash roughly.
-2. Preheat oven to 180Â°C; butter a 20 cm square baking tin.
+2. Preheat oven to 180°C; butter a 20 cm square baking tin.
 3. Beat butter and sugar until pale; beat in eggs one at a time.
 4. Fold in flour and salt; stir in date mixture and vanilla.
-5. Pour into tin; bake 30â35 minutes until a skewer comes out clean.
+5. Pour into tin; bake 30–35 minutes until a skewer comes out clean.
 6. Make sauce: melt butter and brown sugar together; stir in cream and vanilla. Simmer 3 minutes.
 7. Poke holes in warm pudding; pour half the sauce over. Let absorb 5 minutes.
 8. Serve with remaining warm sauce and vanilla ice cream.
@@ -702,14 +702,14 @@
 
 ## SCANDINAVIAN CUISINE
 
-*Lineage: Norse â Viking preservation traditions â Nordic farm and fishing culture*
+*Lineage: Norse → Viking preservation traditions → Nordic farm and fishing culture*
 
 ---
 
 ### Gravlax
 
 **Region:** Scandinavia (Sweden, Norway, Denmark)
-**Lineage:** Viking-era burying/curing of salmon â modern salt-sugar-dill cure
+**Lineage:** Viking-era burying/curing of salmon → modern salt-sugar-dill cure
 
 **Ingredients:**
 - 1 kg salmon fillet, skin on, pin bones removed
@@ -732,39 +732,39 @@
 2. Lay salmon skin-side down on large piece of plastic wrap.
 3. Rub salt cure all over flesh; press dill firmly into cure. Drizzle with aquavit if using.
 4. Wrap tightly in plastic; place in shallow tray. Weight down with heavy plate.
-5. Refrigerate 24â48 hours, turning once at halfway point and draining liquid.
+5. Refrigerate 24–48 hours, turning once at halfway point and draining liquid.
 6. Scrape off cure before serving; slice very thinly on the diagonal.
 7. For sauce: whisk mustard, sugar, and vinegar; drizzle in oil while whisking until emulsified. Stir in dill.
 8. Serve gravlax with sauce, rye bread, and cucumber.
 
-*Historical note: The name gravlax means "buried salmon" â Viking-era fishermen buried salmon in the ground with salt to ferment and preserve it.*
+*Historical note: The name gravlax means "buried salmon" — Viking-era fishermen buried salmon in the ground with salt to ferment and preserve it.*
 
 ---
 
-### SmÃ¸rrebrÃ¸d
+### Smørrebrød
 
 **Region:** Denmark
-**Lineage:** Nordic open sandwich tradition â Copenhagen cafÃ© culture
+**Lineage:** Nordic open sandwich tradition → Copenhagen café culture
 
 **Base recipe (varies by topping):**
-- Slices dense Danish rye bread (rugbrÃ¸d), buttered generously with cold butter
-- Classic toppings include: pickled herring with onion and capers; shrimp with dill and lemon; roast beef with remoulade; smoked salmon with cream cheese; egg and anchovy; liver pÃ¢tÃ© with pickled cucumber
+- Slices dense Danish rye bread (rugbrød), buttered generously with cold butter
+- Classic toppings include: pickled herring with onion and capers; shrimp with dill and lemon; roast beef with remoulade; smoked salmon with cream cheese; egg and anchovy; liver pâté with pickled cucumber
 
-**Method (herring smÃ¸rrebrÃ¸d):**
+**Method (herring smørrebrød):**
 1. Butter rye bread generously to the edges.
 2. Lay pickled herring fillets over bread.
 3. Top with thin rings of raw onion and a few capers.
 4. Add a sprig of fresh dill and a squeeze of lemon.
 5. Serve open-faced, eaten with knife and fork.
 
-*Historical note: SmÃ¸rrebrÃ¸d (literally "butter bread") has been the cornerstone of Danish lunch culture since the 19th century, elevated to an art form in Copenhagen restaurants.*
+*Historical note: Smørrebrød (literally "butter bread") has been the cornerstone of Danish lunch culture since the 19th century, elevated to an art form in Copenhagen restaurants.*
 
 ---
 
-### Swedish Meatballs (KÃ¶ttbullar)
+### Swedish Meatballs (Köttbullar)
 
 **Region:** Sweden
-**Lineage:** Ottoman kofta-style meatball â possible import via Charles XII â Swedish farmhouse adaptation
+**Lineage:** Ottoman kofta-style meatball → possible import via Charles XII → Swedish farmhouse adaptation
 
 **Ingredients:**
 - 500 g minced beef
@@ -803,7 +803,7 @@
 ### Pickled Herring (Inlagd Sill)
 
 **Region:** Scandinavia
-**Lineage:** Medieval salt-herring trade â Baltic fishing economy â Nordic festive table essential
+**Lineage:** Medieval salt-herring trade → Baltic fishing economy → Nordic festive table essential
 
 **Ingredients:**
 - 400 g salt herring fillets (or brined herring)
@@ -822,7 +822,7 @@
 2. Bring vinegar, water, and sugar to boil, stirring until sugar dissolves. Cool.
 3. Layer herring, onion, carrot, and spices in a clean jar.
 4. Pour cooled brine over to cover; add dill.
-5. Refrigerate at least 24 hours before serving; best after 2â3 days.
+5. Refrigerate at least 24 hours before serving; best after 2–3 days.
 6. Serve on rye bread with sour cream, dill, and mustard.
 
 *Historical note: Herring was the economic backbone of medieval Baltic trade, and pickling allowed the catch to be transported and stored for months.*
@@ -832,7 +832,7 @@
 ### Kanelbullar (Swedish Cinnamon Buns)
 
 **Region:** Sweden
-**Lineage:** Austrian spiced bun â Swedish adaptation with cardamom â national cafÃ© culture
+**Lineage:** Austrian spiced bun → Swedish adaptation with cardamom → national café culture
 
 **Ingredients:**
 - 500 g strong bread flour
@@ -858,12 +858,12 @@
 2. Add warm milk and egg; mix into shaggy dough.
 3. Add butter bit by bit; knead 10 minutes until smooth and elastic.
 4. Prove in warm place until doubled, about 1 hour.
-5. Roll dough into large rectangle (40Ã50 cm).
+5. Roll dough into large rectangle (40×50 cm).
 6. Spread filling butter over dough; sprinkle sugar and cinnamon.
-7. Roll up tightly from long side; cut into 16â18 pieces.
+7. Roll up tightly from long side; cut into 16–18 pieces.
 8. Arrange on baking trays; prove 30 minutes until puffy.
 9. Brush with egg; sprinkle with pearl sugar.
-10. Bake at 220Â°C for 8â10 minutes until golden.
+10. Bake at 220°C for 8–10 minutes until golden.
 
 *Historical note: Sweden celebrates Kanelbullens Dag (Cinnamon Bun Day) on October 4th each year, a tradition since 1999.*
 
@@ -872,7 +872,7 @@
 ### Aquavit-Cured Salmon
 
 **Region:** Norway/Sweden
-**Lineage:** Scandinavian distilling tradition â modern cured fish elaboration
+**Lineage:** Scandinavian distilling tradition → modern cured fish elaboration
 
 **Ingredients:**
 - 1 kg salmon fillet, skin on
@@ -890,24 +890,24 @@
 2. Lay salmon skin-side down; pour aquavit evenly over flesh.
 3. Press cure mixture into fish; lay dill over entire surface.
 4. Wrap tightly in plastic wrap; place in shallow dish.
-5. Refrigerate under a weighted board for 36â48 hours, turning once.
+5. Refrigerate under a weighted board for 36–48 hours, turning once.
 6. Unwrap; scrape away cure. Slice paper-thin on the diagonal.
-7. Serve on blini or rye crispbread with crÃ¨me fraÃ®che and cucumber.
+7. Serve on blini or rye crispbread with crème fraîche and cucumber.
 
-*Historical note: Aquavit â distilled from grain or potato and flavoured with caraway â has been Scandinavia's defining spirit since the 15th century.*
+*Historical note: Aquavit — distilled from grain or potato and flavoured with caraway — has been Scandinavia's defining spirit since the 15th century.*
 
 ---
 
 ## EASTERN EUROPEAN CUISINE
 
-*Lineage: Slavic â Byzantine â Mongolian influence â Ottoman and Austro-Hungarian imperial traditions*
+*Lineage: Slavic → Byzantine → Mongolian influence → Ottoman and Austro-Hungarian imperial traditions*
 
 ---
 
 ### Pierogi
 
 **Region:** Poland
-**Lineage:** Slavic dumpling tradition â 13th-century Polish culinary records
+**Lineage:** Slavic dumpling tradition → 13th-century Polish culinary records
 
 **Ingredients:**
 **Dough:**
@@ -916,9 +916,9 @@
 - 200 ml warm water
 - 1 tsp salt
 
-**Filling (ruskie â potato and cheese):**
+**Filling (ruskie — potato and cheese):**
 - 400 g floury potatoes, boiled and mashed
-- 200 g farmer's cheese (twarÃ³g) or ricotta
+- 200 g farmer's cheese (twaróg) or ricotta
 - 1 onion, finely diced and caramelized in butter
 - Salt, white pepper, and chives
 
@@ -939,7 +939,7 @@
 ### Borscht
 
 **Region:** Ukraine, Russia, Poland, Belarus
-**Lineage:** Slavic beet cultivation â medieval Slavic herb soup â beet-dominant version from 17th century
+**Lineage:** Slavic beet cultivation → medieval Slavic herb soup → beet-dominant version from 17th century
 
 **Ingredients:**
 - 500 g beef chuck or short rib (optional; omit for vegetarian)
@@ -959,7 +959,7 @@
 
 **Method:**
 1. If using beef: simmer with stock, skimming foam, for 1.5 hours until tender. Remove meat; shred and reserve.
-2. SautÃ© onion and carrots in oil until soft; add tomatoes and cook 5 minutes.
+2. Sauté onion and carrots in oil until soft; add tomatoes and cook 5 minutes.
 3. Add grated beetroot; cook 10 minutes. Add vinegar and sugar to preserve color and balance.
 4. Add potato, cabbage, and beet mixture to stock; simmer 25 minutes until potatoes are soft.
 5. Add garlic; simmer 5 minutes more.
@@ -973,7 +973,7 @@
 ### Goulash
 
 **Region:** Hungary (adopted throughout Central and Eastern Europe)
-**Lineage:** Magyar herdsman stew â Hungarian national dish â pan-Central European comfort food
+**Lineage:** Magyar herdsman stew → Hungarian national dish → pan-Central European comfort food
 
 **Ingredients:**
 - 800 g beef chuck, cubed
@@ -991,21 +991,21 @@
 
 **Method:**
 1. Render lard in large heavy pot; brown beef in batches and set aside.
-2. In same pot, caramelize onions slowly over medium heat, 15â20 minutes.
+2. In same pot, caramelize onions slowly over medium heat, 15–20 minutes.
 3. Remove from heat; stir in paprika, caraway, and garlic (removing from heat prevents paprika burning).
 4. Add browned beef, tomatoes, and peppers; stir to coat.
 5. Pour in stock; bring to simmer.
-6. Cover and cook on low heat 1.5â2 hours, stirring occasionally, until beef is tender and sauce thickened.
+6. Cover and cook on low heat 1.5–2 hours, stirring occasionally, until beef is tender and sauce thickened.
 7. Season well; serve with egg noodles, bread, or csipetke (pinched egg pasta).
 
-*Historical note: Hungarian pÃ¶rkÃ¶lt (the stew) and gulyÃ¡s (the soup) were originally cowherds' dishes cooked outdoors in iron kettles; paprika was not added until after the 16th-century Ottoman introduction of the pepper.*
+*Historical note: Hungarian pörkölt (the stew) and gulyás (the soup) were originally cowherds' dishes cooked outdoors in iron kettles; paprika was not added until after the 16th-century Ottoman introduction of the pepper.*
 
 ---
 
 ### Sarma (Stuffed Cabbage Rolls)
 
 **Region:** Balkans, Serbia, Croatia, Turkey, Armenia
-**Lineage:** Ottoman imperial kitchen â Balkan and Central European adaptation
+**Lineage:** Ottoman imperial kitchen → Balkan and Central European adaptation
 
 **Ingredients:**
 - 1 large head of cabbage (or sauerkraut leaves for fermented version)
@@ -1027,7 +1027,7 @@
 4. Line base of heavy pot with smoked ribs or bacon.
 5. Pack rolls tightly in layers, seam-side down; pour over tomatoes and stock.
 6. Weigh down with a plate; bring to simmer.
-7. Cook, covered, on low heat for 2â2.5 hours until rice is cooked and rolls are tender.
+7. Cook, covered, on low heat for 2–2.5 hours until rice is cooked and rolls are tender.
 8. Serve with sour cream and rye bread.
 
 *Historical note: Sarma is considered a cultural treasure across the former Ottoman empire; Turkish dolma and Balkan sarma are branches of the same culinary family.*
@@ -1037,7 +1037,7 @@
 ### Blini
 
 **Region:** Russia
-**Lineage:** Slavic pagan sun symbolism â Orthodox Christian Maslenitsa tradition
+**Lineage:** Slavic pagan sun symbolism → Orthodox Christian Maslenitsa tradition
 
 **Ingredients:**
 - 200 g buckwheat flour
@@ -1068,7 +1068,7 @@
 ### Pelmeni
 
 **Region:** Siberia and Ural region, Russia
-**Lineage:** Uralic and Finno-Ugric hunting tradition â Siberian peasant staple
+**Lineage:** Uralic and Finno-Ugric hunting tradition → Siberian peasant staple
 
 **Ingredients:**
 **Dough:**
@@ -1094,14 +1094,14 @@
 7. Cook in batches in salted boiling water until they float, then 3 minutes more.
 8. Drain; serve with butter, sour cream, and vinegar.
 
-*Historical note: Pelmeni were made in large batches in autumn, frozen outside, and eaten throughout the Siberian winter â proto-frozen food.*
+*Historical note: Pelmeni were made in large batches in autumn, frozen outside, and eaten throughout the Siberian winter — proto-frozen food.*
 
 ---
 
 ### Chicken Kyiv
 
 **Region:** Ukraine
-**Lineage:** French chicken butter technique â Russian imperial court adaptation â Ukrainian national pride
+**Lineage:** French chicken butter technique → Russian imperial court adaptation → Ukrainian national pride
 
 **Ingredients:**
 - 4 large chicken breasts, skinless
@@ -1120,9 +1120,9 @@
 2. Cut a deep pocket horizontally into each chicken breast.
 3. Insert frozen butter log into pocket; press chicken firmly around it.
 4. Secure with toothpick if needed. Season outside of chicken.
-5. Coat each breast: flour â beaten egg â breadcrumbs. Double-coat for security.
+5. Coat each breast: flour → beaten egg → breadcrumbs. Double-coat for security.
 6. Refrigerate 30 minutes to set.
-7. Deep-fry at 170Â°C for 12â14 minutes until golden and internal temperature reaches 74Â°C.
+7. Deep-fry at 170°C for 12–14 minutes until golden and internal temperature reaches 74°C.
 8. Rest 2 minutes before serving; warn diners about hot butter inside.
 
 *Historical note: The dish's exact origin is contested between Kyiv and imperial Russian restaurants, but it was popularized internationally through Ukrainian-American restaurants in the 20th century.*
@@ -1132,7 +1132,7 @@
 ### Paprikash (Chicken Paprikash)
 
 **Region:** Hungary
-**Lineage:** Magyar pastoral cooking â Ottoman paprika introduction â Hungarian national comfort food
+**Lineage:** Magyar pastoral cooking → Ottoman paprika introduction → Hungarian national comfort food
 
 **Ingredients:**
 - 1 whole chicken, cut into pieces (about 1.2 kg)
@@ -1148,7 +1148,7 @@
 
 **Method:**
 1. Season chicken pieces; brown in lard in large pot. Remove and set aside.
-2. SautÃ© onions in same pot over medium heat until very soft and golden, about 20 minutes.
+2. Sauté onions in same pot over medium heat until very soft and golden, about 20 minutes.
 3. Remove from heat; stir in both paprikas immediately.
 4. Return chicken to pot; add stock.
 5. Cover and simmer gently 40 minutes until chicken is cooked through.
@@ -1156,6 +1156,6 @@
 7. Whisk sour cream with flour; stir into cooking juices. Simmer gently 5 minutes, do not boil.
 8. Return chicken to sauce; serve over spaetzle or egg noodles with fresh dill.
 
-*Historical note: Paprikash is considered one of Hungary's most emblematic dishes; the sour cream sauce is what distinguishes paprikash from gulyÃ¡s.*
+*Historical note: Paprikash is considered one of Hungary's most emblematic dishes; the sour cream sauce is what distinguishes paprikash from gulyás.*
 
 ---

@@ -1,18 +1,18 @@
 # The Art of Storytelling
 
-> "The universe is made of stories, not atoms." â Muriel Rukeyser
+> "The universe is made of stories, not atoms." — Muriel Rukeyser
 
 ---
 
 ## Oral Traditions: Where Stories Began
 
-Long before writing, human knowledge, values, and history traveled by voice. Every culture developed its own tradition of oral storytelling â and the practitioners of that art were essential to social cohesion, cultural memory, and collective meaning-making.
+Long before writing, human knowledge, values, and history traveled by voice. Every culture developed its own tradition of oral storytelling — and the practitioners of that art were essential to social cohesion, cultural memory, and collective meaning-making.
 
 ### The Griot (West Africa)
 
-In West African cultures â particularly among the MandÃ© peoples of Mali, Senegal, Gambia, and neighboring countries â the griot (jeli in Mande languages) is a hereditary keeper of oral history, musician, genealogist, and praise-singer. Griots are not merely entertainers; they are living archives.
+In West African cultures — particularly among the Mandé peoples of Mali, Senegal, Gambia, and neighboring countries — the griot (jeli in Mande languages) is a hereditary keeper of oral history, musician, genealogist, and praise-singer. Griots are not merely entertainers; they are living archives.
 
-A griot might spend years in apprenticeship, memorizing genealogies stretching back dozens of generations, learning songs tied to particular families and events, mastering the kora (a 21-string bridge harp) or the balafon (a wooden xylophone). Their role at ceremonies â naming rituals, weddings, funerals, coronations â is indispensable. The griot speaks the lineage into being.
+A griot might spend years in apprenticeship, memorizing genealogies stretching back dozens of generations, learning songs tied to particular families and events, mastering the kora (a 21-string bridge harp) or the balafon (a wooden xylophone). Their role at ceremonies — naming rituals, weddings, funerals, coronations — is indispensable. The griot speaks the lineage into being.
 
 What griots teach storytellers:
 - **Memory is a craft.** Oral memory is not casual recall; it is trained, structured, and reinforced through rhythm, song, and repetition.
@@ -21,57 +21,57 @@ What griots teach storytellers:
 
 ### The Bard (Celtic and Medieval European Traditions)
 
-In ancient Celtic societies â Irish, Welsh, Scottish, Gallic â the bard occupied a formal and powerful social position. The Irish filed (plural filid) were trained for up to twelve years, learning hundreds of verses, mastering complex meter, and studying legal, historical, and genealogical material. A bard's praise could elevate a king; a bard's satire â the dreaded glÃ¡m dÃ­cenn â could reportedly raise blisters on the face of an unworthy ruler.
+In ancient Celtic societies — Irish, Welsh, Scottish, Gallic — the bard occupied a formal and powerful social position. The Irish filed (plural filid) were trained for up to twelve years, learning hundreds of verses, mastering complex meter, and studying legal, historical, and genealogical material. A bard's praise could elevate a king; a bard's satire — the dreaded glám dícenn — could reportedly raise blisters on the face of an unworthy ruler.
 
-Medieval European bards and troubadours (ProvenÃ§al), trouvÃ¨res (northern France), and minnesingers (Germany) traveled between courts, carrying news, gossip, political commentary, and entertainment wrapped in song and story. Their work was political as much as artistic.
+Medieval European bards and troubadours (Provençal), trouvères (northern France), and minnesingers (Germany) traveled between courts, carrying news, gossip, political commentary, and entertainment wrapped in song and story. Their work was political as much as artistic.
 
 What bards teach storytellers:
-- **Form is not constraint â it is power.** The tight metrical requirements of Celtic verse weren't limitations; they were mnemonic structures that made transmission reliable.
-- **The storyteller has social power.** Naming something â a coward, a hero, a deed â changes how a community perceives it.
+- **Form is not constraint — it is power.** The tight metrical requirements of Celtic verse weren't limitations; they were mnemonic structures that made transmission reliable.
+- **The storyteller has social power.** Naming something — a coward, a hero, a deed — changes how a community perceives it.
 - **Songs and stories are not separate things.** The division between spoken word and music is modern and artificial.
 
-### The SeanchaÃ­ (Irish Storyteller)
+### The Seanchaí (Irish Storyteller)
 
-The seanchaÃ­ (shawn-a-khee) was the traditional Irish storyteller â less formally trained than the bard, more rooted in community and fireside. Where the filed operated in courts, the seanchaÃ­ operated in kitchens, pubs, and gatherings. They preserved mythology, local legend, fairy tales (scÃ©alta), and family histories.
+The seanchaí (shawn-a-khee) was the traditional Irish storyteller — less formally trained than the bard, more rooted in community and fireside. Where the filed operated in courts, the seanchaí operated in kitchens, pubs, and gatherings. They preserved mythology, local legend, fairy tales (scéalta), and family histories.
 
-The seanchaÃ­ tradition was an embodied art. The seanchaÃ­ would not just recite â they would inhabit characters, shift voices, use silence as punctuation, and read the room continuously. A story told to drowsy listeners after midnight required different pacing than a story told to an eager crowd in the afternoon.
+The seanchaí tradition was an embodied art. The seanchaí would not just recite — they would inhabit characters, shift voices, use silence as punctuation, and read the room continuously. A story told to drowsy listeners after midnight required different pacing than a story told to an eager crowd in the afternoon.
 
-What the seanchaÃ­ teaches:
+What the seanchaí teaches:
 - **Know your audience in real time.** A live story is a conversation, even when only one person speaks.
-- **Repetition is music.** The recurring phrase, the ritual opening and closing, the three-fold pattern â these are not laziness but architecture.
-- **Silence speaks.** A seanchaÃ­ knew that the pause before the reveal was as important as the reveal itself.
+- **Repetition is music.** The recurring phrase, the ritual opening and closing, the three-fold pattern — these are not laziness but architecture.
+- **Silence speaks.** A seanchaí knew that the pause before the reveal was as important as the reveal itself.
 
 ---
 
 ## Story Structures
 
-A story without structure is a walk without a path. Structure is not formula â it is the skeleton that allows flesh and breath to move. Different cultures have developed different skeletal forms.
+A story without structure is a walk without a path. Structure is not formula — it is the skeleton that allows flesh and breath to move. Different cultures have developed different skeletal forms.
 
 ### The Hero's Journey (Joseph Campbell's Monomyth)
 
 Drawn from mythologist Campbell's study of world mythology, the Hero's Journey describes a common narrative pattern found across cultures:
 
-**The Ordinary World** â The hero exists in their familiar, ordinary world. We understand what they want, what they fear, who they are.
+**The Ordinary World** → The hero exists in their familiar, ordinary world. We understand what they want, what they fear, who they are.
 
-**The Call to Adventure** â Something disrupts the ordinary world. A challenge, an invitation, a problem that demands a response.
+**The Call to Adventure** → Something disrupts the ordinary world. A challenge, an invitation, a problem that demands a response.
 
-**Refusal of the Call** â The hero hesitates. This is not weakness â it is honesty about the cost of transformation.
+**Refusal of the Call** → The hero hesitates. This is not weakness — it is honesty about the cost of transformation.
 
-**Meeting the Mentor** â Wisdom, guidance, or a gift arrives. The hero is prepared (partially).
+**Meeting the Mentor** → Wisdom, guidance, or a gift arrives. The hero is prepared (partially).
 
-**Crossing the Threshold** â The hero commits. The ordinary world is left behind. There is no going back to the same self.
+**Crossing the Threshold** → The hero commits. The ordinary world is left behind. There is no going back to the same self.
 
-**Tests, Allies, Enemies** â The hero is tested, forms relationships, faces opposition. Character is revealed through pressure.
+**Tests, Allies, Enemies** → The hero is tested, forms relationships, faces opposition. Character is revealed through pressure.
 
-**The Ordeal** â The central crisis. The greatest challenge. Death and rebirth (literal or metaphorical).
+**The Ordeal** → The central crisis. The greatest challenge. Death and rebirth (literal or metaphorical).
 
-**The Reward** â Something is gained â knowledge, an object, transformation.
+**The Reward** → Something is gained — knowledge, an object, transformation.
 
-**The Road Back** â The return is not automatic. There may be a final chase, a final temptation.
+**The Road Back** → The return is not automatic. There may be a final chase, a final temptation.
 
-**The Resurrection** â A final test. The hero proves they have truly changed.
+**The Resurrection** → A final test. The hero proves they have truly changed.
 
-**Return with the Elixir** â The hero returns to the ordinary world bearing a gift â wisdom, medicine, a changed community.
+**Return with the Elixir** → The hero returns to the ordinary world bearing a gift — wisdom, medicine, a changed community.
 
 **Using the Hero's Journey:** It's most powerful not as a checklist but as a diagnostic tool. If your story feels flat, check: is there genuine transformation? Is the ordeal really an ordeal? Did the hero earn the reward?
 
@@ -81,43 +81,43 @@ Drawn from mythologist Campbell's study of world mythology, the Hero's Journey d
 
 Simpler and more versatile than the Hero's Journey, the three-act structure is the backbone of most Western drama, film, and fiction:
 
-**Act I â Setup (â25% of story)**
+**Act I — Setup (≈25% of story)**
 - Establish the world and the protagonist
 - Introduce the central conflict
 - End with an inciting incident that sets the story in motion
 
-**Act II â Confrontation (â50% of story)**
+**Act II — Confrontation (≈50% of story)**
 - The protagonist pursues a goal
 - Obstacles escalate
 - A midpoint shift (revelation, reversal, or deepening of stakes)
-- The darkest moment â the protagonist's lowest point
+- The darkest moment — the protagonist's lowest point
 
-**Act III â Resolution (â25% of story)**
-- Climax â the final confrontation
-- Resolution â how the world is changed
-- Denouement â the new equilibrium
+**Act III — Resolution (≈25% of story)**
+- Climax — the final confrontation
+- Resolution — how the world is changed
+- Denouement — the new equilibrium
 
 **Three-act for oral storytelling:** You don't need to be rigid. In conversation or a brief oral piece, just ensure you have: *something that was* / *something that happened* / *something that is now different*. That's the minimum skeleton.
 
 ---
 
-### KishÅtenketsu (Japanese/Chinese Four-Act Structure)
+### Kishōtenketsu (Japanese/Chinese Four-Act Structure)
 
-KishÅtenketsu (èµ·æ¿è»¢çµ) is a four-part structure from East Asian poetic and narrative tradition â and its radical difference from Western structure is illuminating.
+Kishōtenketsu (起承転結) is a four-part structure from East Asian poetic and narrative tradition — and its radical difference from Western structure is illuminating.
 
-**Ki (èµ·) â Introduction:** Establish the characters and setting. No conflict yet.
+**Ki (起) — Introduction:** Establish the characters and setting. No conflict yet.
 
-**ShÅ (æ¿) â Development:** Develop the elements introduced. Things unfold naturally.
+**Shō (承) — Development:** Develop the elements introduced. Things unfold naturally.
 
-**Ten (è»¢) â Twist:** A sudden, unexpected development â a surprise, a shift, a seemingly unrelated element introduced. This is the heart of the structure. It doesn't have to be conflict; it could be a new perspective or juxtaposition.
+**Ten (転) — Twist:** A sudden, unexpected development — a surprise, a shift, a seemingly unrelated element introduced. This is the heart of the structure. It doesn't have to be conflict; it could be a new perspective or juxtaposition.
 
-**Ketsu (çµ) â Conclusion:** The twist and the development are reconciled. Understanding emerges from the juxtaposition.
+**Ketsu (結) — Conclusion:** The twist and the development are reconciled. Understanding emerges from the juxtaposition.
 
-**The crucial insight:** KishÅtenketsu suggests that conflict is not necessary for story. Western story theory almost always relies on conflict as the engine. KishÅtenketsu proposes that surprise, contrast, and insight can drive narrative instead.
+**The crucial insight:** Kishōtenketsu suggests that conflict is not necessary for story. Western story theory almost always relies on conflict as the engine. Kishōtenketsu proposes that surprise, contrast, and insight can drive narrative instead.
 
-This structure appears in Japanese haiku (the kireji â cutting word â is the Ten), manga, film (Studio Ghibli films often use this structure), and traditional tales.
+This structure appears in Japanese haiku (the kireji — cutting word — is the Ten), manga, film (Studio Ghibli films often use this structure), and traditional tales.
 
-**Using KishÅtenketsu:** Great for anecdotes that reveal something unexpected. Set up a situation, develop it naturally, then introduce a twist that reframes everything. The audience arrives at insight rather than resolution.
+**Using Kishōtenketsu:** Great for anecdotes that reveal something unexpected. Set up a situation, develop it naturally, then introduce a twist that reframes everything. The audience arrives at insight rather than resolution.
 
 ---
 
@@ -125,11 +125,11 @@ This structure appears in Japanese haiku (the kireji â cutting word â 
 
 ### Pacing
 
-Pacing is the felt speed of a story â and it's not always about words per minute. Pacing is controlled by:
+Pacing is the felt speed of a story — and it's not always about words per minute. Pacing is controlled by:
 
 **Sentence length.** Long, winding sentences slow the reader and create a meditative, dense quality. Short sentences speed things up. They cut. They land. They punch.
 
-**Scene vs. summary.** Scene shows moment-by-moment â time slows. Summary skips time. A skilled storyteller shifts between these intentionally.
+**Scene vs. summary.** Scene shows moment-by-moment — time slows. Summary skips time. A skilled storyteller shifts between these intentionally.
 
 **Detail density.** A room described in three sentences slows the story. A room mentioned in a clause keeps it moving.
 
@@ -141,7 +141,7 @@ Pacing is the felt speed of a story â and it's not always about words per m
 
 ### Silence
 
-The seanchaÃ­ knew this. The jazz musician knows it. The comedian knows it: silence is not the absence of story â it is the story's breath.
+The seanchaí knew this. The jazz musician knows it. The comedian knows it: silence is not the absence of story — it is the story's breath.
 
 **Pause before the punchline.** The moment of anticipation is part of the joke.
 
@@ -157,17 +157,17 @@ In oral storytelling, unplanned silence (forgetting your place, losing the threa
 
 ### The Rule of Three
 
-Three is the magic number in storytelling â across cultures, traditions, and genres. Why?
+Three is the magic number in storytelling — across cultures, traditions, and genres. Why?
 
-Cognitive scientists suggest that three is the minimum for establishing a pattern and the maximum before lists become tedious. Two is a contrast. Three is a pattern â and the third element either confirms the pattern (satisfying) or breaks it (surprising).
+Cognitive scientists suggest that three is the minimum for establishing a pattern and the maximum before lists become tedious. Two is a contrast. Three is a pattern — and the third element either confirms the pattern (satisfying) or breaks it (surprising).
 
 **Three acts.** Three wishes. Three little pigs. Three ghosts visiting Scrooge. Three trials for the hero. The repetition builds expectation; the third iteration delivers the resolution.
 
-**In structure:** If you set up two examples, a third is almost mandatory. If you set up three, the third must deliver â it carries the weight of expectation.
+**In structure:** If you set up two examples, a third is almost mandatory. If you set up three, the third must deliver — it carries the weight of expectation.
 
 **In comedy:** Setup, setup, punchline. The third item is the twist.
 
-**In oral storytelling:** The audience starts anticipating on the second repetition. By the third, they're leaning in. This is power â don't waste it with a flat landing.
+**In oral storytelling:** The audience starts anticipating on the second repetition. By the third, they're leaning in. This is power — don't waste it with a flat landing.
 
 ---
 
@@ -180,7 +180,7 @@ Specific details do several things:
 - They signal to the listener that the storyteller knows this world intimately
 - They let the audience's imagination fill in the surrounding context
 
-You don't need many specific details. You need the right ones â the telling detail that makes a person, place, or moment vivid and real.
+You don't need many specific details. You need the right ones — the telling detail that makes a person, place, or moment vivid and real.
 
 **Test:** Can you replace the detail with a generic placeholder without loss? If yes, the detail isn't doing enough work.
 
@@ -188,7 +188,7 @@ You don't need many specific details. You need the right ones â the telling
 
 ### Show the Want
 
-Every story worth telling is about desire. Not necessarily romantic desire â but *want*. The character wants something: safety, revenge, love, knowledge, home.
+Every story worth telling is about desire. Not necessarily romantic desire — but *want*. The character wants something: safety, revenge, love, knowledge, home.
 
 If the audience doesn't know what the protagonist wants, they don't know what the story is about, and they can't care about what happens.
 
@@ -200,7 +200,7 @@ The want should be clear early. It should be tested. It should be achieved, deni
 
 ### The Ending Is the Meaning
 
-The ending is not just a conclusion â it is the story's argument. What you end on is what you're saying.
+The ending is not just a conclusion — it is the story's argument. What you end on is what you're saying.
 
 A story that ends with reconciliation says: *reconciliation is possible.*
 A story that ends with loss says: *this loss was real and matters.*
@@ -232,7 +232,7 @@ A story that ends with ambiguity says: *life resists neat resolution.*
 
 **The Three-Detail Portrait:** Describe a person using only three specific details. Make them visible.
 
-**The KishÅtenketsu Anecdote:** Tell a story about something that happened to you using the four-part structure. What is your "Ten" â the unexpected twist that reframes everything?
+**The Kishōtenketsu Anecdote:** Tell a story about something that happened to you using the four-part structure. What is your "Ten" — the unexpected twist that reframes everything?
 
 **Steal the Structure:** Take a myth, fairy tale, or story you know. Identify its structure explicitly. Now tell a story from your own life using the same structure.
 
@@ -240,4 +240,4 @@ A story that ends with ambiguity says: *life resists neat resolution.*
 
 ---
 
-*Part of the Observatory Almanac â Section 21: Music & Performance*
+*Part of the Observatory Almanac — Section 21: Music & Performance*

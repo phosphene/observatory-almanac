@@ -1,6 +1,6 @@
 # Americas Recipes
 
-*The Observatory Almanac â Human Hearth*
+*The Observatory Almanac — Human Hearth*
 
 Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Colonial-Fusion] [Indigenous] [Creole] [Street-Food]
 
@@ -10,7 +10,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 ### Mole Negro (Oaxacan Black Mole)
 
-**Region:** Oaxaca, Mexico | **Lineage:** [Pre-Columbian â Colonial-Fusion]
+**Region:** Oaxaca, Mexico | **Lineage:** [Pre-Columbian → Colonial-Fusion]
 
 **Ingredients:**
 - 1 kg turkey or chicken pieces
@@ -39,24 +39,24 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 - Salt to taste
 
 **Method:**
-1. Devein and deseed chilies (keep seeds from 1â2 for extra colour). Toast each type separately in dry pan until fragrant. Soak in hot water 30 min.
-2. Dry-toast sesame seeds, pumpkin seeds. Set aside. Toast tortilla until black â this is essential for colour.
+1. Devein and deseed chilies (keep seeds from 1–2 for extra colour). Toast each type separately in dry pan until fragrant. Soak in hot water 30 min.
+2. Dry-toast sesame seeds, pumpkin seeds. Set aside. Toast tortilla until black — this is essential for colour.
 3. Blend chilies with soaking water to smooth paste.
 4. Separately blend: tomatoes, tomatillos, garlic, onion, fried plantain, fried bread.
 5. Blend sesame and pumpkin seeds with spices.
-6. Heat lard in large clay pot; fry chili paste (covering face â it splashes). Cook 15 min, stirring.
+6. Heat lard in large clay pot; fry chili paste (covering face — it splashes). Cook 15 min, stirring.
 7. Add tomato paste; cook 10 min. Add seed paste; cook 10 min.
 8. Add broth gradually; simmer 45 min. Add chocolate.
 9. Season turkey/chicken with salt. Brown in separate pan. Add to mole.
-10. Simmer total 1.5â2 hours. Mole should coat spoon thickly. Adjust salt.
+10. Simmer total 1.5–2 hours. Mole should coat spoon thickly. Adjust salt.
 
-*Historical note: Mole negro contains over 30 ingredients and can take 3 days to make properly â it is considered one of the world's most complex sauces.*
+*Historical note: Mole negro contains over 30 ingredients and can take 3 days to make properly — it is considered one of the world's most complex sauces.*
 
 ---
 
 ### Mole Rojo (Red Mole)
 
-**Region:** Puebla, Mexico | **Lineage:** [Pre-Columbian â Colonial-Fusion]
+**Region:** Puebla, Mexico | **Lineage:** [Pre-Columbian → Colonial-Fusion]
 
 **Ingredients:**
 - 6 ancho chilies, toasted and soaked
@@ -93,16 +93,16 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 **Ingredients:**
 - 500 g tomatillos, husked and washed
-- 3â4 serrano or jalapeÃ±o chilies (seeds removed for less heat)
+- 3–4 serrano or jalapeño chilies (seeds removed for less heat)
 - 3 garlic cloves
-- Â½ white onion
-- Â½ cup fresh cilantro
+- ½ white onion
+- ½ cup fresh cilantro
 - 1 tsp salt
 - 1 tbsp lime juice
 
 **Method:**
 1. Char tomatillos, chilies, garlic, and onion directly over gas flame or under broiler until blistered and slightly charred.
-2. Blend all ingredients, pulsing to keep texture â not too smooth.
+2. Blend all ingredients, pulsing to keep texture — not too smooth.
 3. Adjust salt and lime. Serve fresh; lasts 3 days refrigerated.
 
 *Historical note: Tomatillos (tomate verde) are among the oldest cultivated plants of Mesoamerica, predating tomatoes in Mexican cuisine.*
@@ -118,7 +118,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 - 3 dried guajillo chilies, soaked
 - 2 dried arbol chilies
 - 3 garlic cloves, roasted
-- Â½ onion, charred
+- ½ onion, charred
 - 1 tsp cumin
 - Salt to taste
 
@@ -134,7 +134,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 ### Carnitas
 
-**Region:** MichoacÃ¡n, Mexico | **Lineage:** [Colonial-Fusion]
+**Region:** Michoacán, Mexico | **Lineage:** [Colonial-Fusion]
 
 **Ingredients:**
 - 1.5 kg pork shoulder, cut into large chunks
@@ -153,25 +153,25 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 3. Once liquid is gone, fry pork in its own rendered fat until crisp and golden, 20 more min.
 4. Pull apart with forks. Serve in warm corn tortillas with onion, cilantro, and salsa.
 
-*Historical note: Carnitas means "little meats" â the technique of cooking pork in its own fat is borrowed from French confit, introduced post-colonial contact.*
+*Historical note: Carnitas means "little meats" — the technique of cooking pork in its own fat is borrowed from French confit, introduced post-colonial contact.*
 
 ---
 
 ### Tacos al Pastor
 
-**Region:** Mexico City | **Lineage:** [Colonial-Fusion â Street-Food]
+**Region:** Mexico City | **Lineage:** [Colonial-Fusion → Street-Food]
 
 **Ingredients (marinade for 800 g pork shoulder, sliced thin):**
 - 3 guajillo chilies, soaked
 - 2 ancho chilies, soaked
 - 4 chipotle in adobo
 - 5 garlic cloves
-- Â½ onion
+- ½ onion
 - 3 tbsp white vinegar
 - 1 tsp cumin
 - 1 tsp oregano
 - 1 tsp achiote (annatto) paste
-- Â½ pineapple, sliced
+- ½ pineapple, sliced
 
 **Method:**
 1. Blend all marinade ingredients to smooth paste.
@@ -193,7 +193,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 - 1 peach, diced; 1 pear, diced; 1 apple, diced
 - 50 g raisins; 50 g almonds, chopped; 50 g pine nuts
 - 3 tomatoes, chopped; 1 onion, chopped; 3 garlic cloves
-- 1 tsp cinnamon; Â½ tsp cloves; salt
+- 1 tsp cinnamon; ½ tsp cloves; salt
 
 **Walnut cream:**
 - 200 g fresh walnuts, peeled
@@ -209,7 +209,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 3. Blend walnut cream until smooth and ivory-colored.
 4. Plate poblanos on cream, top with pomegranate seeds and parsley.
 
-*Historical note: Chiles en nogada represents the Mexican flag â green (parsley), white (walnut sauce), red (pomegranate) â created in 1821 to honor independence.*
+*Historical note: Chiles en nogada represents the Mexican flag — green (parsley), white (walnut sauce), red (pomegranate) — created in 1821 to honor independence.*
 
 ---
 
@@ -223,7 +223,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 - 6 guajillo chilies, soaked
 - 3 ancho chilies, soaked
 - 4 garlic cloves, roasted
-- Â½ onion, roasted
+- ½ onion, roasted
 - 1 tsp cumin; 1 tsp oregano
 - 2 bay leaves
 - Salt
@@ -233,11 +233,11 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 **Method:**
 1. Boil pork with garlic, onion, bay leaves, salt until very tender, 1.5 hours. Shred meat.
 2. Blend soaked chilies with roasted garlic, onion, cumin, and 200 ml pork broth.
-3. Strain chili purÃ©e; cook in 2 tbsp oil 10 min. Add to pork broth.
+3. Strain chili purée; cook in 2 tbsp oil 10 min. Add to pork broth.
 4. Add hominy and shredded pork. Simmer 30 min.
 5. Serve in deep bowls with all garnishes on the side.
 
-*Historical note: Pozole was a sacred Aztec ceremonial food â the hominy represented the sun and the dish was originally consumed at major ritual occasions.*
+*Historical note: Pozole was a sacred Aztec ceremonial food — the hominy represented the sun and the dish was originally consumed at major ritual occasions.*
 
 ---
 
@@ -248,7 +248,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 **Masa:**
 - 500 g masa harina (nixtamalized corn flour)
 - 250 g lard or vegetable shortening
-- 500â600 ml warm chicken or pork broth
+- 500–600 ml warm chicken or pork broth
 - 1 tsp baking powder
 - 1 tsp salt
 
@@ -262,15 +262,15 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 2. Mix shredded pork with chili sauce.
 3. Open soaked corn husk; spread 3 tbsp masa into centre (not to edges). Add 2 tbsp filling.
 4. Fold husk over, fold bottom up. Stand upright in steamer.
-5. Steam 75â90 min until masa pulls cleanly from husk. Rest 10 min.
+5. Steam 75–90 min until masa pulls cleanly from husk. Rest 10 min.
 
-*Historical note: Tamales are among humanity's oldest portable foods â Aztec soldiers and hunters carried them on long journeys.*
+*Historical note: Tamales are among humanity's oldest portable foods — Aztec soldiers and hunters carried them on long journeys.*
 
 ---
 
 ### Enchiladas Verdes
 
-**Region:** Mexico (pan-regional) | **Lineage:** [Pre-Columbian â Colonial-Fusion]
+**Region:** Mexico (pan-regional) | **Lineage:** [Pre-Columbian → Colonial-Fusion]
 
 **Ingredients:**
 - 12 corn tortillas
@@ -286,7 +286,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 2. Dip each tortilla briefly in hot oil (5 seconds); drain. Immediately coat in warm salsa verde.
 3. Fill with chicken, roll, and arrange seam-side down.
 4. Cover with remaining salsa verde, drizzle with crema, top with queso fresco and onion.
-5. Serve immediately or bake at 180Â°C for 10 min until sauce bubbles.
+5. Serve immediately or bake at 180°C for 10 min until sauce bubbles.
 
 *Historical note: Enchiladas (chili-dipped tortillas) appear in descriptions of Aztec food by Spanish conquistadors in the 16th century.*
 
@@ -294,14 +294,14 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 ## PERU
 
-### Ceviche ClÃ¡sico
+### Ceviche Clásico
 
-**Region:** Lima, Peru | **Lineage:** [Pre-Columbian â Colonial-Fusion]
+**Region:** Lima, Peru | **Lineage:** [Pre-Columbian → Colonial-Fusion]
 
 **Ingredients:**
 - 500 g white fish (corvina, sole, or halibut), cut into 2 cm cubes
 - 300 ml fresh lime juice (about 15 limes)
-- 2 ajÃ­ amarillo peppers (or yellow peppers), deseeded and sliced thin
+- 2 ají amarillo peppers (or yellow peppers), deseeded and sliced thin
 - 1 red onion, sliced paper-thin
 - Fresh cilantro
 - Salt to taste
@@ -309,7 +309,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 **Leche de tigre (tiger's milk):**
 - 100 ml lime juice
 - 50 g fish trimmings
-- 1 tbsp ajÃ­ amarillo paste
+- 1 tbsp ají amarillo paste
 - 1 garlic clove
 - 1 in ginger
 - Cilantro stems
@@ -321,17 +321,17 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 1. Salt fish cubes lightly; set aside 5 min.
 2. Make leche de tigre: blend all ingredients with ice until smooth; strain.
 3. Rinse onions in ice water 10 min; drain.
-4. Combine fish with leche de tigre and extra lime juice. "Cook" 5â10 min â fish will turn opaque.
-5. Add ajÃ­ amarillo and onion. Toss. Top with cilantro.
+4. Combine fish with leche de tigre and extra lime juice. "Cook" 5–10 min — fish will turn opaque.
+5. Add ají amarillo and onion. Toss. Top with cilantro.
 6. Serve immediately with cancha, sweet potato, and lettuce.
 
-*Historical note: Pre-Columbian Peruvians cured fish in passion fruit and chicha â limes only arrived with the Spanish, but the technique is ancient.*
+*Historical note: Pre-Columbian Peruvians cured fish in passion fruit and chicha — limes only arrived with the Spanish, but the technique is ancient.*
 
 ---
 
 ### Lomo Saltado
 
-**Region:** Lima, Peru | **Lineage:** [Colonial-Fusion â African-Diaspora]
+**Region:** Lima, Peru | **Lineage:** [Colonial-Fusion → African-Diaspora]
 
 **Ingredients:**
 - 600 g beef tenderloin or sirloin, cut into strips
@@ -339,7 +339,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 - 2 tbsp red wine vinegar
 - 2 tomatoes, cut into wedges
 - 1 red onion, cut into wedges
-- 2 ajÃ­ amarillo peppers, sliced
+- 2 ají amarillo peppers, sliced
 - 4 garlic cloves, minced
 - 3 tbsp oil
 - Fresh cilantro
@@ -349,22 +349,22 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 **Method:**
 1. Season beef with salt and pepper. Heat wok until smoking.
 2. Add oil; sear beef on very high heat 2 min per side. Remove.
-3. In same wok (still hot), add garlic, onion, ajÃ­, and tomatoes. Toss 2 min.
-4. Return beef. Add soy sauce and vinegar. Toss on high heat 1 min â should flame slightly.
+3. In same wok (still hot), add garlic, onion, ají, and tomatoes. Toss 2 min.
+4. Return beef. Add soy sauce and vinegar. Toss on high heat 1 min — should flame slightly.
 5. Add French fries and cilantro. Toss quickly.
 6. Serve immediately over white rice.
 
-*Historical note: Lomo saltado is a chifa (Peruvian-Chinese) dish â Chinese railroad and mine workers of the 19th century fused wok technique with local ingredients.*
+*Historical note: Lomo saltado is a chifa (Peruvian-Chinese) dish — Chinese railroad and mine workers of the 19th century fused wok technique with local ingredients.*
 
 ---
 
-### AjÃ­ de Gallina
+### Ají de Gallina
 
 **Region:** Lima, Peru | **Lineage:** [Colonial-Fusion]
 
 **Ingredients:**
 - 1 kg chicken breast, poached and shredded
-- 4 ajÃ­ amarillo peppers (fresh or paste)
+- 4 ají amarillo peppers (fresh or paste)
 - 3 slices white bread, crusts removed
 - 100 ml evaporated milk
 - 4 tbsp vegetable oil
@@ -378,23 +378,23 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 **Method:**
 1. Soak bread in evaporated milk.
-2. Blend ajÃ­ amarillo to paste. In 2 tbsp oil, fry onion and garlic until soft. Add ajÃ­ paste; cook 5 min.
+2. Blend ají amarillo to paste. In 2 tbsp oil, fry onion and garlic until soft. Add ají paste; cook 5 min.
 3. Add soaked bread and milk; cook 5 min until thick.
 4. Add walnuts and Parmesan; blend partially smooth.
 5. Add shredded chicken; simmer 10 min. Add turmeric. Adjust salt.
 6. Serve over potatoes and rice, garnished with olives and egg halves.
 
-*Historical note: The dish reflects Peru's multicultural history â ajÃ­ (Indigenous), walnuts (possibly Arab via Spain), Parmesan (Italian immigration), and bread (European colonial).*
+*Historical note: The dish reflects Peru's multicultural history — ají (Indigenous), walnuts (possibly Arab via Spain), Parmesan (Italian immigration), and bread (European colonial).*
 
 ---
 
-### Causa LimeÃ±a
+### Causa Limeña
 
-**Region:** Lima, Peru | **Lineage:** [Pre-Columbian â Colonial-Fusion]
+**Region:** Lima, Peru | **Lineage:** [Pre-Columbian → Colonial-Fusion]
 
 **Ingredients:**
 - 800 g yellow potatoes, boiled and pressed through ricer while hot
-- 3 tbsp ajÃ­ amarillo paste
+- 3 tbsp ají amarillo paste
 - 4 tbsp lime juice
 - 3 tbsp vegetable oil
 - Salt
@@ -406,12 +406,12 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 - Salt and pepper
 
 **Method:**
-1. Mix warm potato with ajÃ­ paste, lime juice, oil, and salt. Knead to smooth dough.
+1. Mix warm potato with ají paste, lime juice, oil, and salt. Knead to smooth dough.
 2. Divide potato into thirds.
 3. In mold or springform pan, press first layer of potato. Add tuna-mayo filling. Press second layer. Add avocado slices. Press final layer.
 4. Refrigerate 1 hour. Unmold. Garnish with olives, boiled egg, and parsley.
 
-*Historical note: Peru has over 3,000 native potato varieties â causa is an ancient preparation that predates colonial contact.*
+*Historical note: Peru has over 3,000 native potato varieties — causa is an ancient preparation that predates colonial contact.*
 
 ---
 
@@ -440,13 +440,13 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 ### Feijoada Completa
 
-**Region:** Rio de Janeiro, Brazil | **Lineage:** [African-Diaspora â Colonial-Fusion]
+**Region:** Rio de Janeiro, Brazil | **Lineage:** [African-Diaspora → Colonial-Fusion]
 
 **Ingredients:**
 - 500 g dried black beans, soaked overnight
 - 300 g salted pork ribs, soaked overnight
 - 200 g carne seca (dried beef), soaked overnight, cubed
-- 200 g smoked pork sausage (linguiÃ§a)
+- 200 g smoked pork sausage (linguiça)
 - 200 g blood sausage (optional)
 - 1 pig's ear or trotter (optional, traditional)
 - 3 tbsp oil
@@ -459,14 +459,14 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 **Method:**
 1. Drain soaked beans, meats. Cook separately if very salty.
-2. In large heavy pot, heat oil; brown sausages. Remove. SautÃ© onion and garlic until soft.
+2. In large heavy pot, heat oil; brown sausages. Remove. Sauté onion and garlic until soft.
 3. Add beans, all meats, bay leaves, and enough water to cover by 5 cm.
-4. Pressure cook 45 min or slow cook 3â4 hours until beans are very soft and creamy.
+4. Pressure cook 45 min or slow cook 3–4 hours until beans are very soft and creamy.
 5. Season, remove bay leaves. Remove some beans, mash, return to pot to thicken.
 6. Make farofa: toast cassava flour in butter with garlic and salt.
 7. Serve all components separately, assembled by each person.
 
-*Historical note: Feijoada's origin is debated â popular myth says enslaved Africans invented it from discarded pork parts, though this is contested by culinary historians.*
+*Historical note: Feijoada's origin is debated — popular myth says enslaved Africans invented it from discarded pork parts, though this is contested by culinary historians.*
 
 ---
 
@@ -477,7 +477,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 **Ingredients:**
 - 800 g white fish (firm) and/or shrimp
 - 400 ml coconut milk
-- 4 tbsp dendÃª (red palm oil)
+- 4 tbsp dendê (red palm oil)
 - 1 onion, sliced
 - 4 garlic cloves, minced
 - 3 tomatoes, sliced
@@ -489,11 +489,11 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 **Method:**
 1. Marinate fish/shrimp in lime juice, garlic, and salt 30 min.
 2. In clay pot (preferred), layer onion, peppers, and tomatoes. Add fish on top.
-3. Pour coconut milk over. Drizzle dendÃª oil over everything.
-4. Cook covered on medium heat 20 min without stirring â shake pot instead.
+3. Pour coconut milk over. Drizzle dendê oil over everything.
+4. Cook covered on medium heat 20 min without stirring — shake pot instead.
 5. Sprinkle cilantro at end. Serve with white rice and farofa.
 
-*Historical note: The dendÃª palm oil defines Afro-Brazilian (Baiana) cuisine â brought by enslaved West Africans for whom palm oil was a sacred cultural staple.*
+*Historical note: The dendê palm oil defines Afro-Brazilian (Baiana) cuisine — brought by enslaved West Africans for whom palm oil was a sacred cultural staple.*
 
 ---
 
@@ -509,7 +509,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 **Method:**
 1. Combine condensed milk, cocoa, and butter in heavy saucepan.
-2. Cook over medium-low heat, stirring constantly, 10â15 min until mixture pulls away from sides and bottom of pan.
+2. Cook over medium-low heat, stirring constantly, 10–15 min until mixture pulls away from sides and bottom of pan.
 3. Pour onto buttered plate. Cool 30 min.
 4. Butter hands; roll into 2 cm balls. Roll in chocolate sprinkles. Place in paper cases.
 5. Chill 30 min before serving.
@@ -518,9 +518,9 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 ---
 
-### PÃ£o de Queijo (Brazilian Cheese Bread)
+### Pão de Queijo (Brazilian Cheese Bread)
 
-**Region:** Minas Gerais, Brazil | **Lineage:** [Colonial-Fusion â African-Diaspora]
+**Region:** Minas Gerais, Brazil | **Lineage:** [Colonial-Fusion → African-Diaspora]
 
 **Ingredients (makes 30):**
 - 250 ml whole milk
@@ -535,9 +535,9 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 2. Cool slightly. Beat in eggs one at a time.
 3. Add cheese; mix into smooth dough.
 4. Roll into 3 cm balls. Place on greased baking sheet.
-5. Bake at 200Â°C for 20â25 min until puffed and golden.
+5. Bake at 200°C for 20–25 min until puffed and golden.
 
-*Historical note: PÃ£o de queijo uses tapioca starch from cassava â enslaved Africans in Minas Gerais developed this naturally gluten-free bread.*
+*Historical note: Pão de queijo uses tapioca starch from cassava — enslaved Africans in Minas Gerais developed this naturally gluten-free bread.*
 
 ---
 
@@ -545,7 +545,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 ### Gumbo
 
-**Region:** Louisiana, USA | **Lineage:** [African-Diaspora â Colonial-Fusion â Creole]
+**Region:** Louisiana, USA | **Lineage:** [African-Diaspora → Colonial-Fusion → Creole]
 
 **Ingredients:**
 - 150 ml vegetable oil
@@ -561,24 +561,24 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 - 1 tsp thyme
 - 1 tsp smoked paprika
 - Cajun seasoning to taste
-- FilÃ© powder (optional, traditional thickener)
+- Filé powder (optional, traditional thickener)
 - White rice to serve
 
 **Method:**
-1. Make dark roux: combine oil and flour in heavy pot over medium heat. Stir constantly 30â45 min until roux is deep chocolate brown. This is the heart of gumbo â do not rush or burn it.
+1. Make dark roux: combine oil and flour in heavy pot over medium heat. Stir constantly 30–45 min until roux is deep chocolate brown. This is the heart of gumbo — do not rush or burn it.
 2. Add holy trinity (onion, celery, pepper) to roux; cook 10 min. Add garlic.
 3. Add stock slowly, whisking. Add bay leaves, thyme, paprika, and andouille.
 4. Simmer 45 min. Add chicken; cook 20 min.
 5. Add okra and shrimp; cook 10 more min. Season with Cajun seasoning.
-6. Stir in filÃ© powder at end if desired. Serve over rice.
+6. Stir in filé powder at end if desired. Serve over rice.
 
-*Historical note: Gumbo's name comes from West African "ki ngombo" (okra) â its dark roux technique may derive from French cooking, its ingredients from West Africa.*
+*Historical note: Gumbo's name comes from West African "ki ngombo" (okra) — its dark roux technique may derive from French cooking, its ingredients from West Africa.*
 
 ---
 
 ### Jambalaya
 
-**Region:** Louisiana, USA | **Lineage:** [Colonial-Fusion â Creole]
+**Region:** Louisiana, USA | **Lineage:** [Colonial-Fusion → Creole]
 
 **Ingredients:**
 - 3 tbsp oil
@@ -597,19 +597,19 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 **Method:**
 1. Brown sausage in oil; remove. Brown chicken; remove.
-2. SautÃ© holy trinity until soft. Add garlic.
+2. Sauté holy trinity until soft. Add garlic.
 3. Add tomatoes (Creole version), Cajun seasoning, paprika, thyme.
 4. Add rice; stir to coat. Add stock.
 5. Return chicken and sausage. Bring to boil; cover tightly, reduce heat, cook 20 min.
 6. Add shrimp on top; replace cover, cook 5 min. Fluff and serve.
 
-*Historical note: Jambalaya derives from the ProvenÃ§al dish jambalaia (paella), adapted in Louisiana to use local ingredients.*
+*Historical note: Jambalaya derives from the Provençal dish jambalaia (paella), adapted in Louisiana to use local ingredients.*
 
 ---
 
 ### Red Beans and Rice
 
-**Region:** New Orleans, Louisiana | **Lineage:** [African-Diaspora â Creole]
+**Region:** New Orleans, Louisiana | **Lineage:** [African-Diaspora → Creole]
 
 **Ingredients:**
 - 500 g dried red kidney beans, soaked overnight
@@ -627,18 +627,18 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 **Method:**
 1. Drain beans; cover with fresh water in large pot. Bring to boil.
-2. Brown sausage in separate pan; add to beans. SautÃ© vegetables in same pan; add to beans.
+2. Brown sausage in separate pan; add to beans. Sauté vegetables in same pan; add to beans.
 3. Add garlic, bay leaves, thyme, paprika. Simmer uncovered 2 hours, stirring occasionally.
 4. When beans are very soft, mash some against pot sides to thicken. Season with salt and cayenne.
 5. Serve over rice with hot sauce.
 
-*Historical note: Monday was wash day in New Orleans â red beans cooked all day unattended while women worked. Still traditional Monday fare.*
+*Historical note: Monday was wash day in New Orleans — red beans cooked all day unattended while women worked. Still traditional Monday fare.*
 
 ---
 
-### ÃtouffÃ©e (Shrimp or Crawfish)
+### Étouffée (Shrimp or Crawfish)
 
-**Region:** Louisiana, USA | **Lineage:** [Creole â African-Diaspora]
+**Region:** Louisiana, USA | **Lineage:** [Creole → African-Diaspora]
 
 **Ingredients:**
 - 700 g shrimp or crawfish tails
@@ -649,7 +649,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 - 4 garlic cloves, minced
 - 250 ml shellfish or chicken stock
 - 1 tbsp Cajun seasoning
-- Â½ tsp cayenne
+- ½ tsp cayenne
 - Green onions and parsley
 - Cooked rice
 
@@ -657,10 +657,10 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 1. Melt butter in heavy pan; cook onion, celery, and pepper until very soft, 15 min.
 2. Add garlic; cook 2 min.
 3. Add stock gradually, stirring. Add Cajun seasoning and cayenne.
-4. Simmer 10 min. Add shrimp/crawfish; cook 5â7 min until just pink.
+4. Simmer 10 min. Add shrimp/crawfish; cook 5–7 min until just pink.
 5. Add green onions and parsley. Serve over rice.
 
-*Historical note: ÃtouffÃ©e ("smothered") is quintessential Cajun home cooking from the bayou country of southern Louisiana.*
+*Historical note: Étouffée ("smothered") is quintessential Cajun home cooking from the bayou country of southern Louisiana.*
 
 ---
 
@@ -668,21 +668,21 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 ### Smoked Brisket (Texas BBQ)
 
-**Region:** Texas, USA | **Lineage:** [African-Diaspora â Colonial-Fusion]
+**Region:** Texas, USA | **Lineage:** [African-Diaspora → Colonial-Fusion]
 
 **Ingredients:**
-- 4â5 kg beef brisket (packer cut, with fat cap)
+- 4–5 kg beef brisket (packer cut, with fat cap)
 - 4 tbsp coarse black pepper
 - 2 tbsp coarse kosher salt
 - Post oak or mesquite wood chunks
 - Yellow mustard (binder)
 
 **Method:**
-1. Day before: trim fat cap to Â½ inch. Apply thin coat of yellow mustard. Apply heavy coat of salt and pepper (no other spices in Texas tradition). Refrigerate uncovered overnight.
-2. Set up smoker at 107Â°C (225Â°F) with wood chunks for smoke.
-3. Place brisket fat-side up. Smoke 6â8 hours until internal temperature 74Â°C (165Â°F). Wrap tightly in butcher paper.
-4. Return to smoker. Cook until internal temperature 96Â°C (205Â°F) â about 6 more hours.
-5. Rest wrapped in cooler 2â4 hours. Slice against grain â point in cubes, flat in slices.
+1. Day before: trim fat cap to ½ inch. Apply thin coat of yellow mustard. Apply heavy coat of salt and pepper (no other spices in Texas tradition). Refrigerate uncovered overnight.
+2. Set up smoker at 107°C (225°F) with wood chunks for smoke.
+3. Place brisket fat-side up. Smoke 6–8 hours until internal temperature 74°C (165°F). Wrap tightly in butcher paper.
+4. Return to smoker. Cook until internal temperature 96°C (205°F) — about 6 more hours.
+5. Rest wrapped in cooler 2–4 hours. Slice against grain — point in cubes, flat in slices.
 
 *Historical note: Central Texas BBQ tradition was developed by Czech and German butchers who smoked unsold meat; the technique was perfected through African-American pitmaster traditions.*
 
@@ -695,7 +695,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 **Ingredients (makes 12):**
 - 300 g all-purpose flour
 - 1 tbsp baking powder
-- Â½ tsp baking soda
+- ½ tsp baking soda
 - 1 tsp salt
 - 1 tsp sugar
 - 115 g cold butter, cubed
@@ -703,11 +703,11 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 **Method:**
 1. Mix flour, baking powder, baking soda, salt, and sugar.
-2. Cut in cold butter until mixture resembles coarse crumbs (work quickly â cold fat is essential).
+2. Cut in cold butter until mixture resembles coarse crumbs (work quickly — cold fat is essential).
 3. Add buttermilk; stir gently until dough just comes together. Do not overwork.
-4. Pat dough Â¾ inch thick on floured surface. Cut with sharp biscuit cutter â press straight down, do not twist.
+4. Pat dough ¾ inch thick on floured surface. Cut with sharp biscuit cutter — press straight down, do not twist.
 5. Place touching on baking sheet (sides touching helps them rise straight).
-6. Bake 200Â°C for 12â14 min until golden. Brush with butter.
+6. Bake 200°C for 12–14 min until golden. Brush with butter.
 
 *Historical note: Southern biscuit technique was developed partly from British scone tradition; buttermilk (a byproduct of churning butter) gives its characteristic tang.*
 
@@ -729,19 +729,19 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 **Method:**
 1. Cover ham hocks with water; boil 1 hour. Remove hocks; reserve liquid.
-2. In large pot, sautÃ© onion in 2 tbsp oil until soft. Add garlic.
+2. In large pot, sauté onion in 2 tbsp oil until soft. Add garlic.
 3. Add collards in batches, wilting each batch.
-4. Add stock and hock cooking liquid. Simmer 45â60 min until very tender.
+4. Add stock and hock cooking liquid. Simmer 45–60 min until very tender.
 5. Return picked ham hock meat. Add vinegar, pepper flakes, salt.
-6. Serve with cornbread â dip cornbread in the pot likker (cooking liquid).
+6. Serve with cornbread — dip cornbread in the pot likker (cooking liquid).
 
-*Historical note: Pot likker (potlicker) â the nutrient-rich cooking liquid â was a survival food during enslavement and remained a Southern staple.*
+*Historical note: Pot likker (potlicker) — the nutrient-rich cooking liquid — was a survival food during enslavement and remained a Southern staple.*
 
 ---
 
 ### Macaroni and Cheese (Southern Baked)
 
-**Region:** American South | **Lineage:** [African-Diaspora â Colonial-Fusion]
+**Region:** American South | **Lineage:** [African-Diaspora → Colonial-Fusion]
 
 **Ingredients:**
 - 400 g elbow macaroni, cooked al dente
@@ -749,20 +749,20 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 - 4 tbsp all-purpose flour
 - 700 ml whole milk
 - 400 g sharp cheddar, grated (divided)
-- 200 g GruyÃ¨re or Velveeta, grated
+- 200 g Gruyère or Velveeta, grated
 - 2 eggs, beaten
 - 1 tsp dry mustard
-- Â½ tsp cayenne
+- ½ tsp cayenne
 - Salt and white pepper
 
 **Method:**
-1. Make roux: melt butter, whisk in flour, cook 2 min. Add milk gradually, whisking to smooth bÃ©chamel.
+1. Make roux: melt butter, whisk in flour, cook 2 min. Add milk gradually, whisking to smooth béchamel.
 2. Add most of the cheese (reserve 100 g cheddar for topping); stir until melted. Season.
 3. Off heat, add eggs, whisking quickly. Add cooked macaroni.
 4. Pour into buttered baking dish. Top with reserved cheese.
-5. Bake 180Â°C for 30 min until bubbling and top is golden.
+5. Bake 180°C for 30 min until bubbling and top is golden.
 
-*Historical note: The classic Southern mac and cheese is a baked custard dish, quite different from the stovetop version â the egg sets a firm, sliceable casserole.*
+*Historical note: The classic Southern mac and cheese is a baked custard dish, quite different from the stovetop version — the egg sets a firm, sliceable casserole.*
 
 ---
 
@@ -779,14 +779,14 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 - 240 ml milk
 - 1 tsp baking powder
 - Pinch of salt
-- Â½ tsp cinnamon
+- ½ tsp cinnamon
 
 **Method:**
 1. Toss peaches with 150 g sugar; let macerate 30 min.
-2. Melt butter in 23Ã33 cm baking dish in oven.
-3. Mix flour, 150 g sugar, milk, baking powder, and salt into thin batter. Pour over melted butter â do not stir.
-4. Spoon peaches and their juices over batter â do not stir.
-5. Bake at 180Â°C for 40â45 min until golden and batter has risen around peaches.
+2. Melt butter in 23×33 cm baking dish in oven.
+3. Mix flour, 150 g sugar, milk, baking powder, and salt into thin batter. Pour over melted butter — do not stir.
+4. Spoon peaches and their juices over batter — do not stir.
+5. Bake at 180°C for 40–45 min until golden and batter has risen around peaches.
 
 *Historical note: Cobbler evolved from British pudding traditions; when colonists lacked proper ovens, they adapted stovetop techniques using cast iron.*
 
@@ -796,7 +796,7 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 ### Three Sisters Stew
 
-**Region:** Haudenosaunee / Iroquois (Northeast Woodlands) | **Lineage:** [Indigenous â Pre-Columbian]
+**Region:** Haudenosaunee / Iroquois (Northeast Woodlands) | **Lineage:** [Indigenous → Pre-Columbian]
 
 **Ingredients:**
 - 2 tbsp sunflower oil or bear fat
@@ -810,13 +810,13 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 - Fresh sunflower seeds for garnish
 
 **Method:**
-1. Heat oil; sautÃ© onion and garlic until soft.
+1. Heat oil; sauté onion and garlic until soft.
 2. Add squash; cook 5 min.
 3. Add hominy, beans, and stock. Season with sage, salt, and pepper.
-4. Simmer covered 30â40 min until squash is tender.
+4. Simmer covered 30–40 min until squash is tender.
 5. Garnish with sunflower seeds.
 
-*Historical note: The Three Sisters (corn, beans, squash) were grown together as companion plants â corn provides stalk support, beans fix nitrogen, squash shades ground to retain moisture.*
+*Historical note: The Three Sisters (corn, beans, squash) were grown together as companion plants — corn provides stalk support, beans fix nitrogen, squash shades ground to retain moisture.*
 
 ---
 
@@ -831,33 +831,33 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 - Pinch of salt
 
 **Method:**
-1. Dry meat in sun or low oven (70Â°C/160Â°F) 6â8 hours until completely desiccated and brittle.
+1. Dry meat in sun or low oven (70°C/160°F) 6–8 hours until completely desiccated and brittle.
 2. Pound dried meat to fine powder using flat stones or blender.
 3. Melt tallow. Mix meat powder and dried berries in bowl.
-4. Pour warm (not hot) tallow over mixture; mix thoroughly â ratio roughly 50% meat, 50% fat by weight.
+4. Pour warm (not hot) tallow over mixture; mix thoroughly — ratio roughly 50% meat, 50% fat by weight.
 5. Press into molds or wrap in rawhide. Solidifies at room temperature.
 6. Keeps months to years without refrigeration.
 
-*Historical note: Pemmican is the world's first energy bar â 100 g provides approximately 450 calories in a completely shelf-stable package. Hudson's Bay Company traded it as provisions for Arctic expeditions.*
+*Historical note: Pemmican is the world's first energy bar — 100 g provides approximately 450 calories in a completely shelf-stable package. Hudson's Bay Company traded it as provisions for Arctic expeditions.*
 
 ---
 
 ### Fry Bread
 
-**Region:** Navajo Nation, Southwest USA | **Lineage:** [Indigenous â Colonial-Fusion]
+**Region:** Navajo Nation, Southwest USA | **Lineage:** [Indigenous → Colonial-Fusion]
 
 **Ingredients (makes 8):**
 - 300 g all-purpose flour
 - 1 tbsp baking powder
-- Â½ tsp salt
+- ½ tsp salt
 - 240 ml warm water (approximately)
 - Oil for frying
 
 **Method:**
 1. Mix flour, baking powder, and salt. Add warm water gradually; mix to soft dough. Do not overwork.
 2. Rest covered 30 min.
-3. Pull off pieces, stretch into thin rounds (20 cm diameter) â do not use rolling pin; hand-stretching preserves air.
-4. Deep fry in oil (180Â°C) until golden and puffed, 2 min per side.
+3. Pull off pieces, stretch into thin rounds (20 cm diameter) — do not use rolling pin; hand-stretching preserves air.
+4. Deep fry in oil (180°C) until golden and puffed, 2 min per side.
 5. Serve as taco base (Navajo taco) or with honey and powdered sugar.
 
 *Historical note: Fry bread was invented by necessity during the 1864 Long Walk, when Navajo people were forced onto reservations with only government rations of white flour, lard, and salt. It remains a complex cultural symbol.*
@@ -882,19 +882,19 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 **Method:**
 1. Brown venison in 2 tbsp oil; remove.
-2. SautÃ© onion, celery, carrot in same pot until soft.
+2. Sauté onion, celery, carrot in same pot until soft.
 3. Add garlic, juniper, sage, thyme.
 4. Return venison. Add broth and wild rice.
-5. Simmer 45â60 min until rice is open and tender, venison cooked through.
+5. Simmer 45–60 min until rice is open and tender, venison cooked through.
 6. Season with salt. Serve with fry bread or cornbread.
 
-*Historical note: Wild rice (manoomin) is sacred to the Anishinaabe people â its harvest is a major ceremonial and subsistence event marking the year.*
+*Historical note: Wild rice (manoomin) is sacred to the Anishinaabe people — its harvest is a major ceremonial and subsistence event marking the year.*
 
 ---
 
 ### Succotash (Traditional)
 
-**Region:** Wampanoag / Narragansett (Northeast) | **Lineage:** [Indigenous â Pre-Columbian]
+**Region:** Wampanoag / Narragansett (Northeast) | **Lineage:** [Indigenous → Pre-Columbian]
 
 **Ingredients:**
 - 400 g fresh or frozen corn kernels
@@ -907,35 +907,35 @@ Lineage tags: [Pre-Columbian] [Mesoamerican] [Andean] [African-Diaspora] [Coloni
 
 **Method:**
 1. Cook lima beans in salted water until just tender; drain.
-2. Melt butter; sautÃ© onion and garlic until soft.
+2. Melt butter; sauté onion and garlic until soft.
 3. Add corn; cook 3 min. Add beans.
 4. Add cream; simmer until slightly reduced.
 5. Season with salt, pepper, and paprika. Serve as side or main.
 
-*Historical note: "Msickquatash" (succotash) is a Narragansett word â this stew of corn and beans saved Pilgrims from starvation in their first winters.*
+*Historical note: "Msickquatash" (succotash) is a Narragansett word — this stew of corn and beans saved Pilgrims from starvation in their first winters.*
 
 ---
 
 ### Bannock
 
-**Region:** First Nations (Canada and Northern US) | **Lineage:** [Indigenous â Colonial-Fusion]
+**Region:** First Nations (Canada and Northern US) | **Lineage:** [Indigenous → Colonial-Fusion]
 
 **Ingredients (makes 1 round):**
 - 300 g all-purpose flour
 - 2 tsp baking powder
-- Â½ tsp salt
+- ½ tsp salt
 - 2 tbsp fat (lard, butter, or vegetable oil)
 - 180 ml water
 
 **Method:**
 1. Mix flour, baking powder, and salt. Rub in fat.
-2. Add water; mix to rough dough â do not overwork.
-3. **Pan method:** Press 2 cm thick into greased cast iron skillet. Cook covered over fire 15â20 min per side.
-4. **Bake method:** Shape round, bake 200Â°C 25â30 min until hollow when tapped.
+2. Add water; mix to rough dough — do not overwork.
+3. **Pan method:** Press 2 cm thick into greased cast iron skillet. Cook covered over fire 15–20 min per side.
+4. **Bake method:** Shape round, bake 200°C 25–30 min until hollow when tapped.
 5. **Stick method (campfire):** Wrap rope of dough around stick, hold over embers 10 min.
 
 *Historical note: Indigenous bannock predates European contact; Scottish traders contributed their own flour-based version, which merged with existing traditions.*
 
 ---
 
-*End of Americas Recipes â 35+ complete recipes covering Mexico, Peru, Brazil, Cajun/Creole, Southern US, and Native American traditions.*
+*End of Americas Recipes — 35+ complete recipes covering Mexico, Peru, Brazil, Cajun/Creole, Southern US, and Native American traditions.*

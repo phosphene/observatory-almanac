@@ -1,6 +1,6 @@
 # Legal Form Guides
 
-*The Observatory Almanac â Section 18*
+*The Observatory Almanac — Section 18*
 
 Plain-language guides to essential legal documents. This section helps you understand what these documents are, when you need them, and what to watch out for.
 
@@ -16,7 +16,7 @@ A legally binding document that specifies how you want your assets distributed a
 
 ### Why You Need It
 
-Without a will, your state's "intestacy" laws determine who gets what â and the result may not match your wishes. Courts will decide who raises your children. The process becomes slower and more expensive for your loved ones.
+Without a will, your state's "intestacy" laws determine who gets what — and the result may not match your wishes. Courts will decide who raises your children. The process becomes slower and more expensive for your loved ones.
 
 **You especially need a will if:**
 - You have children (especially minor ones)
@@ -28,7 +28,7 @@ Without a will, your state's "intestacy" laws determine who gets what â and
 ### What a Basic Will Covers
 
 **1. Executor (Personal Representative)**
-The person who manages your estate â files the will with probate court, pays debts, and distributes assets. Choose someone organized, trustworthy, and willing to do administrative work. Name an alternate.
+The person who manages your estate — files the will with probate court, pays debts, and distributes assets. Choose someone organized, trustworthy, and willing to do administrative work. Name an alternate.
 
 **2. Beneficiaries**
 Who gets what. Be specific: "My daughter [name] receives my 1987 Martin guitar" beats "my daughter gets some of my stuff." You can divide percentages, list specific items, or create residual clauses ("all remaining assets to...").
@@ -51,7 +51,7 @@ Increasingly important. Specify access to email accounts, social media (memorial
 ### Key Clauses to Include
 
 * **No Contest Clause:** Discourages heirs from challenging the will by threatening to disinherit anyone who contests it
-* **Survivorship Clause:** "A beneficiary must survive me by 30 days to receive their inheritance" â prevents assets from passing through two estates in quick succession
+* **Survivorship Clause:** "A beneficiary must survive me by 30 days to receive their inheritance" — prevents assets from passing through two estates in quick succession
 * **Per stirpes vs. per capita:** Determines what happens if a beneficiary dies before you
 
 ### Execution Requirements
@@ -81,9 +81,9 @@ A **self-proving will** includes a notarized affidavit from witnesses, which sim
 ### Common Mistakes
 
 1. **Not updating after major life events** (marriage, divorce, new children, death of beneficiary)
-2. **Forgetting beneficiary designations on accounts** â life insurance, 401(k), IRAs pass outside the will. Update these separately.
-3. **Storing the will where no one can find it** â tell your executor where it is
-4. **Using vague language** â "my jewelry" to "my daughters" creates fights
+2. **Forgetting beneficiary designations on accounts** — life insurance, 401(k), IRAs pass outside the will. Update these separately.
+3. **Storing the will where no one can find it** — tell your executor where it is
+4. **Using vague language** — "my jewelry" to "my daughters" creates fights
 5. **Not naming alternates** for executor and beneficiaries
 
 ---
@@ -92,7 +92,7 @@ A **self-proving will** includes a notarized affidavit from witnesses, which sim
 
 ### What It Is
 
-A legal document that gives someone else (your "agent" or "attorney-in-fact") the authority to act on your behalf â signing documents, managing bank accounts, filing taxes, making financial decisions â if you are unable to do so.
+A legal document that gives someone else (your "agent" or "attorney-in-fact") the authority to act on your behalf — signing documents, managing bank accounts, filing taxes, making financial decisions — if you are unable to do so.
 
 ### Two Main Types
 
@@ -100,38 +100,38 @@ A legal document that gives someone else (your "agent" or "attorney-in-fact") th
 Covers: banking, bill payment, real estate transactions, tax filing, investment management, business operations, contract signing.
 
 **Healthcare Power of Attorney (Healthcare Proxy / Medical POA)**
-Covers: medical decisions when you are incapacitated â choosing treatments, consenting to surgery, deciding on life support, selecting care facilities.
+Covers: medical decisions when you are incapacitated — choosing treatments, consenting to surgery, deciding on life support, selecting care facilities.
 
 These are separate documents covering separate domains.
 
 ### Durable vs. Springing
 
-**Durable POA:** Takes effect immediately upon signing and remains effective if you become incapacitated. Most common and generally recommended â "springs" might not work when you need it most.
+**Durable POA:** Takes effect immediately upon signing and remains effective if you become incapacitated. Most common and generally recommended — "springs" might not work when you need it most.
 
 **Springing POA:** Only "springs" into effect when a triggering condition is met (typically a physician's certification that you are incapacitated). Sounds appealing but creates delays and friction when someone urgently needs to act.
 
 ### Key Clauses
 
 * **Broad vs. Limited Authority:** A broad POA gives your agent sweeping powers. A limited POA restricts them to specific transactions (e.g., "sell my car while I'm abroad")
-* **Gifting Authority:** Whether your agent can make gifts to themselves or others â this is a major abuse vector, so be careful
+* **Gifting Authority:** Whether your agent can make gifts to themselves or others — this is a major abuse vector, so be careful
 * **Self-Dealing Protections:** Restrictions on the agent enriching themselves
 * **Successor Agent:** If your first choice is unavailable
-* **Co-Agents:** Two people must act together â adds protection but reduces convenience
+* **Co-Agents:** Two people must act together — adds protection but reduces convenience
 * **Compensation:** Whether the agent gets paid
 
 ### When You Need a Lawyer vs. Can DIY
 
-**DIY is reasonable for:** A straightforward durable financial POA or healthcare POA using your state's statutory form (most states publish one â search "[Your State] statutory power of attorney form").
+**DIY is reasonable for:** A straightforward durable financial POA or healthcare POA using your state's statutory form (most states publish one — search "[Your State] statutory power of attorney form").
 
 **Hire a lawyer if:** You want complex restrictions, you have a large or complicated estate, you have family conflict risks, or you're creating trusts.
 
 ### Common Mistakes
 
-1. **Waiting until it's too late** â you must have mental capacity to sign. Dementia or sudden incapacitation can make signing impossible.
-2. **Not reviewing the agent's authority** â too broad enables abuse; too narrow creates problems when you need help
-3. **Choosing a convenient rather than trustworthy agent** â this person has enormous power. Choose wisely.
-4. **Not notifying banks or institutions** â some institutions have their own forms they prefer alongside a POA
-5. **Confusing POA with a will** â POA ends at death; your executor takes over from there
+1. **Waiting until it's too late** — you must have mental capacity to sign. Dementia or sudden incapacitation can make signing impossible.
+2. **Not reviewing the agent's authority** — too broad enables abuse; too narrow creates problems when you need help
+3. **Choosing a convenient rather than trustworthy agent** — this person has enormous power. Choose wisely.
+4. **Not notifying banks or institutions** — some institutions have their own forms they prefer alongside a POA
+5. **Confusing POA with a will** — POA ends at death; your executor takes over from there
 
 ---
 
@@ -141,7 +141,7 @@ These are separate documents covering separate domains.
 
 A document stating your wishes for medical treatment if you are terminally ill, in a permanent vegetative state, or otherwise unable to communicate your preferences. Sometimes called an Advance Healthcare Directive.
 
-Different from a Healthcare POA (which appoints a person to decide) â a living will expresses your preferences directly, without needing someone to interpret them.
+Different from a Healthcare POA (which appoints a person to decide) — a living will expresses your preferences directly, without needing someone to interpret them.
 
 ### What It Covers
 
@@ -152,7 +152,7 @@ Different from a Healthcare POA (which appoints a person to decide) â a liv
 * **Antibiotics for terminal illness:** Treatment to extend life?
 * **Comfort Care / Palliative Care Only:** Pain management focus when recovery is unlikely?
 * **Organ Donation:** Yes/no, specific organs, research donation?
-* **DNR / POLST Orders:** A Do Not Resuscitate order is different from a living will â it's a medical order signed by a physician, not just an expression of wishes.
+* **DNR / POLST Orders:** A Do Not Resuscitate order is different from a living will — it's a medical order signed by a physician, not just an expression of wishes.
 
 ### Why It Matters
 
@@ -176,7 +176,7 @@ Most states have a statutory form that's legally valid. Many are available free 
 
 ### What It Is
 
-The Health Insurance Portability and Accountability Act (HIPAA) restricts who can access your medical information. A HIPAA Authorization gives specific people â your spouse, parents, adult children, close friends â permission to receive your health information from doctors, hospitals, and insurers.
+The Health Insurance Portability and Accountability Act (HIPAA) restricts who can access your medical information. A HIPAA Authorization gives specific people — your spouse, parents, adult children, close friends — permission to receive your health information from doctors, hospitals, and insurers.
 
 ### Why It Matters
 
@@ -192,7 +192,7 @@ Without a HIPAA authorization, even your spouse may be unable to get information
 
 ### DIY vs. Lawyer
 
-You can absolutely do this yourself. Most hospitals and healthcare systems have their own HIPAA release forms â often the simplest approach. You can also use a general form.
+You can absolutely do this yourself. Most hospitals and healthcare systems have their own HIPAA release forms — often the simplest approach. You can also use a general form.
 
 ---
 
@@ -202,7 +202,7 @@ You can absolutely do this yourself. Most hospitals and healthcare systems have 
 
 The founding document of a Limited Liability Company (LLC) that establishes the rules of the company: ownership, management, profit distribution, voting, what happens if a member leaves or dies.
 
-Even single-member LLCs benefit from an operating agreement â it documents the separation between you and your business, which protects personal liability.
+Even single-member LLCs benefit from an operating agreement — it documents the separation between you and your business, which protects personal liability.
 
 ### Key Sections
 
@@ -239,9 +239,9 @@ How the LLC is taxed (default: pass-through; can elect to be taxed as S-corp or 
 
 ### Common Mistakes
 
-1. **Using a template from the wrong state** â operating agreements are state-specific
-2. **Mixing personal and business finances** â defeats the liability protection
-3. **Not addressing what happens when a member dies** â this becomes urgent later
+1. **Using a template from the wrong state** — operating agreements are state-specific
+2. **Mixing personal and business finances** — defeats the liability protection
+3. **Not addressing what happens when a member dies** — this becomes urgent later
 4. **Forgetting to update it** when ownership changes
 
 ---
@@ -270,7 +270,7 @@ Standard exclusions (and reasonable ones):
 - Information required to be disclosed by law
 
 **3. Term/Duration**
-How long does the obligation last? Indefinite NDAs are hard to enforce; 2â5 years is common. Trade secrets should be protected indefinitely.
+How long does the obligation last? Indefinite NDAs are hard to enforce; 2–5 years is common. Trade secrets should be protected indefinitely.
 
 **4. Permitted Disclosures**
 Can the recipient share with employees, lawyers, investors? Under what conditions?
@@ -290,7 +290,7 @@ Must confidential materials be returned or destroyed if the relationship ends?
 
 ### When You Need a Lawyer
 
-For employee NDAs, competitive markets, or anything involving significant trade secrets â yes, get a lawyer. For basic consulting NDAs, a standard template is often fine.
+For employee NDAs, competitive markets, or anything involving significant trade secrets — yes, get a lawyer. For basic consulting NDAs, a standard template is often fine.
 
 ---
 
@@ -300,7 +300,7 @@ For employee NDAs, competitive markets, or anything involving significant trade 
 
 A contract between a hiring party ("client") and a self-employed worker ("contractor") that defines the work to be done, payment terms, and the nature of the relationship.
 
-This document is also critical evidence that the worker is truly an independent contractor, not an employee â which has major tax and legal implications.
+This document is also critical evidence that the worker is truly an independent contractor, not an employee — which has major tax and legal implications.
 
 ### Key Sections
 
@@ -342,11 +342,11 @@ Arbitration vs. litigation? Which state's law governs?
 
 ### Common Mistakes
 
-1. **No written contract at all** â verbal agreements are nearly unenforceable
-2. **Misclassifying an employee as a contractor** â the IRS and state agencies care deeply about this
-3. **Vague scope of work** â leads to scope creep, disputes, and non-payment
-4. **No IP assignment clause** â the client may not own what they paid for
-5. **No termination clause** â parties are stuck or in breach
+1. **No written contract at all** — verbal agreements are nearly unenforceable
+2. **Misclassifying an employee as a contractor** — the IRS and state agencies care deeply about this
+3. **Vague scope of work** — leads to scope creep, disputes, and non-payment
+4. **No IP assignment clause** — the client may not own what they paid for
+5. **No termination clause** — parties are stuck or in breach
 
 ---
 

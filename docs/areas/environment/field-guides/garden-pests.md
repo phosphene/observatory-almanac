@@ -1,6 +1,6 @@
 # Garden Pests Field Guide
 
-*Identify, understand, and control common garden pests using organic methods. Know your enemies â and your allies.*
+*Identify, understand, and control common garden pests using organic methods. Know your enemies — and your allies.*
 
 ---
 
@@ -10,7 +10,7 @@
 
 ### 1. Aphids
 
-**ID:** Tiny (1â3mm), soft-bodied, pear-shaped insects in green, black, white, yellow, or woolly white. Found clustered on new growth, undersides of leaves, and stems. Often attended by ants.
+**ID:** Tiny (1–3mm), soft-bodied, pear-shaped insects in green, black, white, yellow, or woolly white. Found clustered on new growth, undersides of leaves, and stems. Often attended by ants.
 
 **Damage:** Suck plant sap; cause curled, distorted, or yellowing leaves. Secrete honeydew that promotes black sooty mold. Transmit plant viruses.
 
@@ -25,16 +25,16 @@
 
 ### 2. Slugs & Snails
 
-**ID:** Slugs: gray-brown legless mollusks, 1â4 inches. Snails: same but with coiled shell. Both leave a shiny slime trail.
+**ID:** Slugs: gray-brown legless mollusks, 1–4 inches. Snails: same but with coiled shell. Both leave a shiny slime trail.
 
 **Damage:** Ragged holes in leaves, especially tender seedlings. Feed at night and on cloudy days. Most damaging in damp conditions.
 
 **Organic controls:**
-- Diatomaceous earth (DE) ring around plants â refresh after rain
+- Diatomaceous earth (DE) ring around plants — refresh after rain
 - Copper tape barriers around raised beds
-- Beer traps: shallow dish buried to rim, filled with beer â attracts and drowns them
+- Beer traps: shallow dish buried to rim, filled with beer — attracts and drowns them
 - Hand-pick at night with a flashlight
-- Iron phosphate baits (Sluggo) â safe for pets and wildlife
+- Iron phosphate baits (Sluggo) — safe for pets and wildlife
 - Remove mulch and debris where they hide during the day
 
 ---
@@ -47,10 +47,10 @@
 
 **Organic controls:**
 - Hand-pick adults into soapy water (best done in cool morning when they're sluggish)
-- Milky spore disease (Bacillus popilliae) applied to lawn to kill grubs â long-term effect
+- Milky spore disease (Bacillus popilliae) applied to lawn to kill grubs — long-term effect
 - Beneficial nematodes (Steinernema or Heterorhabditis) for grub control
-- Row covers to protect plants during peak emergence (JuneâAugust)
-- Avoid Japanese beetle traps â they attract more beetles than they catch
+- Row covers to protect plants during peak emergence (June–August)
+- Avoid Japanese beetle traps — they attract more beetles than they catch
 
 ---
 
@@ -61,9 +61,9 @@
 **Damage:** Devours tomato, pepper, eggplant, and potato leaves; may eat fruit. Defoliation can be rapid.
 
 **Organic controls:**
-- Hand-pick â check undersides of leaves; drop in soapy water
-- If you see white cocoons on the caterpillar's back, leave it â braconid wasp larvae are parasitizing it
-- Bacillus thuringiensis (Bt) spray â kills caterpillars that eat treated leaves
+- Hand-pick — check undersides of leaves; drop in soapy water
+- If you see white cocoons on the caterpillar's back, leave it — braconid wasp larvae are parasitizing it
+- Bacillus thuringiensis (Bt) spray — kills caterpillars that eat treated leaves
 - Rotate crops to reduce soil-based egg overwintering
 - Till soil in fall to expose pupae to birds
 
@@ -77,7 +77,7 @@
 
 **Organic controls:**
 - Yellow sticky traps to monitor and reduce adults
-- Insecticidal soap or neem oil â must contact insects directly
+- Insecticidal soap or neem oil — must contact insects directly
 - Strong water spray to dislodge nymphs
 - Reflective mulch confuses and repels adults
 - Encourage natural predators: parasitic wasps (Encarsia formosa), ladybugs
@@ -93,7 +93,7 @@
 **Organic controls:**
 - Increase humidity; spider mites hate moisture
 - Strong water spray daily for one week
-- Insecticidal soap or neem oil (multiple applications, 5â7 days apart)
+- Insecticidal soap or neem oil (multiple applications, 5–7 days apart)
 - Predatory mites (Phytoseiulus persimilis) for greenhouse use
 - Avoid broad-spectrum pesticides that kill their natural predators
 
@@ -107,7 +107,7 @@
 
 **Organic controls:**
 - Row covers until blossoms open (must remove for pollination)
-- Wrap stem base in aluminum foil â deters egg laying
+- Wrap stem base in aluminum foil — deters egg laying
 - Inject Bt into stems at first wilt sign using syringe
 - Slit stem, remove larvae, bury stem to promote rooting above wound
 - Plant resistant varieties (butternut squash less preferred than zucchini)
@@ -116,7 +116,7 @@
 
 ### 8. Cabbage Looper (Trichoplusia ni)
 
-**ID:** Pale green caterpillar (1â1.5 inches) that loops its body as it crawls. Eggs: tiny, round, white domes on leaves.
+**ID:** Pale green caterpillar (1–1.5 inches) that loops its body as it crawls. Eggs: tiny, round, white domes on leaves.
 
 **Damage:** Ragged holes in cabbage, broccoli, kale, Brussels sprouts leaves. Frass on leaves.
 
@@ -130,9 +130,9 @@
 
 ### 9. Cutworms
 
-**ID:** Fat, gray or brown caterpillars, 1â2 inches. Curl into a C-shape when disturbed. Live in soil; feed at night.
+**ID:** Fat, gray or brown caterpillars, 1–2 inches. Curl into a C-shape when disturbed. Live in soil; feed at night.
 
-**Damage:** Cut seedlings off at soil level overnight â classic sign is healthy seedlings toppled by morning.
+**Damage:** Cut seedlings off at soil level overnight — classic sign is healthy seedlings toppled by morning.
 
 **Organic controls:**
 - Cutworm collars: 3-inch sections of cardboard toilet paper rolls or plastic cups (bottom cut off) placed around stems at transplant time, pushed 1 inch into soil
@@ -152,13 +152,13 @@
 - Rolled newspaper or cardboard tube traps: leave out overnight, collect in morning and shake into soapy water
 - Eliminate moisture and debris where they hide
 - Diatomaceous earth around seedlings
-- Low populations can be tolerated â they also eat other pests
+- Low populations can be tolerated — they also eat other pests
 
 ---
 
 ### 11. Flea Beetles
 
-**ID:** Tiny (1â2mm), shiny black or bronzish beetles that jump like fleas when disturbed.
+**ID:** Tiny (1–2mm), shiny black or bronzish beetles that jump like fleas when disturbed.
 
 **Damage:** Tiny, shothole-pattern holes in leaves of eggplant, tomato, brassicas. Seedlings most vulnerable.
 
@@ -167,7 +167,7 @@
 - Sticky yellow traps
 - Diatomaceous earth around plants
 - Neem oil spray
-- Interplant with catnip or basil â repellent
+- Interplant with catnip or basil — repellent
 
 ---
 
@@ -187,7 +187,7 @@
 
 ### 13. Thrips
 
-**ID:** Slender, yellowish-brown, 1mm. Leave silvery streaks or stippling on leaves. Shake a leaf over white paper â tiny insects fall off.
+**ID:** Slender, yellowish-brown, 1mm. Leave silvery streaks or stippling on leaves. Shake a leaf over white paper — tiny insects fall off.
 
 **Damage:** Feed on flowers and leaves; distort growth; transmit viruses; scar fruit.
 
@@ -196,7 +196,7 @@
 - Insecticidal soap or neem oil
 - Predatory mites (Amblyseius cucumeris)
 - Remove and destroy severely infested plant material
-- Keep weeds down â thrips overwinter in them
+- Keep weeds down — thrips overwinter in them
 
 ---
 
@@ -210,7 +210,7 @@
 - Remove and destroy affected leaves
 - Neem oil prevents adults from laying eggs
 - Beneficial parasitic wasps (Diglyphus isaea) attack larvae in leaves
-- Avoid excessive nitrogen fertilization â lush growth attracts them
+- Avoid excessive nitrogen fertilization — lush growth attracts them
 
 ---
 
@@ -222,7 +222,7 @@
 
 **Organic controls:**
 - Dab with isopropyl alcohol on cotton swab
-- Spray with insecticidal soap or neem oil â multiple applications needed
+- Spray with insecticidal soap or neem oil — multiple applications needed
 - Rinse plant thoroughly under water
 - Introduce mealybug destroyers (Cryptolaemus montrouzieri ladybug)
 
@@ -230,14 +230,14 @@
 
 ### 16. Wireworms
 
-**ID:** Slender, shiny, yellow-brown larvae (0.5â1.5 inches) of click beetles. Found in soil.
+**ID:** Slender, shiny, yellow-brown larvae (0.5–1.5 inches) of click beetles. Found in soil.
 
 **Damage:** Bore into roots, tubers, and seeds. Most damaging in recently broken sod.
 
 **Organic controls:**
-- Trap with buried potato or carrot chunks â check every few days and destroy
+- Trap with buried potato or carrot chunks — check every few days and destroy
 - Beneficial nematodes applied to moist soil
-- Allow soil to dry between watering â wireworms prefer moisture
+- Allow soil to dry between watering — wireworms prefer moisture
 - Rotation away from grass roots (their preferred host)
 
 ---
@@ -257,7 +257,7 @@
 
 ### 18. Asparagus Beetle (Crioceris asparagi)
 
-**ID:** Metallic blue-black with cream spots (spotted) or red with black stripe (common). Small, 6â9mm.
+**ID:** Metallic blue-black with cream spots (spotted) or red with black stripe (common). Small, 6–9mm.
 
 **Damage:** Defoliate asparagus fronds; scar emerging spears reducing marketability.
 
@@ -269,14 +269,14 @@
 
 ---
 
-### 19. Stink Bugs (Halyomorpha halys â Brown Marmorated)
+### 19. Stink Bugs (Halyomorpha halys — Brown Marmorated)
 
 **ID:** Shield-shaped, mottled brown-gray, 5/8 inch. Distinctive odor when disturbed.
 
 **Damage:** Puncture fruit, vegetables, and ornamentals; cause corky, scarred patches in fruit. Increasing invasive pest.
 
 **Organic controls:**
-- Hand-pick into soapy water (don't crush â releases odor)
+- Hand-pick into soapy water (don't crush — releases odor)
 - Kaolin clay applied to fruit and leaves as repellent coating
 - Row covers on fruiting crops
 - Trap crops: mustard, sunflower placed at garden perimeter
@@ -293,13 +293,13 @@
 - Drench roots with neem oil or insecticidal soap solution
 - Beneficial nematodes
 - Remove severely affected plants to prevent spread
-- Avoid overwatering â stresses plants and attracts root aphids
+- Avoid overwatering — stresses plants and attracts root aphids
 
 ---
 
 ### 21. Leafhoppers
 
-**ID:** Wedge-shaped, 3â4mm, green or brown; hop sideways when disturbed.
+**ID:** Wedge-shaped, 3–4mm, green or brown; hop sideways when disturbed.
 
 **Damage:** Stippled leaves with white or yellow flecking; transmit viruses.
 
@@ -339,9 +339,9 @@
 
 ---
 
-### 24. Caterpillars (Various â Imported Cabbageworm, etc.)
+### 24. Caterpillars (Various — Imported Cabbageworm, etc.)
 
-**ID:** Pale green, 1â2 inches. White butterfly adults. Eggs: yellow cones on leaf undersides.
+**ID:** Pale green, 1–2 inches. White butterfly adults. Eggs: yellow cones on leaf undersides.
 
 **Damage:** Skeletonize brassica leaves.
 
@@ -360,7 +360,7 @@
 **Damage:** Chew large portions of leaves; can devastate crops in outbreak years.
 
 **Organic controls:**
-- Nosema locustae (biological control â protozoan) applied to borders
+- Nosema locustae (biological control — protozoan) applied to borders
 - Attract birds (guinea fowl, chickens near garden)
 - Row covers for valuable crops
 - Kaolin clay makes leaves unappealing
@@ -371,7 +371,7 @@
 
 **ID:** Yellow-green with black spots (spotted) or three black stripes (striped). 1/4 inch.
 
-**Damage:** Feed on cucurbit flowers and foliage; transmit bacterial wilt and cucumber mosaic virus â the disease transmission is often more damaging than the feeding.
+**Damage:** Feed on cucurbit flowers and foliage; transmit bacterial wilt and cucumber mosaic virus — the disease transmission is often more damaging than the feeding.
 
 **Organic controls:**
 - Row covers until blossoms open
@@ -390,7 +390,7 @@
 **Organic controls:**
 - Row covers from seeding through harvest
 - Delay planting until late spring (after first egg-laying peak)
-- Harvest promptly â do not leave roots in ground too long
+- Harvest promptly — do not leave roots in ground too long
 - Rotate carrots annually
 
 ---
@@ -410,14 +410,14 @@
 
 ### 29. Fungus Gnats
 
-**ID:** Tiny black gnats hovering around soil. Larvae: white, transparent, in top 2â3 inches of soil.
+**ID:** Tiny black gnats hovering around soil. Larvae: white, transparent, in top 2–3 inches of soil.
 
 **Damage:** Larvae damage fine roots of seedlings and houseplants; adults are mainly annoying.
 
 **Organic controls:**
-- Let soil dry thoroughly between waterings â larvae need moisture
+- Let soil dry thoroughly between waterings — larvae need moisture
 - Yellow sticky traps for adults
-- Top-dress with sand â larvae avoid laying eggs in dry sand
+- Top-dress with sand — larvae avoid laying eggs in dry sand
 - Beneficial nematodes (Steinernema feltiae) drenched into soil
 - Bt israelensis (Gnatrol) soil drench
 
@@ -443,35 +443,35 @@
 
 ### Predators
 
-1. **Ladybug (Ladybird Beetle)** â Adults and larvae eat aphids, scale, whitefly, mites. Attract with dill, fennel, yarrow, and marigolds.
-2. **Lacewing** â Larvae are fierce predators called "aphid lions." Eat aphids, thrips, mites, whitefly eggs. Attract with carrot family flowers (dill, fennel, cilantro).
-3. **Ground Beetle** â Nocturnal hunters that eat slugs, soil-dwelling pests, caterpillar eggs. Provide mulch, stones, and logs for daytime shelter.
-4. **Soldier Beetle** â Eat aphids and other soft insects while also pollinating flowers. Attracted to goldenrod, marigolds, catnip.
-5. **Spiders** â All species. Consume enormous quantities of garden pests. Encourage by leaving some leaf litter and avoiding pesticides.
-6. **Predatory Mites** â Phytoseiulus persimilis hunts spider mites specifically. Thrive in humid conditions.
-7. **Minute Pirate Bug** â Tiny but aggressive predator of thrips, spider mites, aphids, and whitefly nymphs. Attracted to dill, fennel, goldenrod.
-8. **Assassin Bug** â Stabs and liquefies many garden pests. Encourage with diverse plantings.
-9. **Damsel Bug** â Eats aphids, small caterpillars, and leafhoppers. Attracted to carrot family plants.
-10. **Robber Fly** â Large, aggressive flies that catch other insects mid-flight. Leave some bare patches of sandy soil for nesting.
+1. **Ladybug (Ladybird Beetle)** — Adults and larvae eat aphids, scale, whitefly, mites. Attract with dill, fennel, yarrow, and marigolds.
+2. **Lacewing** — Larvae are fierce predators called "aphid lions." Eat aphids, thrips, mites, whitefly eggs. Attract with carrot family flowers (dill, fennel, cilantro).
+3. **Ground Beetle** — Nocturnal hunters that eat slugs, soil-dwelling pests, caterpillar eggs. Provide mulch, stones, and logs for daytime shelter.
+4. **Soldier Beetle** — Eat aphids and other soft insects while also pollinating flowers. Attracted to goldenrod, marigolds, catnip.
+5. **Spiders** — All species. Consume enormous quantities of garden pests. Encourage by leaving some leaf litter and avoiding pesticides.
+6. **Predatory Mites** — Phytoseiulus persimilis hunts spider mites specifically. Thrive in humid conditions.
+7. **Minute Pirate Bug** — Tiny but aggressive predator of thrips, spider mites, aphids, and whitefly nymphs. Attracted to dill, fennel, goldenrod.
+8. **Assassin Bug** — Stabs and liquefies many garden pests. Encourage with diverse plantings.
+9. **Damsel Bug** — Eats aphids, small caterpillars, and leafhoppers. Attracted to carrot family plants.
+10. **Robber Fly** — Large, aggressive flies that catch other insects mid-flight. Leave some bare patches of sandy soil for nesting.
 
 ### Parasitoids
 
-1. **Braconid Wasps** â Tiny wasps that lay eggs inside caterpillars and aphids. White rice-grain cocoons on hornworms are their larvae. Attract with small-flowered plants like alyssum, dill, and fennel.
-2. **Ichneumon Wasps** â Parasitize a wide range of caterpillars and beetles. Long ovipositor (egg-laying tube) visible in larger species.
-3. **Trichogramma Wasps** â Microscopic wasps that parasitize moth and butterfly eggs before they hatch. Commercially available; attract with small flowers.
-4. **Chalcid Wasps** â Parasitize whitefly, scale, and other pests. Tiny; attracted to carrot family blooms.
-5. **Tachinid Flies** â Look like houseflies but parasitize caterpillars, beetles, and stink bugs. Attracted to carrot family and composites.
+1. **Braconid Wasps** — Tiny wasps that lay eggs inside caterpillars and aphids. White rice-grain cocoons on hornworms are their larvae. Attract with small-flowered plants like alyssum, dill, and fennel.
+2. **Ichneumon Wasps** — Parasitize a wide range of caterpillars and beetles. Long ovipositor (egg-laying tube) visible in larger species.
+3. **Trichogramma Wasps** — Microscopic wasps that parasitize moth and butterfly eggs before they hatch. Commercially available; attract with small flowers.
+4. **Chalcid Wasps** — Parasitize whitefly, scale, and other pests. Tiny; attracted to carrot family blooms.
+5. **Tachinid Flies** — Look like houseflies but parasitize caterpillars, beetles, and stink bugs. Attracted to carrot family and composites.
 
 ### Pollinators (Pest Allies via Diversity)
 
-1. **Bumblebee** â Also consume thrips incidentally. Essential pollinators that support diverse plantings that harbor all beneficials.
-2. **Hover Fly (Syrphid Fly)** â Adults pollinate; larvae eat aphids. Look like small bees or wasps. Attracted to alyssum, phacelia, and marigolds.
-3. **Mason Bee** â Excellent early-season pollinator. Provide hollow-stemmed plants and bee hotels.
-4. **Ground-nesting Bees** â Many solitary native bees nest in bare soil; avoid tilling all areas.
+1. **Bumblebee** — Also consume thrips incidentally. Essential pollinators that support diverse plantings that harbor all beneficials.
+2. **Hover Fly (Syrphid Fly)** — Adults pollinate; larvae eat aphids. Look like small bees or wasps. Attracted to alyssum, phacelia, and marigolds.
+3. **Mason Bee** — Excellent early-season pollinator. Provide hollow-stemmed plants and bee hotels.
+4. **Ground-nesting Bees** — Many solitary native bees nest in bare soil; avoid tilling all areas.
 
 ### Decomposers That Help
 
-1. **Rove Beetle** â Ground-level hunter of fungus gnats, springtails, and root maggots. Benefits from mulch and compost.
+1. **Rove Beetle** — Ground-level hunter of fungus gnats, springtails, and root maggots. Benefits from mulch and compost.
 
 ---
 
@@ -495,8 +495,8 @@
 **Habitat tips:**
 - Leave some bare soil for ground-nesting bees
 - Provide water (shallow dish with pebbles)
-- Leave plant stalks standing over winter â they're habitat for overwintering beneficials
-- Eliminate or minimize pesticide use â even organic pesticides harm beneficials
+- Leave plant stalks standing over winter — they're habitat for overwintering beneficials
+- Eliminate or minimize pesticide use — even organic pesticides harm beneficials
 - Create diversity: monocultures have few beneficials
 
 ---

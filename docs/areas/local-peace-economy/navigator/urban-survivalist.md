@@ -8,7 +8,7 @@
 
 ### Lesson 1: Document Everything From Day One
 
-Before moving in, do a joint walkthrough with your landlord and photograph every room from multiple angles. Capture every scratch, stain, dent, and defect. Email the photos to yourself and your landlord the same day â creating a timestamped record that can't be disputed. This single act can save your entire security deposit.
+Before moving in, do a joint walkthrough with your landlord and photograph every room from multiple angles. Capture every scratch, stain, dent, and defect. Email the photos to yourself and your landlord the same day — creating a timestamped record that can't be disputed. This single act can save your entire security deposit.
 
 **The checklist:**
 - Walls, ceilings, floors (every room)
@@ -23,12 +23,12 @@ Keep these photos in cloud storage permanently. Disputes about move-in condition
 
 ### Lesson 2: Know Your Lease Like a Contract (Because It Is)
 
-Read your lease before signing â every line. Flag anything confusing or concerning. Key clauses to scrutinize:
+Read your lease before signing — every line. Flag anything confusing or concerning. Key clauses to scrutinize:
 
 * **Notice requirements:** How much notice must you give to move out? How much must they give you?
 * **Renewal terms:** Does it auto-renew? At what rent?
 * **Subletting rules:** Are you prohibited? Under what conditions is it allowed?
-* **Pet clauses:** Pet deposit vs. pet fee â one is refundable, one isn't
+* **Pet clauses:** Pet deposit vs. pet fee — one is refundable, one isn't
 * **Repair responsibility:** What are you responsible for vs. landlord?
 * **Entry notice:** Most states require 24-48 hours notice before landlord entry
 * **Early termination penalty:** What does it cost to break the lease?
@@ -39,7 +39,7 @@ Never assume verbal agreements are binding. Get everything in writing, even frie
 
 ### Lesson 3: Build a Paper Trail for Every Complaint
 
-When something breaks or is unsafe, report it in writing every time â even if you already called. Send an email or text that creates a record:
+When something breaks or is unsafe, report it in writing every time — even if you already called. Send an email or text that creates a record:
 
 > "Hi [landlord], following up on our phone call today. The kitchen faucet has been leaking since [date] and is getting worse. Please let me know when a repair can be scheduled."
 
@@ -68,22 +68,22 @@ If your unit doesn't meet these standards, you have legal options even if your l
 
 ---
 
-### Lesson 5: Rent Withholding â The Nuclear Option (Done Legally)
+### Lesson 5: Rent Withholding — The Nuclear Option (Done Legally)
 
-Withholding rent is a legal remedy in most states â but done wrong, it gets you evicted. The correct process:
+Withholding rent is a legal remedy in most states — but done wrong, it gets you evicted. The correct process:
 
 1. **Document the problem thoroughly** (photos, video, written complaints)
 2. **Give written notice** of the issue with a reasonable repair deadline
-3. **Research your state's rent withholding statute** â requirements vary significantly
-4. **Place withheld rent in escrow** â many states require this; paying nothing looks like non-payment
+3. **Research your state's rent withholding statute** — requirements vary significantly
+4. **Place withheld rent in escrow** — many states require this; paying nothing looks like non-payment
 5. **File with the appropriate court** in some states before withholding
-6. **Do not spend the money** â courts may order it paid to the landlord or held for repairs
+6. **Do not spend the money** — courts may order it paid to the landlord or held for repairs
 
-Alternative: "Repair and deduct" â hire someone to fix the problem yourself and deduct the cost from rent. Also highly state-specific. Never do this without understanding your state's law.
+Alternative: "Repair and deduct" — hire someone to fix the problem yourself and deduct the cost from rent. Also highly state-specific. Never do this without understanding your state's law.
 
 ---
 
-### Lesson 6: Code Enforcement â Your Silent Weapon
+### Lesson 6: Code Enforcement — Your Silent Weapon
 
 Every municipality has a code enforcement office that inspects rental properties for housing code violations. Filing a complaint:
 - Is free
@@ -98,7 +98,7 @@ Look up your city or county's housing department. File anonymously if allowed. T
 
 ---
 
-### Lesson 7: Security Deposit Law â Know the Rules
+### Lesson 7: Security Deposit Law — Know the Rules
 
 Security deposit laws are highly state-specific, but most states require:
 
@@ -113,18 +113,18 @@ Security deposit laws are highly state-specific, but most states require:
 - Pre-existing damage
 - Cleaning that isn't beyond normal use
 
-If your deposit isn't returned on time or is wrongfully withheld, most states allow you to sue for 2-3Ã the deposit amount in small claims court. The financial incentive strongly favors tenants who know the law.
+If your deposit isn't returned on time or is wrongfully withheld, most states allow you to sue for 2-3× the deposit amount in small claims court. The financial incentive strongly favors tenants who know the law.
 
 ---
 
-### Lesson 8: Small Claims Court â Tenant's Best Friend
+### Lesson 8: Small Claims Court — Tenant's Best Friend
 
 Small claims court handles disputes typically up to $5,000-$25,000 depending on state. For tenant disputes, it's fast, cheap, and you don't need a lawyer. Filing:
 
 1. Go to your local courthouse or find the online portal
 2. File a complaint naming your landlord (use their legal name, found on your lease)
 3. Pay filing fee ($30-$100)
-4. Attend your hearing date â bring all documentation
+4. Attend your hearing date — bring all documentation
 5. Present your case calmly and factually
 
 **Bring to court:**
@@ -140,12 +140,12 @@ Small claims court handles disputes typically up to $5,000-$25,000 depending on 
 
 If your landlord tries to evict you shortly after you complained, called code enforcement, or organized with other tenants, that may be illegal retaliation. Immediate steps:
 
-1. **Do not ignore the notice** â you still have a legal timeline
-2. **Document the timeline** â complaint date, eviction notice date
+1. **Do not ignore the notice** — you still have a legal timeline
+2. **Document the timeline** — complaint date, eviction notice date
 3. **Research your state's retaliation protection period**
 4. **Respond in writing** asserting retaliation as a defense
-5. **Consult a tenant legal aid organization** â many offer free advice
-6. **Show up to any court hearing** â default judgments go against the no-show
+5. **Consult a tenant legal aid organization** — many offer free advice
+6. **Show up to any court hearing** — default judgments go against the no-show
 
 Resources: Your state bar's lawyer referral service, local Legal Aid, HUD's tenant rights guide at HUD.gov.
 
@@ -155,11 +155,11 @@ Resources: Your state bar's lawyer referral service, local Legal Aid, HUD's tena
 
 Sometimes you must leave. Your options, in order of preference:
 
-1. **Check lease for early termination clause** â some leases allow this for a fee (1-2 months rent is common)
-2. **Negotiate with landlord** â offer a fair exit deal in writing
-3. **Sublease or assign** â find a replacement tenant (if lease allows)
-4. **Invoke legal reasons** â domestic violence, military deployment, uninhabitable conditions (varies by state)
-5. **Mitigation principle** â landlords must try to re-rent the unit; you only owe for time it sits vacant
+1. **Check lease for early termination clause** — some leases allow this for a fee (1-2 months rent is common)
+2. **Negotiate with landlord** — offer a fair exit deal in writing
+3. **Sublease or assign** — find a replacement tenant (if lease allows)
+4. **Invoke legal reasons** — domestic violence, military deployment, uninhabitable conditions (varies by state)
+5. **Mitigation principle** — landlords must try to re-rent the unit; you only owe for time it sits vacant
 
 Never just leave. Document everything, communicate in writing, and understand your liability before you go.
 
@@ -189,7 +189,7 @@ Never just leave. Document everything, communicate in writing, and understand yo
 ### Lesson 12: Electrical Safety Without an Electrician
 
 **What you can safely do:**
-- Replace a light switch or outlet (turn off the breaker first â verify with a non-contact voltage tester, $15)
+- Replace a light switch or outlet (turn off the breaker first — verify with a non-contact voltage tester, $15)
 - Replace a light fixture
 - Reset a tripped breaker or GFCI outlet (the reset button on outlets near water)
 - Replace an outlet with a GFCI outlet in kitchens/bathrooms
@@ -216,7 +216,7 @@ Never just leave. Document everything, communicate in writing, and understand yo
 
 **Large holes:**
 - Cut a clean rectangle, install backing boards, cut a patch piece, tape and mud the seams, feather extensively
-- Texture matching is the hard part â spray texture cans exist for orange peel/popcorn
+- Texture matching is the hard part — spray texture cans exist for orange peel/popcorn
 
 **Keys to invisible repairs:**
 - Feather the compound thin and wide
@@ -231,12 +231,12 @@ Before paying $100+ for a service call:
 
 **Refrigerator not cooling:**
 - Check temperature settings
-- Vacuum condenser coils (usually behind/underneath) â most common cause of efficiency loss
+- Vacuum condenser coils (usually behind/underneath) — most common cause of efficiency loss
 - Check door seals (dollar bill test: closed door should grip it tightly)
 
 **Dishwasher not cleaning:**
 - Clean the filter (usually at the bottom, removable)
-- Check spray arm holes â toothpick to clear clogs
+- Check spray arm holes — toothpick to clear clogs
 - Run hot water in sink before starting cycle (gets hot water faster)
 
 **Washing machine won't drain:**
@@ -291,19 +291,19 @@ A well-maintained HVAC can last 20+ years; neglected systems fail at 10-12.
 - Tile grout repair
 - Drywall patching
 
-**The decision matrix:** If failure would cause injury, major water damage, fire, or structural damage â call a pro. If failure means redoing the work â DIY.
+**The decision matrix:** If failure would cause injury, major water damage, fire, or structural damage — call a pro. If failure means redoing the work — DIY.
 
 ---
 
 ## PART III: NAVIGATING BUREAUCRACY
 
-### Lesson 17: DMV â Making It Fast and Painless
+### Lesson 17: DMV — Making It Fast and Painless
 
 The DMV is the institution most universally associated with wasted time. Beat it:
 
-1. **Use the website first** â most states now handle renewals, address changes, and some title work online
-2. **Schedule appointments** â walk-ins wait hours; appointments are often same-week
-3. **Arrive prepared** â the most common reason for wasted trips is missing documents
+1. **Use the website first** — most states now handle renewals, address changes, and some title work online
+2. **Schedule appointments** — walk-ins wait hours; appointments are often same-week
+3. **Arrive prepared** — the most common reason for wasted trips is missing documents
 
 **Standard document checklist (varies by state):**
 - REAL ID: Proof of identity (passport/birth certificate), SSN card, 2 proofs of residency (utility bills, bank statements)
@@ -314,7 +314,7 @@ The DMV is the institution most universally associated with wasted time. Beat it
 
 ---
 
-### Lesson 18: Building Permits â When You Need One and What Happens If You Don't
+### Lesson 18: Building Permits — When You Need One and What Happens If You Don't
 
 **Projects typically requiring permits:**
 - Adding/moving walls
@@ -326,7 +326,7 @@ The DMV is the institution most universally associated with wasted time. Beat it
 - Fences over a certain height (usually 6 feet)
 
 **Why skipping permits is risky:**
-- Can't sell home easily â inspectors check permit history
+- Can't sell home easily — inspectors check permit history
 - Homeowner's insurance may deny claims for unpermitted work
 - Must undo the work if discovered
 - Liability if something fails
@@ -341,30 +341,30 @@ Call your local building department before starting any major project. The permi
 
 ---
 
-### Lesson 19: Zoning Laws â Understanding What Can Be Built Where
+### Lesson 19: Zoning Laws — Understanding What Can Be Built Where
 
 Zoning controls land use: residential, commercial, industrial, mixed-use, and subcategories within each. Why it matters for renters and homeowners:
 
-* **ADUs (accessory dwelling units):** Many cities now allow in-law suites or backyard cottages â check local ADU rules before investing
+* **ADUs (accessory dwelling units):** Many cities now allow in-law suites or backyard cottages — check local ADU rules before investing
 * **Home businesses:** Some zoning restricts what commercial activity is allowed at a residence
 * **Short-term rentals:** Many municipalities regulate or ban Airbnb-style rentals
 * **Setbacks:** Rules on how close to property lines you can build
 * **Height limits:** How tall structures can be
 
-**How to find your zoning:** Search "[your city] zoning map" â most are online. Call your city's planning department with specific questions.
+**How to find your zoning:** Search "[your city] zoning map" — most are online. Call your city's planning department with specific questions.
 
 ---
 
-### Lesson 20: Filing Appeals â How to Fight a Bureaucratic Decision
+### Lesson 20: Filing Appeals — How to Fight a Bureaucratic Decision
 
 When an agency denies your permit, assessment, or application, you usually have a right to appeal. The process:
 
 1. **Get the denial in writing** with the specific reason
-2. **Note the appeal deadline** â these are typically short (10-30 days)
-3. **Research the specific rule** cited in the denial â sometimes denials are wrong
+2. **Note the appeal deadline** — these are typically short (10-30 days)
+3. **Research the specific rule** cited in the denial — sometimes denials are wrong
 4. **Gather supporting evidence** (comparable properties, expert letters, photos)
 5. **File the appeal form** by the deadline
-6. **Attend the hearing** â dress professionally, be respectful, be specific
+6. **Attend the hearing** — dress professionally, be respectful, be specific
 7. **If denied again:** Most jurisdictions allow further appeals to a board or court
 
 Don't give up after the first denial. Bureaucratic decisions are reversed regularly when appealed properly.
@@ -373,7 +373,7 @@ Don't give up after the first denial. Bureaucratic decisions are reversed regula
 
 ### Lesson 21: Property Tax Appeals
 
-If your property is assessed too high (which drives up your taxes), you have the right to appeal. Many homeowners never do this â and overpay for years.
+If your property is assessed too high (which drives up your taxes), you have the right to appeal. Many homeowners never do this — and overpay for years.
 
 **The process:**
 1. Review your assessment notice carefully
@@ -382,13 +382,13 @@ If your property is assessed too high (which drives up your taxes), you have the
 4. Present comparable sales data, any defects in the property, or errors in the assessment
 5. Most jurisdictions offer informal review before a formal hearing
 
-Success rates for appealing are surprisingly high â often 30-40% of appeals result in reductions. The filing fee (if any) is minimal compared to potential tax savings.
+Success rates for appealing are surprisingly high — often 30-40% of appeals result in reductions. The filing fee (if any) is minimal compared to potential tax savings.
 
 ---
 
 ## PART IV: APARTMENT HUNTING
 
-### Lesson 22: Scam Detection â Red Flags Before You Sign
+### Lesson 22: Scam Detection — Red Flags Before You Sign
 
 Rental scams have become sophisticated. Protect yourself:
 
@@ -408,12 +408,12 @@ Rental scams have become sophisticated. Protect yourself:
 
 ---
 
-### Lesson 23: Apartment Negotiation â What's Actually Negotiable
+### Lesson 23: Apartment Negotiation — What's Actually Negotiable
 
 Landlords, especially in softer markets, have more flexibility than they advertise. Items that can often be negotiated:
 
 * **Rent:** Ask. The worst they say is no. More effective in winter months and slower markets.
-* **Free month:** "First month free" is a common incentive â sometimes second or last month
+* **Free month:** "First month free" is a common incentive — sometimes second or last month
 * **Parking fee waiver**
 * **Pet deposit amount**
 * **Lease length:** A 14-month lease can align with a better renewal timing
@@ -421,7 +421,7 @@ Landlords, especially in softer markets, have more flexibility than they adverti
 * **Appliance upgrades** (new fridge, in-unit W/D)
 * **Repair completions before move-in**
 
-**Leverage:** Long-term lease commitment, excellent credit score, early move-in date, employer letter confirming salary â all strengthen your position.
+**Leverage:** Long-term lease commitment, excellent credit score, early move-in date, employer letter confirming salary — all strengthen your position.
 
 ---
 
@@ -458,8 +458,8 @@ Don't tour an apartment without checking:
 - [ ] Open and close every window (operational? drafty?)
 - [ ] Test every outlet (phone charger works)
 - [ ] Flush toilets, run all faucets (pressure, drainage)
-- [ ] Check water temperature â how long does hot water take?
-- [ ] Open refrigerator and freezer â do they feel cold?
+- [ ] Check water temperature — how long does hot water take?
+- [ ] Open refrigerator and freezer — do they feel cold?
 - [ ] Check under sinks for water damage/stains
 - [ ] Look at ceilings for water stains
 - [ ] Check basement/laundry area for mold smell
@@ -467,7 +467,7 @@ Don't tour an apartment without checking:
 **Livability:**
 - [ ] Cell signal in every room
 - [ ] Internet availability (ISP coverage for your area)
-- [ ] Noise levels â street, neighbors, building systems
+- [ ] Noise levels — street, neighbors, building systems
 - [ ] Natural light at different times of day (visit twice if possible)
 - [ ] Storage space vs. your actual belongings
 - [ ] Laundry: in-unit? in-building? laundromat?
@@ -481,17 +481,17 @@ Don't tour an apartment without checking:
 Most moving stress comes from starting too late. Timeline:
 
 **90 days out:**
-- Start decluttering â sell, donate, or trash what won't come
+- Start decluttering — sell, donate, or trash what won't come
 - Research neighborhoods and cities if relocating
 - Get quotes from 3+ moving companies (or compare DIY truck rental costs)
 
 **60 days out:**
-- Book movers or truck rental â books out fast during summer/end of month
+- Book movers or truck rental — books out fast during summer/end of month
 - Notify current landlord in writing (check required notice period)
 - Start collecting boxes (liquor stores, bookstores, Facebook Marketplace)
 
 **30 days out:**
-- Forward mail (USPS change of address form â do this early)
+- Forward mail (USPS change of address form — do this early)
 - Notify: bank, employer, IRS (Form 8822), DMV, subscriptions, doctors
 - Begin packing non-essentials
 
@@ -512,7 +512,7 @@ Professionals pack by room and label obsessively. Copy their system:
 
 **Box labeling:**
 - Room destination + contents summary + priority level
-- Example: "KITCHEN â Pots/Pans â Load Last (Need First)"
+- Example: "KITCHEN — Pots/Pans — Load Last (Need First)"
 - Mark fragile boxes on all sides, not just top
 
 **Packing order:**
@@ -523,19 +523,19 @@ Professionals pack by room and label obsessively. Copy their system:
 - Electronics: original boxes if kept; otherwise wrap in clothes
 
 **First-night box (non-negotiable):**
-Pack a bag you keep with you â not on the truck. Include: phone charger, toiletries, medications, change of clothes, basic tools (screwdriver), coffee maker, snacks, bedding if driving.
+Pack a bag you keep with you — not on the truck. Include: phone charger, toiletries, medications, change of clothes, basic tools (screwdriver), coffee maker, snacks, bedding if driving.
 
 ---
 
-### Lesson 28: Hiring Movers â The Safe Way
+### Lesson 28: Hiring Movers — The Safe Way
 
 The moving industry has more scams and horror stories than almost any other service sector. Protect yourself:
 
-1. **Get 3+ written quotes** â not estimates over the phone
+1. **Get 3+ written quotes** — not estimates over the phone
 2. **Verify licensing:** Search FMCSA.dot.gov for interstate movers; state database for local
 3. **Understand binding vs. non-binding quotes:** Binding means the price can't change; non-binding means it can
 4. **Check for "hostage load" warning signs:** Any company demanding full payment before unloading has leverage over you
-5. **Read the Bill of Lading** â this is the contract; know what it says
+5. **Read the Bill of Lading** — this is the contract; know what it says
 6. **Document everything before and after** with timestamps
 7. **Pay with credit card** for dispute protection
 
@@ -578,15 +578,15 @@ A neighborhood can't be judged from a listing photo. Do your due diligence:
 You don't need a monitoring contract to significantly improve security:
 
 **High-impact, low-cost measures:**
-- Deadbolts on all exterior doors (rekey locks when you move in â $20 per lock)
-- Door reinforcement plate (prevents kick-in â most common break-in method) - $30
+- Deadbolts on all exterior doors (rekey locks when you move in — $20 per lock)
+- Door reinforcement plate (prevents kick-in — most common break-in method) - $30
 - Window pins (a $2 nail in the frame prevents sliding windows from opening)
 - Motion-activated lighting outside
 - Timer on interior lights when away
 
 **Mid-range (good ROI):**
 - Video doorbell camera with local storage option
-- Smart lock (keypad entry â eliminates lost key risk)
+- Smart lock (keypad entry — eliminates lost key risk)
 - Door/window contact sensors connected to phone
 
 **The most effective deterrent:** Appearing occupied. Lights on timers, packages collected promptly, no obvious clues of vacation on social media.
@@ -601,9 +601,9 @@ The typical American home wastes 25-30% of energy used. Easy wins:
 
 **Biggest impact (in order):**
 1. **Heating/cooling setback:** Every degree warmer in summer / cooler in winter saves ~3% on the bill. A programmable thermostat pays for itself in months.
-2. **Water heater temperature:** Factory setting is often 140Â°F; 120Â°F is safe and uses less energy
-3. **Phantom loads:** Unplug TVs, chargers, game consoles when not in use â they draw power 24/7. Power strips with switches simplify this.
-4. **LED bulbs:** Replace remaining incandescent bulbs â LEDs use 75% less electricity
+2. **Water heater temperature:** Factory setting is often 140°F; 120°F is safe and uses less energy
+3. **Phantom loads:** Unplug TVs, chargers, game consoles when not in use — they draw power 24/7. Power strips with switches simplify this.
+4. **LED bulbs:** Replace remaining incandescent bulbs — LEDs use 75% less electricity
 5. **Refrigerator efficiency:** Keep full (thermal mass holds temp), clear condenser coils, ensure gaskets seal
 
 **Major upgrades (if you own):**
@@ -618,7 +618,7 @@ The typical American home wastes 25-30% of energy used. Easy wins:
 Most people pay utility bills without understanding what they're actually paying for.
 
 **Electric bill components:**
-- Usage charge (kWh rate Ã consumption)
+- Usage charge (kWh rate × consumption)
 - Demand charge (sometimes charged for peak usage periods)
 - Distribution/transmission fees (fixed or variable)
 - Taxes and regulatory fees
@@ -627,13 +627,13 @@ Most people pay utility bills without understanding what they're actually paying
 
 **Natural gas:** Bill in therms or CCF. Understand your baseline and how weather affects it.
 
-**Water:** Charged in CCF (hundred cubic feet) or gallons. Look for unusual spikes (possible leak â 1 dripping faucet = 3,000+ gallons/month wasted).
+**Water:** Charged in CCF (hundred cubic feet) or gallons. Look for unusual spikes (possible leak — 1 dripping faucet = 3,000+ gallons/month wasted).
 
 ---
 
 ### Lesson 33: Weatherizing Your Home or Apartment
 
-Renters can weatherize too â most measures are removable:
+Renters can weatherize too — most measures are removable:
 
 **Windows:**
 - Removable rope caulk (comes off like putty in spring) for drafty frames
@@ -666,7 +666,7 @@ Most people never ask. Some strategies that work:
 - Time-of-use rates: Shift laundry and dishwasher to off-peak hours (usually nights/weekends)
 
 **Internet:**
-- Call and ask for current promotional rates â loyalty rarely pays; threatening to cancel usually does
+- Call and ask for current promotional rates — loyalty rarely pays; threatening to cancel usually does
 - Check if your state or city has a subsidized broadband program (the ACP ended but local programs continue)
 - Annual renegotiation is realistic with most ISPs
 
@@ -677,11 +677,11 @@ Most people never ask. Some strategies that work:
 
 ### Lesson 35: Disputing a Utility Bill
 
-Unusually high bills are often real â but sometimes wrong. Process:
+Unusually high bills are often real — but sometimes wrong. Process:
 
-1. **Compare to the same month last year** â seasonally adjusted comparison
+1. **Compare to the same month last year** — seasonally adjusted comparison
 2. **Check for obvious causes:** New appliance, people staying with you, thermostat left at extreme setting
-3. **Request a meter re-read** â utilities will send someone to verify; this is free
+3. **Request a meter re-read** — utilities will send someone to verify; this is free
 4. **Check for leaks:** Water and gas leaks cause dramatic spikes
 5. **File a formal dispute** in writing with your account number, disputed amount, and reason
 6. **Escalate:** Your state's Public Utilities Commission handles unresolved disputes
@@ -690,7 +690,7 @@ Utilities make billing errors. The key is catching them quickly (disputes often 
 
 ---
 
-### Lesson 36: Starting Utility Service â Avoiding Deposits
+### Lesson 36: Starting Utility Service — Avoiding Deposits
 
 Many utilities require deposits for new accounts, which can be $200+ per utility. Ways to avoid:
 
@@ -699,7 +699,7 @@ Many utilities require deposits for new accounts, which can be $200+ per utility
 * **Co-signer** or guarantor on the account
 * **Pre-paid utility plans:** Available with some utilities, no deposit required
 
-When transferring service from an existing property, request your deposit back within 30 days â utilities don't always return it automatically.
+When transferring service from an existing property, request your deposit back within 30 days — utilities don't always return it automatically.
 
 ---
 
@@ -713,7 +713,7 @@ Money problems between roommates often start with unclear utility expectations.
 - How will payments be handled? (Splitwise, Venmo, direct pay rotation)
 - What's the process if someone can't pay?
 
-**Protect yourself:** If you're not the account holder, still have records showing your contributions (bank transfers, not cash). If the account holder stops paying, you have no recourse with the utility â but you do have recourse against the account holder.
+**Protect yourself:** If you're not the account holder, still have records showing your contributions (bank transfers, not cash). If the account holder stops paying, you have no recourse with the utility — but you do have recourse against the account holder.
 
 ---
 
@@ -721,11 +721,11 @@ Money problems between roommates often start with unclear utility expectations.
 
 Before shutoff occurs:
 
-1. **Call immediately** â utilities are often required to offer payment plans before disconnecting
-2. **Apply for LIHEAP** (Low Income Home Energy Assistance Program) â federal program, income-based
-3. **Ask about utility's hardship programs** â most major utilities have their own assistance funds
-4. **Contact 211** (call or text) â connects you to local assistance programs
-5. **Negotiate a payment plan** â get it in writing
+1. **Call immediately** — utilities are often required to offer payment plans before disconnecting
+2. **Apply for LIHEAP** (Low Income Home Energy Assistance Program) — federal program, income-based
+3. **Ask about utility's hardship programs** — most major utilities have their own assistance funds
+4. **Contact 211** (call or text) — connects you to local assistance programs
+5. **Negotiate a payment plan** — get it in writing
 
 **Critical timing:** Most states prohibit utility shutoffs:
 - During extreme weather (varies by state)
@@ -737,22 +737,22 @@ Know your rights before the shutoff happens.
 
 ---
 
-### Lesson 39: Moving Utilities â The Checklist
+### Lesson 39: Moving Utilities — The Checklist
 
 Moving without properly handling utilities leads to missed final bills, credit damage, and unnecessary deposits.
 
 **Two weeks before moving:**
-- [ ] Schedule disconnection at old address for day after you leave (not day of â final walkthrough)
+- [ ] Schedule disconnection at old address for day after you leave (not day of — final walkthrough)
 - [ ] Schedule connection at new address for day before you arrive
 - [ ] Update address with utility companies
-- [ ] Pay final bills promptly â utility collections affect credit
+- [ ] Pay final bills promptly — utility collections affect credit
 
 **At move-in:**
-- Take photos of meters at all utilities (electric, gas, water) â date/time stamped. This protects you from being billed for previous tenant's usage.
+- Take photos of meters at all utilities (electric, gas, water) — date/time stamped. This protects you from being billed for previous tenant's usage.
 
 ---
 
-### Lesson 40: Renter's Insurance â The $15 Decision
+### Lesson 40: Renter's Insurance — The $15 Decision
 
 Renter's insurance is one of the best financial deals available. For roughly $15-30/month, you get:
 
@@ -767,11 +767,11 @@ What it doesn't cover:
 
 **Common mistake:** People think their landlord's insurance covers their belongings. It doesn't. It only covers the structure.
 
-Get quotes from your auto insurer first â bundling often saves 10-15% on both policies.
+Get quotes from your auto insurer first — bundling often saves 10-15% on both policies.
 
 ---
 
-### Lesson 41: Understanding Local Government â Who Does What
+### Lesson 41: Understanding Local Government — Who Does What
 
 Most quality-of-life issues in cities are handled at the local level. Know who to contact:
 
@@ -784,7 +784,7 @@ Most quality-of-life issues in cities are handled at the local level. Know who t
 | Housing code violation | Housing/code enforcement |
 | Zoning question | Planning Department |
 | Property tax dispute | Assessor's office |
-| Sidewalk damage | Public Works (varies â sometimes homeowner's responsibility) |
+| Sidewalk damage | Public Works (varies — sometimes homeowner's responsibility) |
 | Graffiti removal | Public Works or city beautification department |
 
 Most cities now have a 311 system (call 311 or use a 311 app) that routes all of these automatically.
@@ -793,7 +793,7 @@ Most cities now have a 311 system (call 311 or use a 311 app) that routes all of
 
 ### Lesson 42: How to Attend and Use a City Council Meeting
 
-City council is where local laws, budgets, and zoning decisions are made â and the public is allowed to speak.
+City council is where local laws, budgets, and zoning decisions are made — and the public is allowed to speak.
 
 **How it works:**
 - Meetings are public and typically held monthly or bi-weekly
@@ -851,7 +851,7 @@ Misuse of 911 clogs a system meant for emergencies. Know when to use what:
 - Hit and run (if vehicle only, no injury)
 - Lost property
 
-Get a police report number for any incident â this is required for insurance claims.
+Get a police report number for any incident — this is required for insurance claims.
 
 ---
 
@@ -860,8 +860,8 @@ Get a police report number for any incident â this is required for insuranc
 When a business wrongs you and refuses to make it right:
 
 **Escalation ladder:**
-1. Customer service â supervisor â corporate escalation line
-2. Credit card chargeback (if applicable â most powerful tool for online purchases)
+1. Customer service → supervisor → corporate escalation line
+2. Credit card chargeback (if applicable — most powerful tool for online purchases)
 3. Better Business Bureau (complaint on record, visible to consumers)
 4. State Attorney General's Consumer Protection Division (handles deceptive practices)
 5. CFPB (Consumer Financial Protection Bureau) for financial products
@@ -872,15 +872,15 @@ For large amounts: small claims court. For contractor fraud: state licensing boa
 
 ---
 
-### Lesson 46: Contractor Hiring â Avoiding the Horror Stories
+### Lesson 46: Contractor Hiring — Avoiding the Horror Stories
 
 Bad contractor experiences are epidemic. The preventable ones:
 
 **Before hiring:**
 - Get 3+ written bids for comparison
 - Verify license (state contractor licensing board lookup)
-- Verify insurance (general liability + workers' comp â ask for certificate)
-- Check reviews (BBB, Google, Angi â look for patterns, not single reviews)
+- Verify insurance (general liability + workers' comp — ask for certificate)
+- Check reviews (BBB, Google, Angi — look for patterns, not single reviews)
 - Get references from recent similar jobs and actually call them
 
 **Contract must include:**
@@ -898,9 +898,9 @@ Bad contractor experiences are epidemic. The preventable ones:
 
 ---
 
-### Lesson 47: Lien Waivers â Protecting Homeowners
+### Lesson 47: Lien Waivers — Protecting Homeowners
 
-If you hire a general contractor who hires subcontractors, subcontractors can place a mechanic's lien on your property if the GC doesn't pay them â even if you paid the GC in full.
+If you hire a general contractor who hires subcontractors, subcontractors can place a mechanic's lien on your property if the GC doesn't pay them — even if you paid the GC in full.
 
 **Protection:** Require conditional lien waivers from the GC and all major subcontractors with each payment. A lien waiver means they waive their right to file a lien once payment clears.
 
@@ -947,7 +947,7 @@ Eviction on your record makes finding housing extremely difficult. Fighting an i
 
 ### Lesson 50: Building Relationships That Make City Life Better
 
-The most underrated urban survival skill isn't a technique â it's human connection.
+The most underrated urban survival skill isn't a technique — it's human connection.
 
 **Know your neighbors:** Introduce yourself within the first week of moving in. Exchange phone numbers. This single act reduces theft, increases safety alerts, and makes disputes easier to resolve.
 

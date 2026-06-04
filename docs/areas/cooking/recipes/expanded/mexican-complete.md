@@ -1,6 +1,6 @@
 # Mexican Complete Recipe Collection
 
-*The Wise Men Almanac â 04 Human Hearth*
+*The Wise Men Almanac — 04 Human Hearth*
 
 ---
 
@@ -10,7 +10,7 @@
 
 **Region:** National
 - 500g tomatillos, husked
-- 3â4 serrano or jalapeÃ±o chiles
+- 3–4 serrano or jalapeño chiles
 - 2 garlic cloves
 - 1/4 white onion
 - Cilantro, salt
@@ -40,7 +40,7 @@
 **Region:** National
 - 4 Roma tomatoes, diced
 - 1/2 white onion, diced
-- 2 jalapeÃ±os, minced
+- 2 jalapeños, minced
 - Juice of 2 limes
 - Cilantro, salt
 
@@ -48,13 +48,13 @@
 
 ---
 
-### Guacamole ClÃ¡sico
+### Guacamole Clásico
 
 **Region:** Oaxaca/National
 - 3 ripe Hass avocados
-- Juice of 1â2 limes
+- Juice of 1–2 limes
 - 1/4 white onion, minced
-- 2 jalapeÃ±os or serranos, minced
+- 2 jalapeños or serranos, minced
 - Cilantro, salt
 - 1 Roma tomato, diced (optional)
 
@@ -77,10 +77,10 @@
 
 ---
 
-### Salsa de Ãrbol
+### Salsa de Árbol
 
 **Region:** Jalisco/National
-- 20 dried chiles de Ã¡rbol
+- 20 dried chiles de árbol
 - 3 garlic cloves
 - 2 tomatillos
 - Salt, vinegar
@@ -94,7 +94,7 @@
 ### Salsa Macha
 
 **Region:** Veracruz
-- 10 dried chiles de Ã¡rbol
+- 10 dried chiles de árbol
 - 5 dried guajillo chiles
 - 5 garlic cloves
 - 100ml olive or vegetable oil
@@ -112,7 +112,7 @@
 **Region:** National
 - 4 Roma tomatoes, charred
 - 2 tomatillos, charred
-- 2 chiles (serrano + jalapeÃ±o), charred
+- 2 chiles (serrano + jalapeño), charred
 - 3 garlic cloves, charred
 - 1/4 onion, charred
 - Cilantro, salt
@@ -152,7 +152,7 @@
 
 **Region:** Oaxaca/Guerrero
 - 100g roasted peanuts
-- 3 chiles de Ã¡rbol, toasted
+- 3 chiles de árbol, toasted
 - 2 garlic cloves
 - 1/4 cup water
 - Salt, apple cider vinegar
@@ -180,7 +180,7 @@
 
 ### Tacos de Carnitas
 
-**Region:** MichoacÃ¡n
+**Region:** Michoacán
 - 2kg pork shoulder/butt
 - 600ml lard or enough to cover
 - 1 orange, halved
@@ -188,7 +188,7 @@
 - Garlic, bay, thyme, cumin, salt
 
 1. Cut pork into large chunks; submerge in lard with all ingredients.
-2. Simmer 1.5â2 hours until tender.
+2. Simmer 1.5–2 hours until tender.
 3. Raise heat; fry in own fat until crispy edges.
 4. Drain; chop coarsely. Serve in tortillas with salsa verde and lime.
 
@@ -201,12 +201,12 @@
 - Dried chiles: guajillo, ancho, mulato
 - Garlic, thyme, cumin, oregano
 - Banana leaves or foil
-- ConsommÃ©: chickpeas, nopales, cilantro, onion
+- Consommé: chickpeas, nopales, cilantro, onion
 
 1. Blend chile marinade; coat meat.
 2. Wrap tightly in banana leaves; place over boiling broth in pot.
-3. Steam-roast covered 4â5 hours.
-4. Serve with consommÃ© and tortillas.
+3. Steam-roast covered 4–5 hours.
+4. Serve with consommé and tortillas.
 
 ---
 
@@ -231,14 +231,14 @@
 **Region:** Jalisco/Zacatecas
 - 2kg beef (chuck + short rib) or goat
 - Chile paste: guajillo, ancho, pasilla, chile negro, tomatoes, garlic, cumin, oregano, cloves, cinnamon
-- ConsommÃ©: birria braising liquid with tomato, cilantro
+- Consommé: birria braising liquid with tomato, cilantro
 - White corn tortillas, Oaxacan cheese
 
 1. Coat meat with chile paste; refrigerate overnight.
-2. Braise covered with water 3â4 hours until tender.
-3. Shred meat; reserve consommÃ©.
-4. Quesabirria: dip tortilla in consommÃ© fat layer; fry with meat and cheese.
-5. Serve with consommÃ© for dipping.
+2. Braise covered with water 3–4 hours until tender.
+3. Shred meat; reserve consommé.
+4. Quesabirria: dip tortilla in consommé fat layer; fry with meat and cheese.
+5. Serve with consommé for dipping.
 
 ---
 
@@ -263,7 +263,7 @@
 - Onion, garlic, bay, peppercorns
 - Corn tortillas, salsa, cilantro, onion, lime
 
-1. Boil tongue 2â3 hours with aromatics.
+1. Boil tongue 2–3 hours with aromatics.
 2. Peel while hot; dice; fry until lightly crisp.
 3. Serve in tortillas.
 
@@ -279,7 +279,7 @@
 - Corn tortillas
 
 1. Roast poblanos over flame; peel; cut into strips (rajas).
-2. SautÃ© onion; add rajas; stir in crema and cheese until melted.
+2. Sauté onion; add rajas; stir in crema and cheese until melted.
 3. Serve in warm tortillas.
 
 ---
@@ -293,7 +293,7 @@
 - Corn tortillas, queso fresco
 
 1. Boil nopales with salt until tender; rinse to remove sliminess.
-2. SautÃ© onion and tomato; add nopales; season with epazote.
+2. Sauté onion and tomato; add nopales; season with epazote.
 3. Serve in tortillas with queso fresco.
 
 ---
@@ -325,7 +325,7 @@
 1. Make red chile sauce; fry to bloom.
 2. Dip tortillas in sauce; fill; fold or roll.
 3. Cover with remaining sauce; top with crema, onion, cheese.
-4. Bake 180Â°C, 10 min or serve immediately.
+4. Bake 180°C, 10 min or serve immediately.
 
 ---
 
@@ -426,7 +426,7 @@
 
 ---
 
-### Tamales OaxaqueÃ±os
+### Tamales Oaxaqueños
 
 **Region:** Oaxaca
 - Masa made with black beans mashed in
@@ -465,7 +465,7 @@
 
 ### Uchepos (Fresh Corn Tamales)
 
-**Region:** MichoacÃ¡n
+**Region:** Michoacán
 - 6 ears fresh corn, kernels scraped
 - Butter, sugar, salt
 - Fresh cheese to serve
@@ -479,7 +479,7 @@
 
 ## MOLES
 
-### Mole Negro OaxaqueÃ±o
+### Mole Negro Oaxaqueño
 
 **Region:** Oaxaca
 - 5 dried mulato chiles, 4 pasilla negro, 4 ancho, 2 chihuacle negro
@@ -516,12 +516,12 @@
 
 ---
 
-### Mole Verde (PipiÃ¡n Verde)
+### Mole Verde (Pipián Verde)
 
 **Region:** National
 - 200g pumpkin seeds, toasted
 - 300g tomatillos
-- JalapeÃ±o, serrano
+- Jalapeño, serrano
 - Cilantro, epazote
 - 1/2 onion, 2 garlic cloves
 - 500ml chicken broth
@@ -543,11 +543,11 @@
 
 1. Toast, soak, and blend chiles with charred tomatoes and spices.
 2. Fry in lard; add broth.
-3. Add chocolate; simmer 30â45 min until thick.
+3. Add chocolate; simmer 30–45 min until thick.
 
 ---
 
-### PipiÃ¡n Rojo
+### Pipián Rojo
 
 **Region:** Central Mexico
 - 200g pumpkin seeds
@@ -599,7 +599,7 @@
 
 **Region:** Guerrero
 - Hominy, pork or chicken
-- Green sauce: tomatillos, jalapeÃ±os, pepitas, cilantro, epazote
+- Green sauce: tomatillos, jalapeños, pepitas, cilantro, epazote
 - Same garnishes as red
 
 1. Make green sauce; fry; add to pork-hominy broth.
@@ -627,9 +627,9 @@
 - 2 cow feet (optional)
 - Chile sauce: guajillo + ancho
 - Hominy (optional)
-- Oregano, onion, lime â garnish
+- Oregano, onion, lime — garnish
 
-1. Boil tripe and feet 3â4 hours until tender.
+1. Boil tripe and feet 3–4 hours until tender.
 2. Make chile sauce; add to broth.
 3. Simmer 30 min. Serve with garnishes.
 
@@ -669,7 +669,7 @@
 ### Chiles en Escabeche
 
 **Region:** National
-- 6 jalapeÃ±os
+- 6 jalapeños
 - 4 carrots, sliced
 - 1 onion, sliced
 - Vinegar, oil, garlic, bay, oregano, thyme, pepper
@@ -688,7 +688,7 @@
 - 1 onion
 - Crema, queso fresco
 
-1. SautÃ© onion; add rajas and corn.
+1. Sauté onion; add rajas and corn.
 2. Stir in crema; season. Top with cheese.
 
 ---
@@ -703,7 +703,7 @@
 - 2 chayotes, quartered
 - 2 zucchini, 3 carrots, 1 cabbage wedge
 - 1/2 onion, garlic, cilantro
-- Lime, jalapeÃ±o to serve
+- Lime, jalapeño to serve
 
 1. Boil beef with onion, garlic, salt 1.5 hours; skim.
 2. Add corn and carrots; cook 20 min.
@@ -712,7 +712,7 @@
 
 ---
 
-### Caldo TlalpeÃ±o
+### Caldo Tlalpeño
 
 **Region:** Mexico City
 - 1 whole chicken, jointed
@@ -730,7 +730,7 @@
 
 ### Sopa de Lima
 
-**Region:** YucatÃ¡n
+**Region:** Yucatán
 - 1 whole chicken, boiled and shredded
 - 6 limes, halved and charred
 - 1/2 onion, 4 garlic cloves, charred
@@ -777,7 +777,7 @@
 
 ---
 
-### Sopa de Lentejas con PlÃ¡tano
+### Sopa de Lentejas con Plátano
 
 **Region:** National
 - 400g brown lentils
@@ -786,7 +786,7 @@
 - 2 tomatoes, 1/4 onion, 2 garlic
 - Chicken broth
 
-1. Fry bacon; sautÃ© onion, tomatoes, garlic.
+1. Fry bacon; sauté onion, tomatoes, garlic.
 2. Add lentils, broth; simmer 30 min.
 3. Add plantain last 10 min.
 
@@ -798,7 +798,7 @@
 - 1 whole chicken
 - 3 carrots, 3 celery stalks, 1 leek
 - 1/2 onion, garlic, cilantro
-- Lime, jalapeÃ±o, avocado (garnish)
+- Lime, jalapeño, avocado (garnish)
 
 1. Boil chicken with aromatics 1 hour; skim.
 2. Shred chicken; return to broth.
@@ -816,7 +816,7 @@
 - Epazote, salt
 
 1. Blend corn with broth.
-2. SautÃ© onion and garlic; add blended corn.
+2. Sauté onion and garlic; add blended corn.
 3. Add roasted chile strips; simmer 15 min.
 4. Swirl in crema; garnish with epazote.
 
@@ -847,7 +847,7 @@
 
 1. Make enriched dough; rise 1 hour.
 2. Divide into 12 balls; place paste on top; score in shell pattern.
-3. Rise 45 min; bake 180Â°C, 18 min.
+3. Rise 45 min; bake 180°C, 18 min.
 
 ---
 
@@ -874,7 +874,7 @@
 
 1. Cream lard with sugar; add flour, cinnamon, salt.
 2. Roll small balls; flatten slightly.
-3. Bake 160Â°C, 20 min. Cool completely. Very fragile.
+3. Bake 160°C, 20 min. Cool completely. Very fragile.
 
 ---
 
@@ -886,7 +886,7 @@
 
 1. Cream butter and sugar; add eggs, milk, vanilla.
 2. Fold in flour and baking powder.
-3. Fill small muffin cups; bake 180Â°C, 18 min.
+3. Fill small muffin cups; bake 180°C, 18 min.
 
 ---
 
@@ -899,7 +899,7 @@
 
 1. Make enriched dough; rise 2 hours.
 2. Shape into large ring; decorate with candied fruit.
-3. Bake 180Â°C, 25â30 min.
+3. Bake 180°C, 25–30 min.
 
 ---
 
@@ -911,7 +911,7 @@
 
 1. Knead bread dough; rise 1 hour.
 2. Shape into oval rolls with pointed ends; slash tops.
-3. Bake 220Â°C, steam, 20 min.
+3. Bake 220°C, steam, 20 min.
 
 ---
 
@@ -925,7 +925,7 @@
 
 ### Pan de Muerto
 
-**Region:** National (DÃ­a de Muertos)
+**Region:** National (Día de Muertos)
 - Enriched sweet bread with orange blossom water and anise
 - Decorated with bone shapes
 - Sugar crust
@@ -951,12 +951,12 @@
 
 1. Boil water, milk, butter, salt; add flour off heat; stir until dough ball.
 2. Cool slightly; beat in eggs.
-3. Pipe into hot oil through star nozzle; fry 3â4 min.
+3. Pipe into hot oil through star nozzle; fry 3–4 min.
 4. Drain; roll in cinnamon sugar.
 
 ---
 
-### BuÃ±uelos
+### Buñuelos
 
 **Region:** Oaxaca/National
 - 500g flour, 2 eggs, warm water, baking powder
@@ -994,7 +994,7 @@
 
 1. Melt sugar for caramel; pour into mould.
 2. Blend all custard ingredients until smooth.
-3. Pour over caramel; bake in water bath 160Â°C, 50â60 min.
+3. Pour over caramel; bake in water bath 160°C, 50–60 min.
 4. Cool completely; refrigerate; unmould.
 
 ---
@@ -1023,8 +1023,8 @@
 - Pinch baking soda
 
 1. Dissolve sugar in milk with cinnamon in heavy pot.
-2. Bring to boil; add baking soda (careful â foams).
-3. Simmer stirring frequently 1.5â2 hours until deep golden and thick.
+2. Bring to boil; add baking soda (careful — foams).
+3. Simmer stirring frequently 1.5–2 hours until deep golden and thick.
 
 ---
 
@@ -1043,15 +1043,15 @@
 
 ### Chongos Zamoranos
 
-**Region:** Jalisco/MichoacÃ¡n (Zamora)
+**Region:** Jalisco/Michoacán (Zamora)
 - 2L whole milk
 - 200g sugar
 - 1 cinnamon stick
 - Rennet tablets
 
-1. Warm milk to 38Â°C; add rennet; let set 30 min.
+1. Warm milk to 38°C; add rennet; let set 30 min.
 2. Cut set curd into squares.
-3. Add sugar and cinnamon; simmer very gently 2â3 hours until firm.
+3. Add sugar and cinnamon; simmer very gently 2–3 hours until firm.
 
 ---
 
@@ -1085,7 +1085,7 @@
 **Region:** National
 - 4 ears corn, grilled or boiled
 - Mayonnaise
-- Chile powder (piquÃ­n or tajÃ­n)
+- Chile powder (piquín or tajín)
 - Cotija cheese, crumbled
 - Lime juice
 
@@ -1102,7 +1102,7 @@
 - Salt
 - Mayo, cotija, chile, lime
 
-1. SautÃ© corn in butter with epazote; season.
+1. Sauté corn in butter with epazote; season.
 2. Serve in cups; top with mayo, cotija, chile powder, lime.
 
 ---
@@ -1110,7 +1110,7 @@
 ### Tlayuda
 
 **Region:** Oaxaca
-- Large corn tortilla (30â35cm), dried on comal until crispy
+- Large corn tortilla (30–35cm), dried on comal until crispy
 - Black bean paste (asientos/lard)
 - Oaxacan string cheese, pulled
 - Tasajo (dried beef) or chorizo
@@ -1143,7 +1143,7 @@
 - Breaded chicken or beef milanesa
 - Refried beans
 - Avocado, lettuce, tomato
-- JalapeÃ±os en escabeche, mayo, crema
+- Jalapeños en escabeche, mayo, crema
 
 1. Spread beans on bread; add all fillings.
 2. Press together; serve.
@@ -1152,7 +1152,7 @@
 
 ### Torta de Carnitas
 
-**Region:** MichoacÃ¡n/National
+**Region:** Michoacán/National
 - Bolillo
 - Carnitas (crispy pork)
 - Avocado, salsa verde, onion, cilantro
@@ -1168,7 +1168,7 @@
 - Birote bread (harder than bolillo)
 - Carnitas or roast pork
 - Refried beans
-- Submerged (ahogada) in salsa de chile de Ã¡rbol
+- Submerged (ahogada) in salsa de chile de árbol
 - Pickled onions
 
 1. Fill birote with pork and beans.
@@ -1219,7 +1219,7 @@
 
 ---
 
-### Agua de SandÃ­a
+### Agua de Sandía
 
 **Region:** National
 - 1 small seedless watermelon, cubed
@@ -1240,12 +1240,12 @@
 - 1.5L water
 
 1. Combine all in large jar.
-2. Cover loosely; ferment at room temperature 24â36 hours.
+2. Cover loosely; ferment at room temperature 24–36 hours.
 3. Strain; refrigerate; serve cold.
 
 ---
 
-### Agua de Pepino con LimÃ³n
+### Agua de Pepino con Limón
 
 **Region:** National
 - 2 cucumbers, peeled
@@ -1293,7 +1293,7 @@
 
 ### Cochinita Pibil
 
-**Region:** YucatÃ¡n
+**Region:** Yucatán
 - 2kg pork shoulder
 - Achiote paste: achiote + citrus (sour orange) + garlic + oregano + cumin + pepper + cloves + cinnamon
 - Banana leaves for wrapping
@@ -1301,28 +1301,28 @@
 
 1. Mix achiote paste with citrus juice.
 2. Marinate pork overnight.
-3. Wrap in banana leaves; steam-roast in oven or underground pit 3â4 hours.
+3. Wrap in banana leaves; steam-roast in oven or underground pit 3–4 hours.
 4. Shred; serve with pickled onions and tortillas.
 
 ---
 
 ### Poc Chuc
 
-**Region:** YucatÃ¡n
+**Region:** Yucatán
 - 4 pork steaks, pounded thin
 - Sour orange juice, garlic, salt
 - Tomato, radish, onion salad
 - Pickled red onions, cilantro
 
 1. Marinate pork in sour orange and garlic 30 min.
-2. Grill over high heat 2â3 min per side.
+2. Grill over high heat 2–3 min per side.
 3. Serve with tomato salad and pickled onions.
 
 ---
 
 ### Panuchos
 
-**Region:** YucatÃ¡n
+**Region:** Yucatán
 - Corn tortillas stuffed with black bean paste
 - Fried until puffed
 - Topped with cochinita pibil, pickled onions, avocado
@@ -1334,7 +1334,7 @@
 
 ### Salbutes
 
-**Region:** YucatÃ¡n
+**Region:** Yucatán
 - Fried tortillas (not stuffed)
 - Topped with turkey escabeche or chicken, avocado, pickled onions
 
@@ -1356,9 +1356,9 @@
 
 ---
 
-### Carne Asada NorteÃ±a
+### Carne Asada Norteña
 
-**Region:** Northern Mexico (Sonora, Nuevo LeÃ³n)
+**Region:** Northern Mexico (Sonora, Nuevo León)
 - 1kg arrachera (skirt steak) or thin-sliced beef
 - Salt, lime, garlic
 - Flour tortillas, fresh salsa, guacamole
@@ -1374,10 +1374,10 @@
 **Region:** Sonora/Chihuahua
 - 200g machaca (dried shredded beef)
 - 4 eggs
-- 1 tomato, 1/4 onion, jalapeÃ±o
+- 1 tomato, 1/4 onion, jalapeño
 - Flour tortillas
 
-1. SautÃ© tomato, onion, jalapeÃ±o; add machaca.
+1. Sauté tomato, onion, jalapeño; add machaca.
 2. Beat and add eggs; scramble until just set.
 3. Serve with flour tortillas.
 
@@ -1392,7 +1392,7 @@
 - Water to braise
 
 1. Marinate goat in chile paste overnight.
-2. Braise covered 3â4 hours until falling off bone.
+2. Braise covered 3–4 hours until falling off bone.
 3. Serve in broth with tortillas, lime, cilantro, onion.
 
 ---
@@ -1401,7 +1401,7 @@
 
 **Region:** Guerrero
 - Hominy, pork
-- Green sauce: tomatillos, pumpkin seeds, jalapeÃ±os, epazote, cilantro
+- Green sauce: tomatillos, pumpkin seeds, jalapeños, epazote, cilantro
 - Garnish: radishes, shredded cabbage, oregano, tostadas
 
 1. Blend green sauce; fry; add pork-hominy broth.
@@ -1423,7 +1423,7 @@
 
 ---
 
-### Estofado de Pollo OaxaqueÃ±o
+### Estofado de Pollo Oaxaqueño
 
 **Region:** Oaxaca
 - Chicken pieces
@@ -1432,7 +1432,7 @@
 - Cinnamon, cloves, vinegar
 
 1. Blend chiles with tomatoes and spices.
-2. SautÃ©; add chicken; cook in sauce.
+2. Sauté; add chicken; cook in sauce.
 3. Add olives, capers, raisins, almonds. Simmer 30 min.
 
 ---
@@ -1443,10 +1443,10 @@
 - 500g large shrimp, peeled
 - 8 garlic cloves, minced
 - 100g butter + olive oil
-- Chile de Ã¡rbol, lime, parsley
+- Chile de árbol, lime, parsley
 
-1. SautÃ© garlic in butter-oil mixture until golden.
-2. Add shrimp and chile; cook 2â3 min per side.
+1. Sauté garlic in butter-oil mixture until golden.
+2. Add shrimp and chile; cook 2–3 min per side.
 3. Finish with lime juice and parsley.
 
 ---
@@ -1466,13 +1466,13 @@
 
 ---
 
-### Ceviche de CamarÃ³n
+### Ceviche de Camarón
 
 **Region:** Coastal Mexico
 - 500g cooked shrimp
 - Juice of 4 limes
 - 1 tomato, 1/2 cucumber, 1/4 onion, cilantro
-- JalapeÃ±o, avocado
+- Jalapeño, avocado
 - Tostadas
 
 1. Dice shrimp and vegetables.
@@ -1489,7 +1489,7 @@
 - Tostadas
 - Crema, avocado, queso fresco, lettuce
 
-1. SautÃ© tomato-chipotle sauce; add chicken; simmer.
+1. Sauté tomato-chipotle sauce; add chicken; simmer.
 2. Pile on tostadas; top with crema, avocado, cheese, lettuce.
 
 ---
@@ -1499,7 +1499,7 @@
 **Region:** National
 - 2 eggs, fried
 - 2 corn tortillas, warmed
-- Salsa ranchera (tomatoes + jalapeÃ±o + onion + garlic)
+- Salsa ranchera (tomatoes + jalapeño + onion + garlic)
 - Refried beans, avocado, queso fresco
 
 1. Make salsa ranchera; keep warm.
@@ -1534,7 +1534,7 @@
 **Region:** National
 - Corn tortillas dipped in black bean sauce
 - Scrambled or fried egg
-- Cotija, crema, jalapeÃ±o
+- Cotija, crema, jalapeño
 
 1. Thin black beans to sauce; warm.
 2. Dip tortillas; plate with eggs; garnish.
@@ -1546,7 +1546,7 @@
 **Region:** Mexico City/Central
 - Corn tortilla
 - Quesillo (Oaxacan cheese)
-- Squash blossoms, fresh or sautÃ©ed
+- Squash blossoms, fresh or sautéed
 - Epazote
 
 1. Fill tortilla with cheese, squash blossoms, epazote.
@@ -1554,14 +1554,14 @@
 
 ---
 
-### Quesadilla de ChicharrÃ³n Prensado
+### Quesadilla de Chicharrón Prensado
 
 **Region:** Mexico City
 - Corn tortilla
-- Pressed chicharrÃ³n (pork rind in chile sauce)
+- Pressed chicharrón (pork rind in chile sauce)
 - Cheese (optional)
 
-1. Fill tortilla with chicharrÃ³n prensado.
+1. Fill tortilla with chicharrón prensado.
 2. Cook on comal both sides until crisp.
 
 ---
@@ -1610,7 +1610,7 @@
 
 **Region:** Coastal
 - Tostada base
-- Fish ceviche: white fish + lime + tomato + onion + jalapeÃ±o + cilantro
+- Fish ceviche: white fish + lime + tomato + onion + jalapeño + cilantro
 - Avocado, crema
 
 1. Marinate fish in lime 20 min.
@@ -1650,7 +1650,7 @@
 - Corn tortillas
 - Black bean sauce
 - Shredded chicken
-- Queso fresco, crema, pickled jalapeÃ±os
+- Queso fresco, crema, pickled jalapeños
 
 1. Dip tortillas in warm bean sauce; fill with chicken.
 2. Cover with more sauce; garnish.
@@ -1672,7 +1672,7 @@
 
 ---
 
-### Agua de GuanÃ¡bana
+### Agua de Guanábana
 
 **Region:** National
 - 1 guanabana (soursop), seeded and pulped
@@ -1685,4 +1685,4 @@
 
 ---
 
-*End of Mexican Complete Recipe Collection â 200+ recipes across all regions and categories.*
+*End of Mexican Complete Recipe Collection — 200+ recipes across all regions and categories.*

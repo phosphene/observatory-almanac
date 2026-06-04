@@ -1,27 +1,27 @@
 # The Discovery Machine
 
-ð Discovery Machine â All Questionnaires
+🔍 Discovery Machine — All Questionnaires
 
-* [ð Depression Screen (PHQ-9)](../clinical-validated/#take-the-phq-9-now)
-* [ð Anxiety Screen (GAD-7)](../clinical-validated/#take-the-gad-7-now)
-* [ð§  Big Five Personality](../self-knowledge/#take-the-big-five-now)
-* [ð¼ Career Type (RIASEC)](../vocational-personality/#holland-riasec)
-* [ð Attachment Style](../relationship-social/#attachment-style)
-* [ð³ï¸ Political Compass](../self-discovery-suite/#political-compass)
-* [â¤ï¸ Relationship Health](../relationship-dynamics/#relationship-health)
-* [ð¨ Emergency Decision Tree](../body-survival/#emergency-decision-tree)
-* [ð¡ï¸ Scam Checker](../consumer-legal/#scam-checker)
-* [ð Is This Dog Friendly?](../animal-nature/#dog-friendly)
-* [ð  Home Safety Score](../home-environment/#home-safety)
-* [ð What's That Smell/Sound?](../sensory-diagnostics/#whats-that-smell)
-* [ð§ Boundary Health Check](../relational-behavioral-deep/#boundary-health)
-* [ð Glossary Mad Libs Quiz](../mad-libs-learning/#glossary-quiz)
+* [📋 Depression Screen (PHQ-9)](../clinical-validated/#take-the-phq-9-now)
+* [📋 Anxiety Screen (GAD-7)](../clinical-validated/#take-the-gad-7-now)
+* [🧠 Big Five Personality](../self-knowledge/#take-the-big-five-now)
+* [💼 Career Type (RIASEC)](../vocational-personality/#holland-riasec)
+* [💕 Attachment Style](../relationship-social/#attachment-style)
+* [🗳️ Political Compass](../self-discovery-suite/#political-compass)
+* [❤️ Relationship Health](../relationship-dynamics/#relationship-health)
+* [🚨 Emergency Decision Tree](../body-survival/#emergency-decision-tree)
+* [🛡️ Scam Checker](../consumer-legal/#scam-checker)
+* [🐕 Is This Dog Friendly?](../animal-nature/#dog-friendly)
+* [🏠 Home Safety Score](../home-environment/#home-safety)
+* [👃 What's That Smell/Sound?](../sensory-diagnostics/#whats-that-smell)
+* [🚧 Boundary Health Check](../relational-behavioral-deep/#boundary-health)
+* [📝 Glossary Mad Libs Quiz](../mad-libs-learning/#glossary-quiz)
 
-*Knowledge Â· Questionnaires Â· Interactive Tools*
+*Knowledge · Questionnaires · Interactive Tools*
 
 ## Relationship & Social Reading
 
-> **On this section's premise:** Humans have assessed each other since before language. Primatologists call it social intelligence. Poker players call it reading tells. Therapists call it attunement. The grandmother who said "I don't trust that man" was running an algorithm â she just didn't have the vocabulary for it. This section gives you the vocabulary.
+> **On this section's premise:** Humans have assessed each other since before language. Primatologists call it social intelligence. Poker players call it reading tells. Therapists call it attunement. The grandmother who said "I don't trust that man" was running an algorithm — she just didn't have the vocabulary for it. This section gives you the vocabulary.
 
 ---
 
@@ -33,20 +33,20 @@
 
 **What it measures:** Overall relationship satisfaction and perceived equity.
 
-Rate each item 1â5 (1=Low/Never, 5=High/Always):
+Rate each item 1–5 (1=Low/Never, 5=High/Always):
 
 1. How well does your partner meet your needs?
 2. In general, how satisfied are you with your relationship?
 3. How good is your relationship compared to most?
-4. How often do you wish you hadn't gotten into this relationship? *(reverse: 5â1)*
+4. How often do you wish you hadn't gotten into this relationship? *(reverse: 5→1)*
 5. To what extent has your relationship met your original expectations?
 6. How much do you love your partner?
 7. How many problems are there in your relationship? *(reverse)*
 
-Sum all items (after reversals). Scores range 7â35.
-- **28â35:** High satisfaction
-- **21â27:** Moderate â specific areas worth examining
-- **7â20:** Low satisfaction â professional couples counseling may help
+Sum all items (after reversals). Scores range 7–35.
+- **28–35:** High satisfaction
+- **21–27:** Moderate — specific areas worth examining
+- **7–20:** Low satisfaction — professional couples counseling may help
 
 ---
 
@@ -56,7 +56,7 @@ Sum all items (after reversals). Scores range 7â35.
 
 **History:** Mary Ainsworth first identified secure, anxious, and avoidant attachment in infants. Hazan and Shaver extended this to adult romantic attachment. Kim Bartholomew later split avoidant into two types.
 
-### The Four Styles â Read and Identify
+### The Four Styles — Read and Identify
 
 **Secure Attachment:**
 "I find it relatively easy to get close to others. I feel comfortable depending on others and having others depend on me. I don't often worry about being abandoned or about someone getting too close to me."
@@ -76,13 +76,13 @@ Characteristics: Values autonomy to the point of emotional disconnection. Minimi
 **Fearful-Avoidant (Disorganized):**
 "I am somewhat uncomfortable getting close to others. I want emotionally close relationships, but I find it difficult to trust others completely, or to depend on them. I sometimes worry that I will be hurt if I allow myself to become too close to others."
 
-Characteristics: Simultaneous desire for and fear of closeness. Often rooted in trauma. May show unpredictable behavior â pursuing then withdrawing. Highest correlation with trauma history.
+Characteristics: Simultaneous desire for and fear of closeness. Often rooted in trauma. May show unpredictable behavior — pursuing then withdrawing. Highest correlation with trauma history.
 
 ### Self-Identification
 
 Read all four descriptions. Which resonates most? Which resonates secondarily?
 
-Most people have one primary and one secondary style. Attachment isn't fixed â secure relationships (including therapeutic ones) can shift your attachment orientation over time.
+Most people have one primary and one secondary style. Attachment isn't fixed — secure relationships (including therapeutic ones) can shift your attachment orientation over time.
 
 **Professional help is warranted if:** Fearful-avoidant patterns with high severity, or if attachment style is significantly disrupting relationships or causing distress. Attachment-based therapy is effective.
 
@@ -123,10 +123,10 @@ Withdrawing from interaction; emotional shutdown.
 - Do you give prolonged silent treatment?
 
 **Antidotes (also from Gottman research):**
-- Criticism â Gentle startup (use "I" statements, describe your feelings, make specific requests)
-- Contempt â Build culture of appreciation (actively look for what partner does right)
-- Defensiveness â Take responsibility (find the grain of truth in any complaint)
-- Stonewalling â Physiological self-soothing (call a 20-minute break, then return to discuss)
+- Criticism → Gentle startup (use "I" statements, describe your feelings, make specific requests)
+- Contempt → Build culture of appreciation (actively look for what partner does right)
+- Defensiveness → Take responsibility (find the grain of truth in any complaint)
+- Stonewalling → Physiological self-soothing (call a 20-minute break, then return to discuss)
 
 ---
 
@@ -140,7 +140,7 @@ Withdrawing from interaction; emotional shutdown.
 
 **Quality Time:** Undivided attention and shared activities. Being together (truly present) is the primary vehicle. Distractions feel like rejection.
 
-**Receiving Gifts:** Tangible symbols of love. Not about monetary value â about thoughtfulness and "I saw this and thought of you."
+**Receiving Gifts:** Tangible symbols of love. Not about monetary value — about thoughtfulness and "I saw this and thought of you."
 
 **Acts of Service:** Doing helpful things. Dishes done, errands run, problems solved. "Actions speak louder than words" is this person's native tongue.
 
@@ -148,7 +148,7 @@ Withdrawing from interaction; emotional shutdown.
 
 ### Identification Exercise
 
-Rank these 5 languages 1â5 (1=Most important to you receiving love, 5=Least):
+Rank these 5 languages 1–5 (1=Most important to you receiving love, 5=Least):
 
 \_\_\_ Words of Affirmation
 \_\_\_ Quality Time
@@ -156,7 +156,7 @@ Rank these 5 languages 1â5 (1=Most important to you receiving love, 5=Least
 \_\_\_ Acts of Service
 \_\_\_ Physical Touch
 
-**Second step:** Ask how you most naturally *express* love to others. Often mirrors how you want to receive it â but not always.
+**Second step:** Ask how you most naturally *express* love to others. Often mirrors how you want to receive it — but not always.
 
 **Application:** Mismatched love languages cause relationship friction that partners often interpret as indifference or cruelty when it's actually a translation problem. Knowing your language (and your partner's) lets you give what they actually need.
 
@@ -186,10 +186,10 @@ Score: **0=Never | 1=Rarely | 2=Sometimes | 3=Quite often | 4=Nearly always**
 
 | Score | Burden Level |
 | --- | --- |
-| 0â10 | Little or no burden |
-| 11â20 | Mild to moderate burden |
-| 21â30 | Moderate to severe |
-| 31â48 | Severe burden |
+| 0–10 | Little or no burden |
+| 11–20 | Mild to moderate burden |
+| 21–30 | Moderate to severe |
+| 31–48 | Severe burden |
 
 **Caregiver burnout is real and has serious health consequences.** Scores of 21+ warrant respite care, support groups, and professional consultation.
 
@@ -211,9 +211,9 @@ Rate each: **0=Hardly ever | 1=Some of the time | 2=Almost always**
 
 | Score | Family Function |
 | --- | --- |
-| 7â10 | Highly functional family |
-| 4â6 | Moderate dysfunction |
-| 0â3 | Severely dysfunctional |
+| 7–10 | Highly functional family |
+| 4–6 | Moderate dysfunction |
+| 0–3 | Severely dysfunctional |
 
 ---
 
@@ -247,8 +247,8 @@ Check all that apply to your current relationship patterns:
 - [ ] I've lost track of my own interests and identity in relationships
 
 **Count of checkmarks:**
-- **0â3:** Within normal range
-- **4â7:** Co-dependent patterns present; awareness and boundary work helpful
+- **0–3:** Within normal range
+- **4–7:** Co-dependent patterns present; awareness and boundary work helpful
 - **8+:** Significant co-dependency likely; therapy (especially attachment-focused) strongly recommended
 
 ---
@@ -265,15 +265,15 @@ Check all that apply to your current relationship patterns:
 
 #### DEFINITE signals (multiple in combination)
 
-* Sustained eye contact beyond social norms (2â4+ seconds for cultures where brief eye contact is standard), followed by looking away and looking back
-* Mirroring your posture, gestures, or speech patterns â unconsciously copying you
+* Sustained eye contact beyond social norms (2–4+ seconds for cultures where brief eye contact is standard), followed by looking away and looking back
+* Mirroring your posture, gestures, or speech patterns — unconsciously copying you
 * Touch initiation: light touch on arm, shoulder, or back without functional purpose, then watching your reaction
-* Creating private moments in public â leaning in, lowering voice, sharing jokes not meant for the group
+* Creating private moments in public — leaning in, lowering voice, sharing jokes not meant for the group
 * Finding reasons to extend time with you (delays leaving, invents reasons to return)
 
 #### PROBABLE signals
 
-* Increased personal space violation â standing or sitting closer than the situation requires
+* Increased personal space violation — standing or sitting closer than the situation requires
 * Self-grooming in your presence (hair touching, clothing adjustment)
 * Open body orientation toward you even in group settings
 * Finding everything you say funnier than it is
@@ -296,7 +296,7 @@ Check all that apply to your current relationship patterns:
 
 ### Reading 2: "Is This Person Lying?"
 
-**Critical preface:** Research on deception detection is sobering. Baseline detection accuracy hovers around 54% â barely better than chance. Most "common wisdom" about lying detection is wrong. Here's what the evidence actually shows.
+**Critical preface:** Research on deception detection is sobering. Baseline detection accuracy hovers around 54% — barely better than chance. Most "common wisdom" about lying detection is wrong. Here's what the evidence actually shows.
 
 #### What DOESN'T work (the myths)
 
@@ -326,7 +326,7 @@ None of these signals mean anything without knowing the person's normal. Establi
 
 ---
 
-### Reading 3: "Is This Person Safe?" â Gift of Fear Framework
+### Reading 3: "Is This Person Safe?" — Gift of Fear Framework
 
 **Based on:** Gavin de Becker's *The Gift of Fear* (1997). Public safety framework. de Becker identifies specific behavioral patterns associated with predatory intent, distinguished from normal social interaction.
 
@@ -342,7 +342,7 @@ Using "we" language to create false alliance with a stranger. "We should figure 
 Charm used purposefully and consciously, especially when it seems situationally inappropriate. de Becker: "Niceness is a decision, not a character trait."
 
 *What's normal:* Warmth and pleasantness.
-*Red flag:* Charm that feels "on" â performed rather than natural, especially when charm continues even when met with resistance.
+*Red flag:* Charm that feels "on" — performed rather than natural, especially when charm continues even when met with resistance.
 
 **3. Too Many Details**
 Volunteering excessive detail to explain themselves without being asked. People who are being truthful don't feel compelled to over-explain. Fabrications require supporting structures.
@@ -386,9 +386,9 @@ Rate the friendship on each dimension (1=Never true, 5=Always true):
 
 | Score | Assessment |
 | --- | --- |
-| 20â25 | Healthy, reciprocal friendship |
-| 13â19 | Mostly healthy â specific dimensions worth addressing |
-| 5â12 | Imbalanced â worth examining whether to invest or divest |
+| 20–25 | Healthy, reciprocal friendship |
+| 13–19 | Mostly healthy — specific dimensions worth addressing |
+| 5–12 | Imbalanced — worth examining whether to invest or divest |
 
 **The energy audit:** After spending time with specific people, notice your energy level. Does it rise, stay neutral, or fall? Chronic energy depletion is data.
 
@@ -403,7 +403,7 @@ Rate the friendship on each dimension (1=Never true, 5=Always true):
 When someone is held accountable for harmful behavior, DARVO is the pattern of:
 1. **Denying** the behavior or minimizing it
 2. **Attacking** the person who raised the concern (their motives, credibility, or character)
-3. **Reversing** the roles â claiming to be the real victim
+3. **Reversing** the roles — claiming to be the real victim
 
 *Example:* "I never said that [deny]. You're just oversensitive and trying to control me [attack]. You're the one hurting me by making these accusations [reverse]."
 
@@ -416,7 +416,7 @@ Check all patterns you've experienced from a specific person:
 * [ ] Repeatedly denying events you clearly remember
 * [ ] Insisting your memory is faulty or that you imagined things
 * [ ] Using your emotional reaction as evidence you're irrational
-* [ ] Moving goalposts â the rules change when you follow them
+* [ ] Moving goalposts — the rules change when you follow them
 * [ ] Telling others you're unstable or not to be trusted
 * [ ] Minimizing your concerns then accusing you of not caring about them
 * [ ] Making you feel crazy for noticing patterns
@@ -430,7 +430,7 @@ Check all patterns you've experienced from a specific person:
 
 **Intermittent reinforcement:** Alternating reward and punishment on an unpredictable schedule. Creates strongest psychological bonding (same principle as slot machines). In relationships: warmth and coldness cycling without apparent logic.
 
-**Guilt-tripping as control:** Using your guilt as a lever. Distinct from legitimate accountability â guilt-tripping ignores your explanation and focuses on the manipulator's injury.
+**Guilt-tripping as control:** Using your guilt as a lever. Distinct from legitimate accountability — guilt-tripping ignores your explanation and focuses on the manipulator's injury.
 
 **Triangulation:** Introducing a third party to create jealousy, insecurity, or competition. "Everyone else agrees with me." "Even [person who likes you] said you were wrong."
 
@@ -510,7 +510,7 @@ When entering any group:
 
 #### Entry/Exit Social Protocol
 
-The most valuable moments for social reading are **entrances and exits** â people's guard is lowest when they're managing the logistics of a hello or goodbye. Watch for:
+The most valuable moments for social reading are **entrances and exits** — people's guard is lowest when they're managing the logistics of a hello or goodbye. Watch for:
 - Who greets whom first (initiators often have higher or equal status)
 - Warmth vs. performance in greetings (who lights up genuinely vs. performs pleasantness)
 - Who gets sought out vs. seeks out when leaving
@@ -519,10 +519,10 @@ The most valuable moments for social reading are **entrances and exits** â 
 
 ---
 
-*These social reading frameworks draw on research from behavioral science, clinical psychology, and criminology. They are pattern recognition tools â useful but imperfect. Every signal has exceptions. The goal is pattern recognition over time, not snap judgments. Used thoughtfully, this is one of the most powerful skill sets a human can develop.*
+*These social reading frameworks draw on research from behavioral science, clinical psychology, and criminology. They are pattern recognition tools — useful but imperfect. Every signal has exceptions. The goal is pattern recognition over time, not snap judgments. Used thoughtfully, this is one of the most powerful skill sets a human can develop.*
 
 ---
 
-## ð Interactive: Attachment Style Identifier
+## 💞 Interactive: Attachment Style Identifier
 
 *Loading...*

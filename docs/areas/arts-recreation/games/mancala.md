@@ -1,6 +1,6 @@
 # Mancala
 
-**The Sowing Games** Â· 2 players Â· Ages 5+ Â· 15â30 min
+**The Sowing Games** · 2 players · Ages 5+ · 15–30 min
 
 Mancala is a family of count-and-capture games played across Africa, Asia, and the Caribbean. The name derives from the Arabic *naqala* (to move). Rather than moving individual pieces, players "sow" multiple seeds (or stones or beads) from one pit to others in sequence. Two variants dominate Western play: **Kalah** (popularized in the United States) and **Oware** (the dominant variant across West Africa and the Caribbean).
 
@@ -12,13 +12,13 @@ Mancala is a family of count-and-capture games played across Africa, Asia, and t
 * **Seeds:** 48 small stones, beads, or seeds (4 per pit in Kalah; varies by variant).
 
 ```
-         PLAYER 2's side (moves right to left â)
-    ââââââ¬âââââ¬âââââ¬âââââ¬âââââ¬âââââ¬âââââ¬âââââ
-    â    â  6 â  5 â  4 â  3 â  2 â  1 â    â
-    â P2 ââââââ¼âââââ¼âââââ¼âââââ¼âââââ¼âââââ¤ P1 â
-    â    â  1 â  2 â  3 â  4 â  5 â  6 â    â
-    ââââââ´âââââ´âââââ´âââââ´âââââ´âââââ´âââââ´âââââ
-         PLAYER 1's side (moves left to right â)
+         PLAYER 2's side (moves right to left ←)
+    ┌────┬────┬────┬────┬────┬────┬────┬────┐
+    │    │  6 │  5 │  4 │  3 │  2 │  1 │    │
+    │ P2 ├────┼────┼────┼────┼────┼────┤ P1 │
+    │    │  1 │  2 │  3 │  4 │  5 │  6 │    │
+    └────┴────┴────┴────┴────┴────┴────┴────┘
+         PLAYER 1's side (moves left to right →)
 ```
 
 ---
@@ -55,7 +55,7 @@ When either player has no seeds in any of their six pits on their turn, the game
 
 **Capture threats:** Look for pits whose sow would land in an empty pit on your side with seeds opposite. Threaten multiple captures to force your opponent to protect.
 
-**Depleting your side:** Avoid leaving single seeds scattered across your pitsâthey are vulnerable to capture. Consolidate seeds in one or two pits.
+**Depleting your side:** Avoid leaving single seeds scattered across your pits—they are vulnerable to capture. Consolidate seeds in one or two pits.
 
 **Block opponent:** Prevent your opponent from getting extra turns by keeping your pits in states that don't give them free-turn sows.
 
@@ -65,7 +65,7 @@ When either player has no seeds in any of their six pits on their turn, the game
 
 ## OWARE (Owari / Wari / Ayo)
 
-Oware is the most widespread mancala variant globally. It is the national game of Ghana and is widely played across West Africa, the Caribbean (especially Barbados, where it is called "road"), and among diaspora communities worldwide. Unlike Kalah, Oware has no stores on the boardâcaptured seeds are held by the captor.
+Oware is the most widespread mancala variant globally. It is the national game of Ghana and is widely played across West Africa, the Caribbean (especially Barbados, where it is called "road"), and among diaspora communities worldwide. Unlike Kalah, Oware has no stores on the board—captured seeds are held by the captor.
 
 ### Setup
 
@@ -102,9 +102,9 @@ When a capture occurs, also capture any consecutive pits immediately before the 
 
 **Feed your opponent:** Unlike Kalah, leaving your opponent with no seeds to play is penalized (grand slam prohibition). Occasionally you must feed seeds to your opponent to make legal moves possible.
 
-**Count ahead:** Oware rewards reading 4â6 moves ahead. Count how many seeds are in each pit and where the last seed of each possible move lands.
+**Count ahead:** Oware rewards reading 4–6 moves ahead. Count how many seeds are in each pit and where the last seed of each possible move lands.
 
-**Maintain captures:** Keep pits with 1 seed near your opponent's sideâthese can grow into 2-or-3 seed pits after opponent sowing.
+**Maintain captures:** Keep pits with 1 seed near your opponent's side—these can grow into 2-or-3 seed pits after opponent sowing.
 
 **Deny captures:** Keep your pits at counts that cannot be completed to 2 or 3 by opponent sowing. Pits of 4+ seeds require the opponent to sow enough to reach exactly 2 or 3.
 
@@ -136,7 +136,7 @@ A 7-hole variant of Congkak, with 7 seeds per pit. Played with shells on an orna
 
 Despite variant diversity, most mancala games share these principles:
 
-1. **Pick up all seeds** from a chosen pitânever partial sowing.
+1. **Pick up all seeds** from a chosen pit—never partial sowing.
 2. **Sow counterclockwise** (most variants; some use clockwise).
 3. **Never sow in starting pit** (if sow wraps around a full board).
 4. **Capture depends on count** of seeds in destination or nearby pits.
@@ -146,4 +146,4 @@ Despite variant diversity, most mancala games share these principles:
 
 *See also: Backgammon (racing with captures), Chess (pure strategy without randomness)*
 
-### ð¯ Scorecard
+### 🎯 Scorecard

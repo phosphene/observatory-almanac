@@ -2,7 +2,7 @@
 
 ---
 
-## GERMAN â SCHNITZEL
+## GERMAN — SCHNITZEL
 
 ### Wiener Schnitzel [AUSTRIA/GERMAN]
 
@@ -10,15 +10,15 @@
 **Method:**
 1. Season cutlets; dredge in flour, dip in egg, coat in breadcrumbs. Do not press.
 2. Fry immediately in plenty of hot clarified butter, shaking pan so schnitzel swims.
-3. Cook 2â3 minutes per side until golden. Drain.
+3. Cook 2–3 minutes per side until golden. Drain.
 4. Serve with lemon and parsley. Never with sauce.
 
-### JÃ¤gerschnitzel [GERMAN]
+### Jägerschnitzel [GERMAN]
 
 **Ingredients:** 4 pork cutlets pounded thin, flour, egg, breadcrumbs, oil for frying. Hunter's sauce: 300g mushrooms sliced, 1 onion diced, 1 cup beef broth, 1/2 cup cream, 1 tbsp tomato paste, 1 tsp thyme, salt, pepper
 **Method:**
 1. Bread and fry pork cutlets as Wiener Schnitzel.
-2. SautÃ© onion; add mushrooms, cook until golden.
+2. Sauté onion; add mushrooms, cook until golden.
 3. Add tomato paste; deglaze with broth. Add cream; simmer 5 minutes.
 4. Pour sauce over cutlets.
 
@@ -27,7 +27,7 @@
 **Ingredients:** 4 pork loin cutlets, breadcrumbs, flour, egg, salt, pepper, lard, capers, lemon
 **Method:**
 1. Pound cutlets thin; season.
-2. Bread in flour-egg-crumb; fry in lard 2â3 min per side.
+2. Bread in flour-egg-crumb; fry in lard 2–3 min per side.
 3. Garnish with capers, anchovy, lemon slice.
 
 ### Zigeunerschnitzel [GERMAN]
@@ -35,18 +35,18 @@
 **Ingredients:** 4 pork cutlets breaded and fried, 1 cup gypsy sauce (bell peppers, onions, tomatoes, paprika, broth)
 **Method:**
 1. Fry schnitzel.
-2. Make sauce: sautÃ© peppers, onion; add paprika, tomatoes, broth; simmer 15 min.
+2. Make sauce: sauté peppers, onion; add paprika, tomatoes, broth; simmer 15 min.
 3. Pour over schnitzel.
 
 ---
 
-## GERMAN â SAUERBRATEN
+## GERMAN — SAUERBRATEN
 
 ### Rhineland Sauerbraten [GERMAN]
 
 **Ingredients:** 3 lb beef rump roast, 2 cups red wine vinegar, 2 cups water, 1 onion sliced, 1 carrot, 2 bay leaves, 6 cloves, 6 peppercorns, 1 tsp juniper berries. Sauce: pan juices, gingersnap cookies, 1/2 cup raisins, 2 tbsp sugar, 1/2 cup red wine
 **Method:**
-1. Bring marinade to boil; cool. Submerge beef; refrigerate 3â5 days.
+1. Bring marinade to boil; cool. Submerge beef; refrigerate 3–5 days.
 2. Pat beef dry; brown on all sides in oil.
 3. Strain and add marinade; braise covered 3 hours until tender.
 4. Remove beef; add gingersnaps, raisins, sugar, wine to liquid; simmer to sauce.
@@ -54,7 +54,7 @@
 
 ### Sauerbraten with Potato Dumplings [GERMAN]
 
-**Ingredients:** Sauerbraten (above), KartoffelklÃ¶Ãe (3 cups mashed potato + 1 cup flour + 2 eggs + salt, rolled into balls)
+**Ingredients:** Sauerbraten (above), Kartoffelklöße (3 cups mashed potato + 1 cup flour + 2 eggs + salt, rolled into balls)
 **Method:**
 1. Prepare sauerbraten as above.
 2. Boil potato balls in salted water 15 minutes; drain.
@@ -62,25 +62,25 @@
 
 ---
 
-## GERMAN â BRATWURST
+## GERMAN — BRATWURST
 
 ### Grilled Bratwurst [GERMAN]
 
 **Ingredients:** 4 bratwurst links, 4 buns, sauerkraut, German mustard, caraway seeds
 **Method:**
 1. Simmer brats in beer and onions 15 minutes (optional).
-2. Grill over medium heat 10â12 minutes, turning until golden.
+2. Grill over medium heat 10–12 minutes, turning until golden.
 3. Serve in bun with sauerkraut and mustard.
 
 ### Brats in Beer [GERMAN-AM]
 
 **Ingredients:** 6 bratwurst, 2 bottles lager, 1 large onion sliced, 2 tbsp butter, caraway, buns, mustard
 **Method:**
-1. SautÃ© onion in butter until soft; add beer.
+1. Sauté onion in butter until soft; add beer.
 2. Add brats; simmer 20 minutes.
 3. Grill brats to char; return to beer bath to keep warm.
 
-### NÃ¼rnberger Rostbratwurst [GERMAN]
+### Nürnberger Rostbratwurst [GERMAN]
 
 **Ingredients:** Small thin sausages (3 per bun), 3 buns, sauerkraut, mustard, potato salad
 **Method:**
@@ -89,7 +89,7 @@
 
 ---
 
-## GERMAN â CURRYWURST
+## GERMAN — CURRYWURST
 
 ### Berlin Currywurst [GERMAN]
 
@@ -109,7 +109,7 @@
 
 ---
 
-## GERMAN â KARTOFFELPUFFER
+## GERMAN — KARTOFFELPUFFER
 
 ### Potato Pancakes [GERMAN]
 
@@ -125,34 +125,34 @@
 **Ingredients:** 3 sweet potatoes grated, 1 egg, 2 tbsp flour, 1/2 tsp cumin, salt, oil
 **Method:**
 1. Squeeze moisture from sweet potato; mix with egg, flour, cumin, salt.
-2. Fry 3â4 minutes per side until golden.
+2. Fry 3–4 minutes per side until golden.
 
 ---
 
-## GERMAN â SPÃTZLE
+## GERMAN — SPÄTZLE
 
-### Classic SpÃ¤tzle [GERMAN]
+### Classic Spätzle [GERMAN]
 
 **Ingredients:** 2 cups flour, 3 eggs, 1/2 cup water or milk, 1/2 tsp salt, pinch nutmeg, 2 tbsp butter
 **Method:**
 1. Mix flour, eggs, water, salt, nutmeg into thick batter.
-2. Press through spÃ¤tzle maker or colander into boiling salted water.
+2. Press through spätzle maker or colander into boiling salted water.
 3. Cook until they float + 2 minutes; drain.
 4. Toss in browned butter.
 
-### KÃ¤sespÃ¤tzle [GERMAN]
+### Käsespätzle [GERMAN]
 
-**Ingredients:** SpÃ¤tzle (above), 2 cups Emmental or GruyÃ¨re grated, 2 large onions thinly sliced, 4 tbsp butter
+**Ingredients:** Spätzle (above), 2 cups Emmental or Gruyère grated, 2 large onions thinly sliced, 4 tbsp butter
 **Method:**
-1. Caramelize onions in butter 30â40 minutes.
-2. Layer spÃ¤tzle and cheese in gratin dish.
-3. Top with caramelized onions; bake 200Â°C 15 minutes.
+1. Caramelize onions in butter 30–40 minutes.
+2. Layer spätzle and cheese in gratin dish.
+3. Top with caramelized onions; bake 200°C 15 minutes.
 
 ---
 
-## GERMAN â KNÃDEL
+## GERMAN — KNÖDEL
 
-### SemmelknÃ¶del (Bread Dumplings) [GERMAN]
+### Semmelknödel (Bread Dumplings) [GERMAN]
 
 **Ingredients:** 4 stale bread rolls cubed, 1/2 cup warm milk, 2 eggs, 1 small onion diced, 1 tbsp parsley, salt, nutmeg
 **Method:**
@@ -160,14 +160,14 @@
 2. Mix in eggs, onion, parsley, salt, nutmeg.
 3. Form balls; simmer in salted water 20 minutes.
 
-### KartoffelknÃ¶del (Potato Dumplings) [GERMAN]
+### Kartoffelknödel (Potato Dumplings) [GERMAN]
 
 **Ingredients:** 3 cups riced cooked potato, 1 cup potato starch, 1 egg, 1 tsp salt, nutmeg, bread crouton centers optional
 **Method:**
 1. Mix potato, starch, egg, salt, nutmeg into dough.
 2. Form balls with crouton inside; simmer 20 minutes.
 
-### LeberknÃ¶del (Liver Dumplings) [GERMAN]
+### Leberknödel (Liver Dumplings) [GERMAN]
 
 **Ingredients:** 200g beef liver pureed, 2 bread rolls soaked and squeezed, 1 egg, 1 onion grated, marjoram, salt, pepper
 **Method:**
@@ -177,7 +177,7 @@
 
 ---
 
-## GERMAN â SAUERKRAUT
+## GERMAN — SAUERKRAUT
 
 ### Homemade Sauerkraut [GERMAN]
 
@@ -186,19 +186,19 @@
 1. Shred cabbage finely; toss with salt.
 2. Massage 10 minutes until brine is released.
 3. Pack tightly into jars; weigh down.
-4. Ferment at room temperature 1â4 weeks, tasting for sourness.
+4. Ferment at room temperature 1–4 weeks, tasting for sourness.
 
 ### Braised Sauerkraut [GERMAN]
 
 **Ingredients:** 2 lb sauerkraut, 1 onion sliced, 2 tbsp lard, 1 cup white wine, 1/2 cup apple juice, 1 bay leaf, 4 juniper berries, 1 apple grated, 1 tsp caraway
 **Method:**
-1. SautÃ© onion in lard; add sauerkraut.
+1. Sauté onion in lard; add sauerkraut.
 2. Add wine, juice, apple, bay, juniper, caraway.
 3. Simmer covered 45 minutes.
 
 ---
 
-## GERMAN â PRETZELS
+## GERMAN — PRETZELS
 
 ### Laugenbrezel (Soft Pretzels) [GERMAN]
 
@@ -207,12 +207,12 @@
 1. Knead dough until smooth; rest 1 hour.
 2. Divide; roll into ropes; twist into pretzel shape.
 3. Dip in lye solution (or 30min baked baking soda solution) briefly.
-4. Slash thick part; bake 220Â°C 12â15 minutes until dark brown.
+4. Slash thick part; bake 220°C 12–15 minutes until dark brown.
 5. Salt immediately.
 
 ---
 
-## GERMAN â ROULADEN
+## GERMAN — ROULADEN
 
 ### Beef Rouladen [GERMAN]
 
@@ -226,9 +226,9 @@
 
 ---
 
-## GERMAN â KÃNIGSBERGER KLOPSE
+## GERMAN — KÖNIGSBERGER KLOPSE
 
-### KÃ¶nigsberger Klopse [GERMAN]
+### Königsberger Klopse [GERMAN]
 
 **Ingredients:** 600g ground beef-pork mix, 2 bread rolls soaked, 1 egg, 1 onion, anchovy fillets, salt, pepper. Caper sauce: 2 tbsp butter, 2 tbsp flour, 1 cup beef broth, 1 cup cream, 3 tbsp capers, lemon juice
 **Method:**
@@ -239,7 +239,7 @@
 
 ---
 
-## GERMAN â STOLLEN
+## GERMAN — STOLLEN
 
 ### Christmas Stollen [GERMAN]
 
@@ -248,19 +248,19 @@
 1. Soak fruit in rum overnight.
 2. Make enriched yeast dough; rise 1 hour.
 3. Flatten; place marzipan log on one side; fold over.
-4. Bake 175Â°C 50â60 minutes.
+4. Bake 175°C 50–60 minutes.
 5. Brush hot stollen with melted butter; dust heavily with powdered sugar.
-6. Wrap; mature 2â4 weeks.
+6. Wrap; mature 2–4 weeks.
 
 ---
 
-## GERMAN â BLACK FOREST CAKE
+## GERMAN — BLACK FOREST CAKE
 
-### SchwarzwÃ¤lder Kirschtorte [GERMAN]
+### Schwarzwälder Kirschtorte [GERMAN]
 
 **Ingredients:** 3 chocolate sponge layers (flour, cocoa, eggs, sugar, butter), 600ml whipping cream, 2 cans sour cherries (1 drained, 1 with juice), 100ml Kirschwasser, dark chocolate shavings, maraschino cherries for decoration
 **Method:**
-1. Bake three thin chocolate sponge layers at 180Â°C 20 minutes; cool.
+1. Bake three thin chocolate sponge layers at 180°C 20 minutes; cool.
 2. Soak each layer with cherry juice mixed with Kirschwasser.
 3. Whip cream stiff.
 4. Layer: sponge, cream, cherries; repeat.
@@ -268,7 +268,7 @@
 
 ---
 
-## GERMAN â APFELSTRUDEL
+## GERMAN — APFELSTRUDEL
 
 ### Wiener Apfelstrudel [AUSTRIA/GERMAN]
 
@@ -277,7 +277,7 @@
 1. Make dough; rest 30 minutes. Stretch on floured cloth until paper thin.
 2. Brush with melted butter; spread breadcrumbs, then apple filling.
 3. Roll using cloth; curve on baking tray.
-4. Brush with butter; bake 190Â°C 35â40 minutes.
+4. Brush with butter; bake 190°C 35–40 minutes.
 5. Dust with powdered sugar; serve warm with vanilla sauce.
 
 ### Quick Puff Pastry Strudel [GERMAN]
@@ -286,24 +286,24 @@
 **Method:**
 1. Spread filling on pastry; roll up. Seal ends.
 2. Brush with egg wash; score top.
-3. Bake 200Â°C 25â30 minutes.
+3. Bake 200°C 25–30 minutes.
 
 ---
 
-## GERMAN â ADDITIONAL
+## GERMAN — ADDITIONAL
 
-### Flammkuchen (Tarte FlambÃ©e) [GERMAN/ALSACE]
+### Flammkuchen (Tarte Flambée) [GERMAN/ALSACE]
 
-**Ingredients:** Thin pizza-like dough, 200g crÃ¨me fraÃ®che, 150g lardons, 1 onion thinly sliced, salt, pepper, nutmeg
+**Ingredients:** Thin pizza-like dough, 200g crème fraîche, 150g lardons, 1 onion thinly sliced, salt, pepper, nutmeg
 **Method:**
-1. Roll dough very thin; spread crÃ¨me fraÃ®che.
+1. Roll dough very thin; spread crème fraîche.
 2. Top with lardons and onion; season.
-3. Bake at max oven heat (250Â°C+) 10â12 minutes until edges char.
+3. Bake at max oven heat (250°C+) 10–12 minutes until edges char.
 
 ### Rinderroulade [GERMAN]
 
 **Ingredients:** Thin beef slices, mustard, onion, pickles, bacon, broth for braising (see Rouladen)
-**Method:** Same as Rouladen â a regional variation of the same dish.
+**Method:** Same as Rouladen — a regional variation of the same dish.
 
 ### Kartoffelsalat (Bavarian) [GERMAN]
 
@@ -326,9 +326,9 @@
 **Ingredients:** Yeast dough base, 1 kg onions thinly sliced, 200g bacon, 3 eggs, 200ml cream, caraway seeds, salt
 **Method:**
 1. Line tart pan with yeast dough.
-2. SautÃ© onions and bacon until soft; cool.
+2. Sauté onions and bacon until soft; cool.
 3. Mix with eggs and cream; pour over dough.
-4. Top with caraway; bake 200Â°C 35 minutes.
+4. Top with caraway; bake 200°C 35 minutes.
 
 ### Lebkuchen [GERMAN]
 
@@ -336,22 +336,22 @@
 **Method:**
 1. Warm honey and sugar; cool.
 2. Mix in eggs, spices, then flour, baking powder, almonds.
-3. Shape into rounds on wafer paper; bake 180Â°C 15 minutes.
+3. Shape into rounds on wafer paper; bake 180°C 15 minutes.
 4. Glaze with icing while warm.
 
 ---
 
-## BRITISH â FISH AND CHIPS
+## BRITISH — FISH AND CHIPS
 
 ### British Fish and Chips [BRITISH]
 
 **Ingredients:** 4 cod or haddock fillets, 1.5 cups flour, 1 cup cold beer (lager), 1 egg, 1 tsp baking powder, salt, 2 lb floury potatoes for chips, oil for deep frying, malt vinegar, mushy peas
 **Method:**
 1. Cut potatoes into thick chips; par-boil 5 minutes; drain and dry.
-2. First fry chips at 150Â°C 5 minutes; drain.
-3. Make batter: flour, beer, egg, baking powder, salt â mix until just combined (lumps OK).
-4. Pat fish dry; dip in batter; fry at 180Â°C 4â5 minutes per side.
-5. Crank up to 180Â°C; second-fry chips until golden and crisp.
+2. First fry chips at 150°C 5 minutes; drain.
+3. Make batter: flour, beer, egg, baking powder, salt — mix until just combined (lumps OK).
+4. Pat fish dry; dip in batter; fry at 180°C 4–5 minutes per side.
+5. Crank up to 180°C; second-fry chips until golden and crisp.
 6. Drain both; serve with salt, malt vinegar, mushy peas.
 
 ### Mushy Peas [BRITISH]
@@ -369,17 +369,17 @@
 
 ---
 
-## BRITISH â SHEPHERD'S AND COTTAGE PIE
+## BRITISH — SHEPHERD'S AND COTTAGE PIE
 
 ### Shepherd's Pie [BRITISH]
 
 **Ingredients:** 1 lb ground lamb, 1 onion diced, 2 carrots diced, 2 celery stalks, 2 tbsp tomato paste, 1 cup beef stock, 1 tbsp Worcestershire, 1 tbsp flour, 1 tsp thyme, 1 tsp rosemary, salt, pepper. Topping: 2 lb mashed potato, 2 tbsp butter, 1/2 cup cream
 **Method:**
-1. Brown lamb; remove. SautÃ© vegetables; add lamb back.
+1. Brown lamb; remove. Sauté vegetables; add lamb back.
 2. Add tomato paste, flour; stir. Add stock, Worcestershire, herbs.
 3. Simmer 20 minutes; season. Pour into baking dish.
 4. Top with mashed potato; rough with fork.
-5. Bake 200Â°C 25 minutes until golden.
+5. Bake 200°C 25 minutes until golden.
 
 ### Cottage Pie [BRITISH]
 
@@ -392,11 +392,11 @@
 **Method:**
 1. Make filling as above with mushrooms and peas.
 2. Top with thick mash; scatter cheddar.
-3. Bake 200Â°C 30 minutes.
+3. Bake 200°C 30 minutes.
 
 ---
 
-## BRITISH â BEEF WELLINGTON
+## BRITISH — BEEF WELLINGTON
 
 ### Beef Wellington [BRITISH]
 
@@ -406,12 +406,12 @@
 2. Lay cling film; arrange Parma ham. Spread duxelles; place fillet.
 3. Roll into tight log; refrigerate 30 minutes.
 4. Wrap in pastry; brush with egg wash. Score.
-5. Bake 220Â°C 25 minutes for medium-rare (57Â°C internal).
+5. Bake 220°C 25 minutes for medium-rare (57°C internal).
 6. Rest 10 minutes; slice.
 
 ---
 
-## BRITISH â FULL ENGLISH BREAKFAST
+## BRITISH — FULL ENGLISH BREAKFAST
 
 ### Full English Breakfast [BRITISH]
 
@@ -435,15 +435,15 @@
 
 ---
 
-## BRITISH â SUNDAY ROAST
+## BRITISH — SUNDAY ROAST
 
 ### Sunday Roast Beef [BRITISH]
 
 **Ingredients:** 1.5 kg beef rib joint, 2 tbsp beef dripping, salt, pepper, 1 onion halved, thyme, rosemary. Roast potatoes: 1 kg Maris Piper, goose fat. Yorkshire puddings: 4 eggs, 200ml milk, 200g flour, pinch salt. Gravy: pan juices, 2 tbsp flour, 500ml beef stock
 **Method:**
-1. Season beef; sear in dripping. Roast at 220Â°C 20 min, then 180Â°C 15 min/500g for medium-rare.
+1. Season beef; sear in dripping. Roast at 220°C 20 min, then 180°C 15 min/500g for medium-rare.
 2. Par-boil potatoes; rough surfaces; roast in goose fat 45 min until golden.
-3. Yorkshire puddings: beat eggs, milk, flour; rest 1 hour. Pour into screaming-hot oiled tin; bake 220Â°C 25 min, no peeking.
+3. Yorkshire puddings: beat eggs, milk, flour; rest 1 hour. Pour into screaming-hot oiled tin; bake 220°C 25 min, no peeking.
 4. Rest beef 30 min; make gravy from pan juices.
 
 ### Roast Lamb with Mint Sauce [BRITISH]
@@ -451,7 +451,7 @@
 **Ingredients:** Leg of lamb, garlic cloves spiked in, rosemary sprigs, salt, pepper, olive oil. Mint sauce: fresh mint, sugar, vinegar, hot water
 **Method:**
 1. Stab lamb with garlic and rosemary; season; rub with oil.
-2. Roast 220Â°C 20 min, then 190Â°C 25 min/500g.
+2. Roast 220°C 20 min, then 190°C 25 min/500g.
 3. Rest 20 minutes.
 4. Mint sauce: bruise mint with sugar; dissolve in hot water; add vinegar.
 
@@ -460,38 +460,38 @@
 **Ingredients:** 1.5 kg pork shoulder, coarse salt, fennel seeds, pepper, oil. Apple sauce: 4 apples, sugar, butter
 **Method:**
 1. Score skin deeply; rub with salt and fennel.
-2. Roast at 220Â°C 30 minutes to blister skin; reduce to 180Â°C 2 hours.
+2. Roast at 220°C 30 minutes to blister skin; reduce to 180°C 2 hours.
 3. Cook apples until soft; mash with butter and sugar.
 
 ---
 
-## BRITISH â BANGERS AND MASH
+## BRITISH — BANGERS AND MASH
 
 ### Bangers and Mash [BRITISH]
 
 **Ingredients:** 8 pork sausages, 1 kg Maris Piper potatoes, 100g butter, 150ml hot milk, salt, pepper, 1 onion, 1 cup beef stock, 1 tbsp flour, Worcestershire sauce (onion gravy)
 **Method:**
-1. Grill or pan-fry sausages 15â20 minutes until cooked through.
+1. Grill or pan-fry sausages 15–20 minutes until cooked through.
 2. Boil potatoes until tender; mash with butter and hot milk; season.
 3. Onion gravy: caramelize onion, add flour, stock, Worcestershire; simmer.
 4. Pile mash on plate; add sausages; pour gravy.
 
 ---
 
-## BRITISH â TOAD IN THE HOLE
+## BRITISH — TOAD IN THE HOLE
 
 ### Toad in the Hole [BRITISH]
 
 **Ingredients:** 8 pork sausages, 200g flour, 4 eggs, 300ml milk, pinch salt, 3 tbsp beef dripping or vegetable oil
 **Method:**
 1. Make Yorkshire pudding batter (flour, eggs, milk, salt); rest 1 hour.
-2. Heat dripping in roasting tin until smoking (220Â°C).
+2. Heat dripping in roasting tin until smoking (220°C).
 3. Add sausages; fry briefly; pour batter around sausages.
-4. Bake 220Â°C 30â35 minutes until puffed and golden. Do not open oven.
+4. Bake 220°C 30–35 minutes until puffed and golden. Do not open oven.
 
 ---
 
-## BRITISH â CORNISH PASTY
+## BRITISH — CORNISH PASTY
 
 ### Traditional Cornish Pasty [CORNISH/BRITISH]
 
@@ -501,11 +501,11 @@
 2. Mix raw filling; season well.
 3. Roll pastry into circles; pile filling on one side; add butter.
 4. Fold over; crimp edge vertically (Cornish crimp). Mark with initial.
-5. Bake 200Â°C 15 min, then 160Â°C 45 min.
+5. Bake 200°C 15 min, then 160°C 45 min.
 
 ---
 
-## BRITISH â SCONES
+## BRITISH — SCONES
 
 ### Classic British Scones [BRITISH]
 
@@ -514,7 +514,7 @@
 1. Rub butter into flour, salt, baking powder, sugar.
 2. Add buttermilk; mix quickly (don't overwork).
 3. Pat to 2.5cm; cut rounds.
-4. Brush with egg; bake 220Â°C 12â15 minutes.
+4. Brush with egg; bake 220°C 12–15 minutes.
 
 ### Cheese Scones [BRITISH]
 
@@ -532,7 +532,7 @@
 
 ---
 
-## BRITISH â STICKY TOFFEE PUDDING
+## BRITISH — STICKY TOFFEE PUDDING
 
 ### Sticky Toffee Pudding [BRITISH]
 
@@ -540,14 +540,14 @@
 **Method:**
 1. Soak dates in boiling water with bicarb 10 minutes; blend.
 2. Cream butter and sugar; add eggs, flour, baking powder, vanilla.
-3. Fold in date purÃ©e; pour into greased pudding molds.
-4. Bake 180Â°C 25 minutes.
+3. Fold in date purée; pour into greased pudding molds.
+4. Bake 180°C 25 minutes.
 5. Sauce: melt butter and sugar; add cream; simmer 3 minutes.
 6. Pour hot sauce over puddings to serve.
 
 ---
 
-## BRITISH â VICTORIA SPONGE
+## BRITISH — VICTORIA SPONGE
 
 ### Victoria Sponge [BRITISH]
 
@@ -555,13 +555,13 @@
 **Method:**
 1. Cream butter and sugar; beat in eggs and vanilla.
 2. Fold in flour; divide between two greased 20cm tins.
-3. Bake 180Â°C 20â25 minutes; cool completely.
+3. Bake 180°C 20–25 minutes; cool completely.
 4. Sandwich layers with jam and cream.
 5. Dust with icing sugar.
 
 ---
 
-## BRITISH â CRUMBLE
+## BRITISH — CRUMBLE
 
 ### Apple Crumble [BRITISH]
 
@@ -569,18 +569,18 @@
 **Method:**
 1. Toss apples with sugar and cinnamon; pour into dish.
 2. Rub butter into flour and sugar until breadcrumb texture.
-3. Spread over apples; bake 190Â°C 35â40 minutes until golden.
+3. Spread over apples; bake 190°C 35–40 minutes until golden.
 
 ### Rhubarb Crumble [BRITISH]
 
 **Ingredients:** 500g rhubarb chopped, 4 tbsp sugar, stem ginger syrup. Crumble topping as above.
 **Method:**
 1. Combine rhubarb with sugar and ginger syrup.
-2. Top with crumble; bake 190Â°C 35 minutes.
+2. Top with crumble; bake 190°C 35 minutes.
 
 ---
 
-## BRITISH â ETON MESS
+## BRITISH — ETON MESS
 
 ### Eton Mess [BRITISH]
 
@@ -593,7 +593,7 @@
 
 ---
 
-## BRITISH â SPOTTED DICK
+## BRITISH — SPOTTED DICK
 
 ### Spotted Dick [BRITISH]
 
@@ -607,7 +607,7 @@
 
 ---
 
-## BRITISH â KEDGEREE
+## BRITISH — KEDGEREE
 
 ### Kedgeree [BRITISH]
 
@@ -615,13 +615,13 @@
 **Method:**
 1. Poach haddock in milk 8 minutes; flake, discard skin/bones.
 2. Cook rice; drain.
-3. SautÃ© onion in butter; add curry powder; cook 2 minutes.
+3. Sauté onion in butter; add curry powder; cook 2 minutes.
 4. Fold in rice, fish, cream; heat through.
 5. Top with halved eggs, parsley, lemon. Season.
 
 ---
 
-## BRITISH â ADDITIONAL
+## BRITISH — ADDITIONAL
 
 ### Ploughman's Lunch [BRITISH]
 
@@ -651,7 +651,7 @@
 **Ingredients:** 1 lb dried split peas, 1 smoked ham hock, 1 onion, 2 carrots, 2 celery stalks, 6 cups water, thyme, bay leaves, salt, pepper
 **Method:**
 1. Soak peas overnight; drain.
-2. Simmer all in water 1.5â2 hours until peas are completely soft.
+2. Simmer all in water 1.5–2 hours until peas are completely soft.
 3. Remove ham hock; shred meat; discard bone.
 4. Blend soup; return ham. Season.
 
@@ -662,7 +662,7 @@
 1. Butter bread; layer in dish with raisins.
 2. Whisk milk, cream, eggs, sugar, vanilla; pour over bread.
 3. Rest 30 minutes; grate nutmeg on top.
-4. Bake 170Â°C in bain marie 35â40 minutes.
+4. Bake 170°C in bain marie 35–40 minutes.
 
 ### Treacle Tart [BRITISH]
 
@@ -670,7 +670,7 @@
 **Method:**
 1. Line tart tin with pastry.
 2. Mix syrup, breadcrumbs, lemon, ginger; pour into case.
-3. Bake 180Â°C 30 minutes until set.
+3. Bake 180°C 30 minutes until set.
 
 ### Scotch Egg [BRITISH]
 
@@ -678,7 +678,7 @@
 **Method:**
 1. Season sausage meat; wrap each egg evenly.
 2. Dredge in flour, beaten egg, breadcrumbs.
-3. Deep fry at 175Â°C 7â8 minutes until golden and cooked.
+3. Deep fry at 175°C 7–8 minutes until golden and cooked.
 
 ### Pork Pie [BRITISH]
 
@@ -686,7 +686,7 @@
 **Method:**
 1. Make hot water pastry; line pork pie mold.
 2. Fill with seasoned pork; top with pastry lid; crimp.
-3. Bake 180Â°C 1 hour.
+3. Bake 180°C 1 hour.
 4. Pour hot aspic through hole in lid; cool and set overnight.
 
 ### Jam Roly-Poly [BRITISH]
@@ -703,12 +703,12 @@
 **Method:**
 1. Cook onion and fat; mix with blood, oatmeal, spices.
 2. Fill casings; tie off.
-3. Poach at 80Â°C 30 minutes.
+3. Poach at 80°C 30 minutes.
 4. Slice and grill or fry to serve.
 
 ---
 
-## SCANDINAVIAN â GRAVLAX
+## SCANDINAVIAN — GRAVLAX
 
 ### Swedish Gravlax [SWEDISH]
 
@@ -716,7 +716,7 @@
 **Method:**
 1. Mix salt, sugar, pepper.
 2. Layer: half the dill, one fillet skin-down, rub cure, aquavit, more dill, second fillet skin-up.
-3. Wrap tightly; refrigerate 48â72 hours, turning twice daily.
+3. Wrap tightly; refrigerate 48–72 hours, turning twice daily.
 4. Scrape off cure; slice thin. Serve with mustard-dill sauce.
 
 ### Dill Mustard Sauce [SWEDISH]
@@ -729,38 +729,38 @@
 
 ---
 
-## SCANDINAVIAN â SMÃRREBRÃD
+## SCANDINAVIAN — SMØRREBRØD
 
 ### Classic Danish Open Sandwich [DANISH]
 
 **Ingredients:** Dense rye bread slices buttered, various toppings (see below)
 **Method:** Butter rye bread generously; pile toppings artfully; serve on board.
 
-### SmÃ¸rrebrÃ¸d: Leverpostej [DANISH]
+### Smørrebrød: Leverpostej [DANISH]
 
-**Ingredients:** Rye bread, liver pÃ¢tÃ©, crispy bacon, pickled beets, cornichons, raw onion rings
-**Method:** Spread thick liver pÃ¢tÃ©; top with bacon, beets, cornichons, onion.
+**Ingredients:** Rye bread, liver pâté, crispy bacon, pickled beets, cornichons, raw onion rings
+**Method:** Spread thick liver pâté; top with bacon, beets, cornichons, onion.
 
-### SmÃ¸rrebrÃ¸d: Pickled Herring [DANISH]
+### Smørrebrød: Pickled Herring [DANISH]
 
 **Ingredients:** Rye bread, pickled herring fillet, red onion, capers, dill, sour cream
 **Method:** Place herring on bread; top with onion, capers, dill, sour cream.
 
-### SmÃ¸rrebrÃ¸d: Roast Beef [DANISH]
+### Smørrebrød: Roast Beef [DANISH]
 
 **Ingredients:** Rye bread, rare roast beef sliced thin, remoulade, crispy onions, horseradish, cornichons
 **Method:** Layer beef; top with remoulade, crispy onions, horseradish.
 
-### SmÃ¸rrebrÃ¸d: Shrimp [DANISH]
+### Smørrebrød: Shrimp [DANISH]
 
 **Ingredients:** White bread or rye, cooked shrimp, mayo, dill, lemon, hard-boiled egg slice, caviar optional
 **Method:** Arrange shrimp on mayo-spread bread; garnish with dill and lemon.
 
 ---
 
-## SCANDINAVIAN â SWEDISH MEATBALLS
+## SCANDINAVIAN — SWEDISH MEATBALLS
 
-### Swedish KÃ¶ttbullar [SWEDISH]
+### Swedish Köttbullar [SWEDISH]
 
 **Ingredients:** 400g ground beef, 200g ground pork, 1 small onion grated, 2 tbsp breadcrumbs, 1 egg, 50ml cream, salt, pepper, allspice, nutmeg, butter for frying. Gravy: 2 tbsp butter, 2 tbsp flour, 400ml beef stock, 100ml cream, 1 tbsp soy sauce, 1 tbsp redcurrant jelly
 **Method:**
@@ -772,7 +772,7 @@
 
 ---
 
-## SCANDINAVIAN â PICKLED HERRING
+## SCANDINAVIAN — PICKLED HERRING
 
 ### Classic Pickled Herring [SCANDINAVIAN]
 
@@ -780,7 +780,7 @@
 **Method:**
 1. Bring water, vinegar, sugar, spices to boil; cool completely.
 2. Lay herring in jar with onion and dill.
-3. Pour cooled brine; refrigerate 3â5 days.
+3. Pour cooled brine; refrigerate 3–5 days.
 
 ### Mustard Pickled Herring [SCANDINAVIAN]
 
@@ -791,7 +791,7 @@
 
 ---
 
-## SCANDINAVIAN â KANELBULLAR
+## SCANDINAVIAN — KANELBULLAR
 
 ### Swedish Cinnamon Buns [SWEDISH]
 
@@ -801,11 +801,11 @@
 2. Roll out; spread filling; roll into log; cut 16 portions.
 3. Place in muffin tins or twist into buns; rise 30 minutes.
 4. Brush with egg; sprinkle pearl sugar.
-5. Bake 200Â°C 12â15 minutes.
+5. Bake 200°C 12–15 minutes.
 
 ---
 
-## SCANDINAVIAN â CARDAMOM BUNS
+## SCANDINAVIAN — CARDAMOM BUNS
 
 ### Kardemummabullar [SWEDISH/NORDIC]
 
@@ -814,51 +814,51 @@
 1. Make cardamom enriched dough; rise 1 hour.
 2. Roll out; spread filling; fold; slice into strips; twist and knot.
 3. Rise 30 minutes; brush with egg; top with pearl sugar.
-4. Bake 200Â°C 12 minutes.
+4. Bake 200°C 12 minutes.
 
 ---
 
-## SCANDINAVIAN â JANSSONS FRESTELSE
+## SCANDINAVIAN — JANSSONS FRESTELSE
 
 ### Jansson's Temptation [SWEDISH]
 
 **Ingredients:** 1 kg waxy potatoes julienned, 2 large onions thinly sliced, 1 can Swedish anchovy fillets with liquid, 300ml cream, 1 tbsp butter, breadcrumbs
 **Method:**
-1. SautÃ© onions in butter until soft.
+1. Sauté onions in butter until soft.
 2. Layer in greased dish: potatoes, onion, anchovies with liquid; repeat.
 3. Pour cream over; top with breadcrumbs; dot with butter.
-4. Bake 200Â°C 45â50 minutes until potatoes are tender and golden.
+4. Bake 200°C 45–50 minutes until potatoes are tender and golden.
 
 ---
 
-## SCANDINAVIAN â SMOKED SALMON
+## SCANDINAVIAN — SMOKED SALMON
 
 ### Norwegian Smoked Salmon Plate [NORWEGIAN]
 
-**Ingredients:** 200g cold-smoked salmon, 2 tbsp crÃ¨me fraÃ®che, 1 shallot finely diced, 1 tbsp capers, lemon, dill, rye crispbread or blinis
+**Ingredients:** 200g cold-smoked salmon, 2 tbsp crème fraîche, 1 shallot finely diced, 1 tbsp capers, lemon, dill, rye crispbread or blinis
 **Method:**
 1. Arrange salmon on serving plate.
-2. Garnish with crÃ¨me fraÃ®che, shallot, capers, dill, lemon.
+2. Garnish with crème fraîche, shallot, capers, dill, lemon.
 3. Serve with rye crispbread.
 
 ### Smoked Salmon Pasta [NORDIC]
 
 **Ingredients:** 300g tagliatelle, 150g smoked salmon, 200ml cream, 1 shallot, 1 tbsp capers, dill, lemon zest, 1 tbsp butter
 **Method:**
-1. Cook pasta; sautÃ© shallot in butter.
+1. Cook pasta; sauté shallot in butter.
 2. Add cream; simmer until slightly thickened.
 3. Add capers, dill, lemon; toss with pasta.
 4. Flake in salmon off heat.
 
 ---
 
-## SCANDINAVIAN â FINNISH SALMON SOUP
+## SCANDINAVIAN — FINNISH SALMON SOUP
 
 ### Lohikeitto [FINNISH]
 
 **Ingredients:** 500g salmon fillet cubed, 500g potatoes cubed, 1 leek sliced, 2 carrots sliced, 1 tbsp butter, 500ml fish stock, 300ml cream, 1 cup milk, dill, salt, white pepper, allspice
 **Method:**
-1. SautÃ© leek in butter; add carrots.
+1. Sauté leek in butter; add carrots.
 2. Add stock, potatoes; simmer 10 minutes.
 3. Add cream, milk; simmer 5 minutes.
 4. Add salmon; cook 5 minutes.
@@ -866,24 +866,24 @@
 
 ---
 
-## SCANDINAVIAN â DANISH PASTRIES
+## SCANDINAVIAN — DANISH PASTRIES
 
-### WienerbrÃ¸d (Danish Pastry Dough) [DANISH]
+### Wienerbrød (Danish Pastry Dough) [DANISH]
 
 **Ingredients:** 500g flour, 7g yeast, 50g sugar, 1 tsp salt, 1 tsp cardamom, 200ml warm milk, 1 egg, 300g cold butter for laminating
 **Method:**
 1. Make yeast dough; rest in fridge 30 minutes.
-2. Laminate with butter (3 folds Ã 3); refrigerate between each.
+2. Laminate with butter (3 folds × 3); refrigerate between each.
 3. Roll out; cut shapes (swirls, cushions, braid).
 4. Fill with custard or jam; rise 30 minutes.
-5. Brush egg wash; bake 200Â°C 15â18 minutes.
+5. Brush egg wash; bake 200°C 15–18 minutes.
 
 ### Spandauer (Custard Danish) [DANISH]
 
 **Ingredients:** Danish pastry dough squares, vanilla custard, apricot jam glaze, icing
 **Method:**
 1. Cut dough into squares; fold corners to center; add custard.
-2. Rise; bake 200Â°C 15 minutes.
+2. Rise; bake 200°C 15 minutes.
 3. Glaze with warm apricot jam; drizzle icing.
 
 ### Tebirkes [DANISH]
@@ -892,33 +892,33 @@
 **Method:**
 1. Spread remonce on dough; fold and roll.
 2. Cut rectangles; slash top; top with poppy seeds.
-3. Bake 200Â°C 15 minutes.
+3. Bake 200°C 15 minutes.
 
 ---
 
-## SCANDINAVIAN â RYE BREAD
+## SCANDINAVIAN — RYE BREAD
 
-### Danish RugbrÃ¸d [DANISH]
+### Danish Rugbrød [DANISH]
 
 **Ingredients:** 500g coarse rye flour, 100g wheat flour, 400ml sourdough starter, 400ml warm water, 2 tbsp salt, 200g rye kernels soaked, 100g sunflower seeds, 100g flaxseeds
 **Method:**
 1. Mix all ingredients; pour into loaf pans.
 2. Rise 12 hours at room temperature.
-3. Bake 200Â°C 30 minutes, then 170Â°C 1 hour.
-4. Cool completely before slicing â ideally next day.
+3. Bake 200°C 30 minutes, then 170°C 1 hour.
+4. Cool completely before slicing — ideally next day.
 
-### Swedish Crispbread (KnÃ¤ckebrÃ¶d) [SWEDISH]
+### Swedish Crispbread (Knäckebröd) [SWEDISH]
 
 **Ingredients:** 300g rye flour, 200g whole wheat flour, 1 tbsp salt, 1 tbsp caraway seeds, 300ml water
 **Method:**
 1. Combine all; let rest 30 minutes.
 2. Roll paper-thin on floured surface.
 3. Prick with fork; cut into rectangles.
-4. Bake 200Â°C 10â12 minutes until very crisp.
+4. Bake 200°C 10–12 minutes until very crisp.
 
 ---
 
-## SCANDINAVIAN â AQUAVIT-CURED FISH
+## SCANDINAVIAN — AQUAVIT-CURED FISH
 
 ### Aquavit-Cured Salmon [SCANDINAVIAN]
 
@@ -939,7 +939,7 @@
 
 ---
 
-## SCANDINAVIAN â ADDITIONAL
+## SCANDINAVIAN — ADDITIONAL
 
 ### Lefse [NORWEGIAN]
 
@@ -947,16 +947,16 @@
 **Method:**
 1. Mix all; refrigerate 1 hour.
 2. Roll very thin on floured surface.
-3. Cook on dry griddle 1â2 minutes per side until lightly spotted.
+3. Cook on dry griddle 1–2 minutes per side until lightly spotted.
 4. Serve with butter and sugar, or wrapped around fillings.
 
-### FÃ¥rikÃ¥l (Lamb and Cabbage) [NORWEGIAN]
+### Fårikål (Lamb and Cabbage) [NORWEGIAN]
 
 **Ingredients:** 1 kg bone-in lamb, 1 large cabbage cut into wedges, 2 tbsp whole black peppercorns, 2 tsp salt, 500ml water
 **Method:**
 1. Layer lamb and cabbage alternately in pot.
 2. Add peppercorns, salt, water.
-3. Simmer covered 1.5â2 hours until meat falls from bone.
+3. Simmer covered 1.5–2 hours until meat falls from bone.
 
 ### Kladdkaka (Swedish Sticky Chocolate Cake) [SWEDISH]
 
@@ -964,7 +964,7 @@
 **Method:**
 1. Melt butter; mix in sugar, eggs, vanilla.
 2. Fold in flour, cocoa, salt.
-3. Bake in greased springform at 175Â°C 18â20 minutes â should be gooey inside.
+3. Bake in greased springform at 175°C 18–20 minutes — should be gooey inside.
 
 ### Chokladbollar (No-Bake Chocolate Balls) [SWEDISH]
 
@@ -974,7 +974,7 @@
 2. Roll into balls; roll in coconut or pearl sugar.
 3. Refrigerate until firm.
 
-### SmÃ¶rgÃ¥stÃ¥rta (Sandwich Cake) [SWEDISH]
+### Smörgåstårta (Sandwich Cake) [SWEDISH]
 
 **Ingredients:** 1 loaf sandwich bread, cream cheese, mayo, shrimp, smoked salmon, cucumber, radish, dill, lemon, eggs
 **Method:**
@@ -982,11 +982,11 @@
 2. Frost outside with cream cheese.
 3. Decorate top with shrimp, salmon, vegetables, dill. Refrigerate 2 hours before serving.
 
-### RisgrynsgrÃ¶t (Rice Porridge) [SCANDINAVIAN]
+### Risgrynsgröt (Rice Porridge) [SCANDINAVIAN]
 
 **Ingredients:** 200g pudding rice, 1L whole milk, 1 tsp salt, 1 tbsp butter, cinnamon, sugar
 **Method:**
-1. Simmer rice in milk on low heat, stirring frequently, 30â40 minutes.
+1. Simmer rice in milk on low heat, stirring frequently, 30–40 minutes.
 2. Season with salt, butter.
 3. Serve with cinnamon-sugar and butter. (Hide almond inside for Christmas version.)
 
@@ -997,14 +997,14 @@
 1. Spread cream cheese on crispbread.
 2. Layer salmon, cucumber, dill; squeeze lemon.
 
-### Ãbleskiver [DANISH]
+### Æbleskiver [DANISH]
 
 **Ingredients:** 300g flour, 1 tsp baking powder, 2 tsp sugar, 1/2 tsp salt, 1/2 tsp cardamom, 3 eggs separated, 300ml buttermilk, 50g melted butter, powdered sugar, jam for dipping
 **Method:**
 1. Mix flour, baking powder, sugar, salt, cardamom.
 2. Whisk yolks, buttermilk, butter; combine with dry.
 3. Whip egg whites stiff; fold in.
-4. Cook in Ã¦bleskiver pan; turn with skewers until round and cooked through.
+4. Cook in æbleskiver pan; turn with skewers until round and cooked through.
 5. Dust with powdered sugar; serve with jam.
 
 ---

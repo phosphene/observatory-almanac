@@ -1,25 +1,25 @@
-# Section XI â The Discovery Machine
+# Section XI — The Discovery Machine
 
-ð Discovery Machine â All Questionnaires
+🔍 Discovery Machine — All Questionnaires
 
-* [ð Depression Screen (PHQ-9)](../clinical-validated/#take-the-phq-9-now)
-* [ð Anxiety Screen (GAD-7)](../clinical-validated/#take-the-gad-7-now)
-* [ð§  Big Five Personality](../self-knowledge/#take-the-big-five-now)
-* [ð¼ Career Type (RIASEC)](../vocational-personality/#holland-riasec)
-* [ð Attachment Style](../relationship-social/#attachment-style)
-* [ð³ï¸ Political Compass](../self-discovery-suite/#political-compass)
-* [â¤ï¸ Relationship Health](../relationship-dynamics/#relationship-health)
-* [ð¨ Emergency Decision Tree](../body-survival/#emergency-decision-tree)
-* [ð¡ï¸ Scam Checker](../consumer-legal/#scam-checker)
-* [ð Is This Dog Friendly?](../animal-nature/#dog-friendly)
-* [ð  Home Safety Score](../home-environment/#home-safety)
-* [ð What's That Smell/Sound?](../sensory-diagnostics/#whats-that-smell)
-* [ð§ Boundary Health Check](../relational-behavioral-deep/#boundary-health)
-* [ð Glossary Mad Libs Quiz](../mad-libs-learning/#glossary-quiz)
+* [📋 Depression Screen (PHQ-9)](../clinical-validated/#take-the-phq-9-now)
+* [📋 Anxiety Screen (GAD-7)](../clinical-validated/#take-the-gad-7-now)
+* [🧠 Big Five Personality](../self-knowledge/#take-the-big-five-now)
+* [💼 Career Type (RIASEC)](../vocational-personality/#holland-riasec)
+* [💕 Attachment Style](../relationship-social/#attachment-style)
+* [🗳️ Political Compass](../self-discovery-suite/#political-compass)
+* [❤️ Relationship Health](../relationship-dynamics/#relationship-health)
+* [🚨 Emergency Decision Tree](../body-survival/#emergency-decision-tree)
+* [🛡️ Scam Checker](../consumer-legal/#scam-checker)
+* [🐕 Is This Dog Friendly?](../animal-nature/#dog-friendly)
+* [🏠 Home Safety Score](../home-environment/#home-safety)
+* [👃 What's That Smell/Sound?](../sensory-diagnostics/#whats-that-smell)
+* [🚧 Boundary Health Check](../relational-behavioral-deep/#boundary-health)
+* [📝 Glossary Mad Libs Quiz](../mad-libs-learning/#glossary-quiz)
 
 ## The Deep Relational & Behavioral Toolkit
 
-*These instruments are the maps wise counselors use to help people find themselves. Use them with curiosity, not judgment. Self-assessment supplements professional support â it doesn't replace it. If you discover something painful here, that's worth bringing to a therapist.*
+*These instruments are the maps wise counselors use to help people find themselves. Use them with curiosity, not judgment. Self-assessment supplements professional support — it doesn't replace it. If you discover something painful here, that's worth bringing to a therapist.*
 
 ---
 
@@ -27,11 +27,11 @@
 
 ---
 
-## 1. Experiences in Close Relationships â Attachment Style Assessment
+## 1. Experiences in Close Relationships — Attachment Style Assessment
 
-*Inspired by the ECR-R (Experiences in Close Relationships â Revised)*
+*Inspired by the ECR-R (Experiences in Close Relationships — Revised)*
 
-**Purpose:** To identify your predominant attachment style in adult close relationships â how you think, feel, and behave when you need or depend on others.
+**Purpose:** To identify your predominant attachment style in adult close relationships — how you think, feel, and behave when you need or depend on others.
 
 **Instructions:** Rate each statement from 1 (Not at all like me) to 7 (Very much like me). Answer based on your typical experience across relationships, not just one person.
 
@@ -66,40 +66,40 @@
 24. I'm comfortable sharing myself with others. *(reverse score)*
 
 **Scoring:**
-- Anxiety Score: Average items 1â12 (reverse-score any marked with asterisk).
-- Avoidance Score: Average items 13â24 (reverse items 20 and 24: subtract your score from 8).
-- Scores range from 1â7. Higher = more of that dimension.
+- Anxiety Score: Average items 1–12 (reverse-score any marked with asterisk).
+- Avoidance Score: Average items 13–24 (reverse items 20 and 24: subtract your score from 8).
+- Scores range from 1–7. Higher = more of that dimension.
 
 **Interpreting Your Scores:**
 
 | Anxiety | Avoidance | Attachment Style |
 | --- | --- | --- |
-| Low (1â3) | Low (1â3) | **Secure** |
-| High (4â7) | Low (1â3) | **Anxious/Preoccupied** |
-| Low (1â3) | High (4â7) | **Dismissing/Avoidant** |
-| High (4â7) | High (4â7) | **Fearful-Avoidant (Disorganized)** |
+| Low (1–3) | Low (1–3) | **Secure** |
+| High (4–7) | Low (1–3) | **Anxious/Preoccupied** |
+| Low (1–3) | High (4–7) | **Dismissing/Avoidant** |
+| High (4–7) | High (4–7) | **Fearful-Avoidant (Disorganized)** |
 
 **What This Means:**
 
-**Secure (Low Anxiety, Low Avoidance):** You're generally comfortable with closeness and dependence. You believe relationships can be reliable. You can ask for help and give it. Conflict doesn't feel catastrophic. This doesn't mean perfect â it means you have a stable base to work from.
+**Secure (Low Anxiety, Low Avoidance):** You're generally comfortable with closeness and dependence. You believe relationships can be reliable. You can ask for help and give it. Conflict doesn't feel catastrophic. This doesn't mean perfect — it means you have a stable base to work from.
 
-**Anxious/Preoccupied (High Anxiety, Low Avoidance):** You crave closeness and connection but live in fear it will disappear. You may seem "needy" or intense. You're exquisitely tuned to relationship signals â and sometimes misread them. Your challenge is building internal soothing so you're not entirely dependent on the other person to regulate your nervous system.
+**Anxious/Preoccupied (High Anxiety, Low Avoidance):** You crave closeness and connection but live in fear it will disappear. You may seem "needy" or intense. You're exquisitely tuned to relationship signals — and sometimes misread them. Your challenge is building internal soothing so you're not entirely dependent on the other person to regulate your nervous system.
 
-**Dismissing/Avoidant (Low Anxiety, High Avoidance):** You've learned that needing others leads to disappointment, so you've built a self-sufficient fortress. You may genuinely not feel lonely â until something breaks through. Your challenge is recognizing that independence was a coping strategy, not your true nature, and that interdependence isn't weakness.
+**Dismissing/Avoidant (Low Anxiety, High Avoidance):** You've learned that needing others leads to disappointment, so you've built a self-sufficient fortress. You may genuinely not feel lonely — until something breaks through. Your challenge is recognizing that independence was a coping strategy, not your true nature, and that interdependence isn't weakness.
 
-**Fearful-Avoidant/Disorganized (High Anxiety, High Avoidance):** This is the "I want love desperately and I'm terrified of it" pattern â often rooted in early experiences where caregivers were simultaneously the source of comfort and fear. You may oscillate: pulling people in, then pushing them away. This pattern is the hardest and the one most helped by trauma-informed therapy.
+**Fearful-Avoidant/Disorganized (High Anxiety, High Avoidance):** This is the "I want love desperately and I'm terrified of it" pattern — often rooted in early experiences where caregivers were simultaneously the source of comfort and fear. You may oscillate: pulling people in, then pushing them away. This pattern is the hardest and the one most helped by trauma-informed therapy.
 
 **What To Do Next:**
-- Notice which pattern activates *in the moment* â attachment patterns are most visible under stress.
+- Notice which pattern activates *in the moment* — attachment patterns are most visible under stress.
 - Read about your style with compassion: these are strategies that made sense at some point.
 - Therapy, especially attachment-focused work, can genuinely shift these patterns over time.
-- Practice "earned security" â it's real. Adults can develop secure attachment.
+- Practice "earned security" — it's real. Adults can develop secure attachment.
 
 ---
 
 ## 2. Differentiation of Self Inventory (Bowen Family Systems)
 
-**Purpose:** Murray Bowen's concept: the more differentiated you are, the more you can be emotionally close to others without losing yourself â and the more you can hold your own ground without emotionally cutting off.
+**Purpose:** Murray Bowen's concept: the more differentiated you are, the more you can be emotionally close to others without losing yourself — and the more you can hold your own ground without emotionally cutting off.
 
 **Instructions:** Rate each statement 1 (Never/Not at all true) to 6 (Always/Very true).
 
@@ -148,32 +148,32 @@
 7. My sense of who I am shifts depending on who I'm with.
 
 **Scoring:**
-- ER: Average items 1â8
-- IP: Average items 9â15 (note: higher score = *lower* I-Position, i.e., more difficulty)
-- EC: Average items 16â21
-- FO: Average items 22â28
+- ER: Average items 1–8
+- IP: Average items 9–15 (note: higher score = *lower* I-Position, i.e., more difficulty)
+- EC: Average items 16–21
+- FO: Average items 22–28
 - Total DSI Score: Average all subscales (invert IP so higher = more differentiated)
 
 **Interpretation:**
 
-**High Overall Differentiation (average score 1â2.5):** You can stay present and connected in relationships without losing yourself. Your emotional life is rich but not controlling. You can tolerate others' differences without feeling threatened.
+**High Overall Differentiation (average score 1–2.5):** You can stay present and connected in relationships without losing yourself. Your emotional life is rich but not controlling. You can tolerate others' differences without feeling threatened.
 
-**Moderate (2.5â4):** You have some solid ground but will be tested under stress. Some relationships trigger more fusion or reactivity than others. This is where most people are.
+**Moderate (2.5–4):** You have some solid ground but will be tested under stress. Some relationships trigger more fusion or reactivity than others. This is where most people are.
 
-**Low Differentiation (4â6):** Relationships feel consuming or you've cut yourself off to protect from that. Your identity may feel unstable in close relationships. This is workable with attention and often therapy.
+**Low Differentiation (4–6):** Relationships feel consuming or you've cut yourself off to protect from that. Your identity may feel unstable in close relationships. This is workable with attention and often therapy.
 
 **What To Do Next:**
 - Which subscale was highest? That's your growth edge.
-- High Emotional Reactivity â practice the pause. Build a gap between stimulus and response.
-- Low I-Position â practice articulating your views even when nervous. Start small.
-- High Cutoff â consider whether distance is protection or the problem itself.
-- High Fusion â practice asking "Is this my feeling or am I absorbing someone else's?"
+- High Emotional Reactivity → practice the pause. Build a gap between stimulus and response.
+- Low I-Position → practice articulating your views even when nervous. Start small.
+- High Cutoff → consider whether distance is protection or the problem itself.
+- High Fusion → practice asking "Is this my feeling or am I absorbing someone else's?"
 
 ---
 
 ## 3. Trauma Bonding Indicators Checklist
 
-**Purpose:** Trauma bonds form when cycles of abuse, intermittent reinforcement, and emotional intensity create powerful attachment that feels like love but isn't. This isn't about blaming yourself â trauma bonds are neurobiological, not weak character.
+**Purpose:** Trauma bonds form when cycles of abuse, intermittent reinforcement, and emotional intensity create powerful attachment that feels like love but isn't. This isn't about blaming yourself — trauma bonds are neurobiological, not weak character.
 
 **Instructions:** Check all that apply to a specific relationship.
 
@@ -181,28 +181,28 @@
 - [ ] 1. You feel intensely connected to this person despite frequent hurt, betrayal, or mistreatment.
 - [ ] 2. You've tried to leave multiple times but keep returning.
 - [ ] 3. You defend or make excuses for this person to others who express concern.
-- [ ] 4. Good periods feel euphoric â almost addictively good â making the bad times seem worth it.
+- [ ] 4. Good periods feel euphoric — almost addictively good — making the bad times seem worth it.
 - [ ] 5. You feel like no one else would ever understand you or love you like this person does.
 - [ ] 6. When this person is kind, you feel flooded with relief and warmth.
 - [ ] 7. You think about this person constantly, even when you've decided to end it.
-- [ ] 8. You feel hypervigilant around this person â always monitoring their mood.
+- [ ] 8. You feel hypervigilant around this person — always monitoring their mood.
 - [ ] 9. You've changed your values, identity, or beliefs to fit what this person wants.
 - [ ] 10. You feel responsible for this person's emotional state or wellbeing.
 - [ ] 11. Friends or family have expressed serious concern about this relationship.
-- [ ] 12. The relationship has an escalating cycle: tension â incident â apology/honeymoon â calm â tension again.
+- [ ] 12. The relationship has an escalating cycle: tension → incident → apology/honeymoon → calm → tension again.
 - [ ] 13. You've stayed despite behaviors you would never tolerate in any other context.
-- [ ] 14. Leaving feels physically impossible â like you'd lose a part of yourself.
+- [ ] 14. Leaving feels physically impossible — like you'd lose a part of yourself.
 - [ ] 15. You believe things will be different "this time" after each incident.
 
-**Scoring:** 0â3: Low indicators. 4â7: Moderate concern â worth reflection. 8â15: Strong trauma bond indicators. Please seek support.
+**Scoring:** 0–3: Low indicators. 4–7: Moderate concern — worth reflection. 8–15: Strong trauma bond indicators. Please seek support.
 
 **What This Means:**
-Trauma bonds form through intermittent reinforcement (the unpredictable schedule of reward and punishment that slot machines use). The brain becomes addicted to the relief/reward moments. This is not love's failure â it's love's hijacking. Recognizing the pattern is step one. Leaving alone is often not enough; you need to address the attachment neurologically.
+Trauma bonds form through intermittent reinforcement (the unpredictable schedule of reward and punishment that slot machines use). The brain becomes addicted to the relief/reward moments. This is not love's failure — it's love's hijacking. Recognizing the pattern is step one. Leaving alone is often not enough; you need to address the attachment neurologically.
 
 **What To Do Next:**
 - Talk to a trauma-informed therapist. This pattern is deeply addressable with the right support.
 - Understand that feeling like you love them doesn't mean the relationship is safe or healthy.
-- The intensity you feel isn't evidence of the relationship's value â it's evidence of dysregulation.
+- The intensity you feel isn't evidence of the relationship's value — it's evidence of dysregulation.
 
 ---
 
@@ -210,7 +210,7 @@ Trauma bonds form through intermittent reinforcement (the unpredictable schedule
 
 *Most attachment theory focuses on romance, but we form powerful attachments to friends too.*
 
-**Instructions:** Think of your closest friendship(s). Rate 1â5 (1=Never, 5=Always).
+**Instructions:** Think of your closest friendship(s). Rate 1–5 (1=Never, 5=Always).
 
 1. I feel genuinely safe being vulnerable with close friends.
 2. I trust that close friends will be there for me when I need them.
@@ -225,7 +225,7 @@ Trauma bonds form through intermittent reinforcement (the unpredictable schedule
 
 **Scoring:** Items 1, 2, 3, 7, 9 = Secure-leaning (average). Items 4, 6, 10 = Anxious-leaning. Items 5, 8 = Avoidant-leaning.
 
-**What To Do Next:** Your romantic attachment style often mirrors your friendship attachment style, but not always. Notice where they differ â that's informative. Do you allow more vulnerability with friends than partners, or vice versa? Why?
+**What To Do Next:** Your romantic attachment style often mirrors your friendship attachment style, but not always. Notice where they differ — that's informative. Do you allow more vulnerability with friends than partners, or vice versa? Why?
 
 ---
 
@@ -259,10 +259,10 @@ Trauma bonds form through intermittent reinforcement (the unpredictable schedule
 Many people switch roles depending on the relationship or the topic. You might be the pursuer about emotional connection and the withdrawer about financial discussions. Note this.
 
 **What This Means:**
-The demand-withdraw cycle is often a pursuer desperately trying to get connection and a withdrawer desperately trying to get safety â both trying to regulate anxiety in opposite ways. Neither "side" is the villain.
+The demand-withdraw cycle is often a pursuer desperately trying to get connection and a withdrawer desperately trying to get safety — both trying to regulate anxiety in opposite ways. Neither "side" is the villain.
 
 **What To Do Next:**
-- Demanders: Practice the 24-hour pause. Say "This matters to me. Can we talk tomorrow at 7pm?" â and then stop. Let the scheduled conversation do the work.
+- Demanders: Practice the 24-hour pause. Say "This matters to me. Can we talk tomorrow at 7pm?" — and then stop. Let the scheduled conversation do the work.
 - Withdrawers: Practice a temporary bid: "I need 20 minutes to calm down. Then I really will come back to this." And mean it.
 - Both: Name the cycle when it starts. "I think we're doing the pursue-withdraw thing again."
 
@@ -286,18 +286,18 @@ Rate how often you experience these during conflict (1=Never, 5=Always):
 9. I become defensive even to neutral statements.
 10. I feel like I'm being attacked even when I'm not sure I am.
 
-**Score 1â15:** Mild flooding. You stay mostly functional.
-**Score 16â30:** Moderate. You'll need deliberate techniques.
-**Score 31â50:** Severe. Conversations are regularly unproductive. Please consider therapy.
+**Score 1–15:** Mild flooding. You stay mostly functional.
+**Score 16–30:** Moderate. You'll need deliberate techniques.
+**Score 31–50:** Severe. Conversations are regularly unproductive. Please consider therapy.
 
 **The Two Patterns:**
-- **Escalators:** Heart rate rises â intensification of conflict â shouting, accusations. More common in men statistically (though not exclusively).
-- **Stonewellers:** Heart rate rises â emotional shutdown â silence, monosyllables, leaving. The body shuts down to protect itself.
+- **Escalators:** Heart rate rises → intensification of conflict → shouting, accusations. More common in men statistically (though not exclusively).
+- **Stonewellers:** Heart rate rises → emotional shutdown → silence, monosyllables, leaving. The body shuts down to protect itself.
 
 **What To Do Next:**
 - Learn your personal flooding signals (for most people: heat, racing heart, or mental blankness).
-- Build in a real stop: at least 20â30 minutes of calm activity, not stewing. The nervous system needs time to reset.
-- Return to the conversation when genuinely calmer â not when time is up.
+- Build in a real stop: at least 20–30 minutes of calm activity, not stewing. The nervous system needs time to reset.
+- Return to the conversation when genuinely calmer — not when time is up.
 
 ---
 
@@ -305,7 +305,7 @@ Rate how often you experience these during conflict (1=Never, 5=Always):
 
 **Purpose:** Repair attempts are any behaviors during conflict that de-escalate tension. Gottman's research shows that the *effectiveness* of repair attempts (not just their presence) distinguishes stable couples.
 
-**Instructions:** For each repair attempt, rate: (A) How often you use this, and (B) How effective it tends to be. Use 1â5 for each.
+**Instructions:** For each repair attempt, rate: (A) How often you use this, and (B) How effective it tends to be. Use 1–5 for each.
 
 **Repair Categories:**
 
@@ -344,8 +344,8 @@ Rate how often you experience these during conflict (1=Never, 5=Always):
 22. "What's the most important thing here?"
 
 **Scoring:** Add up your effectiveness scores (column B).
-- 75â110: Strong repair capacity.
-- 40â74: Moderate â some tools working better than others.
+- 75–110: Strong repair capacity.
+- 40–74: Moderate — some tools working better than others.
 - Under 40: Repair is breaking down. Consider couples or individual therapy.
 
 **What To Do Next:**
@@ -357,15 +357,15 @@ Rate how often you experience these during conflict (1=Never, 5=Always):
 
 ## 8. Assertiveness Inventory
 
-**Purpose:** To identify your default communication style across different contexts â and where you want to grow.
+**Purpose:** To identify your default communication style across different contexts — and where you want to grow.
 
 **The Four Styles:**
 - **Passive:** Saying nothing, going along, suppressing your needs.
 - **Aggressive:** Expressing needs at others' expense, dominating, attacking.
-- **Passive-Aggressive:** Indirect expressions of anger â sarcasm, sulking, quiet sabotage.
+- **Passive-Aggressive:** Indirect expressions of anger — sarcasm, sulking, quiet sabotage.
 - **Assertive:** Clear, honest, respectful expression of your needs, feelings, and boundaries.
 
-**Self-Assessment Scenarios (rate your most likely response 1â4: 1=Passive, 2=Passive-Aggressive, 3=Aggressive, 4=Assertive):**
+**Self-Assessment Scenarios (rate your most likely response 1–4: 1=Passive, 2=Passive-Aggressive, 3=Aggressive, 4=Assertive):**
 
 1. A friend repeatedly cancels plans with you at the last minute. You:
 2. Say nothing and stew in resentment (1P)
@@ -383,7 +383,7 @@ Rate how often you experience these during conflict (1=Never, 5=Always):
 **Count your responses:** How many 1P, PA, AG, A responses?
 
 **What This Means:**
-Most people are inconsistent â assertive in some contexts, passive in others. The question is: where do you reliably retreat from your own voice?
+Most people are inconsistent — assertive in some contexts, passive in others. The question is: where do you reliably retreat from your own voice?
 
 **The Assertiveness Formula:**
 When [behavior], I feel [emotion]. I need [need]. Could you [specific request]?
@@ -391,7 +391,7 @@ When [behavior], I feel [emotion]. I need [need]. Could you [specific request]?
 **What To Do Next:**
 - Pick one low-stakes situation this week to practice assertiveness.
 - Assertiveness is learnable. The internal work is believing your needs matter as much as others'.
-- If aggression is your pattern, the work is usually about vulnerability â what are you afraid would happen if you were direct without force?
+- If aggression is your pattern, the work is usually about vulnerability — what are you afraid would happen if you were direct without force?
 
 ---
 
@@ -399,7 +399,7 @@ When [behavior], I feel [emotion]. I need [need]. Could you [specific request]?
 
 **Purpose:** Marshall Rosenberg's NVC distinguishes between observation and evaluation, feelings and thoughts, needs and strategies, and requests versus demands. This assessment helps you see where your communication breaks down.
 
-**Rate each skill 1â5 (1=Almost never, 5=Almost always):**
+**Rate each skill 1–5 (1=Almost never, 5=Almost always):**
 
 **Observations (describing without judging):**
 1. When I'm upset, I can describe what happened without labeling or judging.
@@ -425,8 +425,8 @@ When [behavior], I feel [emotion]. I need [need]. Could you [specific request]?
 15. I can receive "no" without treating it as rejection.
 
 **Scoring:**
-- 55â75: Strong NVC capacity.
-- 35â54: Growing. You have some skills, with gaps.
+- 55–75: Strong NVC capacity.
+- 35–54: Growing. You have some skills, with gaps.
 - Under 35: The framework would significantly benefit you. Consider an NVC workshop or book.
 
 **What To Do Next:**
@@ -443,7 +443,7 @@ When [behavior], I feel [emotion]. I need [need]. Could you [specific request]?
 
 *Based on Goleman's five-domain framework*
 
-**Rate 1â5 (1=Never, 5=Always):**
+**Rate 1–5 (1=Never, 5=Always):**
 
 **Self-Awareness (SA):**
 1. I can name the emotion I'm feeling with precision (not just "bad" or "stressed").
@@ -486,8 +486,8 @@ When [behavior], I feel [emotion]. I need [need]. Could you [specific request]?
 30. I read group dynamics and adapt my behavior accordingly.
 
 **Scoring per domain (average 6 items each):**
-- SA: Items 1â6 | SR: Items 7â12 | M: Items 13â18 | E: Items 19â24 | SS: Items 25â30
-- Domain score 1â2.5: Developmental area. 2.5â3.5: Growing. 3.5â5: Strength.
+- SA: Items 1–6 | SR: Items 7–12 | M: Items 13–18 | E: Items 19–24 | SS: Items 25–30
+- Domain score 1–2.5: Developmental area. 2.5–3.5: Growing. 3.5–5: Strength.
 
 **What To Do Next:**
 - Your lowest domain is your highest leverage point.
@@ -498,7 +498,7 @@ When [behavior], I feel [emotion]. I need [need]. Could you [specific request]?
 
 ## 11. Emotional Regulation Difficulty Scale (DERS-Inspired)
 
-**Rate 1â5 (1=Almost never, 5=Almost always):**
+**Rate 1–5 (1=Almost never, 5=Almost always):**
 
 1. When I'm upset, I lose control of my behavior.
 2. When I'm distressed, I have difficulty concentrating.
@@ -532,11 +532,11 @@ When [behavior], I feel [emotion]. I need [need]. Could you [specific request]?
 
 ---
 
-## 12. Empathy Quotient â Cognitive vs. Affective
+## 12. Empathy Quotient — Cognitive vs. Affective
 
 **Purpose:** Cognitive empathy = understanding what someone else thinks/feels intellectually. Affective empathy = actually feeling it with them. These are different capacities.
 
-**Rate 1â5 (1=Never, 5=Always):**
+**Rate 1–5 (1=Never, 5=Always):**
 
 *Cognitive Empathy:*
 1. I can understand why someone feels a certain way even if I don't feel it myself.
@@ -564,7 +564,7 @@ When [behavior], I feel [emotion]. I need [need]. Could you [specific request]?
 **Interpretation:**
 - High cognitive, low affective: You understand people intellectually but may seem cold. Relationships may feel one-sided to others.
 - High affective, low cognitive: You feel deeply but may misread what others actually need. Your empathy can be projected.
-- High empathic concern with low affective: Compassion without distress â actually the most sustainable helping orientation.
+- High empathic concern with low affective: Compassion without distress — actually the most sustainable helping orientation.
 - Very high affective empathy: Risk of burnout and secondary traumatic stress in helping roles.
 
 ---
@@ -573,7 +573,7 @@ When [behavior], I feel [emotion]. I need [need]. Could you [specific request]?
 
 **Purpose:** Rejection sensitivity (RS) is the anxious anticipation of rejection, which causes people to either overperceive rejection or respond to it with intense distress.
 
-**Scenario Responses â rate your likely reaction 1â5 (1=Barely affected, 5=Extremely affected):**
+**Scenario Responses — rate your likely reaction 1–5 (1=Barely affected, 5=Extremely affected):**
 
 1. You send a text to a friend and they don't reply for 24 hours.
 2. A colleague doesn't say hello when passing you in the hallway.
@@ -586,10 +586,10 @@ When [behavior], I feel [emotion]. I need [need]. Could you [specific request]?
 9. You're passed over for a role, project, or opportunity.
 10. Someone you care about says "never mind" and drops a subject.
 
-**Scoring:** Add items 1â10.
-- 10â20: Low RS. You likely have a secure base.
-- 21â35: Moderate. Rejection is uncomfortable but you recover.
-- 36â50: High RS. Perceived rejection may feel catastrophic and affects daily functioning.
+**Scoring:** Add items 1–10.
+- 10–20: Low RS. You likely have a secure base.
+- 21–35: Moderate. Rejection is uncomfortable but you recover.
+- 36–50: High RS. Perceived rejection may feel catastrophic and affects daily functioning.
 
 **What This Means:**
 High rejection sensitivity often develops from early experiences of unreliable or conditional love. The nervous system learns to be hypervigilant for the earliest signs of rejection because rejection once meant something serious.
@@ -603,14 +603,14 @@ High rejection sensitivity often develops from early experiences of unreliable o
 
 ## 14. People-Pleasing / Fawn Response Assessment
 
-**Purpose:** The fawn response â Pete Walker's addition to fight/flight/freeze â is the survival strategy of making others happy to prevent conflict or harm. It's common in those who grew up in unsafe or unpredictable environments.
+**Purpose:** The fawn response — Pete Walker's addition to fight/flight/freeze — is the survival strategy of making others happy to prevent conflict or harm. It's common in those who grew up in unsafe or unpredictable environments.
 
 **The 15-Point Checklist:**
 - [ ] 1. I feel anxious when someone is upset with me, even if I did nothing wrong.
 - [ ] 2. I frequently apologize even when I'm not sure I was at fault.
 - [ ] 3. I find it nearly impossible to say no, especially to people I care about.
 - [ ] 4. I monitor others' moods and adjust my behavior accordingly.
-- [ ] 5. I often don't know what I actually want â I'm better at knowing what others want.
+- [ ] 5. I often don't know what I actually want — I'm better at knowing what others want.
 - [ ] 6. I feel responsible for other people's emotional states.
 - [ ] 7. I stay silent when I disagree to keep the peace.
 - [ ] 8. I give compliments or extra helpfulness when I sense someone is displeased with me.
@@ -622,11 +622,11 @@ High rejection sensitivity often develops from early experiences of unreliable o
 - [ ] 14. I feel unsafe being disliked, even by people whose opinion doesn't matter to me.
 - [ ] 15. I have difficulty knowing where I end and others begin.
 
-**Scoring:** 0â4: Low fawn tendencies. 5â9: Moderate. 10â15: High fawn response â this is worth exploring with professional support.
+**Scoring:** 0–4: Low fawn tendencies. 5–9: Moderate. 10–15: High fawn response — this is worth exploring with professional support.
 
 **What To Do Next:**
 - The fawn response is a trauma response, not a character flaw.
-- The healing path: gradually, safely learning that conflict doesn't destroy relationships â and that your needs are legitimate.
+- The healing path: gradually, safely learning that conflict doesn't destroy relationships — and that your needs are legitimate.
 - Practice noticing what you *actually* want before immediately accommodating others.
 
 ---
@@ -640,21 +640,21 @@ High rejection sensitivity often develops from early experiences of unreliable o
 **Purpose:** Virginia Satir identified four survival stances people adopt under stress to protect self-esteem. Rate how often you exhibit each behavior *under pressure or stress.*
 
 **Placater (agreeing to avoid conflict):**
-Rate 1â5: "I agree even when I don't. I apologize to keep peace. I minimize my own distress to care for others. I use phrases like 'whatever you think.'"
+Rate 1–5: "I agree even when I don't. I apologize to keep peace. I minimize my own distress to care for others. I use phrases like 'whatever you think.'"
 
 **Blamer (attacking to avoid vulnerability):**
-Rate 1â5: "I find fault with others. I become critical, demanding, or accusatory under stress. I point fingers rather than accept responsibility. I attack before I can be attacked."
+Rate 1–5: "I find fault with others. I become critical, demanding, or accusatory under stress. I point fingers rather than accept responsibility. I attack before I can be attacked."
 
 **Super-Reasonable / Computer (intellectualizing to avoid emotion):**
-Rate 1â5: "I use big words and complex analysis to stay above emotional experience. I seem calm and logical while others feel dismissed. I correct rather than connect."
+Rate 1–5: "I use big words and complex analysis to stay above emotional experience. I seem calm and logical while others feel dismissed. I correct rather than connect."
 
 **Irrelevant / Distracter (avoiding the topic entirely):**
-Rate 1â5: "I change the subject, make jokes, or create diversions when things get intense. I'm never quite present for hard conversations. I disappear into busyness."
+Rate 1–5: "I change the subject, make jokes, or create diversions when things get intense. I'm never quite present for hard conversations. I disappear into busyness."
 
 **Congruent (aligned words, feelings, and meaning):**
-Rate 1â5: "Under stress, I can still say what I mean and mean what I say. My communication matches my internal state. I stay present with difficulty."
+Rate 1–5: "Under stress, I can still say what I mean and mean what I say. My communication matches my internal state. I stay present with difficulty."
 
-**What This Means:** Your highest-scoring survival stance is where you go when threatened. This isn't who you are â it's an old protection strategy. Noticing it is the first step to choosing differently.
+**What This Means:** Your highest-scoring survival stance is where you go when threatened. This isn't who you are — it's an old protection strategy. Noticing it is the first step to choosing differently.
 
 ---
 
@@ -662,7 +662,7 @@ Rate 1â5: "Under stress, I can still say what I mean and mean what I say. M
 
 **Purpose:** Diana Baumrind's research identified four parenting styles based on two axes: demandingness (expectations, structure) and responsiveness (warmth, support).
 
-**Rate each statement 1â5:**
+**Rate each statement 1–5:**
 
 *Demandingness (D):*
 1. I have clear rules and expectations for my child's behavior.
@@ -686,7 +686,7 @@ Rate 1â5: "Under stress, I can still say what I mean and mean what I say. M
 
 ---
 
-## 17. Adult Children of Dysfunctional Families â The Laundry List
+## 17. Adult Children of Dysfunctional Families — The Laundry List
 
 **Purpose:** The ACA "Laundry List" describes common traits of adults who grew up in dysfunctional (including addicted, abusive, emotionally unavailable, or chaotic) families.
 
@@ -714,7 +714,7 @@ Rate 1â5: "Under stress, I can still say what I mean and mean what I say. M
 
 ## 18. Family Triangulation Pattern Recognition
 
-**Purpose:** Triangulation is when two people manage their tension by pulling in a third â using a third person as a messenger, ally, or emotional buffer. It relieves tension temporarily but prevents direct resolution.
+**Purpose:** Triangulation is when two people manage their tension by pulling in a third — using a third person as a messenger, ally, or emotional buffer. It relieves tension temporarily but prevents direct resolution.
 
 **Are you being triangulated? Check all that apply:**
 - [ ] You frequently receive information about someone from a third party rather than directly.
@@ -739,7 +739,7 @@ Rate 1â5: "Under stress, I can still say what I mean and mean what I say. M
 
 ## 19. Parentification Assessment
 
-**Purpose:** Parentification is when a child takes on the emotional or functional role of a parent â becoming the caretaker, confidant, mediator, or emotional support for their parent(s).
+**Purpose:** Parentification is when a child takes on the emotional or functional role of a parent — becoming the caretaker, confidant, mediator, or emotional support for their parent(s).
 
 **Emotional Parentification:**
 - [ ] A parent regularly shared adult problems, relationship issues, or emotional burdens with you as a child.
@@ -758,7 +758,7 @@ Rate 1â5: "Under stress, I can still say what I mean and mean what I say. M
 - [ ] I feel guilty when I'm not taking care of others.
 - [ ] I feel responsible for adults who should be taking care of themselves.
 - [ ] I don't know how to receive care without discomfort.
-- [ ] I often don't know what I need â I'm more practiced at meeting others' needs.
+- [ ] I often don't know what I need — I'm more practiced at meeting others' needs.
 - [ ] I became a caregiver, therapist, or helping professional (which isn't pathological, but worth noticing).
 
 **What This Means:** Parentification creates deeply competent, attuned people who often struggle to have their own needs met. The healing path includes grieving the childhood you didn't have and learning that your job is not to save everyone.
@@ -771,9 +771,9 @@ Rate 1â5: "Under stress, I can still say what I mean and mean what I say. M
 
 ## 20. Boundary Health Assessment
 
-**Purpose:** Healthy boundaries are flexible, not rigid â they protect your self while allowing genuine connection.
+**Purpose:** Healthy boundaries are flexible, not rigid — they protect your self while allowing genuine connection.
 
-**Rate each dimension 1â5 (1=Extremely porous/none, 3=Healthy/flexible, 5=Rigid/walls):**
+**Rate each dimension 1–5 (1=Extremely porous/none, 3=Healthy/flexible, 5=Rigid/walls):**
 
 **Physical Boundaries** (your body, space, touch):
 1. I can say no to physical contact I don't want.
@@ -805,11 +805,11 @@ Rate 1â5: "Under stress, I can still say what I mean and mean what I say. M
 17. I don't say yes to more than I can genuinely give.
 18. My time commitments align with my priorities.
 
-**Scoring per category:** 3â5 in each dimension suggests healthy range. Below 3 = porous (too little protection). Near 5 in all categories = consider whether walls rather than boundaries are present.
+**Scoring per category:** 3–5 in each dimension suggests healthy range. Below 3 = porous (too little protection). Near 5 in all categories = consider whether walls rather than boundaries are present.
 
 ---
 
-## 21. Boundary Violation Recognition â 20 Scenarios
+## 21. Boundary Violation Recognition — 20 Scenarios
 
 **Instructions:** For each scenario, write V (Violation), G (Gray area, worth consideration), or N (Not a violation). Then consider: how would you respond?
 
@@ -834,13 +834,13 @@ Rate 1â5: "Under stress, I can still say what I mean and mean what I say. M
 19. Someone makes your schedule or plans without asking.
 20. A partner reads your messages on the grounds that "relationships should have no secrets."
 
-*(All 20 are violations or serious gray areas worth firm consideration â this is designed to help you recognize violations even when they're normalized.)*
+*(All 20 are violations or serious gray areas worth firm consideration — this is designed to help you recognize violations even when they're normalized.)*
 
 ---
 
 ## 22. Setting Boundaries Readiness Scale
 
-**Rate 1â5:**
+**Rate 1–5:**
 1. I believe my needs are as important as others' needs.
 2. I can tolerate temporary discomfort for long-term wellbeing.
 3. I have at least one person who supports me in this work.
@@ -866,17 +866,17 @@ Rate 1â5: "Under stress, I can still say what I mean and mean what I say. M
 1        2        3        4        5        6        7
 ```
 
-**Enmeshment signals (score 1â2):** Their mood is your mood. Their problems are your problems. You can't imagine having a life they don't approve of. Identity merges. "I don't know where I end and they begin."
+**Enmeshment signals (score 1–2):** Their mood is your mood. Their problems are your problems. You can't imagine having a life they don't approve of. Identity merges. "I don't know where I end and they begin."
 
-**Connected (score 3â5):** You're close, warm, and involved. You care deeply and can also disagree, have separate lives, and maintain your own sense of self. This is the goal.
+**Connected (score 3–5):** You're close, warm, and involved. You care deeply and can also disagree, have separate lives, and maintain your own sense of self. This is the goal.
 
-**Estrangement (score 6â7):** Emotional distance, avoidance, minimal genuine contact. May be protective, may be loss. Sometimes estrangement is the right boundary; often it's a wound.
+**Estrangement (score 6–7):** Emotional distance, avoidance, minimal genuine contact. May be protective, may be loss. Sometimes estrangement is the right boundary; often it's a wound.
 
 **What To Do Next:** Name the specific relationship, your current score, and your desired score. What's between you and that target?
 
 ---
 
-*End of File 1 â The Deep Relational & Behavioral Toolkit*
+*End of File 1 — The Deep Relational & Behavioral Toolkit*
 
 *Disclaimer: These instruments are educational frameworks inspired by validated clinical tools. They are not diagnostic instruments. High scores on concerning dimensions are invitations for professional consultation, not verdicts. The wisdom of a skilled therapist cannot be replaced by any self-assessment.*
 

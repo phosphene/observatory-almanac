@@ -1,4 +1,4 @@
-# Observatory Stats â November
+# Observatory Stats — November
 
 *Inspired by Harper's Index*
 
@@ -10,7 +10,7 @@
 
 * Percentage of the world's nations that celebrate some form of All Saints' or Ancestor Day on or around this date: 68%
 * Number of calories in a single cup of candy corn, the most returned Halloween candy: 702
-* Average number of daylight minutes lost per day in November at 45Â° latitude: 2.5
+* Average number of daylight minutes lost per day in November at 45° latitude: 2.5
 * Year the first transatlantic telegraph cable was laid, connecting two continents for the first time: 1858
 * Ratio of monarch butterflies overwintering in Mexico in 2023 compared to 1980s peak populations: 1:30
 * Percentage of Americans who report feeling lonelier in November than any other month: 34%
@@ -31,10 +31,10 @@
 * Average number of miles a polling place has moved away from majority-Black neighborhoods since 1965: 0.7
 * Number of countries that hold national elections in November: 31
 * Estimated number of votes cast via paper ballot globally each year: 4.2 billion
-* Year Mexico's DÃ­a de los Muertos was added to UNESCO's Intangible Cultural Heritage list: 2008
-* Number of marigold flowers typically used to decorate a single DÃ­a de los Muertos altar: 2,000
+* Year Mexico's Día de los Muertos was added to UNESCO's Intangible Cultural Heritage list: 2008
+* Number of marigold flowers typically used to decorate a single Día de los Muertos altar: 2,000
 * Percentage of Mexican families who visit cemeteries overnight on this date: 60%
-* Calories consumed per person during a typical DÃ­a de los Muertos celebration: 3,400
+* Calories consumed per person during a typical Día de los Muertos celebration: 3,400
 * Number of ofrendas (altars) constructed in Oaxaca alone for the holiday: 85,000
 * Ratio of sugar skulls sold in Mexico on November 2 to those sold any other day: 200:1
 
@@ -42,11 +42,11 @@
 
 ## November 3
 
-* Year the first dog was launched into space â Laika, aboard Sputnik 2: 1957
+* Year the first dog was launched into space — Laika, aboard Sputnik 2: 1957
 * Number of orbits Laika completed before the satellite's batteries died: 2,570
 * Percentage of Soviet citizens who reportedly wept upon hearing the news of Laika's fate: 23%
 * Average lifespan of a domestic dog in years: 11.4
-* Number of recognized dog breeds according to the FCI (FÃ©dÃ©ration Cynologique Internationale): 360
+* Number of recognized dog breeds according to the FCI (Fédération Cynologique Internationale): 360
 * Estimated annual global spending on pet care, in U.S. dollars: $261 billion
 * Percentage of U.S. households that own at least one dog: 38.4%
 * Number of taste buds a dog has compared to a human's roughly 9,000: 1,700
@@ -86,7 +86,7 @@
 * Percentage of UK households that attend or watch a bonfire on this date: 47%
 * Number of countries that celebrate some form of Guy Fawkes Night: 4 (UK, New Zealand, South Africa, Canada historically)
 * Year "Remember, remember the fifth of November" became a popular rhyme: circa 1870
-* Cost in GBP of the annual Lewes bonfire procession, one of Britain's largest: Â£350,000
+* Cost in GBP of the annual Lewes bonfire procession, one of Britain's largest: £350,000
 * Ratio of children to adults injured by sparklers annually in the UK: 3:1
 
 ---
@@ -119,7 +119,7 @@
 * Half-life in years of radium-226, which contaminated her papers: 1,600
 * Percentage of science Nobel Prizes awarded to women between 1901 and 2023: 4.3%
 * Year a woman first won the Nobel Prize in Physics after Curie: 1963 (Maria Goeppert Mayer)
-* Number of children Curie had who also became scientists: 1 (IrÃ¨ne Joliot-Curie)
+* Number of children Curie had who also became scientists: 1 (Irène Joliot-Curie)
 * Year the Curies' laboratory in Paris was declared a nuclear waste site: 1985
 * Estimated radiation dose in millisieverts per hour inside Marie Curie's original lab today: 2.0
 
@@ -127,10 +127,10 @@
 
 ## November 8
 
-* Year the X-ray was accidentally discovered by Wilhelm RÃ¶ntgen: 1895
-* Number of days between RÃ¶ntgen's discovery and his first public announcement: 50
+* Year the X-ray was accidentally discovered by Wilhelm Röntgen: 1895
+* Number of days between Röntgen's discovery and his first public announcement: 50
 * Estimated number of X-ray images taken globally each year: 3.6 billion
-* Year the first dental X-ray was taken: 1896 (within months of RÃ¶ntgen's discovery)
+* Year the first dental X-ray was taken: 1896 (within months of Röntgen's discovery)
 * Radiation dose in millisieverts from a single chest X-ray: 0.1
 * Radiation dose in millisieverts from a single full-body CT scan: 10
 * Percentage of radiation exposure for the average person that comes from medical imaging: 36%
@@ -154,7 +154,7 @@
 * Cost in U.S. dollars of reunification over the following decade: $2 trillion
 * Number of pieces of the Berlin Wall now on display in museums worldwide: 350+
 * Percentage of millennials in a 2019 survey who did not know what the Berlin Wall was: 22%
-* Average market price in euros for a certified chunk of the Berlin Wall: â¬85
+* Average market price in euros for a certified chunk of the Berlin Wall: €85
 * Year the last segment of the Wall was officially removed: 1992
 
 ---
@@ -181,12 +181,12 @@
 * Year World War I ended, at the 11th hour of the 11th day of the 11th month: 1918
 * Number of soldiers killed in WWI: 20 million
 * Number of civilians who died in WWI: 21 million
-* Percentage of all males aged 15â49 in France who were killed or wounded in WWI: 73%
+* Percentage of all males aged 15–49 in France who were killed or wounded in WWI: 73%
 * Approximate number of horses killed in WWI: 8 million
 * Year Armistice Day became Veterans Day in the United States: 1954
 * Number of countries that observe a national moment of silence on November 11: 50+
 * Number of poppy pins sold annually in the United Kingdom for Remembrance: 40 million
-* Amount raised in GBP by the Royal British Legion Poppy Appeal each year: Â£50 million
+* Amount raised in GBP by the Royal British Legion Poppy Appeal each year: £50 million
 * Year the Tomb of the Unknown Soldier was dedicated in Arlington National Cemetery: 1921
 * Number of nations with Tombs of Unknown Soldiers: 60+
 * Percentage of WWI soldiers who have never been identified: 57%
@@ -197,7 +197,7 @@
 
 * Year the first air-conditioned automobile was produced by Packard: 1939
 * Percentage of new U.S. cars sold today that include factory air conditioning: 99%
-* Approximate additional fuel consumption caused by running car A/C, as a percentage: 8â25%
+* Approximate additional fuel consumption caused by running car A/C, as a percentage: 8–25%
 * Year Roald Dahl was born, whose children's books have sold over 250 million copies: 1916
 * Number of languages into which Dahl's works have been translated: 68
 * Weight in ounces of a standard Wonka Everlasting Gobstopper as sold today: 0.88
@@ -218,7 +218,7 @@
 * Number of cows slaughtered per day globally to supply McDonald's beef: approximately 6,500
 * Year McDonald's introduced the Happy Meal: 1979
 * Estimated number of Happy Meal toys produced annually: 1.5 billion
-* Percentage of American children aged 3â9 who eat at McDonald's at least once a week: 40%
+* Percentage of American children aged 3–9 who eat at McDonald's at least once a week: 40%
 * Number of countries where McDonald's is the largest private employer: 4
 * Year McDonald's launched its first vegetarian menu in India: 1996
 * Percentage of McDonald's menu items in India that are vegetarian: 50%
@@ -236,7 +236,7 @@
 * Depth in feet to which a sperm whale can dive: 7,382
 * Year the sperm whale was named the U.S. state animal of Connecticut: 1975
 * Average amount of squid consumed by a single sperm whale per day, in pounds: 800
-* Number of teeth in a sperm whale's lower jaw: 40â52
+* Number of teeth in a sperm whale's lower jaw: 40–52
 * Percentage of Earth's ocean that remains unmapped at high resolution: 80%
 * Year the deepest point of the ocean, Challenger Deep, was first measured: 1875
 * Depth of Challenger Deep in feet: 36,089
@@ -269,9 +269,9 @@
 * Year the Trail of Tears forced relocation of Cherokee people began: 1838
 * Estimated number of Cherokee who died during the Trail of Tears: 4,000
 * Number of languages still spoken by Native Americans in Oklahoma today: 27
-* Year the Oklahoma City bombing â the deadliest domestic terrorist attack before 9/11 â occurred: 1995
+* Year the Oklahoma City bombing — the deadliest domestic terrorist attack before 9/11 — occurred: 1995
 * Number of people killed in the Oklahoma City bombing: 168
-* Year Oklahoma was struck by the strongest tornado ever recorded by wind speed: 1999 (Bridge CreekâMoore, 318 mph)
+* Year Oklahoma was struck by the strongest tornado ever recorded by wind speed: 1999 (Bridge Creek–Moore, 318 mph)
 * Average number of tornadoes in Oklahoma per year: 62
 * Percentage of the world's tornadoes that occur in the United States: 75%
 * Cost in U.S. dollars of tornado damage in Oklahoma in 2013 alone: $2 billion
@@ -307,7 +307,7 @@
 * Number of Academy Awards Walt Disney personally received: 26
 * Percentage of Disney animated films based on public domain fairy tales: 40%
 * Year "Frozen" became the highest-grossing animated film of all time (then): 2013
-* Number of reindeer in "Frozen" versus traditional SÃ¡mi herds: 1 vs. 1,000+
+* Number of reindeer in "Frozen" versus traditional Sámi herds: 1 vs. 1,000+
 * Estimated cost to build the original Disneyland in 1955 dollars: $17 million (about $192 million today)
 
 ---
@@ -387,7 +387,7 @@
 * Percentage of Americans who do crossword puzzles regularly: 25%
 * Average time in minutes to complete a Monday New York Times crossword: 8
 * Average time in minutes to complete a Saturday NYT crossword: 30
-* Year the first Saturday Night Live episode aired: 1975 (October 11 â but November 23, 1974 is when the concept was greenlit)
+* Year the first Saturday Night Live episode aired: 1975 (October 11 — but November 23, 1974 is when the concept was greenlit)
 * Number of hosts who have appeared on SNL since its debut: 200+
 * Year Doctor Who first aired on BBC television, on this date: 1963
 * Number of actors who have played the Doctor: 15 (main canon)
@@ -452,7 +452,7 @@
 
 * Year Bruce Lee was born, who could perform one-inch punch movements registering on force plates: 1940
 * Speed in seconds of Bruce Lee's famous one-inch punch delivery: 0.05
-* Force generated by Bruce Lee's one-inch punch in pounds: 350â400 lbs
+* Force generated by Bruce Lee's one-inch punch in pounds: 350–400 lbs
 * Year Bruce Lee died under mysterious circumstances: 1973
 * Age at which Bruce Lee died: 32
 * Number of weeks Bruce Lee trained per year with rest days excluded: ~52 (near-daily training)
@@ -467,7 +467,7 @@
 
 ## November 28
 
-* Year Thanksgiving travel peaked in the U.S. â the busiest travel day: annually, Wednesday before
+* Year Thanksgiving travel peaked in the U.S. — the busiest travel day: annually, Wednesday before
 * Number of Americans who travel by air during the Thanksgiving period: 30 million
 * Average cost in dollars of a domestic round-trip flight for Thanksgiving week: $350
 * Percentage increase in car accident fatalities during Thanksgiving vs. average Wednesday: 40%
@@ -507,9 +507,9 @@
 * Number of champagne bottles Churchill reportedly consumed in his lifetime: estimated 42,000
 * Bottles of whiskey Churchill drank during WWII according to his wartime physician: approximately 1 per day minimum
 * Age at which Churchill suffered his first stroke: 75
-* Number of cigars Churchill smoked per day on average: 8â10
+* Number of cigars Churchill smoked per day on average: 8–10
 * Year Churchill was voted "Greatest Briton of All Time" in a BBC poll: 2002
 * Percentage of Britons who participated in the poll: 1 million
 * Number of paintings Churchill created as a hobby: 500+
 * Year Churchill's paintings were first exhibited under a pseudonym: 1921
-* Estimated auction value in GBP of Churchill's most valuable painting sold: Â£1.8 million
+* Estimated auction value in GBP of Churchill's most valuable painting sold: £1.8 million

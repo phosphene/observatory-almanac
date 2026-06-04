@@ -1,25 +1,25 @@
 # Chess
 
-**The Royal Game** Â· 2 players Â· Ages 6+ Â· 30 minââ
+**The Royal Game** · 2 players · Ages 6+ · 30 min–∞
 
-Chess is the most studied abstract strategy game in history. Two armiesâWhite and Blackâcontest control of a 64-square board. The object is checkmate: placing the enemy king in inescapable attack.
+Chess is the most studied abstract strategy game in history. Two armies—White and Black—contest control of a 64-square board. The object is checkmate: placing the enemy king in inescapable attack.
 
 ---
 
 ## The Board
 
-An 8Ã8 grid of alternating light and dark squares. Always set up with a light square in each player's bottom-right corner ("light on right").
+An 8×8 grid of alternating light and dark squares. Always set up with a light square in each player's bottom-right corner ("light on right").
 
 ```
   a  b  c  d  e  f  g  h
-8 â  â  â  â  â  â  â  â  8
-7 â  â  â  â  â  â  â  â  7
+8 ♜  ♞  ♝  ♛  ♚  ♝  ♞  ♜  8
+7 ♟  ♟  ♟  ♟  ♟  ♟  ♟  ♟  7
 6 .  .  .  .  .  .  .  .  6
 5 .  .  .  .  .  .  .  .  5
 4 .  .  .  .  .  .  .  .  4
 3 .  .  .  .  .  .  .  .  3
-2 â  â  â  â  â  â  â  â  2
-1 â  â  â  â  â  â  â  â  1
+2 ♙  ♙  ♙  ♙  ♙  ♙  ♙  ♙  2
+1 ♖  ♘  ♗  ♕  ♔  ♗  ♘  ♖  1
   a  b  c  d  e  f  g  h
 ```
 
@@ -58,7 +58,7 @@ Moves in an L-shape: two squares in one orthogonal direction then one square per
 ```
   . N . N .
   N . . . N
-  . . â . .
+  . . ♘ . .
   N . . . N
   . N . N .
 ```
@@ -120,12 +120,12 @@ A player may not make a move that leaves their own king in check.
 
 ## Draw Conditions
 
-1. **Stalemate** â as described above.
-2. **Insufficient material** â neither side has enough pieces to force checkmate (e.g., king vs. king; king and bishop vs. king; king and knight vs. king).
-3. **Threefold repetition** â the same position occurs three times with the same player to move and the same rights (castling and en passant). Either player may claim the draw.
-4. **Fifty-move rule** â 50 consecutive moves (by both players) have been made with no pawn move and no capture. Either player may claim the draw.
-5. **Agreement** â both players agree to a draw.
-6. **Dead position** â the position is such that neither player can possibly checkmate the other with any sequence of legal moves.
+1. **Stalemate** — as described above.
+2. **Insufficient material** — neither side has enough pieces to force checkmate (e.g., king vs. king; king and bishop vs. king; king and knight vs. king).
+3. **Threefold repetition** — the same position occurs three times with the same player to move and the same rights (castling and en passant). Either player may claim the draw.
+4. **Fifty-move rule** — 50 consecutive moves (by both players) have been made with no pawn move and no capture. Either player may claim the draw.
+5. **Agreement** — both players agree to a draw.
+6. **Dead position** — the position is such that neither player can possibly checkmate the other with any sequence of legal moves.
 
 ---
 
@@ -133,7 +133,7 @@ A player may not make a move that leaves their own king in check.
 
 **Algebraic notation** is the standard for recording chess games.
 
-* Squares are named by file letter (aâh) and rank number (1â8): e.g., e4, g7.
+* Squares are named by file letter (a–h) and rank number (1–8): e.g., e4, g7.
 * Pieces are abbreviated: K (King), Q (Queen), R (Rook), B (Bishop), N (Knight). Pawns are unnamed.
 * Moves: piece letter + destination square. **Nf3** = knight to f3. **e4** = pawn to e4.
 * Capture: piece letter + x + destination. **Bxe5** = bishop captures on e5.
@@ -148,13 +148,13 @@ A player may not make a move that leaves their own king in check.
 
 ## Basic Opening Principles
 
-These guidelines apply to the first 10â15 moves and form the foundation of sound play regardless of specific opening theory.
+These guidelines apply to the first 10–15 moves and form the foundation of sound play regardless of specific opening theory.
 
 **1. Control the center.**
 The central squares (d4, d5, e4, e5) are the most important on the board. Pieces placed near the center control more squares. Open with 1.e4 or 1.d4 (White) or respond symmetrically (1...e5, 1...d5) or fight for the center indirectly (1...c5 Sicilian, 1...Nf6 Indian defenses).
 
 **2. Develop pieces rapidly.**
-Bring knights and bishops into play before the midgame. Aim to have all pieces developed by move 10â12. Do not move the same piece twice without strong reason. Do not bring the queen out early where it can be harassed.
+Bring knights and bishops into play before the midgame. Aim to have all pieces developed by move 10–12. Do not move the same piece twice without strong reason. Do not bring the queen out early where it can be harassed.
 
 **3. Castle early.**
 Castle to protect the king and connect the rooks. Ideally castle before move 10.
@@ -174,9 +174,9 @@ Avoid doubled pawns (two pawns of the same color on the same file), isolated paw
 
 Games may be played with a chess clock limiting each player's total thinking time. Common formats:
 
-* **Bullet:** 1â2 minutes per player
-* **Blitz:** 3â5 minutes per player
-* **Rapid:** 10â30 minutes per player
+* **Bullet:** 1–2 minutes per player
+* **Blitz:** 3–5 minutes per player
+* **Rapid:** 10–30 minutes per player
 * **Classical:** 60 minutes or more per player (often with time increments per move)
 
 A player who runs out of time loses (unless the opponent has insufficient material to force checkmate, in which case the game is a draw).
@@ -192,9 +192,9 @@ A player who runs out of time loses (unless the opponent has insufficient materi
 | Bishop | 3 |
 | Rook | 5 |
 | Queen | 9 |
-| King | â |
+| King | ∞ |
 
-These are guidelines for material calculation, not rigid rules. Positional factorsâpiece activity, king safety, pawn structureâoften outweigh raw material in practical play. Two bishops (the "bishop pair") are generally worth slightly more than bishop + knight or two knights in open positions.
+These are guidelines for material calculation, not rigid rules. Positional factors—piece activity, king safety, pawn structure—often outweigh raw material in practical play. Two bishops (the "bishop pair") are generally worth slightly more than bishop + knight or two knights in open positions.
 
 ---
 
@@ -212,4 +212,4 @@ These are guidelines for material calculation, not rigid rules. Positional facto
 
 *See also: Go (strategy depth), Shogi (piece drops and promotion), Backgammon (luck and skill)*
 
-### ð¯ Scorecard
+### 🎯 Scorecard

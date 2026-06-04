@@ -1,4 +1,4 @@
-# Observatory Stats â August
+# Observatory Stats — August
 
 *Inspired by Harper's Index*
 
@@ -26,7 +26,7 @@
 * Year the Great Wall was designated a UNESCO World Heritage Site: 1987
 * Number of watchtowers along the Great Wall: 30,000+
 * Percentage of China's coastline covered by mangroves: 1
-* Average thickness of the Great Wall, in feet: 15â30
+* Average thickness of the Great Wall, in feet: 15–30
 * Number of dynasties that contributed to the Wall's construction: 10+
 * Gallons of water in China's Yellow River, a primary civilizational source: 58 billion cubic meters annually
 * Percentage of the world's pork consumed in China: 50
@@ -40,7 +40,7 @@
 * Average distance a honeybee travels to produce one pound of honey, in miles: 55,000
 * Number of flowers a bee visits per day: 2,000
 * Gallons of nectar required to make one pound of honey: 4.5 pounds of nectar
-* Percentage decline in wild bee populations over the last 50 years: 30â50
+* Percentage decline in wild bee populations over the last 50 years: 30–50
 * Average lifespan of a worker honeybee during summer, in weeks: 6
 * Number of individual honeybees in a typical hive: 60,000
 * Year the first commercial beekeeping operation began in the US: 1850
@@ -53,7 +53,7 @@
 * Number of people born on August 4, 1961 who became US president: 1 (Barack Obama)
 * Percentage of US voters who believe the president has too much power: 48
 * Average approval rating of US presidents on their first day in office: 67%
-* Year the US held its first presidential election: 1788â1789
+* Year the US held its first presidential election: 1788–1789
 * Number of US presidents who served without being elected: 4
 * Percentage of US presidents who were lawyers before taking office: 25
 * Average age of a US president at inauguration: 55
@@ -97,7 +97,7 @@
 
 * Number of books published about sharks every year: 100+
 * Percentage of shark attacks that are fatal: 20
-* Average number of shark attacks worldwide per year: 70â80
+* Average number of shark attacks worldwide per year: 70–80
 * Number of shark species: 500+
 * Percentage of shark species threatened with extinction: 37
 * Year Jaws was released and permanently altered shark perception: 1975
@@ -145,12 +145,12 @@
 * Average volume of lava produced by a major eruption, in cubic miles: up to 10
 * Year of the largest volcanic eruption in recorded history (Tambora): 1815
 * Number of people killed by the Tambora eruption and resulting famine: 71,000+
-* Percentage drop in global temperatures following the 1815 Tambora eruption: 1â2 degrees Fahrenheit
-* Average speed of lava flow, in mph: 0.5â6
+* Percentage drop in global temperatures following the 1815 Tambora eruption: 1–2 degrees Fahrenheit
+* Average speed of lava flow, in mph: 0.5–6
 * Number of US states with active volcanoes: 3 (Alaska, Hawaii, Washington/Oregon/California)
 * Gallons of sulfur dioxide released per day by a major eruption: billions of cubic feet
 * Percentage of all igneous rock on Earth that is basalt: 90
-* Year Mount St. Helens last erupted: 2004â2008 (dome-building phase)
+* Year Mount St. Helens last erupted: 2004–2008 (dome-building phase)
 * Number of people who died in the 1980 Mount St. Helens eruption: 57
 
 ## August 11
@@ -220,7 +220,7 @@
 * Population of India as of 2024: 1,440,000,000+
 * Percentage of the world's vegetarians who live in India: 70
 * Average annual income in India in current US dollars: $2,400
-* Number of feature films produced by Bollywood annually: 1,000â2,000
+* Number of feature films produced by Bollywood annually: 1,000–2,000
 * Percentage of India's population that is under 25: 50
 * Gallons of tea consumed in India per year: 1.1 billion kilograms
 * Number of UNESCO World Heritage Sites in India: 42
@@ -312,25 +312,25 @@
 * Number of seconds of totality experienced at the path's centerline: up to 4 minutes 28 seconds
 * Percentage drop in temperature during totality: 10 degrees Fahrenheit
 * Year ancient Babylonians first successfully predicted a solar eclipse: 600 BCE
-* Number of total solar eclipses visible from the same spot in a 100-year period: 1â2
+* Number of total solar eclipses visible from the same spot in a 100-year period: 1–2
 * Percentage of Earth's surface covered by any given eclipse path: 0.5
 * Number of languages in which the word for "eclipse" relates to darkness or disappearance: most
-* Average cost of eclipse-viewing glasses sold during 2024 eclipse: $1â$5
+* Average cost of eclipse-viewing glasses sold during 2024 eclipse: $1–$5
 * Number of people who traveled to the 2024 US eclipse path: 3,700,000+
 
 ## August 22
 
 * Number of wild tigers remaining on Earth: 3,900
 * Percentage decline in wild tiger populations since 1900: 96
-* Average territory of a male Bengal tiger, in square miles: 23â40
+* Average territory of a male Bengal tiger, in square miles: 23–40
 * Year the tiger was added to the endangered species list: 1973
 * Number of countries with wild tiger populations: 13
-* Average lifespan of a tiger in the wild, in years: 10â15
+* Average lifespan of a tiger in the wild, in years: 10–15
 * Weight of a Siberian tiger, in pounds: up to 660
 * Percentage of tiger cubs that survive to adulthood in the wild: 40
 * Number of subspecies of tiger: 9 (3 extinct)
 * Year the last Caspian tiger was confirmed dead: 1970
-* Gallons of water a tiger needs per day: 2â5
+* Gallons of water a tiger needs per day: 2–5
 * Number of captive tigers in the US (private and zoos): 5,000+
 
 ## August 23
@@ -390,7 +390,7 @@
 * Percentage of Fortune 500 companies led by female CEOs as of 2024: 10
 * Number of women who have served as US Secretary of State: 3
 * Year the first woman was elected to a national legislature: 1907 (Finland)
-* Percentage of the world's agricultural labor done by women: 60â80
+* Percentage of the world's agricultural labor done by women: 60–80
 * Number of Nobel Prizes awarded to women: 66 (as of 2024)
 
 ## August 27
@@ -399,7 +399,7 @@
 * Distance at which the Krakatoa eruption was heard, in miles: 3,000
 * Number of people killed by the resulting tsunami: 36,000
 * Percentage of global temperature drop in the year following Krakatoa: 1.2 degrees Fahrenheit
-* Average height of the Krakatoa tsunami, in feet: 98â130
+* Average height of the Krakatoa tsunami, in feet: 98–130
 * Number of islands created or destroyed by the eruption: 2 new islands, 1 existing destroyed
 * Year a new volcanic island (Anak Krakatoa) emerged from the caldera: 1927
 * Percentage of the sky that appeared red globally for months after the eruption: affected sunsets worldwide
@@ -464,6 +464,6 @@
 * Average temperature in Kuala Lumpur in August, in Fahrenheit: 90
 * Number of UNESCO World Heritage Sites in Malaysia: 4
 * Percentage of world's rubber production from Malaysia and neighboring nations: 70
-* Year the Petronas Towers were the world's tallest buildings: 1998â2004
+* Year the Petronas Towers were the world's tallest buildings: 1998–2004
 * Number of countries that gained independence in August across all years: 15+
 * Gallons of palm oil exported from Malaysia annually: over 18 million metric tons

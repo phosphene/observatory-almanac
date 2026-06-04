@@ -1,6 +1,6 @@
 # Disaster Response Reference
 
-*The Observatory Almanac â Section 14.2*
+*The Observatory Almanac — Section 14.2*
 
 > **Use this guide for preparedness and reference.** Actual emergencies require following instructions from local authorities. Evacuation orders are mandatory where issued.
 
@@ -8,11 +8,11 @@
 
 ## How to Use This Guide
 
-Each response card follows the **BEFORE / DURING / AFTER** framework. Preparation done before a disaster dramatically improves survival odds. Read these cards before emergencies â not during them.
+Each response card follows the **BEFORE / DURING / AFTER** framework. Preparation done before a disaster dramatically improves survival odds. Read these cards before emergencies — not during them.
 
 ---
 
-## ð Earthquake
+## 🌍 Earthquake
 
 ### BEFORE
 
@@ -26,17 +26,17 @@ Each response card follows the **BEFORE / DURING / AFTER** framework. Preparatio
 
 ### DURING
 
-1. **Drop** to hands and knees â reduces chance of being knocked down.
+1. **Drop** to hands and knees — reduces chance of being knocked down.
 2. **Cover** head and neck with arms; crawl under a sturdy table or desk if nearby.
 3. **Hold On** to shelter until shaking stops.
-4. **Stay indoors** until shaking stops â most injuries occur when people try to move or run.
+4. **Stay indoors** until shaking stops — most injuries occur when people try to move or run.
 5. **If outside:** Move away from buildings, streetlights, utility wires. Drop to ground.
 6. **If in a vehicle:** Pull over away from bridges, overpasses, buildings. Stay inside.
-7. **If trapped:** Signal with whistle, tap on pipes, or shout at intervals. Conserve air â do not light matches (gas leaks).
+7. **If trapped:** Signal with whistle, tap on pipes, or shout at intervals. Conserve air — do not light matches (gas leaks).
 
 ### AFTER
 
-* Expect and prepare for **aftershocks** â drop, cover, hold on again.
+* Expect and prepare for **aftershocks** — drop, cover, hold on again.
 * Check for injuries; provide first aid; do not move seriously injured persons unless there is immediate danger.
 * **Check for hazards:** Smell for gas (if detected, open windows, leave immediately, do not use electrical switches). Look for fire. Check for structural damage.
 * Use flashlights, not candles or lighters (gas leak risk).
@@ -48,7 +48,7 @@ Each response card follows the **BEFORE / DURING / AFTER** framework. Preparatio
 
 ---
 
-## ðªï¸ Tornado
+## 🌪️ Tornado
 
 ### BEFORE
 
@@ -58,19 +58,19 @@ Each response card follows the **BEFORE / DURING / AFTER** framework. Preparatio
 * **Identify shelter:** Lowest floor, interior room (bathroom, closet, hallway). Away from windows.
 * **Get a NOAA weather radio.**
 * **Know your community's warning system** (sirens, apps).
-* **Plan for mobile homes:** Never shelter in a mobile home during a tornado â always evacuate to a substantial building or designated shelter.
+* **Plan for mobile homes:** Never shelter in a mobile home during a tornado — always evacuate to a substantial building or designated shelter.
 
 ### DURING
 
 **Shelter Protocol:**
 1. Go to the lowest level of the building (basement preferred).
 2. In basement: Get under a sturdy table or staircase. Cover head and neck.
-3. No basement: Go to an interior room on the lowest floor â bathroom, closet, or hallway. Stay away from windows.
+3. No basement: Go to an interior room on the lowest floor — bathroom, closet, or hallway. Stay away from windows.
 4. Cover yourself with blankets, mattress, or couch cushions.
 5. Protect head and neck with arms.
 
 **If outdoors:**
-- Do not try to outrun a tornado in a vehicle on open terrain (exception: driving at 90Â° to the tornado's path may work if it's far away).
+- Do not try to outrun a tornado in a vehicle on open terrain (exception: driving at 90° to the tornado's path may work if it's far away).
 - Abandon vehicle. Lie in a ditch or low-lying area. Cover head. Do NOT shelter under a bridge or overpass (wind tunnel effect).
 
 **If in a vehicle:**
@@ -88,7 +88,7 @@ Each response card follows the **BEFORE / DURING / AFTER** framework. Preparatio
 
 ---
 
-## ð Hurricane
+## 🌀 Hurricane
 
 ### BEFORE (Days/Weeks Ahead)
 
@@ -98,7 +98,7 @@ Each response card follows the **BEFORE / DURING / AFTER** framework. Preparatio
 * **Fill car with gas.** ATMs and gas stations may not work post-storm.
 * **Charge all devices.** Backup power banks.
 * **Fill bathtub with water** for flushing toilets.
-* **Know your evacuation route** â multiple routes in case roads are blocked.
+* **Know your evacuation route** — multiple routes in case roads are blocked.
 
 **Evacuation Decision:**
 - Evacuate if ordered. Do not wait.
@@ -108,23 +108,23 @@ Each response card follows the **BEFORE / DURING / AFTER** framework. Preparatio
 ### DURING
 
 * **Stay indoors.** Stay away from windows and glass doors.
-* The calm "eye" of the hurricane may pass â **do not go outside.** The worst winds may return from the opposite direction within minutes.
+* The calm "eye" of the hurricane may pass — **do not go outside.** The worst winds may return from the opposite direction within minutes.
 * Keep listening to weather radio or emergency broadcasts.
-* Be aware of storm surge â rapidly rising water is the most deadly aspect of hurricanes.
+* Be aware of storm surge — rapidly rising water is the most deadly aspect of hurricanes.
 * If flooding threatens: Move to upper floors but do not enter attic (become trapped). Get to roof only if necessary.
 
 ### AFTER
 
 * **Wait for official all-clear before returning.**
-* Avoid floodwaters â they may be electrically charged from downed lines, contaminated, or moving faster than they appear. 6 inches of moving water can knock an adult down. 12 inches can carry away a vehicle.
-* Do not use generator indoors or in garage â carbon monoxide kills.
+* Avoid floodwaters — they may be electrically charged from downed lines, contaminated, or moving faster than they appear. 6 inches of moving water can knock an adult down. 12 inches can carry away a vehicle.
+* Do not use generator indoors or in garage — carbon monoxide kills.
 * Check for structural damage before entering buildings.
 * Document damage; contact insurer.
-* Conserve water â supply may be contaminated.
+* Conserve water — supply may be contaminated.
 
 ---
 
-## ð Tsunami
+## 🌊 Tsunami
 
 ### Warning Signs (Natural Warnings)
 
@@ -145,21 +145,21 @@ Each response card follows the **BEFORE / DURING / AFTER** framework. Preparatio
 ### DURING (When Warning Issued or Natural Signs Observed)
 
 1. **Move immediately to high ground or inland.** Do not wait for an official warning if you observe natural warning signs.
-2. Go on foot if roads are congested â cars may not make it.
+2. Go on foot if roads are congested — cars may not make it.
 3. **Do not wait to see the wave.** If you can see it, it's too late to outrun it.
 4. Move to a minimum of 100 feet above sea level or 1 mile inland.
 5. If caught in a wave: Grab something that floats. Protect your head.
 
 ### AFTER
 
-* Stay at high ground until officials declare it safe â there will likely be **multiple waves**, and later waves may be larger.
+* Stay at high ground until officials declare it safe — there will likely be **multiple waves**, and later waves may be larger.
 * Tsunami waves can continue for 8+ hours.
 * Avoid floodwaters.
 * Stay out of flooded areas.
 
 ---
 
-## ð§ï¸ Flood / Flash Flood
+## 🌧️ Flood / Flash Flood
 
 ### BEFORE
 
@@ -169,11 +169,11 @@ Each response card follows the **BEFORE / DURING / AFTER** framework. Preparatio
 * Know where to turn off electricity at the main switch.
 * Identify local flood shelters and evacuation routes.
 
-### DURING â Flash Flood
+### DURING — Flash Flood
 
 * **If a flash flood warning is issued: Act immediately.**
 * Move to higher ground. Do not wait.
-* **Do not walk through moving water** â 6 inches can knock you down; 2 feet can carry away most vehicles.
+* **Do not walk through moving water** — 6 inches can knock you down; 2 feet can carry away most vehicles.
 * **Do not drive through flooded roads.** *Turn Around, Don't Drown.* More than half of flood deaths occur in vehicles.
 * If your vehicle is swept into water: Get out immediately and move to higher ground.
 
@@ -181,30 +181,30 @@ Each response card follows the **BEFORE / DURING / AFTER** framework. Preparatio
 
 * Wait for official all-clear to return.
 * Document damage with photos.
-* Wear rubber boots and gloves â floodwater is contaminated.
+* Wear rubber boots and gloves — floodwater is contaminated.
 * Do not use electrical appliances until inspected.
 * Pump out flooded basements gradually (pumping too fast can cause structural collapse).
 * Discard food that contacted floodwater.
 
 ---
 
-## ð¥ Wildfire
+## 🔥 Wildfire
 
 ### Evacuation Decision Tree
 
 ```
 Wildfire in region?
-â
-ââ Evacuation ORDER issued?
-â   ââ YES â LEAVE IMMEDIATELY. Take pets, medications, documents.
-â
-ââ Evacuation WARNING issued?
-â   ââ Be ready to leave at a moment's notice. Load car. Go early.
-â
-ââ No order/warning but fire nearby?
-    ââ Can you see smoke or flames? â Consider leaving now.
-    ââ Is road blocked? â Shelter in place.
-    ââ Unsure? â Leave early. Roads get congested fast.
+│
+├─ Evacuation ORDER issued?
+│   └─ YES → LEAVE IMMEDIATELY. Take pets, medications, documents.
+│
+├─ Evacuation WARNING issued?
+│   └─ Be ready to leave at a moment's notice. Load car. Go early.
+│
+└─ No order/warning but fire nearby?
+    ├─ Can you see smoke or flames? → Consider leaving now.
+    ├─ Is road blocked? → Shelter in place.
+    └─ Unsure? → Leave early. Roads get congested fast.
 ```
 
 ### BEFORE
@@ -216,17 +216,17 @@ Wildfire in region?
 * Sign up for local emergency alerts.
 * Plan where your pets will go.
 
-### DURING â Evacuation
+### DURING — Evacuation
 
 * Take your go bag.
 * Wear long pants, long sleeves, and sturdy shoes.
 * Close windows, vents, and pet doors before leaving.
-* Leave lights on inside â makes house visible in smoke.
+* Leave lights on inside — makes house visible in smoke.
 * Take irrigation/hose to roof if time permits.
-* Follow designated evacuation routes â do not take shortcuts.
+* Follow designated evacuation routes — do not take shortcuts.
 * If trapped in vehicle: park away from vegetation, turn engine off, headlights on, lie on floor, cover with wool blanket.
 
-### DURING â Shelter in Place (If Evacuation Is Impossible)
+### DURING — Shelter in Place (If Evacuation Is Impossible)
 
 1. Go to the most protected room. Close all windows and doors.
 2. Seal gaps under doors with wet towels.
@@ -238,13 +238,13 @@ Wildfire in region?
 ### AFTER
 
 * Do not return until authorities declare it safe.
-* Ash and debris are hazardous â wear N95 mask, gloves, protective clothing.
+* Ash and debris are hazardous — wear N95 mask, gloves, protective clothing.
 * Document damage.
 * Check utilities carefully before use.
 
 ---
 
-## âï¸ Winter Storm / Blizzard
+## ❄️ Winter Storm / Blizzard
 
 ### BEFORE
 
@@ -258,7 +258,7 @@ Wildfire in region?
 ### DURING
 
 * **Stay indoors.** Wind chill is the primary killer.
-* If you must go outside: Dress in layers (wool or synthetic â not cotton, which loses insulation when wet). Cover all exposed skin.
+* If you must go outside: Dress in layers (wool or synthetic — not cotton, which loses insulation when wet). Cover all exposed skin.
 * **Limit travel.** If you must drive: Tell someone your route and ETA. Carry your vehicle kit.
 * **If stranded in vehicle:** Stay with vehicle (easier to find). Run engine 10 min/hr for heat (open window slightly; check exhaust pipe for blockage). Signal for help.
 * Avoid carbon monoxide: Never use generators, camp stoves, or charcoal grills indoors.
@@ -266,14 +266,14 @@ Wildfire in region?
 
 ### AFTER
 
-* Beware of overexertion when shoveling â heart attack risk.
+* Beware of overexertion when shoveling — heart attack risk.
 * Watch for frostbite and hypothermia signs (see CPR & First Aid guide).
-* Check on pipes â frozen pipes burst as they thaw.
+* Check on pipes — frozen pipes burst as they thaw.
 * Remove snow from roof if load becomes heavy (risk of collapse).
 
 ---
 
-## â¡ Extended Power Outage
+## ⚡ Extended Power Outage
 
 ### BEFORE
 
@@ -281,7 +281,7 @@ Wildfire in region?
 * **Lighting:** LED lanterns, flashlights with extra batteries, glow sticks.
 * **Manual alternatives:** Manual can opener, non-electric heating source (camping stove, wood stove).
 * **Generator:** If purchasing, get appropriate size. Store fuel safely. Learn operation.
-* **Food preservation:** Keep freezer and fridge closed. Freezer food safe 24â48 hrs. Fridge safe 4 hrs.
+* **Food preservation:** Keep freezer and fridge closed. Freezer food safe 24–48 hrs. Fridge safe 4 hrs.
 * **Medical equipment:** If you use powered medical devices, register with utility company; have backup plan.
 * **Cash:** ATMs and card readers may be down.
 
@@ -290,9 +290,9 @@ Wildfire in region?
 * **Unplug appliances** to protect from power surges when power returns.
 * Leave one light on so you know when power is restored.
 * **Generator safety:** Run OUTSIDE only, at least 20 feet from windows/doors. Never in garage. CO kills quickly.
-* Food: 40Â°F or below = safe. Above 40Â°F for 2+ hours = discard.
-* Stay cool/warm depending on climate â extreme heat or cold are life-threatening without power.
-* Ice for coolers â local emergency supply points often provide ice.
+* Food: 40°F or below = safe. Above 40°F for 2+ hours = discard.
+* Stay cool/warm depending on climate — extreme heat or cold are life-threatening without power.
+* Ice for coolers — local emergency supply points often provide ice.
 
 ### AFTER
 
@@ -303,7 +303,7 @@ Wildfire in region?
 
 ---
 
-## ð  House Fire
+## 🏠 House Fire
 
 ### BEFORE
 
@@ -311,14 +311,14 @@ Wildfire in region?
 * **Install carbon monoxide detectors** near sleeping areas.
 * **Plan escape routes:** Two ways out of every room. Agree on outside meeting point.
 * **Practice:** Run fire drills. Everyone practices "get low, go."
-* **Keep doors closed at night** â closed doors slow fire spread significantly.
+* **Keep doors closed at night** — closed doors slow fire spread significantly.
 * **Fire extinguisher:** Know location, type (ABC multipurpose), and how to use (PASS: Pull, Aim, Squeeze, Sweep).
 
-### DURING â Escape
+### DURING — Escape
 
 1. On hearing alarm: **Get out immediately.** Don't gather belongings.
 2. Before opening a door: **Feel it with the back of your hand.** If hot, find another way out.
-3. **Stay low** â smoke and toxic gases rise.
+3. **Stay low** — smoke and toxic gases rise.
 4. Close doors behind you as you go (slows fire spread).
 5. If clothes catch fire: **Stop, Drop, Roll.** Cover your face.
 6. Once outside: **Stay outside.** Do not re-enter.
@@ -340,7 +340,7 @@ Wildfire in region?
 
 ---
 
-## ð¨ Gas Leak
+## 💨 Gas Leak
 
 ### Signs
 
@@ -352,7 +352,7 @@ Wildfire in region?
 
 ### DURING
 
-1. **Do not operate any electrical switches** â including light switches, phone chargers. No open flames.
+1. **Do not operate any electrical switches** — including light switches, phone chargers. No open flames.
 2. **Do not use your phone inside the building.**
 3. **Leave immediately.** Leave doors open as you go.
 4. **Warn neighbors.**
@@ -361,11 +361,11 @@ Wildfire in region?
 
 ---
 
-## ð« Active Shooter
+## 🔫 Active Shooter
 
 ### Run-Hide-Fight Framework
 
-**RUN â If there is a safe escape path:**
+**RUN — If there is a safe escape path:**
 - Leave immediately, regardless of others' willingness to go.
 - Leave belongings behind.
 - Evacuate even if others do not follow.
@@ -373,15 +373,15 @@ Wildfire in region?
 - Call 911 once safely away.
 - Hands visible when police arrive.
 
-**HIDE â If escape is not possible:**
+**HIDE — If escape is not possible:**
 - Get out of the shooter's view.
 - Lock or barricade door. Turn off lights.
 - Silence phone completely (not just vibrate).
-- Do not cluster together â spread out.
+- Do not cluster together — spread out.
 - Hide behind heavy, solid objects.
 - Do not open the door for anyone claiming to be police until you have confirmed via other means.
 
-**FIGHT â As a last resort, when your life is in imminent danger:**
+**FIGHT — As a last resort, when your life is in imminent danger:**
 - Commit fully and act aggressively.
 - Improvise weapons (fire extinguisher, furniture).
 - Yell and create commotion.
@@ -391,11 +391,11 @@ Wildfire in region?
 - Remain calm. Raise hands. Spread fingers.
 - Follow all instructions immediately.
 - Do not make sudden movements.
-- Police may handcuff you initially as a precaution â comply.
+- Police may handcuff you initially as a precaution — comply.
 
 ---
 
-## ð£ Bomb Threat
+## 💣 Bomb Threat
 
 ### Receiving a Threat (Phone)
 
@@ -422,7 +422,7 @@ Wildfire in region?
 
 ---
 
-## â¢ï¸ Nuclear / Radiological Emergency
+## ☢️ Nuclear / Radiological Emergency
 
 *Extremely unlikely but worth knowing.*
 
@@ -437,7 +437,7 @@ Wildfire in region?
 * **Know if you live within 50 miles of a nuclear facility.** Facilities provide emergency planning information.
 * Keep potassium iodide (KI) tablets available if within 10 miles of a nuclear plant (check local emergency management guidance).
 
-### DURING â Get Inside, Stay Inside, Stay Tuned
+### DURING — Get Inside, Stay Inside, Stay Tuned
 
 1. **Get inside a substantial building** as quickly as possible. Dense materials (concrete, brick) provide shielding.
 2. Move to the **center of the building**, away from windows and exterior walls.
@@ -448,14 +448,14 @@ Wildfire in region?
 
 ### AFTER
 
-* Stay inside for at least 24 hours (radiation falls off rapidly after initial event â the "seven-ten" rule: for every 7-fold increase in time, radiation decreases 10-fold).
+* Stay inside for at least 24 hours (radiation falls off rapidly after initial event — the "seven-ten" rule: for every 7-fold increase in time, radiation decreases 10-fold).
 * If you believe you were exposed outdoors: Remove outer clothing (removes ~80% of contamination). Shower with soap and water. Do not use conditioner. Blow nose, wipe eyelids, clean ears.
 * Follow authorities on when it is safe to leave shelter.
 * Do not consume local food or water until cleared.
 
 ---
 
-## ð¦  Pandemic Basics
+## 🦠 Pandemic Basics
 
 ### BEFORE
 
@@ -474,7 +474,7 @@ Wildfire in region?
 * Stay home when sick.
 * Increase ventilation (open windows, use air purifiers with HEPA filters).
 * **Monitor symptoms.** Know when to seek care vs. manage at home.
-* Maintain mental health: Routine, social connection (remote), limit news consumption to 1â2 credible sources.
+* Maintain mental health: Routine, social connection (remote), limit news consumption to 1–2 credible sources.
 * Protect vulnerable household members.
 
 ### AFTER
@@ -495,7 +495,7 @@ Every household member should have or share:
 **Water:** 1 gallon per person per day (minimum 3 days)
 **Food:** 3-day supply of non-perishable food
 **Medications:** At least 7-day supply of all prescription drugs
-**Documents:** Copies of ID, insurance cards, medical records, bank info â in a waterproof bag
+**Documents:** Copies of ID, insurance cards, medical records, bank info — in a waterproof bag
 **Communication:** Battery/hand-crank radio, charged power banks
 **First aid kit**
 **Flashlight + extra batteries**
@@ -503,7 +503,7 @@ Every household member should have or share:
 **Cash** (small bills)
 **Whistle** (to signal for help)
 **Dust masks / N95**
-**Local maps** (paper â cell towers may be down)
+**Local maps** (paper — cell towers may be down)
 **Sanitation:** Toilet paper, hand sanitizer, garbage bags, moist towelettes
 
 **For infants:** Formula, diapers, baby food
@@ -520,7 +520,7 @@ Every household member should have or share:
 
 ---
 
-*Section 14.2 â The Observatory Almanac*
+*Section 14.2 — The Observatory Almanac*
 
 ---
 

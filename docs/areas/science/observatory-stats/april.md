@@ -1,8 +1,8 @@
-# April â Observatory Stats
+# April — Observatory Stats
 
 *Inspired by Harper's Index*
 
-*10â12 startling statistics per day. No repeats. Sources: peer-reviewed studies, government data, historical records, and established reference works.*
+*10–12 startling statistics per day. No repeats. Sources: peer-reviewed studies, government data, historical records, and established reference works.*
 
 ---
 
@@ -51,7 +51,7 @@
 * Percentage of Pony Express letters that were successfully delivered: 99
 * Year the telegraph made the Pony Express obsolete: 1861
 * Average age of Pony Express riders: 19
-* Salary of a Pony Express rider per month in 1860 USD: $100â$150
+* Salary of a Pony Express rider per month in 1860 USD: $100–$150
 * Number of Pony Express riders who died on the job: 1 (confirmed)
 * Weight limit for mail carried per ride (pounds): 10
 * Total revenue earned by the Pony Express in its entire operation (USD): $500,000
@@ -133,7 +133,7 @@
 * Width of the moon's shadow on Earth's surface during totality (miles): approximately 100
 * Number of people who traveled specifically to view the April 8, 2024 total solar eclipse: 31 million
 * Estimated economic impact of the 2024 eclipse on US cities in its path (USD): $1.5 billion
-* Temperature drop in Fahrenheit recorded at the path of totality during 2024 eclipse: up to 10Â°F
+* Temperature drop in Fahrenheit recorded at the path of totality during 2024 eclipse: up to 10°F
 * Number of total solar eclipses visible from any given point on Earth per century: 0.4
 * Speed at which the moon's shadow races across Earth's surface (mph): 1,500
 * Year of the next total solar eclipse visible from the continental United States: 2044
@@ -166,7 +166,7 @@
 * Number of passengers and crew aboard: 2,224
 * Number of lifeboats: 20
 * Lifeboat capacity vs. actual survivors rescued: 1,178 capacity, 710 survivors
-* Temperature of the North Atlantic water on the night of the sinking (Â°F): 28
+* Temperature of the North Atlantic water on the night of the sinking (°F): 28
 * Time it took Titanic to sink after hitting the iceberg (minutes): 160
 * Depth of the Titanic wreck on the ocean floor (feet): 12,500
 * Year the wreck was discovered: 1985
@@ -352,7 +352,7 @@
 * Year Rome was traditionally founded, according to Roman reckoning: 753 BCE
 * Number of hills on which Rome was built: 7
 * Peak population of ancient Rome at its height: 1 million
-* Percentage of ancient Romans who were enslaved: 30â40
+* Percentage of ancient Romans who were enslaved: 30–40
 * Year the Western Roman Empire collapsed: 476 CE
 * Languages descended from Latin still spoken today: 5 (major Romanc; 20+ total)
 * Miles of Roman roads built across the empire: 50,000
@@ -372,7 +372,7 @@
 * Participants globally as of recent years: 1 billion
 * Year the EPA was created, partly as a result of Earth Day momentum: 1970
 * Number of environmental laws passed in the US in the decade following the first Earth Day: 28
-* Gigatons of COâ emitted globally per year: 37
+* Gigatons of CO₂ emitted globally per year: 37
 * Percentage of emissions from fossil fuels: 89
 * Number of species driven to extinction every day: estimated 150
 * Year the ozone hole over Antarctica was first detected: 1985
@@ -405,12 +405,12 @@
 * Countries that do not, including Turkey: includes US (federally recognized only in 2021)
 * Year the US Congress passed a resolution recognizing the Armenian Genocide: 2019
 * Current population of Armenia: 2.9 million
-* Number of Armenians in the diaspora worldwide: 5â7 million
+* Number of Armenians in the diaspora worldwide: 5–7 million
 * Percentage of diaspora Armenians living in the US: 20
 * Year Armenia gained independence from the Soviet Union: 1991
 * Armenia's GDP per capita (USD): $7,000
 * Number of UNESCO World Heritage Sites in Armenia: 3
-* Languages Armenian is related to: none â it is a language isolate within Indo-European
+* Languages Armenian is related to: none — it is a language isolate within Indo-European
 * Age of the Armenian alphabet: over 1,600 years
 
 ---
@@ -428,7 +428,7 @@
 * Cost of sequencing the first human genome (USD): $3 billion
 * Cost of sequencing a human genome today (USD): under $200
 * Percentage of human DNA that codes for proteins: 1.5
-* Number of genetic variants that distinguish any two humans: approximately 4â5 million
+* Number of genetic variants that distinguish any two humans: approximately 4–5 million
 
 ---
 
@@ -436,7 +436,7 @@
 
 * Year the Chernobyl nuclear disaster occurred: 1986
 * Reactor number that exploded: 4
-* Seconds between the initial explosion and a second larger blast: 2â3
+* Seconds between the initial explosion and a second larger blast: 2–3
 * Estimated deaths directly caused in the first days: 31
 * Long-term cancer deaths attributed to radiation exposure (WHO estimate): 4,000
 * Exclusion zone radius around Chernobyl (miles): 19
@@ -513,4 +513,4 @@
 * Year Vietnam and the United States normalized diplomatic relations: 1995
 * Vietnam's GDP per capita at the end of the war (USD): under $100
 * Vietnam's GDP per capita today (USD): approximately $4,100
-* Rank of Vietnam among world's fastest-growing economies 2000â2020: top 5
+* Rank of Vietnam among world's fastest-growing economies 2000–2020: top 5

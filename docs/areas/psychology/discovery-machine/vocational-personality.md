@@ -1,39 +1,39 @@
 # The Discovery Machine
 
-ð Discovery Machine â All Questionnaires
+🔍 Discovery Machine — All Questionnaires
 
-* [ð Depression Screen (PHQ-9)](../clinical-validated/#take-the-phq-9-now)
-* [ð Anxiety Screen (GAD-7)](../clinical-validated/#take-the-gad-7-now)
-* [ð§  Big Five Personality](../self-knowledge/#take-the-big-five-now)
-* [ð¼ Career Type (RIASEC)](../vocational-personality/#holland-riasec)
-* [ð Attachment Style](../relationship-social/#attachment-style)
-* [ð³ï¸ Political Compass](../self-discovery-suite/#political-compass)
-* [â¤ï¸ Relationship Health](../relationship-dynamics/#relationship-health)
-* [ð¨ Emergency Decision Tree](../body-survival/#emergency-decision-tree)
-* [ð¡ï¸ Scam Checker](../consumer-legal/#scam-checker)
-* [ð Is This Dog Friendly?](../animal-nature/#dog-friendly)
-* [ð  Home Safety Score](../home-environment/#home-safety)
-* [ð What's That Smell/Sound?](../sensory-diagnostics/#whats-that-smell)
-* [ð§ Boundary Health Check](../relational-behavioral-deep/#boundary-health)
-* [ð Glossary Mad Libs Quiz](../mad-libs-learning/#glossary-quiz)
+* [📋 Depression Screen (PHQ-9)](../clinical-validated/#take-the-phq-9-now)
+* [📋 Anxiety Screen (GAD-7)](../clinical-validated/#take-the-gad-7-now)
+* [🧠 Big Five Personality](../self-knowledge/#take-the-big-five-now)
+* [💼 Career Type (RIASEC)](../vocational-personality/#holland-riasec)
+* [💕 Attachment Style](../relationship-social/#attachment-style)
+* [🗳️ Political Compass](../self-discovery-suite/#political-compass)
+* [❤️ Relationship Health](../relationship-dynamics/#relationship-health)
+* [🚨 Emergency Decision Tree](../body-survival/#emergency-decision-tree)
+* [🛡️ Scam Checker](../consumer-legal/#scam-checker)
+* [🐕 Is This Dog Friendly?](../animal-nature/#dog-friendly)
+* [🏠 Home Safety Score](../home-environment/#home-safety)
+* [👃 What's That Smell/Sound?](../sensory-diagnostics/#whats-that-smell)
+* [🚧 Boundary Health Check](../relational-behavioral-deep/#boundary-health)
+* [📝 Glossary Mad Libs Quiz](../mad-libs-learning/#glossary-quiz)
 
-*Knowledge Â· Questionnaires Â· Interactive Tools*
+*Knowledge · Questionnaires · Interactive Tools*
 
 ## Vocational & Personality Instruments
 
-> **Disclaimer:** These tools illuminate patterns â they don't determine destiny. Career assessments are maps, not mandates. Use them to spark self-reflection and conversation, not to lock yourself into a lane.
+> **Disclaimer:** These tools illuminate patterns — they don't determine destiny. Career assessments are maps, not mandates. Use them to spark self-reflection and conversation, not to lock yourself into a lane.
 
 ---
 
 ## Philosophy of Vocational Self-Assessment
 
-Knowing what you're good at is one thing. Knowing what energizes you is another. Knowing what you *value* â and whether your current work delivers it â is a third, often neglected dimension. The instruments here address all three.
+Knowing what you're good at is one thing. Knowing what energizes you is another. Knowing what you *value* — and whether your current work delivers it — is a third, often neglected dimension. The instruments here address all three.
 
 Vocational assessment has an interesting history: Holland's RIASEC emerged from actual statistical analysis of people's interests. Gardner's Multiple Intelligences grew from observing how people *actually* solve problems, not just how they score on IQ tests. The Thomas-Kilmann conflict modes came from watching thousands of people navigate disagreement. Real people, real behavior, distilled into frameworks.
 
 ---
 
-## 1. Holland Code / RIASEC â Interest Inventory
+## 1. Holland Code / RIASEC — Interest Inventory
 
 **Developed by:** Dr. John L. Holland (1959). The theory behind virtually every major career interest inventory. Public domain framework.
 
@@ -41,42 +41,42 @@ Vocational assessment has an interesting history: Holland's RIASEC emerged from 
 
 ### The Six Holland Types
 
-**R â Realistic**
+**R — Realistic**
 *"The Doer"*
 Prefers working with things, tools, machines, plants, animals. Values practicality, physical activity, and tangible results. Often dislikes social demands and abstract problems.
 - Core traits: Mechanical aptitude, physical coordination, practical problem-solving
 - Work environments: Outdoors, machines, physical systems
 - Sample occupations: Electrician, carpenter, farmer, pilot, mechanic, engineer, chef, physical therapist, firefighter, surveyor
 
-**I â Investigative**
+**I — Investigative**
 *"The Thinker"*
 Prefers exploring, analyzing, and understanding ideas. Values science, math, and intellectual challenge. Often dislikes persuading others or leading people.
 - Core traits: Analytical ability, intellectual curiosity, precision
 - Work environments: Labs, research settings, libraries, data
 - Sample occupations: Scientist, physician, researcher, programmer, economist, pharmacist, psychologist, statistician, archaeologist
 
-**A â Artistic**
+**A — Artistic**
 *"The Creator"*
 Prefers creative expression, aesthetics, and individual work. Values originality and dislikes rigid structure.
 - Core traits: Creative ability, expressiveness, openness to experience
 - Work environments: Studios, performance spaces, agencies
 - Sample occupations: Artist, musician, writer, designer, actor, architect, photographer, editor, advertising creative
 
-**S â Social**
+**S — Social**
 *"The Helper"*
 Prefers working with people to inform, train, develop, cure, or enlighten. Values relationships and cooperation.
 - Core traits: Interpersonal skills, empathy, verbal ability
 - Work environments: Schools, hospitals, community organizations
 - Sample occupations: Teacher, counselor, nurse, social worker, minister, HR professional, coach, trainer, mediator
 
-**E â Enterprising**
+**E — Enterprising**
 *"The Persuader"*
 Prefers leading, managing, or influencing others to achieve organizational and economic goals. Values status, leadership, and financial success.
 - Core traits: Assertiveness, leadership, persuasiveness
 - Work environments: Business, sales, government, legal
 - Sample occupations: Lawyer, manager, entrepreneur, salesperson, politician, executive, judge, real estate agent
 
-**C â Conventional**
+**C — Conventional**
 *"The Organizer"*
 Prefers working with data, detail, and systems. Values order, accuracy, and established procedures. Dislikes ambiguity.
 - Core traits: Organizational ability, attention to detail, numerical aptitude
@@ -85,7 +85,7 @@ Prefers working with data, detail, and systems. Values order, accuracy, and esta
 
 ### Self-Assessment Exercise
 
-**Step 1 â Activity Preferences**
+**Step 1 — Activity Preferences**
 Circle all activities you would enjoy doing if given the opportunity (regardless of current skill):
 
 *Realistic:* Fix a car engine / Build a bookshelf / Learn to sail / Work with farm animals / Operate heavy equipment / Survey land / Install electrical wiring
@@ -100,9 +100,9 @@ Circle all activities you would enjoy doing if given the opportunity (regardless
 
 *Conventional:* Maintain detailed records / Prepare tax returns / Organize a large database / Proofread documents / Follow detailed procedures / Schedule and coordinate logistics / Manage inventory
 
-**Step 2 â Count your circles per type. Your top 3 form your Holland Code.**
+**Step 2 — Count your circles per type. Your top 3 form your Holland Code.**
 
-**Step 3 â Read the career environment that matches your code** (e.g., RIA, IAS, SEC, etc.)
+**Step 3 — Read the career environment that matches your code** (e.g., RIA, IAS, SEC, etc.)
 
 **Interpretation note:** Adjacent types on the RIASEC hexagon (R-I-A-S-E-C-R) are more compatible; opposite types are most divergent. An "RI" person is comfortable; an "RC" person may feel internally conflicted.
 
@@ -150,7 +150,7 @@ Below are 20 career values. Read all of them, then rank your TOP 10 from most im
 
 **What it measures:** Traits associated with successful entrepreneurship. Not a guarantee, but an honest look at fit.
 
-### Assessment (Rate 1â5: Strongly disagree to Strongly agree)
+### Assessment (Rate 1–5: Strongly disagree to Strongly agree)
 
 **Risk Tolerance:**
 1. I am comfortable making major decisions with incomplete information.
@@ -184,12 +184,12 @@ Below are 20 career values. Read all of them, then rank your TOP 10 from most im
 
 ### Scoring
 
-Sum all 18 items (18â90).
-- **70â90:** Strong entrepreneurial profile â consider it seriously
-- **50â69:** Mixed profile â entrepreneurship possible with strong partners or in lower-risk formats (freelancing, solopreneur, part-time)
-- **<50:** Important gaps â entrepreneurship can still work but will require active development or strong complementary partners
+Sum all 18 items (18–90).
+- **70–90:** Strong entrepreneurial profile — consider it seriously
+- **50–69:** Mixed profile — entrepreneurship possible with strong partners or in lower-risk formats (freelancing, solopreneur, part-time)
+- **<50:** Important gaps — entrepreneurship can still work but will require active development or strong complementary partners
 
-**Key insight:** No item here can be overcome except Risk Tolerance (low) + low Resilience combination â that pairing makes entrepreneurship genuinely painful. Everything else can be learned or partnered around.
+**Key insight:** No item here can be overcome except Risk Tolerance (low) + low Resilience combination — that pairing makes entrepreneurship genuinely painful. Everything else can be learned or partnered around.
 
 ---
 
@@ -199,7 +199,7 @@ Sum all 18 items (18â90).
 
 ### Assessment
 
-Rate each statement 1â5 (1=Not me at all, 5=Very much me):
+Rate each statement 1–5 (1=Not me at all, 5=Very much me):
 
 **Directive / Task-Focused:**
 1. When a task needs to be done, I focus on the goal and tell people what to do.
@@ -233,7 +233,7 @@ Rate each statement 1â5 (1=Not me at all, 5=Very much me):
 
 ### Profile
 
-Sum each section (3â15 per style). Your highest-scoring dimension is your natural default. Most effective leaders draw on multiple styles situationally (Situational Leadership theory: the right style depends on the skill/motivation level of the person being led).
+Sum each section (3–15 per style). Your highest-scoring dimension is your natural default. Most effective leaders draw on multiple styles situationally (Situational Leadership theory: the right style depends on the skill/motivation level of the person being led).
 
 **Using this:** If you score high on Directive but low on Coaching, you may be effective in crisis but lose talent over time. If you score high on Democratic but low on Directive, you may struggle in urgent situations. Awareness = the ability to flex.
 
@@ -262,13 +262,13 @@ Rate how well each description fits you (1=Not at all, 5=Very strongly):
 - **Monitor Evaluator (ME):** Sees all options; strategic and accurate; slow but rarely wrong. Lacks drive; can be overly critical. \_\_\_
 - **Specialist (SP):** Provides deep expertise; single-minded and self-starting. Only contributes on a narrow front. \_\_\_
 
-Your top 2â3 scores indicate your natural team contribution. Healthy teams need coverage across all 9 roles â this assessment reveals what you bring and what you need from teammates.
+Your top 2–3 scores indicate your natural team contribution. Healthy teams need coverage across all 9 roles — this assessment reveals what you bring and what you need from teammates.
 
 ---
 
 ## 6. Work-Life Balance Inventory
 
-Rate each item 1â5 (1=Never true, 5=Always true):
+Rate each item 1–5 (1=Never true, 5=Always true):
 
 **Work Satisfaction:**
 1. My work is meaningful and aligned with my values.
@@ -294,10 +294,10 @@ Rate each item 1â5 (1=Never true, 5=Always true):
 
 | Score | Interpretation |
 | --- | --- |
-| 48â60 | Strong balance |
-| 36â47 | Moderate â some areas need attention |
-| 24â35 | Imbalance â identify and address specific subscales |
-| 12â23 | Significant imbalance â likely unsustainable |
+| 48–60 | Strong balance |
+| 36–47 | Moderate — some areas need attention |
+| 24–35 | Imbalance — identify and address specific subscales |
+| 12–23 | Significant imbalance — likely unsustainable |
 
 ---
 
@@ -369,9 +369,9 @@ For each learning scenario, choose the option that best describes how you prefer
    c) Using diagrams or charts to explain positions *(V)*
    d) Acting it out or role-playing scenarios *(K)*
 
-Count V, A, R, K answers. Your highest 1â2 scores indicate preferred learning modalities.
+Count V, A, R, K answers. Your highest 1–2 scores indicate preferred learning modalities.
 
-**Application:** Match your study and training environments to your modes. Note: Most people learn best through multiple modalities. This isn't a box â it's a set of tools to try.
+**Application:** Match your study and training environments to your modes. Note: Most people learn best through multiple modalities. This isn't a box — it's a set of tools to try.
 
 ---
 
@@ -379,7 +379,7 @@ Count V, A, R, K answers. Your highest 1â2 scores indicate preferred learni
 
 **Background:** Dr. Howard Gardner proposed 8 types of intelligence based on neurological research and cross-cultural study. This is a freely reproducible self-assessment.
 
-Rate each item 1â5:
+Rate each item 1–5:
 
 **Linguistic:** I love word games, reading, writing stories, persuasion through language. \_\_\_
 **Logical-Mathematical:** I easily see patterns, enjoy puzzles, think in numbers and systems. \_\_\_
@@ -396,7 +396,7 @@ Your profile (top 3 intelligences) can inform learning strategies, career choice
 
 ## 10. Creative Personality Scale
 
-**Based on:** Public domain creativity research (Gough, Davis, Martindale). Rate 1â5.
+**Based on:** Public domain creativity research (Gough, Davis, Martindale). Rate 1–5.
 
 1. I generate more ideas than I can use.
 2. I find unusual connections between unrelated things.
@@ -411,17 +411,17 @@ Your profile (top 3 intelligences) can inform learning strategies, career choice
 
 | Score | Creative Profile |
 | --- | --- |
-| 40â50 | High creative orientation |
-| 25â39 | Moderate â situational creativity |
-| 10â24 | Lower creative orientation (may prefer execution, implementation) |
+| 40–50 | High creative orientation |
+| 25–39 | Moderate — situational creativity |
+| 10–24 | Lower creative orientation (may prefer execution, implementation) |
 
-Neither extreme is inherently better. Many high-functioning teams need people who *implement* more than they *generate* â knowing your profile helps you position yourself appropriately.
+Neither extreme is inherently better. Many high-functioning teams need people who *implement* more than they *generate* — knowing your profile helps you position yourself appropriately.
 
 ---
 
 ## 11. Decision-Making Style Inventory
 
-Rate 1â5 for each:
+Rate 1–5 for each:
 
 **Rational / Analytical:**
 1. I gather extensive information before deciding.
@@ -448,7 +448,7 @@ Rate 1â5 for each:
 14. I often let circumstances decide for me.
 15. Making choices makes me anxious.
 
-Sum each section. Your highest 1â2 styles reveal your default decision-making pattern. Most decisions benefit from the rational + intuitive combination; awareness of your defaults helps you know when to override them.
+Sum each section. Your highest 1–2 styles reveal your default decision-making pattern. Most decisions benefit from the rational + intuitive combination; awareness of your defaults helps you know when to override them.
 
 ---
 
@@ -465,11 +465,11 @@ For each conflict scenario, choose the response most natural to you:
 **Scenario 1:** A coworker disagrees with your approach to a project.
 - a) I insist on my approach and explain my reasoning. *(Competing)*
 - b) I look for a solution that works for both of us. *(Collaborating)*
-- c) I split the difference â partly my way, partly theirs. *(Compromising)*
+- c) I split the difference — partly my way, partly theirs. *(Compromising)*
 - d) I go along with their approach to keep the peace. *(Accommodating)*
 - e) I avoid the topic and hope it resolves itself. *(Avoiding)*
 
-Use the same options for scenarios 2â5 (imagine analogous situations in family, friendships, negotiations, and customer/vendor disputes).
+Use the same options for scenarios 2–5 (imagine analogous situations in family, friendships, negotiations, and customer/vendor disputes).
 
 Count your most frequent letters across all 5 scenarios.
 
@@ -498,15 +498,15 @@ Count your most frequent letters across all 5 scenarios.
 **Assertiveness (Asks vs. Tells):**
 Rate whether these describe you: I speak up before asked / I state my opinion directly / I am comfortable directing others / I prefer making decisions vs. following them.
 
-Sum: 0â4 items describing you.
-- **0â2:** "Asks" orientation (ask-assertive)
-- **3â4:** "Tells" orientation (tell-assertive)
+Sum: 0–4 items describing you.
+- **0–2:** "Asks" orientation (ask-assertive)
+- **3–4:** "Tells" orientation (tell-assertive)
 
 **Responsiveness (Controls vs. Emotes):**
 Rate: I show emotions openly / I use humor and personal stories / My feelings are visible on my face / I build personal rapport before getting to business.
 
-* **0â2:** "Controls" orientation (emotions kept private)
-* **3â4:** "Emotes" orientation (emotions expressed)
+* **0–2:** "Controls" orientation (emotions kept private)
+* **3–4:** "Emotes" orientation (emotions expressed)
 
 ### The Four Styles
 
@@ -554,8 +554,8 @@ The gap between the portrait and your current reality is the most important thin
 
 ---
 
-## ð§ Interactive: Holland Code (RIASEC) Assessment
+## 🔧 Interactive: Holland Code (RIASEC) Assessment
 
-### ð§­ Find Your Holland Code
+### 🧭 Find Your Holland Code
 
-12 forced-choice pairs. For each pair, click the activity that appeals to you more â even if neither is your dream job, pick the one you'd lean toward. There are no right answers.
+12 forced-choice pairs. For each pair, click the activity that appeals to you more — even if neither is your dream job, pick the one you'd lean toward. There are no right answers.

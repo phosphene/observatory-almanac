@@ -1,6 +1,6 @@
 # Letter Templates
 
-*The Observatory Almanac â Section 18*
+*The Observatory Almanac — Section 18*
 
 A collection of ready-to-use letter frameworks. Replace bracketed placeholders with your own details. Each template includes guidance on tone, length, and common pitfalls.
 
@@ -20,7 +20,7 @@ A collection of ready-to-use letter frameworks. Replace bracketed placeholders w
 
 **When to use:** Product defects, poor service, billing errors, professional misconduct.
 **Tone:** Firm but professional. State facts, not emotions. Be specific.
-**Length:** 1â2 pages. Concise wins.
+**Length:** 1–2 pages. Concise wins.
 
 ```
 [Your Name]
@@ -32,14 +32,14 @@ A collection of ready-to-use letter frameworks. Replace bracketed placeholders w
 [Company/Organization Name]
 [Address]
 
-Re: [Brief description of complaint â e.g., "Defective Product â Order #12345"]
+Re: [Brief description of complaint — e.g., "Defective Product — Order #12345"]
 
 Dear [Mr./Ms./Title Last Name] or "To Whom It May Concern":
 
 I am writing to formally express my dissatisfaction with [product/service/experience] 
 received on [date] at/from [location/company]. 
 
-On [date], I [describe what happened â be specific and factual]. 
+On [date], I [describe what happened — be specific and factual]. 
 [Include order numbers, reference numbers, names of staff involved, dates of prior contact.]
 
 This situation has caused [describe concrete impact: financial loss, inconvenience, 
@@ -49,7 +49,7 @@ I have already attempted to resolve this matter by [describe prior attempts: pho
 on [date], email on [date], in-person visit, etc.] without satisfactory resolution.
 
 I am requesting the following resolution:
-1. [Specific action â refund, replacement, apology, policy change, etc.]
+1. [Specific action — refund, replacement, apology, policy change, etc.]
 2. [Additional request if applicable]
 3. A written response within [reasonable timeframe, e.g., 14 business days]
 
@@ -57,7 +57,7 @@ If this matter is not resolved to my satisfaction by [date], I will [escalate to
 regulatory agency / contact the Better Business Bureau / pursue legal remedies / 
 file a chargeback / contact my state attorney general].
 
-I have enclosed/attached [copies of receipts, photos, emails, contracts â list them].
+I have enclosed/attached [copies of receipts, photos, emails, contracts — list them].
 
 I trust this matter will be handled promptly.
 
@@ -73,14 +73,14 @@ Enclosures: [list]
 - Keep a copy of everything you send
 - Send via certified mail if the stakes are high
 - Never threaten anything you won't actually do
-- Stick to facts â emotional language weakens your position
+- Stick to facts — emotional language weakens your position
 
 ---
 
 ## 2. Resignation Letter
 
 **When to use:** Leaving a job under any circumstances.
-**Tone:** Professional, gracious, forward-looking â even if you're leaving unhappily.
+**Tone:** Professional, gracious, forward-looking — even if you're leaving unhappily.
 **Length:** Short. One paragraph of substance is enough.
 **Rule:** Never burn bridges in a resignation letter. Save venting for a trusted friend.
 
@@ -96,7 +96,7 @@ Enclosures: [list]
 Dear [Manager's Name],
 
 I am writing to formally notify you of my resignation from my position as 
-[Your Job Title] at [Company Name], effective [last day â typically 2 weeks from today].
+[Your Job Title] at [Company Name], effective [last day — typically 2 weeks from today].
 
 This was not an easy decision. I have greatly valued my time here, particularly 
 [genuine specific: working with the team / the projects I contributed to / 
@@ -119,7 +119,7 @@ Sincerely,
 
 Dear [Manager's Name],
 
-Due to [personal/health/family circumstances â only share what you're comfortable 
+Due to [personal/health/family circumstances — only share what you're comfortable 
 sharing], I must resign from my position as [Title] effective immediately.
 
 I regret that I am unable to provide standard notice. I am happy to assist remotely 
@@ -152,10 +152,10 @@ It is my genuine pleasure to recommend [Employee Name] for [position/opportunity
 I have had the privilege of working with [him/her/them] for [duration] in my role 
 as [Your Title] at [Company].
 
-During this time, [Employee Name] consistently demonstrated [2â3 core strengths: 
+During this time, [Employee Name] consistently demonstrated [2–3 core strengths: 
 leadership, attention to detail, collaborative spirit, technical expertise, etc.].
 
-One example that stands out: [specific story or accomplishment â be concrete. 
+One example that stands out: [specific story or accomplishment — be concrete. 
 "She led a project that reduced processing time by 30%" beats "she was very productive."]
 
 Beyond technical skills, [Employee Name] brings [soft skill: integrity, warmth, 
@@ -215,7 +215,7 @@ I am writing to recommend [Colleague Name], whom I have had the pleasure of
 working alongside at [Organization] for [duration].
 
 As a [colleague/peer/collaborator], I have seen firsthand [his/her/their] ability 
-to [core strength â solve complex problems, navigate difficult stakeholders, produce 
+to [core strength — solve complex problems, navigate difficult stakeholders, produce 
 high-quality work under pressure, etc.].
 
 One moment that illustrates this: [specific story].
@@ -238,7 +238,7 @@ Best regards,
 
 **When to use:** Death of a loved one, serious illness, major loss.
 **Tone:** Warm, gentle, personal. Short is better than long.
-**Critical rule:** Never say "I know how you feel," "Everything happens for a reason," or "At least they're in a better place" â these minimize grief, even when well-intentioned.
+**Critical rule:** Never say "I know how you feel," "Everything happens for a reason," or "At least they're in a better place" — these minimize grief, even when well-intentioned.
 
 ```
 Dear [Name],
@@ -310,7 +310,7 @@ Sincerely,
 Send within 24 hours. Email is acceptable; handwritten note is memorable.
 
 ```
-Subject: Thank You â [Job Title] Interview
+Subject: Thank You — [Job Title] Interview
 
 Dear [Interviewer Name],
 
@@ -319,7 +319,7 @@ position at [Company].
 
 I left the conversation even more enthusiastic about the role. [Specific 
 reference: "Your description of the team's work on [project] was genuinely 
-exciting" or "I appreciated hearing about [challenge you're facing] â it's 
+exciting" or "I appreciated hearing about [challenge you're facing] — it's 
 exactly the type of problem I enjoy solving."]
 
 I believe my experience with [relevant skill/background] would allow me to 
@@ -392,7 +392,7 @@ led a team of X / increased revenue by X% / built a system that did X].
 
 [Second paragraph: why this company specifically. Research them. 
 "I am drawn to [Company]'s commitment to [mission / recent initiative / product]." 
-Generic praise fails here â be specific.]
+Generic praise fails here — be specific.]
 
 I am eager to bring [relevant skills] to your team and would welcome the 
 opportunity to discuss how my background aligns with your needs.
@@ -409,12 +409,12 @@ Sincerely,
 *Best for: Tech, startups, creative industries, remote-first companies*
 
 ```
-Subject: [Job Title] â [Your Name]
+Subject: [Job Title] — [Your Name]
 
 Hi [Name or Team],
 
 I'll get straight to the point: I'm excited about this role because [genuine, 
-specific reason â not generic enthusiasm].
+specific reason — not generic enthusiasm].
 
 Here's what I bring:
 - [Achievement 1: quantified if possible]
@@ -431,16 +431,16 @@ I'd love to talk. [Portfolio/LinkedIn/GitHub if applicable: [link]]
 
 ### C. Creative Cover Letter
 
-*Best for: Design, advertising, media, entertainment â only when the job signals they want personality*
+*Best for: Design, advertising, media, entertainment — only when the job signals they want personality*
 
 ```
-[Open with a hook â a story, a challenge, a provocative question related to 
+[Open with a hook — a story, a challenge, a provocative question related to 
 the industry or company]
 
 Example opening: "The first time I redesigned something that didn't need 
 redesigning, I was eight years old and I'd just disassembled our family's 
 perfectly functional toaster. [Company]'s approach to [product] reminded me 
-of that toaster â not because it needed fixing, but because I couldn't stop 
+of that toaster — not because it needed fixing, but because I couldn't stop 
 thinking about how it could be better."
 
 [Then: specific skills/experience, specific company connection, call to action]
@@ -469,7 +469,7 @@ statements / using my copyrighted material without permission /
 contacting me or my family members / etc.].
 
 BACKGROUND:
-[Brief factual summary of the situation â dates, what happened, evidence you have]
+[Brief factual summary of the situation — dates, what happened, evidence you have]
 
 YOUR VIOLATION:
 Your conduct constitutes [defamation / copyright infringement / trademark 
@@ -505,7 +505,7 @@ which are expressly reserved.
 [Landlord/Property Manager Name]
 [Address]
 
-Re: Repair Request â Unit [#], [Address]
+Re: Repair Request — Unit [#], [Address]
 
 Dear [Name],
 
@@ -542,7 +542,7 @@ Sincerely,
 Dear [Landlord/Property Manager],
 
 This letter serves as formal notice that I will be vacating my rental unit 
-at [address, unit number] on [date â check your lease for required notice period].
+at [address, unit number] on [date — check your lease for required notice period].
 
 This provides [30/60/90]-day notice as required by my lease agreement dated [date].
 
@@ -595,10 +595,10 @@ Sincerely,
 ```
 [Date]
 
-[Company Name â Billing Department]
+[Company Name — Billing Department]
 [Address]
 
-Re: Billing Dispute â Account #[XXXX] â Charge of $[Amount] on [Date]
+Re: Billing Dispute — Account #[XXXX] — Charge of $[Amount] on [Date]
 
 Dear Billing Department:
 
@@ -633,7 +633,7 @@ Sincerely,
 [Credit Bureau: Equifax / Experian / TransUnion]
 [Address]
 
-Re: Dispute of Inaccurate Credit Information â [Your Full Name, DOB, SSN last 4]
+Re: Dispute of Inaccurate Credit Information — [Your Full Name, DOB, SSN last 4]
 
 Dear Sir or Madam:
 
@@ -669,7 +669,7 @@ Sincerely,
 [Your Name] joyfully accepts the kind invitation of [Host Name(s)]
 to [event] on [date].
 
-â OR â
+— OR —
 
 [Your Name] accepts with pleasure and looks forward to [event] on [date].
 ```
@@ -686,7 +686,7 @@ on [date] due to a prior commitment.
 ### C. Casual Email RSVP (Yes)
 
 ```
-Subject: RSVP â [Event Name]
+Subject: RSVP — [Event Name]
 
 Hi [Name],
 
@@ -700,12 +700,12 @@ Looking forward to it!
 ### D. Casual Email RSVP (No / Regrets)
 
 ```
-Subject: RSVP â [Event Name]
+Subject: RSVP — [Event Name]
 
 Hi [Name],
 
 Thank you so much for the invitation to [event]! Unfortunately, I'm not 
-able to make it on [date] â [brief, honest reason if appropriate, or 
+able to make it on [date] — [brief, honest reason if appropriate, or 
 "I have a prior commitment"].
 
 I hope it's wonderful. [Optional: "Can we catch up soon?"]
@@ -729,7 +729,7 @@ I hope it's wonderful. [Optional: "Can we catch up soon?"]
 
 | Letter Type | Tone | Length | Key Rule |
 | --- | --- | --- | --- |
-| Complaint | Firm, factual | 1â2 pages | No emotions, state remedies |
+| Complaint | Firm, factual | 1–2 pages | No emotions, state remedies |
 | Resignation | Gracious | Short | Never burn bridges |
 | Recommendation | Specific, warm | 1 page | Use real stories |
 | Condolence | Gentle, personal | Very short | No platitudes |
@@ -745,8 +745,8 @@ I hope it's wonderful. [Optional: "Can we catch up soon?"]
 
 ---
 
-## âï¸ Interactive Letter Builder
+## ✉️ Interactive Letter Builder
 
-### âï¸ Letter Builder
+### ✉️ Letter Builder
 
 Select a template, fill in the fields, and preview your letter. Copy or print when ready.

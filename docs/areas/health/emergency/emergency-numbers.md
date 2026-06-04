@@ -1,8 +1,8 @@
 # Emergency Numbers & Contact Reference
 
-*The Observatory Almanac â Section 14.3*
+*The Observatory Almanac — Section 14.3*
 
-> **Keep this information somewhere accessible without a phone** â on paper, in a wallet, or memorized. In a real emergency, your phone may be dead, lost, or needed for something else.
+> **Keep this information somewhere accessible without a phone** — on paper, in a wallet, or memorized. In a real emergency, your phone may be dead, lost, or needed for something else.
 
 ---
 
@@ -11,20 +11,20 @@
 Many smartphones allow emergency calls without unlocking:
 
 **iPhone:**
-- Swipe up from bottom lock screen â tap "Emergency"
+- Swipe up from bottom lock screen → tap "Emergency"
 - Or: Press side button 5 times rapidly (calls emergency services; may vary by model and iOS version)
-- On older iPhones: Press Home button â tap "Emergency"
+- On older iPhones: Press Home button → tap "Emergency"
 
 **Android:**
 - On lock screen: Tap "Emergency" (appears below PIN/pattern prompt)
 - Some models: Press power button 5 times rapidly
-- Pixel/stock Android: Swipe up â "Emergency Call"
-- Samsung: Power button 3Ã rapid press (may open emergency SOS)
+- Pixel/stock Android: Swipe up → "Emergency Call"
+- Samsung: Power button 3× rapid press (may open emergency SOS)
 
 **All phones (any carrier, even no SIM):**
-- Dial your local emergency number â emergency calls can typically be placed without a SIM card or active service.
+- Dial your local emergency number — emergency calls can typically be placed without a SIM card or active service.
 
-**Important:** Different countries have different emergency numbers â know which one works in your location.
+**Important:** Different countries have different emergency numbers — know which one works in your location.
 
 ---
 
@@ -32,11 +32,11 @@ Many smartphones allow emergency calls without unlocking:
 
 Stay calm and provide this information clearly:
 
-1. **Your location** â Full address including city/state/country, and apartment number if applicable. If outdoors, describe landmarks, intersections, mile markers.
-2. **Nature of the emergency** â What happened? (Fire, accident, medical emergency, crime in progress)
-3. **Number of people involved** â How many injured? Approximate ages if relevant.
-4. **Your phone number** â So they can call back if disconnected.
-5. **Do not hang up** â Unless instructed to do so. The dispatcher may have critical guidance while help is en route.
+1. **Your location** — Full address including city/state/country, and apartment number if applicable. If outdoors, describe landmarks, intersections, mile markers.
+2. **Nature of the emergency** — What happened? (Fire, accident, medical emergency, crime in progress)
+3. **Number of people involved** — How many injured? Approximate ages if relevant.
+4. **Your phone number** — So they can call back if disconnected.
+5. **Do not hang up** — Unless instructed to do so. The dispatcher may have critical guidance while help is en route.
 
 If you do not speak the local language: Stay on the line. Many dispatch centers have translation services.
 
@@ -93,7 +93,7 @@ The following numbers work across all EU member states (and many neighboring cou
 
 | Number | Service |
 | --- | --- |
-| **112** | Universal emergency (police, fire, ambulance) â works from any phone, including locked phones and phones without a SIM |
+| **112** | Universal emergency (police, fire, ambulance) — works from any phone, including locked phones and phones without a SIM |
 | **116 000** | Missing children hotline |
 | **116 111** | Child helpline |
 | **116 123** | Emotional support / crisis (Samaritans equivalent in many countries) |
@@ -223,7 +223,7 @@ The following numbers work across all EU member states (and many neighboring cou
 | Uganda | 999 |  |
 | Ghana | 191 | Police; 192 ambulance; 193 fire |
 | Senegal | 17 | Police; 18 fire; 15 ambulance |
-| CÃ´te d'Ivoire | 170 | Police; 180 fire; 185 SAMU |
+| Côte d'Ivoire | 170 | Police; 180 fire; 185 SAMU |
 | Cameroon | 117 | Police; 118 fire; 119 ambulance |
 | DRC (Congo) | 112 |  |
 | Angola | 113 | Police; 115 ambulance |
@@ -236,7 +236,7 @@ The following numbers work across all EU member states (and many neighboring cou
 
 ---
 
-## Poison Control â Major Countries
+## Poison Control — Major Countries
 
 | Country | Number |
 | --- | --- |
@@ -244,11 +244,11 @@ The following numbers work across all EU member states (and many neighboring cou
 | Canada (BC) | 1-800-567-8911 |
 | Canada (Ontario) | 1-800-268-9017 |
 | Canada (Quebec) | 1-800-463-5060 |
-| UK | 111 (NHS â no dedicated line; call 111) |
+| UK | 111 (NHS — no dedicated line; call 111) |
 | Australia | 131 126 |
 | New Zealand | 0800-764-766 |
 | Germany | +49-89-19240 (Munich) or 030-19240 (Berlin) |
-| France | Regional centers â ask via 15 (SAMU) |
+| France | Regional centers — ask via 15 (SAMU) |
 | Italy | 06-3054343 |
 | Spain | 91-562-0420 |
 | Switzerland | 145 |
@@ -282,10 +282,10 @@ Your country's embassy or consulate can help with:
 ### How to Find Your Embassy
 
 **Before travel:** Register with your government's traveler registry:
-- USA: STEP (Smart Traveler Enrollment Program) â step.state.gov
+- USA: STEP (Smart Traveler Enrollment Program) — step.state.gov
 - UK: FCDO Travel Registration
-- Canada: Registration of Canadians Abroad â travel.gc.ca
-- Australia: Smartraveller â smartraveller.gov.au
+- Canada: Registration of Canadians Abroad — travel.gc.ca
+- Australia: Smartraveller — smartraveller.gov.au
 
 **In an emergency abroad:**
 1. Contact local emergency services first (911 equivalent).
@@ -314,27 +314,27 @@ Your country's embassy or consulate can help with:
 
 ### USA
 
-* **FEMA App** â Alerts, shelter finder, disaster preparedness
-* **Wireless Emergency Alerts** â Built into all modern phones; do not disable
-* **CDC App** â Health guidance
-* **noaa.gov** â Bookmark for weather
+* **FEMA App** — Alerts, shelter finder, disaster preparedness
+* **Wireless Emergency Alerts** — Built into all modern phones; do not disable
+* **CDC App** — Health guidance
+* **noaa.gov** — Bookmark for weather
 
 ### International Travel
 
-* **TripWhistle Global SOS** â Emergency numbers for 200+ countries
-* **Smart Traveler** (US State Dept) â Travel advisories and embassy info
+* **TripWhistle Global SOS** — Emergency numbers for 200+ countries
+* **Smart Traveler** (US State Dept) — Travel advisories and embassy info
 * **Safeture** (corporate travel security)
-* **ICE Medical ID** or native health app â Visible on lock screen
+* **ICE Medical ID** or native health app — Visible on lock screen
 
 ### Health & Crisis
 
-* **Crisis Text Line** â Text HOME to 741741 (USA)
+* **Crisis Text Line** — Text HOME to 741741 (USA)
 * **Beyond Now** (suicide safety planning)
 * Your national telehealth service app
 
 ---
 
-## Quick Reference Card â International Emergency Numbers
+## Quick Reference Card — International Emergency Numbers
 
 | Region | Call |
 | --- | --- |
@@ -349,8 +349,8 @@ Your country's embassy or consulate can help with:
 | Brazil | Police: **190** / Medical: **192** / Fire: **193** |
 | South Africa | **10111** (police) / **10177** (medical) |
 
-**Universal backup:** Try **112** â it works in most countries, including when roaming.
+**Universal backup:** Try **112** — it works in most countries, including when roaming.
 
 ---
 
-*Section 14.3 â The Observatory Almanac*
+*Section 14.3 — The Observatory Almanac*

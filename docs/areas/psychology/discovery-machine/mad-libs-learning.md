@@ -1,25 +1,25 @@
 # The Discovery Machine
 
-ð Discovery Machine â All Questionnaires
+🔍 Discovery Machine — All Questionnaires
 
-* [ð Depression Screen (PHQ-9)](../clinical-validated/#take-the-phq-9-now)
-* [ð Anxiety Screen (GAD-7)](../clinical-validated/#take-the-gad-7-now)
-* [ð§  Big Five Personality](../self-knowledge/#take-the-big-five-now)
-* [ð¼ Career Type (RIASEC)](../vocational-personality/#holland-riasec)
-* [ð Attachment Style](../relationship-social/#attachment-style)
-* [ð³ï¸ Political Compass](../self-discovery-suite/#political-compass)
-* [â¤ï¸ Relationship Health](../relationship-dynamics/#relationship-health)
-* [ð¨ Emergency Decision Tree](../body-survival/#emergency-decision-tree)
-* [ð¡ï¸ Scam Checker](../consumer-legal/#scam-checker)
-* [ð Is This Dog Friendly?](../animal-nature/#dog-friendly)
-* [ð  Home Safety Score](../home-environment/#home-safety)
-* [ð What's That Smell/Sound?](../sensory-diagnostics/#whats-that-smell)
-* [ð§ Boundary Health Check](../relational-behavioral-deep/#boundary-health)
-* [ð Glossary Mad Libs Quiz](../mad-libs-learning/#glossary-quiz)
+* [📋 Depression Screen (PHQ-9)](../clinical-validated/#take-the-phq-9-now)
+* [📋 Anxiety Screen (GAD-7)](../clinical-validated/#take-the-gad-7-now)
+* [🧠 Big Five Personality](../self-knowledge/#take-the-big-five-now)
+* [💼 Career Type (RIASEC)](../vocational-personality/#holland-riasec)
+* [💕 Attachment Style](../relationship-social/#attachment-style)
+* [🗳️ Political Compass](../self-discovery-suite/#political-compass)
+* [❤️ Relationship Health](../relationship-dynamics/#relationship-health)
+* [🚨 Emergency Decision Tree](../body-survival/#emergency-decision-tree)
+* [🛡️ Scam Checker](../consumer-legal/#scam-checker)
+* [🐕 Is This Dog Friendly?](../animal-nature/#dog-friendly)
+* [🏠 Home Safety Score](../home-environment/#home-safety)
+* [👃 What's That Smell/Sound?](../sensory-diagnostics/#whats-that-smell)
+* [🚧 Boundary Health Check](../relational-behavioral-deep/#boundary-health)
+* [📝 Glossary Mad Libs Quiz](../mad-libs-learning/#glossary-quiz)
 
-*Knowledge Â· Questionnaires Â· Interactive Tools*
+*Knowledge · Questionnaires · Interactive Tools*
 
-## Mad Libs Learning Mode â Design Document & Content
+## Mad Libs Learning Mode — Design Document & Content
 
 > *"Tell me and I forget. Teach me and I remember. Involve me and I learn."*
 
@@ -27,7 +27,7 @@
 
 ## Overview
 
-The Mad Libs Learning Mode is the Observatory Almanac's interactive comprehension layer. After reading any Almanac section, users may enter **Learn Mode** â a fill-in-the-blank exercise system that transforms passive reading into active recall. Key terms are extracted from the prose and replaced with blanks. Users select the correct term from five options, only one of which is correct. The remaining four are plausible distractors drawn from the same domain glossary.
+The Mad Libs Learning Mode is the Observatory Almanac's interactive comprehension layer. After reading any Almanac section, users may enter **Learn Mode** — a fill-in-the-blank exercise system that transforms passive reading into active recall. Key terms are extracted from the prose and replaced with blanks. Users select the correct term from five options, only one of which is correct. The remaining four are plausible distractors drawn from the same domain glossary.
 
 This document covers:
 1. System design and UX flow
@@ -46,42 +46,42 @@ This document covers:
 
 ```
 [Read Almanac Section]
-         â
-         â¼
+         │
+         ▼
 [End of Article / Section]
-         â
-         â¼
-   âââââââââââââââââââââââ
-   â  "Test Yourself?"   â
-   â  [Start Learn Mode] â
-   âââââââââââââââââââââââ
-         â
-         â¼
+         │
+         ▼
+   ┌─────────────────────┐
+   │  "Test Yourself?"   │
+   │  [Start Learn Mode] │
+   └─────────────────────┘
+         │
+         ▼
 [Difficulty Selection]
    Easy / Medium / Hard / Adaptive
-         â
-         â¼
+         │
+         ▼
 [Question Displayed]
   "The _____ of a wine refers to..."
-  â terroir   â tannin   â bouquet
-  â varietal  â appellation
-         â
-         â¼
+  ○ terroir   ○ tannin   ○ bouquet
+  ○ varietal  ○ appellation
+         │
+         ▼
 [User Selects Answer]
-         â
-    ââââââ´âââââ
+         │
+    ┌────┴────┐
   Correct   Wrong
-    â          â
-    â¼          â¼
+    │          │
+    ▼          ▼
 [+1 streak] [Streak reset]
 [+Points]   [Show correct]
 [Next Q]    [Brief explanation]
             [Next Q]
-         â
-         â¼
-[Session Complete â 10 questions]
-         â
-         â¼
+         │
+         ▼
+[Session Complete — 10 questions]
+         │
+         ▼
 [Score Summary + Badge Check]
 ```
 
@@ -109,7 +109,7 @@ Five choices displayed. One is correct. Four are distractors selected by the dis
 | --- | --- | --- |
 | **Easy** | Distractors from unrelated categories, clearly wrong | `terroir` vs. `tachycardia`, `arbitration`, `mise en place`, `hexagram` |
 | **Medium** | Distractors from same section, same general category but different meaning | `terroir` vs. `appellation`, `varietal`, `vintage`, `bouquet` |
-| **Hard** | Distractors that are semantically adjacent â terms often confused with each other | `terroir` vs. `appellation`, `cru`, `typicity`, `provenance` |
+| **Hard** | Distractors that are semantically adjacent — terms often confused with each other | `terroir` vs. `appellation`, `cru`, `typicity`, `provenance` |
 | **Adaptive** | System tracks user's accuracy per term and increases difficulty on terms with >80% accuracy, eases off on terms <60% accuracy | Dynamic |
 
 ### 2.2 Adaptive Mode Logic
@@ -118,10 +118,10 @@ Five choices displayed. One is correct. Four are distractors selected by the dis
 For each term in user history:
   accuracy = correct_answers / total_attempts
 
-  if accuracy > 0.80 â assign Hard distractors
-  if 0.60 <= accuracy <= 0.80 â assign Medium distractors
-  if accuracy < 0.60 â assign Easy distractors
-  if attempts == 0 â assign Medium (default)
+  if accuracy > 0.80 → assign Hard distractors
+  if 0.60 <= accuracy <= 0.80 → assign Medium distractors
+  if accuracy < 0.60 → assign Easy distractors
+  if attempts == 0 → assign Medium (default)
 ```
 
 Adaptive mode also weights question selection toward terms the user hasn't seen recently (spaced repetition principle) and terms the user has gotten wrong before (error-focused review).
@@ -129,10 +129,10 @@ Adaptive mode also weights question selection toward terms the user hasn't seen 
 ### 2.3 Sentence Selection
 
 Questions are drawn from a curated bank of template sentences. Each template is tagged with:
-- `section` â which Almanac chapter it belongs to
-- `term` â the key term being tested
-- `difficulty` â Easy / Medium / Hard (referring to how ambiguous the blank is in context)
-- `context_richness` â High / Medium / Low (how many context clues surround the blank)
+- `section` — which Almanac chapter it belongs to
+- `term` — the key term being tested
+- `difficulty` — Easy / Medium / Hard (referring to how ambiguous the blank is in context)
+- `context_richness` — High / Medium / Low (how many context clues surround the blank)
 
 Easy-difficulty questions have High context richness: the sentence gives the user strong hints even without the term. Hard-difficulty questions have Low context richness: the sentence provides minimal clues beyond the structural role of the blank.
 
@@ -159,7 +159,7 @@ Streaks reset on any wrong answer. The streak counter is displayed prominently d
 ### 3.3 Section Mastery Badges
 
 Each section offers a **Mastery Badge** awarded when a user achieves:
-- â¥ 85% accuracy over a minimum of 30 questions in that section
+- ≥ 85% accuracy over a minimum of 30 questions in that section
 - At least one Hard-difficulty round completed
 
 Badges are permanent and displayed on the user's profile. A section's badge turns **gold** when the user achieves 95%+ accuracy over 50+ questions.
@@ -263,7 +263,7 @@ Users may opt into a weekly leaderboard. Points reset each Monday. Top performer
     "context_richness": { "type": "string", "enum": ["high", "medium", "low"] },
     "explanation": {
       "type": "string",
-      "description": "Shown after wrong answer â why this term is correct here"
+      "description": "Shown after wrong answer — why this term is correct here"
     },
     "source": {
       "type": "string",
@@ -376,11 +376,11 @@ def apply_accuracy_weight(candidates, user_history):
         correct = history.get("correct", 0)
 
         if attempts == 0:
-            accuracy = 0.5  # Unknown â neutral weight
+            accuracy = 0.5  # Unknown → neutral weight
         else:
             accuracy = correct / attempts
 
-        # Lower accuracy â higher weight
+        # Lower accuracy → higher weight
         q["weight"] = q.get("weight", 1.0) * (1.0 - accuracy * 0.5)
 
     return candidates
@@ -390,7 +390,7 @@ def apply_accuracy_weight(candidates, user_history):
 
 ## Part 6: Section Glossaries and Sample Questions
 
-*Format for each question: `"sentence with _____"` â `[Correct / Distractor / Distractor / Distractor / Distractor]`*
+*Format for each question: `"sentence with _____"` → `[Correct / Distractor / Distractor / Distractor / Distractor]`*
 *Correct answer always listed first; display order is randomized.*
 
 ---
@@ -398,40 +398,40 @@ def apply_accuracy_weight(candidates, user_history):
 ### 6.1 Wine / Connoisseur
 
 **Glossary (30 terms):**
-terroir, tannin, bouquet, nose, finish, body, legs, varietal, vintage, appellation, decanting, oxidation, malolactic fermentation, sommelier, cuvÃ©e, brut, demi-sec, magnum, ullage, punt, corked, brix, must, lees, sur lie, disgorgement, nÃ©gociant, residual sugar, typicity, microclimate
+terroir, tannin, bouquet, nose, finish, body, legs, varietal, vintage, appellation, decanting, oxidation, malolactic fermentation, sommelier, cuvée, brut, demi-sec, magnum, ullage, punt, corked, brix, must, lees, sur lie, disgorgement, négociant, residual sugar, typicity, microclimate
 
 **10 Sample Questions:**
 
 1. **Easy**
    "The \_\_\_\_\_ of a wine refers to the complete natural environment in which it is produced, including soil, climate, and topography."
-   â `[terroir / tachycardia / mise en place / arbitration / ascendant]`
+   → `[terroir / tachycardia / mise en place / arbitration / ascendant]`
 2. **Medium**
-   "A wine's \_\_\_\_\_ is the complex of aromas perceived by sniffing the glass before tasting â distinct from the flavors that develop on the palate."
-   â `[nose / finish / body / legs / vintage]`
+   "A wine's \_\_\_\_\_ is the complex of aromas perceived by sniffing the glass before tasting — distinct from the flavors that develop on the palate."
+   → `[nose / finish / body / legs / vintage]`
 3. **Medium**
    "The \_\_\_\_\_ of a Champagne refers to its sweetness level; at the driest end, a wine labeled this way contains fewer than 12 grams of residual sugar per liter."
-   â `[brut / demi-sec / cuvÃ©e / magnum / disgorgement]`
+   → `[brut / demi-sec / cuvée / magnum / disgorgement]`
 4. **Hard**
    "An \_\_\_\_\_ is the legally defined geographic region whose name a wine is permitted to display on its label, governed by strict production rules."
-   â `[appellation / terroir / varietal / typicity / microclimate]`
+   → `[appellation / terroir / varietal / typicity / microclimate]`
 5. **Hard**
-   "A wine described as having \_\_\_\_\_ is said to express characteristics typical and specific to its grape variety and place of origin â a quality prized above technical perfection."
-   â `[typicity / terroir / body / finish / oxidation]`
+   "A wine described as having \_\_\_\_\_ is said to express characteristics typical and specific to its grape variety and place of origin — a quality prized above technical perfection."
+   → `[typicity / terroir / body / finish / oxidation]`
 6. **Medium**
    "The process of \_\_\_\_\_ involves pouring wine into a wide-bottomed vessel to separate it from sediment and allow volatile compounds to dissipate."
-   â `[decanting / oxidation / disgorgement / sur lie / lees]`
+   → `[decanting / oxidation / disgorgement / sur lie / lees]`
 7. **Easy**
    "A trained beverage professional who manages wine programs, advises guests, and often conducts cellar management is called a \_\_\_\_\_."
-   â `[sommelier / nÃ©gociant / triage / fiduciary / mirepoix]`
+   → `[sommelier / négociant / triage / fiduciary / mirepoix]`
 8. **Hard**
    "When a wine undergoes \_\_\_\_\_, harsh malic acids are converted by bacteria into softer lactic acids, giving the wine a rounder, creamier texture."
-   â `[malolactic fermentation / oxidation / disgorgement / brix / must]`
+   → `[malolactic fermentation / oxidation / disgorgement / brix / must]`
 9. **Medium**
    "The \_\_\_\_\_ in a wine are responsible for the dry, astringent sensation felt along the gums and the inside of the cheeks, derived primarily from grape skins and seeds."
-   â `[tannins / legs / body / finish / residual sugar]`
+   → `[tannins / legs / body / finish / residual sugar]`
 10. **Hard**
     "The \_\_\_\_\_ is the indentation at the bottom of a wine bottle, which adds structural strength and, in sparkling wine production, helps consolidate sediment during riddling."
-    â `[punt / ullage / magnum / lees / cuvÃ©e]`
+    → `[punt / ullage / magnum / lees / cuvée]`
 
 ---
 
@@ -444,34 +444,34 @@ referred pain, palpation, cyanosis, edema, tachycardia, bradycardia, diaphoresis
 
 1. **Easy**
    "The process of \_\_\_\_\_ involves sorting and prioritizing patients for treatment based on the severity of their condition, most commonly used in mass casualty events."
-   â `[triage / embolism / mise en place / gambit / transit]`
+   → `[triage / embolism / mise en place / gambit / transit]`
 2. **Medium**
    "A patient experiencing \_\_\_\_\_ is sweating profusely, often as a symptom of severe pain, infection, or cardiovascular distress."
-   â `[diaphoresis / cyanosis / pallor / jaundice / edema]`
+   → `[diaphoresis / cyanosis / pallor / jaundice / edema]`
 3. **Hard**
-   "The \_\_\_\_\_ of a blood pressure reading â the lower number â represents the pressure in the arteries when the heart rests between beats."
-   â `[diastolic / systolic / ischemia / arrhythmia / hemostasis]`
+   "The \_\_\_\_\_ of a blood pressure reading — the lower number — represents the pressure in the arteries when the heart rests between beats."
+   → `[diastolic / systolic / ischemia / arrhythmia / hemostasis]`
 4. **Medium**
    "\_\_\_\_\_ is the bluish discoloration of the skin or mucous membranes, caused by insufficient oxygen in the blood."
-   â `[cyanosis / pallor / jaundice / edema / diaphoresis]`
+   → `[cyanosis / pallor / jaundice / edema / diaphoresis]`
 5. **Hard**
-   "\_\_\_\_\_ occurs when pain is perceived at a location other than its actual site of origin â a classic example being left arm pain during a cardiac event."
-   â `[referred pain / syncope / embolism / dyspnea / prognosis]`
+   "\_\_\_\_\_ occurs when pain is perceived at a location other than its actual site of origin — a classic example being left arm pain during a cardiac event."
+   → `[referred pain / syncope / embolism / dyspnea / prognosis]`
 6. **Medium**
    "A sudden loss of consciousness caused by a temporary drop in blood flow to the brain is called \_\_\_\_\_."
-   â `[syncope / anaphylaxis / shock / infarction / bradycardia]`
+   → `[syncope / anaphylaxis / shock / infarction / bradycardia]`
 7. **Hard**
    "\_\_\_\_\_ is a life-threatening systemic response to infection, characterized by widespread inflammation, organ dysfunction, and circulatory failure."
-   â `[sepsis / anaphylaxis / shock / ischemia / embolism]`
+   → `[sepsis / anaphylaxis / shock / ischemia / embolism]`
 8. **Medium**
-   "\_\_\_\_\_ refers to an abnormal heart rate â specifically one that is faster than the normal resting rate of 60-100 beats per minute."
-   â `[tachycardia / bradycardia / arrhythmia / syncope / infarction]`
+   "\_\_\_\_\_ refers to an abnormal heart rate — specifically one that is faster than the normal resting rate of 60-100 beats per minute."
+   → `[tachycardia / bradycardia / arrhythmia / syncope / infarction]`
 9. **Easy**
    "The physical examination technique of \_\_\_\_\_ involves using the hands to apply pressure to the body to assess organs, detect tenderness, or locate masses."
-   â `[palpation / triage / biopsy / hemostasis / diaphoresis]`
+   → `[palpation / triage / biopsy / hemostasis / diaphoresis]`
 10. **Hard**
-    "A \_\_\_\_\_ occurs when a blood clot or other substance travels through the bloodstream and blocks a vessel â commonly in the lungs or brain."
-    â `[embolism / infarction / ischemia / sepsis / hematoma]`
+    "A \_\_\_\_\_ occurs when a blood clot or other substance travels through the bloodstream and blocks a vessel — commonly in the lungs or brain."
+    → `[embolism / infarction / ischemia / sepsis / hematoma]`
 
 ---
 
@@ -484,114 +484,114 @@ indemnification, arbitration, lien, escrow, deposition, tort, liability, neglige
 
 1. **Easy**
    "A \_\_\_\_\_ is a legal command requiring a person to testify or produce documents in a legal proceeding."
-   â `[subpoena / tannin / edema / Beaufort scale / retrograde]`
+   → `[subpoena / tannin / edema / Beaufort scale / retrograde]`
 2. **Medium**
    "An \_\_\_\_\_ is a sworn written statement made under oath, used as evidence in court proceedings."
-   â `[affidavit / deposition / subpoena / warrant / injunction]`
+   → `[affidavit / deposition / subpoena / warrant / injunction]`
 3. **Hard**
-   "A \_\_\_\_\_ is a legal claim against a property â such as a house or vehicle â that serves as security for a debt or obligation until that debt is paid."
-   â `[lien / escrow / indemnification / easement / garnishment]`
+   "A \_\_\_\_\_ is a legal claim against a property — such as a house or vehicle — that serves as security for a debt or obligation until that debt is paid."
+   → `[lien / escrow / indemnification / easement / garnishment]`
 4. **Medium**
-   "\_\_\_\_\_ is the legal concept describing a duty of care â when a party responsible for another's interests (such as an attorney or trustee) is required to act in that person's best interest."
-   â `[fiduciary / liability / negligence / indemnification / tort]`
+   "\_\_\_\_\_ is the legal concept describing a duty of care — when a party responsible for another's interests (such as an attorney or trustee) is required to act in that person's best interest."
+   → `[fiduciary / liability / negligence / indemnification / tort]`
 5. **Hard**
-   "In a contract, \_\_\_\_\_ is the agreed-upon value or action exchanged between parties â the 'something for something' that makes an agreement legally binding."
-   â `[consideration / damages / warranty / remedy / breach]`
+   "In a contract, \_\_\_\_\_ is the agreed-upon value or action exchanged between parties — the 'something for something' that makes an agreement legally binding."
+   → `[consideration / damages / warranty / remedy / breach]`
 6. **Medium**
    "A \_\_\_\_\_ is a court order compelling or prohibiting a specific action, often issued to prevent irreparable harm while a case is ongoing."
-   â `[injunction / arbitration / mediation / subpoena / standing]`
+   → `[injunction / arbitration / mediation / subpoena / standing]`
 7. **Hard**
-   "\_\_\_\_\_ is the legal right to use another person's land for a specific purpose â such as accessing a public road or running utilities across a neighbor's property."
-   â `[easement / lien / jurisdiction / venue / foreclosure]`
+   "\_\_\_\_\_ is the legal right to use another person's land for a specific purpose — such as accessing a public road or running utilities across a neighbor's property."
+   → `[easement / lien / jurisdiction / venue / foreclosure]`
 8. **Medium**
    "The \_\_\_\_\_ is the time limit within which a lawsuit must be filed after an event occurs; once it expires, the claim is typically barred forever."
-   â `[statute of limitations / jurisdiction / venue / standing / remedy]`
+   → `[statute of limitations / jurisdiction / venue / standing / remedy]`
 9. **Hard**
-   "A civil wrong â not arising from a contract â that causes harm and for which the injured party may seek compensation in court is known as a \_\_\_\_\_."
-   â `[tort / breach / negligence / liability / damages]`
+   "A civil wrong — not arising from a contract — that causes harm and for which the injured party may seek compensation in court is known as a \_\_\_\_\_."
+   → `[tort / breach / negligence / liability / damages]`
 10. **Medium**
     "When funds or assets are held by a neutral third party until specified conditions of a transaction are met, they are said to be held in \_\_\_\_\_."
-    â `[escrow / lien / indemnification / consideration / liquidated damages]`
+    → `[escrow / lien / indemnification / consideration / liquidated damages]`
 
 ---
 
 ### 6.4 Cooking / Recipes
 
 **Glossary (30 terms):**
-mise en place, deglaze, emulsion, reduction, roux, mirepoix, blanch, braise, sautÃ©, julienne, chiffonade, bain-marie, fond, dredge, temper, render, sear, fold, macerate, nappe, en papillote, baste, liaison, clarify, monter au beurre, pÃ¢te, parcook, rest, umami, zest
+mise en place, deglaze, emulsion, reduction, roux, mirepoix, blanch, braise, sauté, julienne, chiffonade, bain-marie, fond, dredge, temper, render, sear, fold, macerate, nappe, en papillote, baste, liaison, clarify, monter au beurre, pâte, parcook, rest, umami, zest
 
 **10 Sample Questions:**
 
 1. **Easy**
    "\_\_\_\_\_ is the French culinary concept of having all ingredients prepped, measured, and organized before cooking begins."
-   â `[mise en place / terroir / triage / gambit / cortisol]`
+   → `[mise en place / terroir / triage / gambit / cortisol]`
 2. **Medium**
    "To \_\_\_\_\_ means to pour liquid into a hot pan after cooking meat in order to dissolve and incorporate the flavorful browned bits stuck to the bottom."
-   â `[deglaze / reduce / sear / baste / render]`
+   → `[deglaze / reduce / sear / baste / render]`
 3. **Hard**
    "The \_\_\_\_\_ is the foundational mixture of two-thirds onion, one-third each celery and carrot, cooked slowly to build depth of flavor in stocks and braises."
-   â `[mirepoix / liaison / fond / roux / reduction]`
+   → `[mirepoix / liaison / fond / roux / reduction]`
 4. **Medium**
    "A \_\_\_\_\_ is a thickening agent made by cooking equal parts fat and flour together until the raw flour taste is cooked out."
-   â `[roux / emulsion / liaison / nappe / reduction]`
+   → `[roux / emulsion / liaison / nappe / reduction]`
 5. **Hard**
    "To \_\_\_\_\_ chocolate or cream means to slowly raise its temperature by adding small amounts of hot liquid, preventing the mixture from seizing or breaking."
-   â `[temper / fold / render / clarify / macerate]`
+   → `[temper / fold / render / clarify / macerate]`
 6. **Medium**
-   "A \_\_\_\_\_ is a stable mixture of two normally immiscible liquids â such as oil and water â achieved through the action of an emulsifying agent like egg yolk or mustard."
-   â `[emulsion / reduction / liaison / nappe / fond]`
+   "A \_\_\_\_\_ is a stable mixture of two normally immiscible liquids — such as oil and water — achieved through the action of an emulsifying agent like egg yolk or mustard."
+   → `[emulsion / reduction / liaison / nappe / fond]`
 7. **Hard**
-   "The technique of \_\_\_\_\_ involves cutting vegetables or other ingredients into uniform, thin matchstick shapes approximately 3mm Ã 3mm Ã 5cm."
-   â `[julienne / chiffonade / brunoise / mirepoix / parcook]`
+   "The technique of \_\_\_\_\_ involves cutting vegetables or other ingredients into uniform, thin matchstick shapes approximately 3mm × 3mm × 5cm."
+   → `[julienne / chiffonade / brunoise / mirepoix / parcook]`
 8. **Medium**
-   "To \_\_\_\_\_ is to briefly immerse food in boiling water and then immediately transfer it to ice water â halting cooking while preserving color and texture."
-   â `[blanch / braise / sautÃ© / render / parcook]`
+   "To \_\_\_\_\_ is to briefly immerse food in boiling water and then immediately transfer it to ice water — halting cooking while preserving color and texture."
+   → `[blanch / braise / sauté / render / parcook]`
 9. **Hard**
    "\_\_\_\_\_ is the concentrated, flavorful residue of caramelized proteins and sugars left on a pan's surface after searing, and is the foundation of pan sauces."
-   â `[fond / reduction / nappe / liaison / umami]`
+   → `[fond / reduction / nappe / liaison / umami]`
 10. **Medium**
-    "Cooking food sealed in parchment paper or foil â so it steams in its own aromatic juices â is called cooking \_\_\_\_\_."
-    â `[en papillote / bain-marie / braise / render / parcook]`
+    "Cooking food sealed in parchment paper or foil — so it steams in its own aromatic juices — is called cooking \_\_\_\_\_."
+    → `[en papillote / bain-marie / braise / render / parcook]`
 
 ---
 
 ### 6.5 Weather / Environment
 
 **Glossary (30 terms):**
-barometric pressure, dew point, wind shear, cumulonimbus, occluded front, isobar, inversion layer, albedo, Coriolis effect, El NiÃ±o, adiabatic, supercell, storm surge, jet stream, mesocyclone, precipitation, humidity, advection, sublimation, orographic lift, virga, CAPE, tropopause, squall line, radiosonde, haboob, waterspout, lenticular cloud, thermal, graupel
+barometric pressure, dew point, wind shear, cumulonimbus, occluded front, isobar, inversion layer, albedo, Coriolis effect, El Niño, adiabatic, supercell, storm surge, jet stream, mesocyclone, precipitation, humidity, advection, sublimation, orographic lift, virga, CAPE, tropopause, squall line, radiosonde, haboob, waterspout, lenticular cloud, thermal, graupel
 
 **10 Sample Questions:**
 
 1. **Easy**
-   "The \_\_\_\_\_ is the measure of atmospheric weight pressing down on a surface â a falling reading typically signals approaching bad weather."
-   â `[barometric pressure / tannin / arbitration / oxytocin / retrograde]`
+   "The \_\_\_\_\_ is the measure of atmospheric weight pressing down on a surface — a falling reading typically signals approaching bad weather."
+   → `[barometric pressure / tannin / arbitration / oxytocin / retrograde]`
 2. **Medium**
-   "The \_\_\_\_\_ is the temperature at which air must be cooled for water vapor to condense into liquid droplets â when it equals the air temperature, fog or clouds form."
-   â `[dew point / humidity / inversion layer / adiabatic / thermal]`
+   "The \_\_\_\_\_ is the temperature at which air must be cooled for water vapor to condense into liquid droplets — when it equals the air temperature, fog or clouds form."
+   → `[dew point / humidity / inversion layer / adiabatic / thermal]`
 3. **Hard**
-   "The \_\_\_\_\_ is the deflection of moving air (and ocean currents) caused by Earth's rotation â to the right in the Northern Hemisphere and to the left in the Southern."
-   â `[Coriolis effect / El NiÃ±o / advection / jet stream / orographic lift]`
+   "The \_\_\_\_\_ is the deflection of moving air (and ocean currents) caused by Earth's rotation — to the right in the Northern Hemisphere and to the left in the Southern."
+   → `[Coriolis effect / El Niño / advection / jet stream / orographic lift]`
 4. **Medium**
    "A \_\_\_\_\_ is a line on a weather map connecting points of equal atmospheric pressure, used to identify high and low pressure systems and predict wind patterns."
-   â `[isobar / thermal / CAPE / radiosonde / tropopause]`
+   → `[isobar / thermal / CAPE / radiosonde / tropopause]`
 5. **Hard**
    "\_\_\_\_\_ refers to the phenomenon where air cools as it rises (or warms as it descends) at a predictable rate without exchanging heat with its surroundings."
-   â `[adiabatic / inversion layer / orographic lift / CAPE / advection]`
+   → `[adiabatic / inversion layer / orographic lift / CAPE / advection]`
 6. **Medium**
    "An \_\_\_\_\_ occurs when a warm air mass is lifted entirely off the ground by converging cold and cool air masses, cutting off its supply of moisture."
-   â `[occluded front / squall line / supercell / haboob / mesocyclone]`
+   → `[occluded front / squall line / supercell / haboob / mesocyclone]`
 7. **Hard**
-   "\_\_\_\_\_ is the ratio of reflected solar energy to incoming solar energy for a surface â fresh snow has a very high value, while dark ocean water has a very low one."
-   â `[albedo / CAPE / sublimation / inversion layer / jet stream]`
+   "\_\_\_\_\_ is the ratio of reflected solar energy to incoming solar energy for a surface — fresh snow has a very high value, while dark ocean water has a very low one."
+   → `[albedo / CAPE / sublimation / inversion layer / jet stream]`
 8. **Medium**
    "A \_\_\_\_\_ is a tall, anvil-shaped cloud associated with thunderstorms, capable of producing heavy rain, lightning, hail, and tornadoes."
-   â `[cumulonimbus / lenticular cloud / virga / supercell / haboob]`
+   → `[cumulonimbus / lenticular cloud / virga / supercell / haboob]`
 9. **Hard**
-   "\_\_\_\_\_ is the horizontal transport of atmospheric properties â such as heat or moisture â by wind, as distinguished from vertical convection."
-   â `[advection / adiabatic / orographic lift / sublimation / Coriolis effect]`
+   "\_\_\_\_\_ is the horizontal transport of atmospheric properties — such as heat or moisture — by wind, as distinguished from vertical convection."
+   → `[advection / adiabatic / orographic lift / sublimation / Coriolis effect]`
 10. **Medium**
     "Rain or snow that falls from a cloud but evaporates before reaching the ground produces streaks visible from a distance called \_\_\_\_\_."
-    â `[virga / graupel / haboob / waterspout / precipitation]`
+    → `[virga / graupel / haboob / waterspout / precipitation]`
 
 ---
 
@@ -604,34 +604,34 @@ gambit, en passant, ko, atari, doubling cube, trump, finesse, bluff, ante, check
 
 1. **Easy**
    "A \_\_\_\_\_ in chess or poker refers to offering a sacrifice or making a seemingly disadvantageous move in order to gain a positional or strategic benefit later."
-   â `[gambit / tannin / deposition / oxytocin / isobar]`
+   → `[gambit / tannin / deposition / oxytocin / isobar]`
 2. **Medium**
-   "In chess, \_\_\_\_\_ is a special pawn capture that occurs immediately after an opponent moves their pawn two squares forward â the capturing pawn takes as if the opponent's pawn had only moved one square."
-   â `[en passant / check / stalemate / fork / zwischenzug]`
+   "In chess, \_\_\_\_\_ is a special pawn capture that occurs immediately after an opponent moves their pawn two squares forward — the capturing pawn takes as if the opponent's pawn had only moved one square."
+   → `[en passant / check / stalemate / fork / zwischenzug]`
 3. **Hard**
-   "The \_\_\_\_\_ is a position in chess where the player who must move has no legal moves but is not in check â resulting in a draw rather than a loss."
-   â `[stalemate / zugzwang / check / pin / initiative]`
+   "The \_\_\_\_\_ is a position in chess where the player who must move has no legal moves but is not in check — resulting in a draw rather than a loss."
+   → `[stalemate / zugzwang / check / pin / initiative]`
 4. **Medium**
    "In Go, the \_\_\_\_\_ rule prevents immediate recapture of a single stone, preventing infinite loops of capture and recapture."
-   â `[ko / atari / sente / gote / meld]`
+   → `[ko / atari / sente / gote / meld]`
 5. **Hard**
-   "A \_\_\_\_\_ in chess is a position â generally losing â where any legal move a player makes worsens their position; the obligation to move is itself the disadvantage."
-   â `[zugzwang / stalemate / fork / pin / squeeze]`
+   "A \_\_\_\_\_ in chess is a position — generally losing — where any legal move a player makes worsens their position; the obligation to move is itself the disadvantage."
+   → `[zugzwang / stalemate / fork / pin / squeeze]`
 6. **Medium**
    "Playing with \_\_\_\_\_ in strategy games means dictating the pace of play and forcing the opponent to react rather than act."
-   â `[initiative / tempo / compensation / sente / material advantage]`
+   → `[initiative / tempo / compensation / sente / material advantage]`
 7. **Hard**
-   "In bridge, a \_\_\_\_\_ play involves leading a card to force a decision from the next player before a particular card's position is revealed â a high-risk maneuver relying on uncertainty."
-   â `[finesse / bluff / ruff / squeeze / overtrick]`
+   "In bridge, a \_\_\_\_\_ play involves leading a card to force a decision from the next player before a particular card's position is revealed — a high-risk maneuver relying on uncertainty."
+   → `[finesse / bluff / ruff / squeeze / overtrick]`
 8. **Medium**
-   "In poker, placing money into the pot before cards are dealt â typically mandatory for one or two players at the table â is called posting the \_\_\_\_\_."
-   â `[ante / bluff / trump / doubling cube / check]`
+   "In poker, placing money into the pot before cards are dealt — typically mandatory for one or two players at the table — is called posting the \_\_\_\_\_."
+   → `[ante / bluff / trump / doubling cube / check]`
 9. **Hard**
    "A \_\_\_\_\_ in chess simultaneously attacks two pieces with one piece, forcing the opponent to sacrifice one of the attacked pieces."
-   â `[fork / pin / skewer / zwischenzug / squeeze]`
+   → `[fork / pin / skewer / zwischenzug / squeeze]`
 10. **Medium**
     "In Go, a move is described as \_\_\_\_\_ when it threatens immediate capture, requiring the opponent to respond defensively rather than advance their own plans."
-    â `[atari / ko / sente / gote / initiative]`
+    → `[atari / ko / sente / gote / initiative]`
 
 ---
 
@@ -644,34 +644,34 @@ attachment style, differentiation, enmeshment, projection, transference, cogniti
 
 1. **Easy**
    "\_\_\_\_\_ is the hormone often called the 'stress hormone,' released by the adrenal glands in response to perceived threat or danger."
-   â `[cortisol / oxytocin / tannin / barometric pressure / lien]`
+   → `[cortisol / oxytocin / tannin / barometric pressure / lien]`
 2. **Medium**
    "\_\_\_\_\_ is the tendency to search for, interpret, and recall information in a way that confirms one's pre-existing beliefs, ignoring contradictory evidence."
-   â `[confirmation bias / cognitive dissonance / Dunning-Kruger effect / projection / schema]`
+   → `[confirmation bias / cognitive dissonance / Dunning-Kruger effect / projection / schema]`
 3. **Hard**
    "The \_\_\_\_\_ describes the phenomenon in which people with limited knowledge in a domain overestimate their competence, while genuine experts tend to underestimate theirs."
-   â `[Dunning-Kruger effect / confirmation bias / cognitive dissonance / self-efficacy / locus of control]`
+   → `[Dunning-Kruger effect / confirmation bias / cognitive dissonance / self-efficacy / locus of control]`
 4. **Medium**
-   "In relational psychology, \_\_\_\_\_ refers to the blurring of personal boundaries between individuals â typically in family systems â where members struggle to maintain separate identities."
-   â `[enmeshment / codependency / differentiation / individuation / transference]`
+   "In relational psychology, \_\_\_\_\_ refers to the blurring of personal boundaries between individuals — typically in family systems — where members struggle to maintain separate identities."
+   → `[enmeshment / codependency / differentiation / individuation / transference]`
 5. **Hard**
    "The psychological defense mechanism of \_\_\_\_\_ involves unconsciously attributing one's own unacceptable thoughts, emotions, or motives to another person."
-   â `[projection / transference / dissociation / triangulation / gaslighting]`
+   → `[projection / transference / dissociation / triangulation / gaslighting]`
 6. **Medium**
-   "The mental discomfort experienced when holding two contradictory beliefs simultaneously â or acting against one's stated values â is called \_\_\_\_\_."
-   â `[cognitive dissonance / confirmation bias / projection / schema / hypervigilance]`
+   "The mental discomfort experienced when holding two contradictory beliefs simultaneously — or acting against one's stated values — is called \_\_\_\_\_."
+   → `[cognitive dissonance / confirmation bias / projection / schema / hypervigilance]`
 7. **Hard**
-   "In family systems theory, a person who has achieved \_\_\_\_\_ can maintain a stable sense of self while remaining emotionally connected to others â neither fused with nor cut off from them."
-   â `[differentiation / individuation / secure attachment / self-efficacy / affect regulation]`
+   "In family systems theory, a person who has achieved \_\_\_\_\_ can maintain a stable sense of self while remaining emotionally connected to others — neither fused with nor cut off from them."
+   → `[differentiation / individuation / secure attachment / self-efficacy / affect regulation]`
 8. **Medium**
-   "The \_\_\_\_\_ is the brain's emotional processing center â encompassing structures like the amygdala and hippocampus â central to memory formation and threat response."
-   â `[limbic system / parasympathetic nervous system / sympathetic nervous system / prefrontal cortex / mirror neurons]`
+   "The \_\_\_\_\_ is the brain's emotional processing center — encompassing structures like the amygdala and hippocampus — central to memory formation and threat response."
+   → `[limbic system / parasympathetic nervous system / sympathetic nervous system / prefrontal cortex / mirror neurons]`
 9. **Hard**
-   "\_\_\_\_\_ is a pattern where feelings or behaviors originally directed toward a significant figure in one's past are redirected â often unconsciously â onto a current relationship, such as a therapist."
-   â `[transference / projection / schema / enmeshment / narcissistic supply]`
+   "\_\_\_\_\_ is a pattern where feelings or behaviors originally directed toward a significant figure in one's past are redirected — often unconsciously — onto a current relationship, such as a therapist."
+   → `[transference / projection / schema / enmeshment / narcissistic supply]`
 10. **Medium**
-    "The 'bonding hormone' released during physical touch, social connection, and childbirth â which promotes trust and reduces stress â is called \_\_\_\_\_."
-    â `[oxytocin / cortisol / serotonin / dopamine / adrenaline]`
+    "The 'bonding hormone' released during physical touch, social connection, and childbirth — which promotes trust and reduces stress — is called \_\_\_\_\_."
+    → `[oxytocin / cortisol / serotonin / dopamine / adrenaline]`
 
 ---
 
@@ -683,35 +683,35 @@ ascendant, midheaven, transit, aspect, conjunction, opposition, trine, square, r
 **10 Sample Questions:**
 
 1. **Easy**
-   "A planet in \_\_\_\_\_ appears to move backward in the sky from Earth's perspective â in astrology, this is associated with delays, revision, and turned-inward energy."
-   â `[retrograde / trine / opposition / mise en place / syncope]`
+   "A planet in \_\_\_\_\_ appears to move backward in the sky from Earth's perspective — in astrology, this is associated with delays, revision, and turned-inward energy."
+   → `[retrograde / trine / opposition / mise en place / syncope]`
 2. **Medium**
    "The \_\_\_\_\_ is the zodiac sign rising on the eastern horizon at the moment of birth, shaping a person's outward manner and first impressions."
-   â `[ascendant / midheaven / chart ruler / dispositor / angular house]`
+   → `[ascendant / midheaven / chart ruler / dispositor / angular house]`
 3. **Hard**
-   "A \_\_\_\_\_ occurs when two or more planets occupy the same degree of the zodiac â their energies merge, intensifying the themes of both."
-   â `[conjunction / opposition / trine / square / aspect]`
+   "A \_\_\_\_\_ occurs when two or more planets occupy the same degree of the zodiac — their energies merge, intensifying the themes of both."
+   → `[conjunction / opposition / trine / square / aspect]`
 4. **Medium**
    "In I Ching, each \_\_\_\_\_ is a six-line figure composed of broken (yin) and unbroken (yang) lines, representing one of 64 possible states of change."
-   â `[hexagram / trigram / geomantic figure / aspect / nakshatra]`
+   → `[hexagram / trigram / geomantic figure / aspect / nakshatra]`
 5. **Hard**
-   "A \_\_\_\_\_ is a grouping of three or more planets in the same sign or a small area of the chart â intensifying that sign's energy and often indicating a focus of major life themes."
-   â `[stellium / conjunction / angular house / midheaven / solar arc]`
+   "A \_\_\_\_\_ is a grouping of three or more planets in the same sign or a small area of the chart — intensifying that sign's energy and often indicating a focus of major life themes."
+   → `[stellium / conjunction / angular house / midheaven / solar arc]`
 6. **Medium**
-   "When a planet makes a \_\_\_\_\_ â a 120-degree angle â to another in the natal or transit chart, the relationship is considered harmonious and flowing."
-   â `[trine / sextile / square / opposition / conjunction]`
+   "When a planet makes a \_\_\_\_\_ — a 120-degree angle — to another in the natal or transit chart, the relationship is considered harmonious and flowing."
+   → `[trine / sextile / square / opposition / conjunction]`
 7. **Hard**
-   "A \_\_\_\_\_ in Vedic astrology is one of 27 lunar mansions â a division of the zodiac based on the Moon's daily movement â each associated with specific qualities and deities."
-   â `[nakshatra / decan / profection / Lot of Fortune / antiscia]`
+   "A \_\_\_\_\_ in Vedic astrology is one of 27 lunar mansions — a division of the zodiac based on the Moon's daily movement — each associated with specific qualities and deities."
+   → `[nakshatra / decan / profection / Lot of Fortune / antiscia]`
 8. **Medium**
    "The \_\_\_\_\_ in a natal chart is the highest point in the sky at the moment of birth, associated with career, public reputation, and life calling."
-   â `[midheaven / ascendant / angular house / chart ruler / Lot of Fortune]`
+   → `[midheaven / ascendant / angular house / chart ruler / Lot of Fortune]`
 9. **Hard**
-   "In geomantic divination, a \_\_\_\_\_ is one of sixteen figures formed by dots arranged in four rows â each with specific divinatory meaning, analogous to tarot cards."
-   â `[geomantic figure / hexagram / trigram / nakshatra / aspect]`
+   "In geomantic divination, a \_\_\_\_\_ is one of sixteen figures formed by dots arranged in four rows — each with specific divinatory meaning, analogous to tarot cards."
+   → `[geomantic figure / hexagram / trigram / nakshatra / aspect]`
 10. **Medium**
     "A \_\_\_\_\_ in astrology refers to the current movement of planets through the sky and how they interact with the positions in a natal chart, triggering events and themes."
-    â `[transit / aspect / solar arc / progressed chart / ingress]`
+    → `[transit / aspect / solar arc / progressed chart / ingress]`
 
 ---
 
@@ -723,35 +723,35 @@ amortization, compound interest, diversification, liquidity, equity, collateral,
 **10 Sample Questions:**
 
 1. **Easy**
-   "\_\_\_\_\_ is the process by which interest earns additional interest over time â often described as 'making money on your money.'"
-   â `[compound interest / amortization / dividends / yield / tannin]`
+   "\_\_\_\_\_ is the process by which interest earns additional interest over time — often described as 'making money on your money.'"
+   → `[compound interest / amortization / dividends / yield / tannin]`
 2. **Medium**
    "\_\_\_\_\_ is the process of spreading investments across different asset classes, sectors, or geographies to reduce the impact of any single loss."
-   â `[diversification / hedging / leverage / portfolio management / arbitrage]`
+   → `[diversification / hedging / leverage / portfolio management / arbitrage]`
 3. **Hard**
    "The \_\_\_\_\_ of an investment measures how quickly and easily it can be converted to cash without significantly affecting its price."
-   â `[liquidity / solvency / yield / margin / net worth]`
+   → `[liquidity / solvency / yield / margin / net worth]`
 4. **Medium**
    "\_\_\_\_\_ refers to the gradual repayment of a loan through scheduled payments that cover both principal and interest over the loan's life."
-   â `[amortization / depreciation / compound interest / leverage / annuity]`
+   → `[amortization / depreciation / compound interest / leverage / annuity]`
 5. **Hard**
-   "A financial \_\_\_\_\_ is a strategy or instrument used to offset potential losses in an investment â like buying a put option to protect against a stock's decline."
-   â `[hedge / margin / arbitrage / beta / leverage]`
+   "A financial \_\_\_\_\_ is a strategy or instrument used to offset potential losses in an investment — like buying a put option to protect against a stock's decline."
+   → `[hedge / margin / arbitrage / beta / leverage]`
 6. **Medium**
-   "The \_\_\_\_\_ of a bond or savings account refers to the return expressed as a percentage of the investment â calculated annually."
-   â `[yield / dividend / premium / capital gains / return]`
+   "The \_\_\_\_\_ of a bond or savings account refers to the return expressed as a percentage of the investment — calculated annually."
+   → `[yield / dividend / premium / capital gains / return]`
 7. **Hard**
-   "\_\_\_\_\_ is the simultaneous purchase and sale of the same asset in different markets to exploit a price discrepancy â typically fleeting, and usually automated."
-   â `[arbitrage / hedge / leverage / margin / beta]`
+   "\_\_\_\_\_ is the simultaneous purchase and sale of the same asset in different markets to exploit a price discrepancy — typically fleeting, and usually automated."
+   → `[arbitrage / hedge / leverage / margin / beta]`
 8. **Medium**
-   "An \_\_\_\_\_ is a financial product that pays out a fixed stream of income over time â commonly used to provide retirement income."
-   â `[annuity / dividend / premium / yield / portfolio]`
+   "An \_\_\_\_\_ is a financial product that pays out a fixed stream of income over time — commonly used to provide retirement income."
+   → `[annuity / dividend / premium / yield / portfolio]`
 9. **Hard**
-   "A stock's \_\_\_\_\_ measures its volatility relative to the broader market â a value above 1.0 means it moves more dramatically than the index; below 1.0 means it moves less."
-   â `[beta / volatility / margin / risk-adjusted return / leverage]`
+   "A stock's \_\_\_\_\_ measures its volatility relative to the broader market — a value above 1.0 means it moves more dramatically than the index; below 1.0 means it moves less."
+   → `[beta / volatility / margin / risk-adjusted return / leverage]`
 10. **Medium**
     "\_\_\_\_\_ is the practice of selling losing investments before year-end to realize a capital loss, which can offset taxable gains elsewhere in a portfolio."
-    â `[tax-loss harvesting / depreciation / diversification / amortization / capital gains]`
+    → `[tax-loss harvesting / depreciation / diversification / amortization / capital gains]`
 
 ---
 
@@ -763,35 +763,35 @@ tonic immobility, petrichor, Beaufort scale, solunar, Rule of Twelfths, carciniz
 **10 Sample Questions:**
 
 1. **Easy**
-   "The pleasant earthy scent that follows rainfall on dry soil is called \_\_\_\_\_ â caused by chemical compounds released by soil bacteria as moisture activates them."
-   â `[petrichor / tannin / dew point / cortisol / indemnification]`
+   "The pleasant earthy scent that follows rainfall on dry soil is called \_\_\_\_\_ — caused by chemical compounds released by soil bacteria as moisture activates them."
+   → `[petrichor / tannin / dew point / cortisol / indemnification]`
 2. **Medium**
    "The \_\_\_\_\_ is a measurement system that classifies wind intensity on a scale from 0 (calm) to 12 (hurricane force), originally developed for maritime use."
-   â `[Beaufort scale / wind shear / Coriolis effect / heat index / solunar]`
+   → `[Beaufort scale / wind shear / Coriolis effect / heat index / solunar]`
 3. **Hard**
-   "\_\_\_\_\_ is the convergent evolutionary tendency of crustaceans to repeatedly evolve crab-like body shapes across different lineages â a striking example of natural selection converging on a common solution."
-   â `[carcinization / tonic immobility, fermentation / deadfall trap / edible indicator]`
+   "\_\_\_\_\_ is the convergent evolutionary tendency of crustaceans to repeatedly evolve crab-like body shapes across different lineages — a striking example of natural selection converging on a common solution."
+   → `[carcinization / tonic immobility, fermentation / deadfall trap / edible indicator]`
 4. **Medium**
-   "\_\_\_\_\_ tables predict the times of day when fish and game are most active â based on the gravitational influence of the sun and moon â used widely by hunters and anglers."
-   â `[solunar / Rule of Twelfths / celestial navigation / dead reckoning / compass bearing]`
+   "\_\_\_\_\_ tables predict the times of day when fish and game are most active — based on the gravitational influence of the sun and moon — used widely by hunters and anglers."
+   → `[solunar / Rule of Twelfths / celestial navigation / dead reckoning / compass bearing]`
 5. **Hard**
-   "The \_\_\_\_\_ is a navigational rule used to estimate tidal flow: tides don't rise and fall evenly â the middle two hours of a six-hour tidal cycle carry roughly half the total tidal volume."
-   â `[Rule of Twelfths / dead reckoning / triangulation / compass bearing / solunar]`
+   "The \_\_\_\_\_ is a navigational rule used to estimate tidal flow: tides don't rise and fall evenly — the middle two hours of a six-hour tidal cycle carry roughly half the total tidal volume."
+   → `[Rule of Twelfths / dead reckoning / triangulation / compass bearing / solunar]`
 6. **Medium**
-   "\_\_\_\_\_ is the preservation and transformation of food through controlled microbial activity â the process that turns milk into cheese, cabbage into sauerkraut, and grain into beer."
-   â `[fermentation / lye, tallow / pemmican / char cloth]`
+   "\_\_\_\_\_ is the preservation and transformation of food through controlled microbial activity — the process that turns milk into cheese, cabbage into sauerkraut, and grain into beer."
+   → `[fermentation / lye, tallow / pemmican / char cloth]`
 7. **Hard**
    "\_\_\_\_\_ is a caustic alkaline substance historically made from wood ash and water, used in soap-making, food preservation (olives, pretzels), and processing hides."
-   â `[lye / tallow / cordage / pemmican / whetstone]`
+   → `[lye / tallow / cordage / pemmican / whetstone]`
 8. **Medium**
-   "A \_\_\_\_\_ is an abrasive stone used to sharpen blades by removing metal along the cutting edge â available in varying grits for coarse grinding versus fine finishing."
-   â `[whetstone / paracord / deadfall trap / lean-to / tinder bundle]`
+   "A \_\_\_\_\_ is an abrasive stone used to sharpen blades by removing metal along the cutting edge — available in varying grits for coarse grinding versus fine finishing."
+   → `[whetstone / paracord / deadfall trap / lean-to / tinder bundle]`
 9. **Hard**
-   "\_\_\_\_\_ is the state of apparent paralysis in prey animals â such as rabbits or sharks â when subjected to certain physical restraint or sensory conditions, sometimes misinterpreted as death."
-   â `[tonic immobility / carcinization / dead reckoning / foraging / edible indicator]`
+   "\_\_\_\_\_ is the state of apparent paralysis in prey animals — such as rabbits or sharks — when subjected to certain physical restraint or sensory conditions, sometimes misinterpreted as death."
+   → `[tonic immobility / carcinization / dead reckoning / foraging / edible indicator]`
 10. **Medium**
-    "The high-calorie, shelf-stable survival food made by combining rendered fat with dried meat and sometimes dried berries â historically carried by Indigenous peoples and explorers â is called \_\_\_\_\_."
-    â `[pemmican / tallow / fermentation / cordage / char cloth]`
+    "The high-calorie, shelf-stable survival food made by combining rendered fat with dried meat and sometimes dried berries — historically carried by Indigenous peoples and explorers — is called \_\_\_\_\_."
+    → `[pemmican / tallow / fermentation / cordage / char cloth]`
 
 ---
 
@@ -803,17 +803,17 @@ tonic immobility, petrichor, Beaufort scale, solunar, Rule of Twelfths, carciniz
 Starts a Learn Mode session for the specified section. If no section is specified, defaults to the section of the most recently read article.
 
 ```
-/learn wine       â Wine/Connoisseur glossary, 10 questions, Medium difficulty
-/learn wine hard  â Hard difficulty
-/learn            â Most recently read section
+/learn wine       → Wine/Connoisseur glossary, 10 questions, Medium difficulty
+/learn wine hard  → Hard difficulty
+/learn            → Most recently read section
 ```
 
 **`/quiz [section] [n]`**
 Runs a quick quiz of n questions (default 5, max 20). Returns a score summary with percentage accuracy.
 
 ```
-/quiz medical 10   â 10 medical questions
-/quiz              â 5 questions from most recent section
+/quiz medical 10   → 10 medical questions
+/quiz              → 5 questions from most recent section
 ```
 
 **`/mastery`**
@@ -827,15 +827,15 @@ Shows the user's current streak, longest streak, and session stats.
 After any article in the Observatory Almanac app, a **"Test Yourself"** card appears at the end:
 
 ```
-âââââââââââââââââââââââââââââââââââââââ
-â  ð§  Test Yourself                   â
-â  You just read: Wine & Connoisseur  â
-â                                     â
-â  [Quick Quiz â 5 Qs]  [Full Learn Mode â 10 Qs] â
-â                                     â
-â  Your mastery: âââââââââ 47%        â
-â  Best streak this section: 7        â
-âââââââââââââââââââââââââââââââââââââââ
+┌─────────────────────────────────────┐
+│  🧠 Test Yourself                   │
+│  You just read: Wine & Connoisseur  │
+│                                     │
+│  [Quick Quiz — 5 Qs]  [Full Learn Mode — 10 Qs] │
+│                                     │
+│  Your mastery: ████░░░░░ 47%        │
+│  Best streak this section: 7        │
+└─────────────────────────────────────┘
 ```
 
 Tapping either button launches the Learn Mode modal within the app, pre-loaded with the section's question bank filtered to the user's current difficulty tier.
@@ -884,8 +884,8 @@ User progress is stored per-user in a `user_learning_state` document:
 
 1. **Sentences must be extractable from real Almanac content.** Questions should feel like genuine excerpts, not invented definitions.
 2. **The blank should be irreplaceable.** A well-crafted question makes the correct term the only plausible fit once the user knows the domain.
-3. **Distractors must be tempting at the right difficulty.** A Medium distractor should make a reader pause â not immediately dismiss it. A Hard distractor should be something a person with partial knowledge might genuinely select.
-4. **Explanations matter.** The one-sentence "why this term is correct" shown after a wrong answer is a teaching moment â make it count. It should add information, not just repeat the definition.
+3. **Distractors must be tempting at the right difficulty.** A Medium distractor should make a reader pause — not immediately dismiss it. A Hard distractor should be something a person with partial knowledge might genuinely select.
+4. **Explanations matter.** The one-sentence "why this term is correct" shown after a wrong answer is a teaching moment — make it count. It should add information, not just repeat the definition.
 5. **Avoid definitional sentences as questions.** "A \_\_\_\_\_ is defined as..." is too easy. Prefer sentences that use the term in context, requiring understanding rather than memorization.
 
 ### Adding New Sections
@@ -900,8 +900,8 @@ When a new Almanac section is created:
 
 ---
 
-*Document version: 1.0 â Observatory Almanac, The Discovery Machine*
-*Next: Section XI.2 â The Self-Discovery Inventory (personality-adjacent reflection prompts)*
+*Document version: 1.0 — Observatory Almanac, The Discovery Machine*
+*Next: Section XI.2 — The Self-Discovery Inventory (personality-adjacent reflection prompts)*
 
 ---
 

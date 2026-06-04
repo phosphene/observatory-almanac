@@ -1,4 +1,4 @@
-# Indian Recipes â Complete Regional Collection
+# Indian Recipes — Complete Regional Collection
 
 200+ recipes organized by region. Format: ingredients with quantities, numbered method.
 
@@ -12,8 +12,8 @@
 
 **Ingredients:** 800g chicken (bone-in or boneless), 2 tbsp butter, 1 tbsp oil, 2 medium onions (chopped), 4 garlic cloves, 1-inch ginger, 400g tomatoes (pureed), 150ml cream, 1 tsp kashmiri chili powder, 1 tsp garam masala, 1 tsp coriander powder, 1/2 tsp cumin, 1/2 tsp turmeric, 1 tbsp kasuri methi, salt, sugar to taste. **Marinade:** 200g yogurt, 1 tsp chili powder, 1 tsp garam masala, 1 tbsp lemon juice, 1 tbsp oil, salt.
 
-1. Mix marinade, coat chicken, rest 4â6 hours.
-2. Grill or bake chicken at 220Â°C / 425Â°F until charred. Set aside.
+1. Mix marinade, coat chicken, rest 4–6 hours.
+2. Grill or bake chicken at 220°C / 425°F until charred. Set aside.
 3. Heat butter + oil; fry onions until golden. Add garlic and ginger; cook 2 min.
 4. Add tomato puree, spices; cook 15 min until oil separates.
 5. Cool, blend smooth, return to pan.
@@ -28,10 +28,10 @@
 
 **Ingredients:** 200g whole black urad dal, 50g rajma (kidney beans), 3 tbsp butter, 1 tbsp oil, 1 onion (finely chopped), 4 garlic cloves (minced), 1-inch ginger (grated), 200g tomatoes (pureed), 1 tsp chili powder, 1 tsp cumin seeds, 1/2 tsp garam masala, 100ml cream, salt, 1 tbsp kasuri methi.
 
-1. Soak dal and rajma overnight. Pressure cook with water and salt for 8â10 whistles until very soft.
+1. Soak dal and rajma overnight. Pressure cook with water and salt for 8–10 whistles until very soft.
 2. Heat butter + oil; splutter cumin seeds. Fry onion until deep golden.
 3. Add garlic and ginger; cook 2 min. Add tomato puree and chili powder; cook 15 min.
-4. Add cooked dal, mix well. Simmer on very low heat 1â2 hours, stirring frequently.
+4. Add cooked dal, mix well. Simmer on very low heat 1–2 hours, stirring frequently.
 5. Stir in cream, kasuri methi, garam masala. Simmer 10 min more.
 
 ---
@@ -40,18 +40,18 @@
 
 *Punjab*
 
-**Chole â Ingredients:** 300g dried chickpeas (soaked overnight), 2 tbsp oil, 2 bay leaves, 2 black cardamoms, 1 tsp cumin seeds, 2 onions (chopped), 4 garlic, 1-inch ginger, 3 tomatoes (pureed), 2 tsp chole masala, 1 tsp cumin powder, 1 tsp chili powder, 1/2 tsp turmeric, 1 tbsp amchur, salt, 1 tea bag (for color).
+**Chole — Ingredients:** 300g dried chickpeas (soaked overnight), 2 tbsp oil, 2 bay leaves, 2 black cardamoms, 1 tsp cumin seeds, 2 onions (chopped), 4 garlic, 1-inch ginger, 3 tomatoes (pureed), 2 tsp chole masala, 1 tsp cumin powder, 1 tsp chili powder, 1/2 tsp turmeric, 1 tbsp amchur, salt, 1 tea bag (for color).
 
-1. Pressure cook chickpeas with tea bag and salt for 5â6 whistles. Discard tea bag.
+1. Pressure cook chickpeas with tea bag and salt for 5–6 whistles. Discard tea bag.
 2. Heat oil; add bay leaves, cardamoms, cumin seeds. Add onions; cook until golden.
 3. Add garlic, ginger, tomatoes, all spices; cook 15 min.
 4. Add chickpeas with cooking water; simmer 20 min until thick. Finish with amchur.
 
-**Bhature â Ingredients:** 300g maida (refined flour), 50g semolina, 2 tbsp yogurt, 1 tsp sugar, 1/2 tsp salt, 1 tsp baking powder, warm water to knead, oil for frying.
+**Bhature — Ingredients:** 300g maida (refined flour), 50g semolina, 2 tbsp yogurt, 1 tsp sugar, 1/2 tsp salt, 1 tsp baking powder, warm water to knead, oil for frying.
 
 1. Mix flour, semolina, yogurt, sugar, salt, baking powder. Knead with warm water to soft dough.
-2. Rest 1â2 hours covered.
-3. Divide, roll each portion into oval (5â6 inches). Deep fry in hot oil until puffed and golden.
+2. Rest 1–2 hours covered.
+3. Divide, roll each portion into oval (5–6 inches). Deep fry in hot oil until puffed and golden.
 
 ---
 
@@ -63,8 +63,8 @@
 
 1. Score chicken deeply. Apply salt and lemon juice; rest 30 min.
 2. Mix yogurt with all spices, mustard oil, food color.
-3. Coat chicken completely; marinate 6â12 hours refrigerated.
-4. Grill over high heat (or bake at 240Â°C / 465Â°F) 20â25 min, turning once, until charred.
+3. Coat chicken completely; marinate 6–12 hours refrigerated.
+4. Grill over high heat (or bake at 240°C / 465°F) 20–25 min, turning once, until charred.
 5. Serve with mint chutney, sliced onions, lemon wedges.
 
 ---
@@ -78,7 +78,7 @@
 1. Whisk yogurt, besan, ginger-garlic paste, all spices, oil, lemon juice into marinade.
 2. Coat paneer, pepper, onion pieces. Marinate 2 hours.
 3. Thread on skewers alternating vegetables and paneer.
-4. Grill on high heat or in oven at 240Â°C, 10â12 min, turning once until charred spots appear.
+4. Grill on high heat or in oven at 240°C, 10–12 min, turning once until charred spots appear.
 5. Dust with chaat masala; serve with mint chutney.
 
 ---
@@ -91,8 +91,8 @@
 
 1. Dissolve yeast and sugar in warm water; rest 10 min until frothy.
 2. Mix flour, salt, yogurt, oil. Add yeast water; knead 8 min to smooth dough.
-3. Cover; rise 1â1.5 hours until doubled.
-4. Divide into balls; roll into teardrops 3â4mm thick.
+3. Cover; rise 1–1.5 hours until doubled.
+4. Divide into balls; roll into teardrops 3–4mm thick.
 5. Cook on very hot tawa or cast iron. Flip; cook other side or finish under broiler.
 6. Brush with butter immediately. Sprinkle nigella seeds or garlic.
 
@@ -102,13 +102,13 @@
 
 *Punjab*
 
-**Plain Paratha â Ingredients:** 300g atta (whole wheat flour), water to knead, salt, ghee for cooking.
+**Plain Paratha — Ingredients:** 300g atta (whole wheat flour), water to knead, salt, ghee for cooking.
 
 1. Knead firm dough; rest 30 min.
 2. Roll ball into circle, fold twice to make triangle, roll out thin.
 3. Cook on hot tawa; apply ghee, flip, press, apply more ghee until golden spots form.
 
-**Aloo Paratha â Filling:** 3 boiled potatoes (mashed), 1 green chili, coriander leaves, 1/2 tsp ajwain, 1/2 tsp chili powder, salt, 1 tsp amchur.
+**Aloo Paratha — Filling:** 3 boiled potatoes (mashed), 1 green chili, coriander leaves, 1/2 tsp ajwain, 1/2 tsp chili powder, salt, 1 tsp amchur.
 
 1. Mix mashed potato with spices.
 2. Roll dough circle; place filling in center; gather edges and seal.
@@ -123,7 +123,7 @@
 
 **Ingredients:** 300g dried rajma (soaked overnight), 2 tbsp oil, 2 onions (chopped), 4 garlic, 1-inch ginger, 3 tomatoes (pureed), 1 tsp cumin seeds, 1 tsp chili powder, 1 tsp coriander powder, 1/2 tsp turmeric, 1 tsp rajma masala or garam masala, salt, coriander leaves.
 
-1. Pressure cook rajma with salt until very soft (6â7 whistles).
+1. Pressure cook rajma with salt until very soft (6–7 whistles).
 2. Heat oil; splutter cumin. Fry onion until golden. Add garlic, ginger; cook 2 min.
 3. Add tomato puree and dry spices; cook 15 min until oil separates.
 4. Add rajma with cooking liquid; simmer 20 min until gravy thickens. Garnish with coriander.
@@ -162,7 +162,7 @@
 
 **Ingredients:** 300g maida, 1/2 tsp baking soda, 1 tsp baking powder, 2 tbsp yogurt, 1 tbsp oil, salt, 1 tsp sugar, water to knead. **Filling:** 3 boiled potatoes (mashed), 1 onion (grated), green chili, coriander, chili powder, amchur, salt.
 
-1. Knead dough incorporating all ingredients; rest 1â2 hours.
+1. Knead dough incorporating all ingredients; rest 1–2 hours.
 2. Mix filling ingredients.
 3. Roll dough disk; stuff with filling; seal and gently roll flat.
 4. Cook on very hot tawa or tandoor until golden; apply butter liberally.
@@ -177,7 +177,7 @@
 
 1. Make batter with besan, rice flour, ajwain, chili, ginger-garlic paste, turmeric, lemon, salt, and enough water for thick coating.
 2. Coat fish fillets; rest 30 min.
-3. Deep fry in hot oil at 175Â°C / 350Â°F until golden and crisp, ~4 min per side.
+3. Deep fry in hot oil at 175°C / 350°F until golden and crisp, ~4 min per side.
 4. Serve with mint chutney and chaat masala.
 
 ---
@@ -188,7 +188,7 @@
 
 *South India*
 
-**Batter:** 300g raw rice, 100g urad dal, 1/2 tsp methi (fenugreek seeds); soak 6 hours, grind to smooth batter, ferment 8â12 hours. **Potato Filling:** 4 boiled potatoes, 2 tbsp oil, 1 tsp mustard seeds, 1/2 tsp turmeric, 2 green chilies, 1 onion (sliced), curry leaves, salt, coriander.
+**Batter:** 300g raw rice, 100g urad dal, 1/2 tsp methi (fenugreek seeds); soak 6 hours, grind to smooth batter, ferment 8–12 hours. **Potato Filling:** 4 boiled potatoes, 2 tbsp oil, 1 tsp mustard seeds, 1/2 tsp turmeric, 2 green chilies, 1 onion (sliced), curry leaves, salt, coriander.
 
 1. **Filling:** Heat oil; splutter mustard, curry leaves. Add onion, chilies; fry 5 min. Add turmeric, potatoes; mix and mash lightly. Season with salt and coriander.
 2. Heat iron tawa; sprinkle water (it should sizzle). Pour a ladle of batter; spread in circles to thin crepe (~8-inch).
@@ -226,8 +226,8 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 
 1. Soak rice and urad dal + fenugreek separately for 6 hours.
 2. Grind urad dal to very fluffy batter; grind rice coarser. Combine; add salt.
-3. Ferment 8â12 hours in warm place until batter doubles.
-4. Grease idli molds; fill 3/4. Steam 10â12 min until toothpick comes clean.
+3. Ferment 8–12 hours in warm place until batter doubles.
+4. Grease idli molds; fill 3/4. Steam 10–12 min until toothpick comes clean.
 5. Serve with sambar and coconut chutney.
 
 ---
@@ -275,10 +275,10 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 **Ingredients:** 300g raw rice (soaked 6 hours), 2 tbsp fresh coconut (grated), 1 tsp active dry yeast, 1 tsp sugar, 1/2 tsp salt, coconut milk as needed.
 
 1. Soak and grind rice with coconut until smooth.
-2. Dissolve yeast and sugar in warm water; add to batter. Rest 6â8 hours to ferment.
+2. Dissolve yeast and sugar in warm water; add to batter. Rest 6–8 hours to ferment.
 3. Add coconut milk to thin batter; season with salt.
 4. Heat appam pan (kuzhipaniyaram pan or wok shape); pour ladle of batter; swirl to coat sides.
-5. Cover; cook 2â3 min. Edges should be lacy and crisp, center soft and spongy.
+5. Cover; cook 2–3 min. Edges should be lacy and crisp, center soft and spongy.
 
 ---
 
@@ -318,8 +318,8 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 
 1. Grind coconut and green chilies coarsely.
 2. Heat oil; splutter mustard seeds, curry leaves, red chili.
-3. Add vegetables with turmeric and salt; stir fry on medium heat 5â7 min.
-4. Add coconut mixture; mix well and cook 2â3 min. Should be dry, not saucy.
+3. Add vegetables with turmeric and salt; stir fry on medium heat 5–7 min.
+4. Add coconut mixture; mix well and cook 2–3 min. Should be dry, not saucy.
 
 ---
 
@@ -331,7 +331,7 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 
 1. Mix rice flour with salt; sprinkle water gradually, mixing with fingers until flour is moistened but crumbly (not a dough).
 2. Layer in puttu maker (cylindrical steamer): coconut, then flour, alternating, ending with coconut.
-3. Steam 5â7 min until steam comes through. Unmold by pressing out.
+3. Steam 5–7 min until steam comes through. Unmold by pressing out.
 4. Serve with kadala curry or banana.
 
 ---
@@ -357,7 +357,7 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 
 1. Drain dal; grind to thick, fluffy batter with minimal water. Season with salt, cumin, chilies, curry leaves, pepper.
 2. Wet hands; take portion of batter, make hole in center (donut shape).
-3. Slide gently into hot oil at 170Â°C / 340Â°F. Fry until golden, ~4 min per side.
+3. Slide gently into hot oil at 170°C / 340°F. Fry until golden, ~4 min per side.
 4. Drain; serve with sambar and coconut chutney.
 
 ---
@@ -401,7 +401,7 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 2. Rub fish with turmeric, salt, mustard oil.
 3. Mix mustard paste with chili powder, 1 cup water, remaining chili.
 4. Layer fish in pan; pour mustard sauce over. Drizzle mustard oil on top.
-5. Cook covered on medium heat 12â15 min. Can also bake at 180Â°C / 350Â°F.
+5. Cook covered on medium heat 12–15 min. Can also bake at 180°C / 350°F.
 
 ---
 
@@ -412,9 +412,9 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 **Ingredients:** 1 liter full-fat milk, 100g date palm jaggery (or brown sugar), 2 tbsp plain yogurt (starter).
 
 1. Boil milk; reduce to 3/4 volume on medium heat, stirring constantly.
-2. Add jaggery; stir until dissolved. Cool to lukewarm (40Â°C / 104Â°F).
+2. Add jaggery; stir until dissolved. Cool to lukewarm (40°C / 104°F).
 3. Whisk in yogurt starter; pour into earthen pots or bowls.
-4. Set in warm oven (40Â°C / 104Â°F) or wrap in blankets for 6â8 hours.
+4. Set in warm oven (40°C / 104°F) or wrap in blankets for 6–8 hours.
 5. Refrigerate to firm up. The yogurt should be thick, creamy, and sweet-sour.
 
 ---
@@ -427,7 +427,7 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 
 1. **Make chenna:** Boil milk; add 2 tbsp lemon juice to curdle. Drain through muslin; wash curds; squeeze dry.
 2. Knead chenna with sugar until smooth and non-grainy, ~10 min.
-3. Cook in non-stick pan on low heat, stirring 5â7 min until it leaves sides and forms soft dough.
+3. Cook in non-stick pan on low heat, stirring 5–7 min until it leaves sides and forms soft dough.
 4. Add cardamom; shape into rounds or press into molds.
 5. Chill; garnish with pistachios.
 
@@ -441,7 +441,7 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 
 1. Make chenna as above; knead 10 min until smooth and soft.
 2. Shape into smooth balls (no cracks).
-3. Boil sugar and water in wide pan. Add chenna balls; cover; cook on medium-high 15â18 min.
+3. Boil sugar and water in wide pan. Add chenna balls; cover; cook on medium-high 15–18 min.
 4. Balls should double in size and be spongy. Cool in syrup.
 5. Add cardamom and rose water to syrup.
 
@@ -468,10 +468,10 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 **Ingredients:** 1 kg mutton (bone-in), 300g yogurt, 3 onions (thinly sliced), 1 tbsp ginger paste, 1 tbsp garlic paste, 2 tsp chili powder, 1 tsp turmeric, 2 tsp garam masala, 4 potatoes (halved), mustard oil, bay leaves, whole spices (cardamom, cinnamon, cloves).
 
 1. Marinate mutton with yogurt, half ginger-garlic paste, turmeric, chili. Minimum 2 hours.
-2. Heat mustard oil; fry onions very slow until deep brown (20â30 min).
+2. Heat mustard oil; fry onions very slow until deep brown (20–30 min).
 3. Add whole spices; then remaining ginger-garlic paste; cook 2 min.
 4. Add marinated mutton; cook on high heat, stirring, until liquid evaporates.
-5. Reduce heat; continue cooking, stirring frequently, 45â60 min (add splashes of water only if sticking). Mutton should be very well-coated and caramelized.
+5. Reduce heat; continue cooking, stirring frequently, 45–60 min (add splashes of water only if sticking). Mutton should be very well-coated and caramelized.
 6. Add potatoes and garam masala; add 1 cup water; cover and cook 20 min.
 
 ---
@@ -485,7 +485,7 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 1. Knead maida with salt, oil, and water to smooth, soft dough.
 2. Rest 30 min; divide into small balls.
 3. Roll each ball thin (5-inch circle).
-4. Fry one at a time in hot oil at 175Â°C / 350Â°F; press gently with slotted spoon until puffed.
+4. Fry one at a time in hot oil at 175°C / 350°F; press gently with slotted spoon until puffed.
 5. Flip; cook until pale golden. Should be soft, not crisp.
 
 ---
@@ -500,7 +500,7 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 
 1. Mix besan, semolina, yogurt, ginger paste, sugar, salt with water to thick batter.
 2. Just before steaming, add Eno and lemon juice; mix gently (batter will froth).
-3. Pour into greased thali or tin; steam 15â18 min until skewer comes clean.
+3. Pour into greased thali or tin; steam 15–18 min until skewer comes clean.
 4. Tadka: heat oil; splutter mustard seeds, curry leaves, green chilies. Add 4 tbsp water + sugar; bring to boil. Pour over dhokla.
 5. Garnish with coriander and coconut; cut into squares.
 
@@ -510,11 +510,11 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 
 *Gujarat*
 
-**Ingredients:** 200g atta, 50g besan, 100g fresh fenugreek leaves (methi) â or 2 tbsp dried, 1 tsp chili powder, 1/2 tsp turmeric, 1 tsp coriander powder, 1 tbsp yogurt, 1 tbsp oil, salt, oil for cooking.
+**Ingredients:** 200g atta, 50g besan, 100g fresh fenugreek leaves (methi) — or 2 tbsp dried, 1 tsp chili powder, 1/2 tsp turmeric, 1 tsp coriander powder, 1 tbsp yogurt, 1 tbsp oil, salt, oil for cooking.
 
 1. Mix all ingredients; knead with water to soft dough.
 2. Rest 20 min.
-3. Roll thin circles (6â7 inches).
+3. Roll thin circles (6–7 inches).
 4. Cook on medium tawa with oil both sides until golden spots form.
 5. Store well at room temperature (travel food).
 
@@ -524,11 +524,11 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 
 *Gujarat*
 
-**Ingredients:** 300g small eggplants, 200g raw banana, 200g sweet potato, 200g surti papdi beans (or green beans), 100g baby potatoes, 200g fresh tuvar (pigeon peas) or green peas. **Stuffing:** 100g fresh coconut, 1 bunch coriander, 6 garlic cloves, 4 green chilies, 1 tsp cumin, 1 tbsp sesame seeds, 1 tsp sugar, lemon juice, salt. **Muthia:** 100g methi leaves, 50g besan, 1 tbsp oil, 1 tsp sesame, 1/4 tsp soda, salt â roll into cylinders, fry until golden. **Spices:** 1/4 cup oil, 1 tsp carom seeds, 1 tsp turmeric, 2 tsp coriander powder.
+**Ingredients:** 300g small eggplants, 200g raw banana, 200g sweet potato, 200g surti papdi beans (or green beans), 100g baby potatoes, 200g fresh tuvar (pigeon peas) or green peas. **Stuffing:** 100g fresh coconut, 1 bunch coriander, 6 garlic cloves, 4 green chilies, 1 tsp cumin, 1 tbsp sesame seeds, 1 tsp sugar, lemon juice, salt. **Muthia:** 100g methi leaves, 50g besan, 1 tbsp oil, 1 tsp sesame, 1/4 tsp soda, salt — roll into cylinders, fry until golden. **Spices:** 1/4 cup oil, 1 tsp carom seeds, 1 tsp turmeric, 2 tsp coriander powder.
 
 1. Blend stuffing paste. Stuff into slit eggplants and raw bananas.
 2. Heat oil in thick pot; add carom seeds, turmeric. Layer all vegetables, stuffed ones, muthia.
-3. Drizzle remaining stuffing paste and oil. Cover tight; cook on lowest heat 45â60 min, shaking pot occasionally. No stirring â vegetables should hold shape.
+3. Drizzle remaining stuffing paste and oil. Cover tight; cook on lowest heat 45–60 min, shaking pot occasionally. No stirring — vegetables should hold shape.
 
 ---
 
@@ -539,7 +539,7 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 **Ingredients:** 150g besan, 500ml yogurt (whisked with 500ml water), 1/2 tsp turmeric, 1/4 tsp asafoetida, salt. **Tadka:** 1 tbsp oil, 1 tsp mustard seeds, 1 tsp sesame seeds, 5 curry leaves, 2 green chilies.
 
 1. Whisk besan into yogurt-water until smooth with no lumps.
-2. Cook on medium heat, stirring constantly, until mixture thickens to paste (pulls away from pan), ~12â15 min.
+2. Cook on medium heat, stirring constantly, until mixture thickens to paste (pulls away from pan), ~12–15 min.
 3. Immediately spread thin layer on greased surface/plate. Work fast before it sets.
 4. Once barely cooled, roll each strip into tight cylinder.
 5. Prepare tadka; pour over rolls. Garnish with coriander and coconut.
@@ -555,7 +555,7 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 1. Knead besan with all seasonings, oil, and water to stiff dough.
 2. Rest 30 min.
 3. Roll very thin; cut into strips.
-4. Deep fry at 160Â°C / 320Â°F until crisp and golden but not brown.
+4. Deep fry at 160°C / 320°F until crisp and golden but not brown.
 5. Serve with papaya chutney and jalebi (traditional Gujarati breakfast combination).
 
 ---
@@ -579,11 +579,11 @@ Same batter as masala dosa. Pour and spread thin on hot greased tawa. Cook one s
 
 *Rajasthan*
 
-**Baati:** 300g atta, 50g semolina, 50g ghee, salt, water to bind (stiff dough); shape into balls; bake at 200Â°C / 390Â°F 25 min, turning once, until hard and golden; dip in ghee.
+**Baati:** 300g atta, 50g semolina, 50g ghee, salt, water to bind (stiff dough); shape into balls; bake at 200°C / 390°F 25 min, turning once, until hard and golden; dip in ghee.
 
-**Panchmel Dal:** 50g each â toor, moong, chana, masoor, urad dals; pressure cook 3 whistles; heat ghee; splutter cumin, asafoetida, whole spices; add chopped onion, tomato, ginger, garlic; cook 10 min; add dals with water; simmer 20 min; temper with ghee, red chili, asafoetida.
+**Panchmel Dal:** 50g each — toor, moong, chana, masoor, urad dals; pressure cook 3 whistles; heat ghee; splutter cumin, asafoetida, whole spices; add chopped onion, tomato, ginger, garlic; cook 10 min; add dals with water; simmer 20 min; temper with ghee, red chili, asafoetida.
 
-**Churma:** Coarsely crush 4â5 baati; roast in ghee until golden; add powdered sugar, cardamom, nuts.
+**Churma:** Coarsely crush 4–5 baati; roast in ghee until golden; add powdered sugar, cardamom, nuts.
 
 Serve together: break baati, dip in dal, finish with churma as sweet.
 
@@ -599,7 +599,7 @@ Serve together: break baati, dip in dal, finish with churma as sweet.
 2. Heat mustard oil to smoking; cool slightly; fry whole spices and onions until deep brown.
 3. Add garlic paste; cook 2 min. Add chili paste; fry on medium heat 10 min until oil separates.
 4. Add yogurt; cook 10 min. Add mutton; sear on high heat.
-5. Cover; cook on low heat 1â1.5 hours until mutton tender. Add water if needed.
+5. Cover; cook on low heat 1–1.5 hours until mutton tender. Add water if needed.
 
 ---
 
@@ -620,12 +620,12 @@ Serve together: break baati, dip in dal, finish with churma as sweet.
 
 *Rajasthan*
 
-**Ingredients:** 100g dried ker (caper berries), 200g dried sangri (desert beans) â soak overnight, boil; 3 tbsp oil, 1 tsp mustard seeds, 1/4 tsp asafoetida, 1 tsp chili powder, 1 tsp amchur, 1 tsp coriander powder, salt.
+**Ingredients:** 100g dried ker (caper berries), 200g dried sangri (desert beans) — soak overnight, boil; 3 tbsp oil, 1 tsp mustard seeds, 1/4 tsp asafoetida, 1 tsp chili powder, 1 tsp amchur, 1 tsp coriander powder, salt.
 
 1. Drain soaked and boiled ker and sangri.
 2. Heat oil; splutter mustard seeds, asafoetida.
 3. Add ker and sangri; stir fry 5 min. Add all dry spices; mix well; cook 5 min more.
-4. Dry vegetable â no water or gravy.
+4. Dry vegetable — no water or gravy.
 
 ---
 
@@ -636,8 +636,8 @@ Serve together: break baati, dip in dal, finish with churma as sweet.
 **Ingredients:** 300g maida, 100g ghee (melted, cold water-whipped until white), cold water, 1/2 tsp cardamom; oil for frying; **sugar syrup:** 400g sugar, 200ml water (one-thread consistency). **Topping:** thickened rabri, pistachios, saffron.
 
 1. Whisk ghee with ice water until white and fluffy. Mix into maida with enough cold water to thin pouring batter.
-2. Heat 2â3 liters of ghee/oil in tall, narrow vessel at 160Â°C / 320Â°F.
-3. Slowly pour batter in center â it foams and sets into honeycomb. Pour gradually; let set; pour more, building layers.
+2. Heat 2–3 liters of ghee/oil in tall, narrow vessel at 160°C / 320°F.
+3. Slowly pour batter in center — it foams and sets into honeycomb. Pour gradually; let set; pour more, building layers.
 4. Remove carefully when golden; drain on wire rack.
 5. Dip in warm sugar syrup briefly. Top with rabri and nuts.
 
@@ -649,9 +649,9 @@ Serve together: break baati, dip in dal, finish with churma as sweet.
 
 *Hyderabad*
 
-**Ingredients:** 500g basmati rice (soaked 30 min), 800g mutton (or chicken), 4 onions (sliced, fried golden â birista), 1 cup yogurt, 2 tbsp ginger-garlic paste, 1 tsp chili powder, 2 tsp biryani masala, 1 tsp garam masala, 1/2 tsp turmeric, saffron soaked in 4 tbsp warm milk, mint leaves, coriander, 4 tbsp ghee, whole spices (cardamom, cinnamon, cloves, bay leaf, star anise), salt, 1 tbsp kewra water.
+**Ingredients:** 500g basmati rice (soaked 30 min), 800g mutton (or chicken), 4 onions (sliced, fried golden — birista), 1 cup yogurt, 2 tbsp ginger-garlic paste, 1 tsp chili powder, 2 tsp biryani masala, 1 tsp garam masala, 1/2 tsp turmeric, saffron soaked in 4 tbsp warm milk, mint leaves, coriander, 4 tbsp ghee, whole spices (cardamom, cinnamon, cloves, bay leaf, star anise), salt, 1 tbsp kewra water.
 
-1. Marinate meat with yogurt, ginger-garlic paste, spices, half the birista, mint, coriander, chili; rest 2â4 hours.
+1. Marinate meat with yogurt, ginger-garlic paste, spices, half the birista, mint, coriander, chili; rest 2–4 hours.
 2. Parboil rice in plenty of salted water with whole spices until 70% cooked. Drain.
 3. In heavy pot: spread marinated meat at bottom; layer half the rice, then birista, mint, saffron milk, ghee; add remaining rice.
 4. Seal pot with dough or foil; cook on high heat 5 min, then minimum heat 45 min (dum).
@@ -666,7 +666,7 @@ Serve together: break baati, dip in dal, finish with churma as sweet.
 **Ingredients:** 500g mutton (boneless, cubed), 200g broken wheat, 50g chana dal, 50g masoor dal, 50g urad dal, 4 onions (sliced, 2 fried golden), 2 tbsp ginger-garlic paste, 2 tsp chili powder, 1 tsp turmeric, 1 tsp garam masala, 4 tbsp ghee, mint, coriander, lemon, salt.
 
 1. Cook dals and broken wheat with water until mushy; blend.
-2. Pressure cook mutton with ginger-garlic paste, spices, 1 fried onion for 6â8 whistles; shred finely.
+2. Pressure cook mutton with ginger-garlic paste, spices, 1 fried onion for 6–8 whistles; shred finely.
 3. Combine shredded mutton with dal-wheat mixture; cook together 20 min, stirring vigorously until it becomes thick paste.
 4. Add ghee; adjust salt. Cook another 20 min. Consistency should be porridge-thick.
 5. Top with fried onions, lemon, mint, coriander, ginger julienne.
@@ -711,9 +711,9 @@ Serve together: break baati, dip in dal, finish with churma as sweet.
 **Ingredients:** 1 kg pork (cubed), 6 dried Kashmiri chilies, 4 dried red chilies, 1 tbsp coriander seeds, 1 tsp cumin, 6 black peppercorns, 4 cloves, 1 cinnamon stick, 1 tsp turmeric, 6 garlic cloves, 1-inch ginger, 3 tbsp white vinegar, 2 onions (sliced), 2 tbsp oil, 1 tsp jaggery, salt.
 
 1. Grind all spices and herbs with vinegar to smooth paste.
-2. Marinate pork in paste; rest 6â8 hours or overnight.
+2. Marinate pork in paste; rest 6–8 hours or overnight.
 3. Heat oil; fry onions until golden. Add marinated pork; cook on high heat 5 min.
-4. Add 1 cup water; cover; simmer 45â60 min until pork tender.
+4. Add 1 cup water; cover; simmer 45–60 min until pork tender.
 5. Add jaggery; adjust salt and vinegar. Vindaloo should be hot, sour, and slightly sweet.
 
 ---
@@ -754,7 +754,7 @@ Serve together: break baati, dip in dal, finish with churma as sweet.
 1. Whisk egg yolks and sugar until pale. Add coconut milk, flour, spices; mix smooth.
 2. Grease baking dish; pour thin layer (2mm) of batter.
 3. Grill under broiler until set and golden on top, ~5 min.
-4. Brush with ghee; pour next thin layer; grill again. Repeat 15â20 times.
+4. Brush with ghee; pour next thin layer; grill again. Repeat 15–20 times.
 5. Final bebinca has visible golden-brown layers when sliced. Rest before cutting.
 
 ---
@@ -765,7 +765,7 @@ Serve together: break baati, dip in dal, finish with churma as sweet.
 
 *Street Food*
 
-**Puri shells:** 150g semolina, 50g maida, 1/2 tsp baking soda, water; knead firm dough; roll thin; cut circles; deep fry at 175Â°C / 350Â°F until puffed and crisp.
+**Puri shells:** 150g semolina, 50g maida, 1/2 tsp baking soda, water; knead firm dough; roll thin; cut circles; deep fry at 175°C / 350°F until puffed and crisp.
 
 **Pani (spiced water):** Blend 1 bunch mint, 1/2 bunch coriander, 4 green chilies, 1-inch ginger, 1 tbsp tamarind pulp, 2 tsp cumin powder, 1 tsp chili powder, salt, 1 liter cold water.
 
@@ -801,7 +801,7 @@ Mix all in large bowl just before serving. Toss quickly. Serve immediately befor
 
 *Street Food*
 
-**Assembly:** Place 6â8 small flat puris on plate. Top each with: diced boiled potato, chopped onion, tamarind chutney, green chutney, chaat masala, cumin powder, then generous heap of sev. Garnish with coriander and pomegranate.
+**Assembly:** Place 6–8 small flat puris on plate. Top each with: diced boiled potato, chopped onion, tamarind chutney, green chutney, chaat masala, cumin powder, then generous heap of sev. Garnish with coriander and pomegranate.
 
 ---
 
@@ -809,7 +809,7 @@ Mix all in large bowl just before serving. Toss quickly. Serve immediately befor
 
 *Street Food*
 
-Same as sev puri but add 2â3 tbsp thick whisked yogurt per puri before sev. Add sweet tamarind chutney generously. The yogurt cools the heat.
+Same as sev puri but add 2–3 tbsp thick whisked yogurt per puri before sev. Add sweet tamarind chutney generously. The yogurt cools the heat.
 
 ---
 
@@ -821,7 +821,7 @@ Same as sev puri but add 2â3 tbsp thick whisked yogurt per puri before sev.
 
 1. Mix all except oil to firm mixture. Shape into round patties.
 2. Shallow fry on medium heat until golden crust on each side, ~4 min per side.
-3. Serve with chutneys, yogurt, sev â or as chaat.
+3. Serve with chutneys, yogurt, sev — or as chaat.
 
 ---
 
@@ -835,7 +835,7 @@ Same as sev puri but add 2â3 tbsp thick whisked yogurt per puri before sev.
 
 1. Roll dough thin; cut semicircles; form cone; seal one side.
 2. Fill with potato mixture; seal top with water paste.
-3. Deep fry at 160â170Â°C / 320â340Â°F slowly until golden and crisp (~8 min).
+3. Deep fry at 160–170°C / 320–340°F slowly until golden and crisp (~8 min).
 
 ---
 
@@ -848,7 +848,7 @@ Same as sev puri but add 2â3 tbsp thick whisked yogurt per puri before sev.
 **Shell:** 200g maida, 3 tbsp oil, water; stiff dough; rest 30 min.
 
 1. Roll small circles; fill with dal; seal into balls.
-2. Deep fry on medium-low heat at 155Â°C / 310Â°F slowly until very crisp, ~12â15 min.
+2. Deep fry on medium-low heat at 155°C / 310°F slowly until very crisp, ~12–15 min.
 3. Should sound hollow when tapped.
 
 ---
@@ -867,7 +867,7 @@ Layer papdis; top with potato and chickpeas; drizzle both chutneys and yogurt ge
 
 *Street Food (Mumbai)*
 
-**Bhaji â Ingredients:** 500g potatoes (boiled, mashed), 200g cauliflower (boiled, mashed), 100g peas (boiled), 1 capsicum (chopped), 2 onions (chopped), 3 tomatoes (chopped), 2 tbsp pav bhaji masala, 1 tsp chili powder, 1/2 tsp turmeric, 4 tbsp butter, salt, lemon.
+**Bhaji — Ingredients:** 500g potatoes (boiled, mashed), 200g cauliflower (boiled, mashed), 100g peas (boiled), 1 capsicum (chopped), 2 onions (chopped), 3 tomatoes (chopped), 2 tbsp pav bhaji masala, 1 tsp chili powder, 1/2 tsp turmeric, 4 tbsp butter, salt, lemon.
 
 1. Heat butter; fry onions until golden. Add capsicum; cook 3 min. Add tomatoes; cook until soft.
 2. Add boiled mashed vegetables, all spices; mash everything together while cooking.
@@ -899,7 +899,7 @@ Layer papdis; top with potato and chickpeas; drizzle both chutneys and yogurt ge
 
 1. Roll dough thin; cut circles (3-inch).
 2. Place filling in center; pleat and seal edges into half-moon or dumpling shape.
-3. Steam in greased steamer basket 12â15 min.
+3. Steam in greased steamer basket 12–15 min.
 4. Serve with tomato-chili dipping sauce.
 
 ---
@@ -971,7 +971,7 @@ Blend all raw. Serve immediately (doesn't store well).
 1. Toss mango with salt and turmeric; sun-dry 2 days.
 2. Mix with all spices. Heat mustard oil to smoking; cool completely.
 3. Pour cooled oil over mango; mix well.
-4. Pack in sterilized jar; rest in sunlight 7â10 days, mixing daily.
+4. Pack in sterilized jar; rest in sunlight 7–10 days, mixing daily.
 
 ---
 
@@ -981,7 +981,7 @@ Blend all raw. Serve immediately (doesn't store well).
 
 **Ingredients:** 500g limes (quartered), 4 tbsp salt, 2 tsp turmeric, 3 tbsp chili powder, 1 tsp cumin seeds, 1 tsp mustard seeds, 2 tbsp oil.
 
-1. Toss limes with salt and turmeric; rest in jar 4â5 days at room temperature.
+1. Toss limes with salt and turmeric; rest in jar 4–5 days at room temperature.
 2. Heat oil; splutter cumin and mustard; cool.
 3. Mix cooled oil with chili powder; pour over softened limes.
 4. Rest another 2 weeks before eating.
@@ -1010,7 +1010,7 @@ Blend all raw. Serve immediately (doesn't store well).
 
 1. Knead with water to soft dough; rest 20 min.
 2. Roll each ball into thin 6-inch circle.
-3. Cook on hot tawa â flip when bubbles appear; press edges to puff fully.
+3. Cook on hot tawa — flip when bubbles appear; press edges to puff fully.
 4. Apply ghee.
 
 ---
@@ -1023,7 +1023,7 @@ Blend all raw. Serve immediately (doesn't store well).
 
 1. Knead slightly stiff dough; rest 30 min.
 2. Roll thin small circles (4 inch).
-3. Fry in hot oil at 175Â°C / 350Â°F; press gently; should puff immediately.
+3. Fry in hot oil at 175°C / 350°F; press gently; should puff immediately.
 4. Drain; eat immediately.
 
 ---
@@ -1035,7 +1035,7 @@ Blend all raw. Serve immediately (doesn't store well).
 **Ingredients:** 300g maida, 50g semolina, 2 tbsp yogurt, 1 tsp sugar, 1/2 tsp salt, 1/2 tsp baking powder, oil for frying.
 
 1. Knead all ingredients with warm water to soft dough; rest 2 hours.
-2. Roll into ovals (5â6 inch); deep fry in hot oil until puffed and golden.
+2. Roll into ovals (5–6 inch); deep fry in hot oil until puffed and golden.
 
 ---
 
@@ -1046,7 +1046,7 @@ Blend all raw. Serve immediately (doesn't store well).
 **Ingredients:** 150g maida, 150g atta, salt, oil, water.
 
 1. Knead into very soft dough; rest 30 min.
-2. Roll extremely thin (paper-thin, 10â12 inch circle).
+2. Roll extremely thin (paper-thin, 10–12 inch circle).
 3. Toss and stretch like pizza dough for extra thinness.
 4. Cook on inverted tawa (curved side up) over high flame seconds per side.
 5. Fold into quarters (handkerchief style).
@@ -1061,9 +1061,9 @@ Blend all raw. Serve immediately (doesn't store well).
 
 1. Knead stiff dough; rest 30 min.
 2. Roll thick circles (1/4 inch, 6 inch).
-3. Slap onto inner wall of very hot tandoor; cook 3â4 min until charred spots form.
+3. Slap onto inner wall of very hot tandoor; cook 3–4 min until charred spots form.
 4. Remove with tongs; brush with ghee.
-5. Can replicate in oven: 260Â°C / 500Â°F on cast iron, 5 min.
+5. Can replicate in oven: 260°C / 500°F on cast iron, 5 min.
 
 ---
 
@@ -1136,7 +1136,7 @@ Mix cooled cooked rice with tamarind paste to coat every grain. Adjust salt.
 1. Marinate raw mutton with all spices and yogurt minimum 4 hours.
 2. Parboil rice 60% done; drain.
 3. Layer raw marinated mutton at bottom; layer rice; top with saffron milk, fried onions, ghee, mint.
-4. Seal pot; cook low heat 1 hour (kacchi â raw meat cooks inside).
+4. Seal pot; cook low heat 1 hour (kacchi — raw meat cooks inside).
 5. Rest 15 min before opening.
 
 ---
@@ -1150,7 +1150,7 @@ Mix cooled cooked rice with tamarind paste to coat every grain. Adjust salt.
 **Ingredients:** 200g khoya (mawa), 50g paneer, 3 tbsp maida, 1/4 tsp baking soda, oil for frying. **Syrup:** 400g sugar, 500ml water, cardamom, rose water, saffron.
 
 1. Mix khoya, paneer, maida, soda into smooth dough. Shape into smooth balls (small, no cracks).
-2. Fry in oil at 140â150Â°C / 285â300Â°F very slowly until deep brown, turning constantly (~8 min).
+2. Fry in oil at 140–150°C / 285–300°F very slowly until deep brown, turning constantly (~8 min).
 3. Boil syrup until sugar dissolves; add cardamom and saffron.
 4. Add hot gulab jamuns to warm syrup; soak 1 hour minimum.
 
@@ -1160,11 +1160,11 @@ Mix cooled cooked rice with tamarind paste to coat every grain. Adjust salt.
 
 *Sweet*
 
-**Batter:** 200g maida, 1 tbsp yogurt, 1/2 tsp turmeric (for color), water to thin; ferment 8â12 hours. **Syrup:** 400g sugar, 200ml water (one-thread).
+**Batter:** 200g maida, 1 tbsp yogurt, 1/2 tsp turmeric (for color), water to thin; ferment 8–12 hours. **Syrup:** 400g sugar, 200ml water (one-thread).
 
 1. Make syrup; keep warm. Add cardamom and saffron.
 2. Fill batter in squeeze bottle or piping bag.
-3. Heat oil at 175Â°C / 350Â°F; squeeze batter in concentric circles (2â3 inches).
+3. Heat oil at 175°C / 350°F; squeeze batter in concentric circles (2–3 inches).
 4. Fry until crisp and lightly golden; drain; immediately drop in warm syrup for 30 sec.
 5. Serve warm. Crisp outside, juicy inside.
 
@@ -1177,7 +1177,7 @@ Mix cooled cooked rice with tamarind paste to coat every grain. Adjust salt.
 **Ingredients:** 1 liter full-fat milk, 60g basmati rice, 100g sugar, 1/4 tsp cardamom powder, 8 strands saffron, 2 tbsp cashews and pistachios, rose water.
 
 1. Boil milk in thick pot; add washed rice; cook on medium heat, stirring frequently.
-2. As milk reduces (30â40 min), stir more frequently. Add sugar when thick.
+2. As milk reduces (30–40 min), stir more frequently. Add sugar when thick.
 3. Cook until porridge consistency; add cardamom, saffron, nuts, rose water.
 4. Serve warm or chilled.
 
@@ -1215,7 +1215,7 @@ Mix cooled cooked rice with tamarind paste to coat every grain. Adjust salt.
 
 **Ingredients:** 300g besan, 150g ghee, 150g powdered sugar, 1/2 tsp cardamom, chopped cashews, raisins.
 
-1. Heat ghee; add besan; roast on medium-low heat, stirring constantly, until fragrant and golden (~15â20 min).
+1. Heat ghee; add besan; roast on medium-low heat, stirring constantly, until fragrant and golden (~15–20 min).
 2. Cool completely to room temperature.
 3. Add powdered sugar, cardamom, nuts; mix thoroughly.
 4. Shape into round balls while mixture is warm (re-warm briefly if crumbling).
@@ -1257,7 +1257,7 @@ Mix cooled cooked rice with tamarind paste to coat every grain. Adjust salt.
 1. Boil milk; reduce to half over 30 min, stirring frequently.
 2. Add condensed milk, sugar, saffron, cardamom, rose water; mix well.
 3. Cool; add chopped nuts.
-4. Pour into kulfi molds or popsicle molds; freeze 6â8 hours.
+4. Pour into kulfi molds or popsicle molds; freeze 6–8 hours.
 
 ---
 
@@ -1269,7 +1269,7 @@ Mix cooled cooked rice with tamarind paste to coat every grain. Adjust salt.
 
 1. Boil milk in wide, flat pan on medium heat.
 2. As cream forms on sides, push it back in and let layers form. Stir occasionally.
-3. Continue 45â60 min, folding in cream layers regularly, until milk reduces to 1/3.
+3. Continue 45–60 min, folding in cream layers regularly, until milk reduces to 1/3.
 4. Add sugar, cardamom, saffron; cook 5 more min.
 5. Serve cold, garnished with pistachios.
 
@@ -1297,9 +1297,9 @@ Mix cooled cooked rice with tamarind paste to coat every grain. Adjust salt.
 **Ingredients:** 1 kg lamb (bone-in), 5 tbsp mustard oil, 3 onions (thinly sliced), 1 tbsp ginger powder, 1 tbsp fennel powder, 2 tsp Kashmiri chili powder, 1 tsp coriander powder, 1/2 tsp garam masala, 4 cardamoms, 2 bay leaves, 4 cloves, 2 cinnamon sticks, 200g yogurt (beaten), salt.
 
 1. Heat mustard oil to smoking; cool slightly; fry whole spices 30 sec.
-2. Fry onions until deep brown, 20â25 min. Add ginger and fennel powders; cook 2 min.
+2. Fry onions until deep brown, 20–25 min. Add ginger and fennel powders; cook 2 min.
 3. Add Kashmiri chili and coriander; fry 3 min. Add whisked yogurt gradually; cook 10 min.
-4. Add lamb; sear on high. Add 1 cup water; cover; cook 1â1.5 hours on low until tender.
+4. Add lamb; sear on high. Add 1 cup water; cover; cook 1–1.5 hours on low until tender.
 5. Finish with garam masala.
 
 ---
@@ -1410,7 +1410,7 @@ Add pakoras to kadhi; simmer 15 min. Tadka and serve with rice.
 
 1. Heat oil; splutter cumin; add ginger and chilies.
 2. Add potatoes; fry 5 min. Add cauliflower; add all spices; mix.
-3. Cover; cook on low heat 15â20 min, stirring occasionally until tender. Dry dish â no water.
+3. Cover; cook on low heat 15–20 min, stirring occasionally until tender. Dry dish — no water.
 
 ---
 
@@ -1458,10 +1458,10 @@ Add pakoras to kadhi; simmer 15 min. Tadka and serve with rice.
 
 **Ingredients:** 1 kg lamb trotters (cleaned), 3 onions (sliced, fried brown), 1 tbsp ginger-garlic paste, 2 tsp chili powder, 1/2 tsp turmeric, 1 tsp garam masala, 4 tbsp ghee, 4 cups water, salt.
 
-1. Pressure cook trotters with water, half spices, salt for 15â20 whistles.
+1. Pressure cook trotters with water, half spices, salt for 15–20 whistles.
 2. Heat ghee; fry fried onions (birista) to break down; add ginger-garlic paste; cook 3 min.
 3. Add remaining spices; cook 5 min. Add cooked trotters with stock.
-4. Simmer open 30â45 min until gravy thickens to gelatinous consistency.
+4. Simmer open 30–45 min until gravy thickens to gelatinous consistency.
 
 ---
 
@@ -1500,7 +1500,7 @@ Add pakoras to kadhi; simmer 15 min. Tadka and serve with rice.
 1. Heat oil; fry onions until very dark brown. Add ginger-garlic; cook 2 min.
 2. Add tomatoes; cook 10 min. Add all spices; fry 5 min.
 3. Add mutton; cook on high heat, stirring, until liquid evaporates completely.
-4. Continue cooking on medium, adding small splashes of water and cooking off, for 45â60 min. Thick, dry masala coating.
+4. Continue cooking on medium, adding small splashes of water and cooking off, for 45–60 min. Thick, dry masala coating.
 
 ---
 
@@ -1521,11 +1521,11 @@ Add pakoras to kadhi; simmer 15 min. Tadka and serve with rice.
 
 *Tamil Nadu*
 
-**Ingredients:** 1 kg chicken, 3 onions, 2 tomatoes, 2 tbsp ginger-garlic paste, 2 tbsp chettinad masala (kalpasi, marathi mokku, star anise, kalpasi, peppercorns, cinnamon, cloves, fennel, bay leaf, red chilies â ground), 1/2 tsp turmeric, 2 tbsp oil (sesame preferred), curry leaves, salt.
+**Ingredients:** 1 kg chicken, 3 onions, 2 tomatoes, 2 tbsp ginger-garlic paste, 2 tbsp chettinad masala (kalpasi, marathi mokku, star anise, kalpasi, peppercorns, cinnamon, cloves, fennel, bay leaf, red chilies — ground), 1/2 tsp turmeric, 2 tbsp oil (sesame preferred), curry leaves, salt.
 
 1. Heat oil; fry curry leaves, onions until golden. Add ginger-garlic; cook 2 min.
 2. Add tomatoes; cook until soft. Add chettinad masala and turmeric; fry 5 min.
-3. Add chicken; sear well. Add 1 cup water; cover; cook 25â30 min.
+3. Add chicken; sear well. Add 1 cup water; cover; cook 25–30 min.
 
 ---
 
@@ -1559,7 +1559,7 @@ Pour thick batter on hot tawa; spread medium-thin; top with chopped onion and gi
 **Ingredients:** 200g rice flour, 50g urad dal flour (roasted), 1/2 tsp cumin, 1/4 tsp asafoetida, 1 tbsp sesame seeds, 1 tbsp butter, salt, water; oil for frying.
 
 1. Mix all dry ingredients; rub in butter. Add water to stiff dough.
-2. Press through murukku press (star disc) directly into hot oil at 175Â°C / 350Â°F.
+2. Press through murukku press (star disc) directly into hot oil at 175°C / 350°F.
 3. Fry until crisp and bubbles stop, ~5 min. Drain.
 
 ---
@@ -1581,11 +1581,11 @@ Pour thick batter on hot tawa; spread medium-thin; top with chopped onion and gi
 
 *Maharashtra/Fasting food*
 
-**Ingredients:** 200g sabudana (sago/tapioca pearls, soaked 4â5 hours until soft), 2 tbsp oil, 1 tsp cumin seeds, 2 green chilies, 2 potatoes (boiled, cubed), 3 tbsp peanuts (roasted, coarsely crushed), 1/2 tsp sugar, 1 tbsp lemon juice, salt, coriander.
+**Ingredients:** 200g sabudana (sago/tapioca pearls, soaked 4–5 hours until soft), 2 tbsp oil, 1 tsp cumin seeds, 2 green chilies, 2 potatoes (boiled, cubed), 3 tbsp peanuts (roasted, coarsely crushed), 1/2 tsp sugar, 1 tbsp lemon juice, salt, coriander.
 
 1. Drain sabudana; mix with crushed peanuts and sugar.
 2. Heat oil; splutter cumin; add green chilies.
-3. Add potatoes; cook 2 min. Add sabudana; toss gently on medium heat 5â7 min until pearls turn translucent.
+3. Add potatoes; cook 2 min. Add sabudana; toss gently on medium heat 5–7 min until pearls turn translucent.
 4. Add lemon juice; garnish coriander.
 
 ---
@@ -1647,7 +1647,7 @@ Pour thick batter on hot tawa; spread medium-thin; top with chopped onion and gi
 **Ingredients:** 500g chicken (boneless, cubed), 1 tbsp cornflour, 1 tbsp rice flour, 1 egg, 1 tsp chili powder, 1/2 tsp turmeric, 1 tbsp ginger-garlic paste, 2 tbsp yogurt, food color (red, optional), oil for frying. **Finishing:** curry leaves, green chilies, lemon.
 
 1. Marinate chicken with all ingredients 1 hour.
-2. Deep fry at 175Â°C / 350Â°F until crisp and cooked, ~5â6 min.
+2. Deep fry at 175°C / 350°F until crisp and cooked, ~5–6 min.
 3. Toss briefly in pan with curry leaves, green chilies, dash of lemon.
 
 ---

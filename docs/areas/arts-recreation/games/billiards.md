@@ -1,10 +1,10 @@
 # Billiards
 
-*The Observatory Almanac â Universal Rulebook*
+*The Observatory Almanac — Universal Rulebook*
 
 ---
 
-Billiards encompasses a family of cue sports played on a felt-covered table with raised cushioned rails, using a cue stick to strike balls across the playing surface. Of the many variants played worldwide, three dominate competitive and recreational play in North America: Eight-Ball, Nine-Ball, and Straight Pool (14.1 Continuous). Each demands a different constellation of skills â pattern play, safety strategy, positional cue-ball control, and shot selection â making pool one of the most strategically rich physical games ever devised.
+Billiards encompasses a family of cue sports played on a felt-covered table with raised cushioned rails, using a cue stick to strike balls across the playing surface. Of the many variants played worldwide, three dominate competitive and recreational play in North America: Eight-Ball, Nine-Ball, and Straight Pool (14.1 Continuous). Each demands a different constellation of skills — pattern play, safety strategy, positional cue-ball control, and shot selection — making pool one of the most strategically rich physical games ever devised.
 
 ---
 
@@ -15,20 +15,20 @@ Billiards encompasses a family of cue sports played on a felt-covered table with
 A regulation billiard table ("9-foot table") measures 9 feet by 4.5 feet playing surface. Smaller tables (7-foot, 8-foot) are common in bars and homes.
 
 ```
-    ââââââââââââââââââââââââââââââââââââââââââââââââ
-    â  â                    â²                   â  â
-    â  (corner)           (head spot)   (corner)  â
-    â                                              â
-    â                   [head string]              â
-    â  â                    Â·                   â  â
-    â (side                                (side   â
-    â  pocket)           [center]          pocket) â
-    â  â                    Â·                   â  â
-    â                                              â
-    â                   [foot string]              â
-    â  â                    â¼                   â  â
-    â  (corner)           (foot spot)   (corner)  â
-    ââââââââââââââââââââââââââââââââââââââââââââââââ
+    ┌──────────────────────────────────────────────┐
+    │  ●                    ▲                   ●  │
+    │  (corner)           (head spot)   (corner)  │
+    │                                              │
+    │                   [head string]              │
+    │  ◆                    ·                   ◆  │
+    │ (side                                (side   │
+    │  pocket)           [center]          pocket) │
+    │  ◆                    ·                   ◆  │
+    │                                              │
+    │                   [foot string]              │
+    │  ●                    ▼                   ●  │
+    │  (corner)           (foot spot)   (corner)  │
+    └──────────────────────────────────────────────┘
 
     HEAD (break end)                     FOOT (rack end)
 ```
@@ -42,9 +42,9 @@ A regulation billiard table ("9-foot table") measures 9 feet by 4.5 feet playing
 ### The Balls
 
 * **Cue ball:** Solid white. The only ball struck directly by the cue.
-* **Object balls (8-ball):** Balls 1â15 plus the cue ball.
-* Solids: Balls 1â7 (solid colors)
-* Stripes: Balls 9â15 (white band around middle)
+* **Object balls (8-ball):** Balls 1–15 plus the cue ball.
+* Solids: Balls 1–7 (solid colors)
+* Stripes: Balls 9–15 (white band around middle)
 * Eight ball: Solid black
 
 ### The Rack
@@ -54,11 +54,11 @@ A triangular rack holds 15 balls at the foot of the table.
 **Eight-ball rack:**
 
 ```
-        â  â 8-ball (center, 3rd row)
-      â   â
-    â   â   â
-  â   â   â   â
-â   â   â   â   â  â front ball on foot spot
+        ●  ← 8-ball (center, 3rd row)
+      ○   ○
+    ○   ●   ○
+  ○   ○   ○   ○
+○   ○   ○   ○   ○  ← front ball on foot spot
 (S=Stripe, O=Solid, 8=Eight ball)
 ```
 
@@ -69,7 +69,7 @@ Official 8-ball rack: 8-ball in center; one stripe and one solid in each back co
 ```
       1
     2   3
-  4   9   5    â 9-ball always in center
+  4   9   5    ← 9-ball always in center
     6   7
       8
 (1-ball at front on foot spot)
@@ -81,7 +81,7 @@ Official 8-ball rack: 8-ball in center; one stripe and one solid in each back co
 
 ### Overview
 
-Eight-Ball is the world's most widely played pool game. Players divide the 15 object balls into two groups â solids (1â7) and stripes (9â15) â and compete to pocket all balls in their group before legally pocketing the 8-ball on a called shot.
+Eight-Ball is the world's most widely played pool game. Players divide the 15 object balls into two groups — solids (1–7) and stripes (9–15) — and compete to pocket all balls in their group before legally pocketing the 8-ball on a called shot.
 
 ### The Break
 
@@ -92,7 +92,7 @@ Eight-Ball is the world's most widely played pool game. Players divide the 15 ob
 * If the break is illegal, the incoming player may accept the table as is, or require a re-rack and break.
 
 **Break outcomes:**
-- **Pocketing the 8-ball on the break:** The breaking player wins (or optionally requests a re-rack â house rule varies; BCA rules allow re-rack).
+- **Pocketing the 8-ball on the break:** The breaking player wins (or optionally requests a re-rack — house rule varies; BCA rules allow re-rack).
 - **Cue ball scratch on the break:** Incoming player gets cue ball in hand behind the head string.
 - **If no foul and no group assignment:** The breaking player may shoot any ball.
 
@@ -100,7 +100,7 @@ Eight-Ball is the world's most widely played pool game. Players divide the 15 ob
 
 Groups are assigned by the **first ball legally pocketed after the break.** If player A pockets a stripe on their first shot after the break, player A is stripes; player B is solids.
 
-**If balls are pocketed on the break,** the table remains "open" â no groups assigned yet â and the first player to pocket a legal ball chooses their group by doing so.
+**If balls are pocketed on the break,** the table remains "open" — no groups assigned yet — and the first player to pocket a legal ball chooses their group by doing so.
 
 ### Legal Shots (BCA)
 
@@ -121,7 +121,7 @@ Common fouls in Eight-Ball (BCA):
 - Shooter's body/clothing contacts a ball
 - Shooting before balls come to rest
 
-**Penalty for a foul (BCA):** The incoming player receives **ball in hand** â they may place the cue ball anywhere on the table (not restricted to behind the head string, except on a break foul). This is a major rule that distinguishes BCA rules from some bar rules.
+**Penalty for a foul (BCA):** The incoming player receives **ball in hand** — they may place the cue ball anywhere on the table (not restricted to behind the head string, except on a break foul). This is a major rule that distinguishes BCA rules from some bar rules.
 
 ### Calling Shots on the 8-Ball
 
@@ -137,11 +137,11 @@ The 8-ball is the only ball that must be called in BCA Eight-Ball. Combination s
 - Pocketing the 8-ball before clearing your group.
 - Scratching while legally pocketing the 8-ball.
 - Knocking the 8-ball off the table.
-- Pocketing the 8-ball in the wrong pocket (called shot violation â loss of turn, but some bar rules make it loss of game; BCA does not).
+- Pocketing the 8-ball in the wrong pocket (called shot violation — loss of turn, but some bar rules make it loss of game; BCA does not).
 
 ### Safety Play
 
-Safeties â intentional defensive shots â are legal and must be announced in some rule sets. In BCA Eight-Ball, you are not required to announce a safety; you may simply shoot a legal shot without pocketing a ball (provided a ball reaches a cushion). Skilled players frequently use safeties to create difficult positions for opponents.
+Safeties — intentional defensive shots — are legal and must be announced in some rule sets. In BCA Eight-Ball, you are not required to announce a safety; you may simply shoot a legal shot without pocketing a ball (provided a ball reaches a cushion). Skilled players frequently use safeties to create difficult positions for opponents.
 
 ---
 
@@ -158,11 +158,11 @@ Nine-Ball is the premier professional and tournament pool game. Only balls 1 thr
 * Illegal break: Incoming player may accept the table or request a re-rack.
 
 **Pocketing the 9-ball on the break:** An immediate win.
-**Cue ball scratch on the break:** Incoming player gets ball in hand behind the head string (or ball in hand anywhere â rule varies by organization).
+**Cue ball scratch on the break:** Incoming player gets ball in hand behind the head string (or ball in hand anywhere — rule varies by organization).
 
 ### The Lowest-Ball Rule
 
-At all times, the cue ball must contact the **lowest-numbered ball remaining on the table first**. After contact, any ball may be pocketed â including the 9-ball via combination or carom. This is the defining rule of Nine-Ball strategy.
+At all times, the cue ball must contact the **lowest-numbered ball remaining on the table first**. After contact, any ball may be pocketed — including the 9-ball via combination or carom. This is the defining rule of Nine-Ball strategy.
 
 **Example:** If 3 is the lowest ball and a player shoots a combination off the 3 that drops the 9-ball, the game is won.
 
@@ -190,7 +190,7 @@ Legally pocketing the 9-ball at any point wins the rack. A match is typically pl
 
 ### Overview
 
-Straight Pool â officially "14.1 Continuous" â was the dominant professional billiards format for most of the twentieth century and remains the truest test of all-around pool skill. Players must call every ball and every pocket. Balls are racked continuously. The game is played to a score (typically 100 or 150 points in serious competition).
+Straight Pool — officially "14.1 Continuous" — was the dominant professional billiards format for most of the twentieth century and remains the truest test of all-around pool skill. Players must call every ball and every pocket. Balls are racked continuously. The game is played to a score (typically 100 or 150 points in serious competition).
 
 ### Scoring
 
@@ -206,9 +206,9 @@ Every shot must be called: the shooter designates which ball and which pocket. *
 
 ### The Continuous Rack
 
-When 14 balls have been pocketed, play pauses. The 14 pocketed balls are re-racked â without the 15th ball (the "break ball") and without the cue ball. The 15th ball remains wherever it lies. The shooter then uses the cue ball to pocket the 15th ball while simultaneously breaking the new rack.
+When 14 balls have been pocketed, play pauses. The 14 pocketed balls are re-racked — without the 15th ball (the "break ball") and without the cue ball. The 15th ball remains wherever it lies. The shooter then uses the cue ball to pocket the 15th ball while simultaneously breaking the new rack.
 
-This continuous play â building a run that extends through re-rack after re-rack â is the defining challenge of straight pool. High runs of 50, 100, or more consecutive balls are the mark of mastery.
+This continuous play — building a run that extends through re-rack after re-rack — is the defining challenge of straight pool. High runs of 50, 100, or more consecutive balls are the mark of mastery.
 
 ### Fouls in Straight Pool
 
@@ -224,7 +224,7 @@ A safety (intentional miss without attempting to pocket a called ball) is legal 
 
 ### The Opening Break
 
-The opening break in straight pool is unique: the game traditionally begins with a safety break â the breaking player must drive two or more balls to the cushions while keeping the cue ball within the "breaking zone" (some rule sets require the cue ball to contact the rack; others allow it to contact the head cushion). The opening break is strategically about leaving the opponent nothing to work with, not about scattering balls freely.
+The opening break in straight pool is unique: the game traditionally begins with a safety break — the breaking player must drive two or more balls to the cushions while keeping the cue ball within the "breaking zone" (some rule sets require the cue ball to contact the rack; others allow it to contact the head cushion). The opening break is strategically about leaving the opponent nothing to work with, not about scattering balls freely.
 
 ---
 
@@ -239,7 +239,7 @@ When a player receives ball in hand, they may place the cue ball anywhere on the
 A safety is a defensive shot designed to leave the opponent in a difficult position. In competition pool, safety play is as important as offensive shooting. Common safety strategies:
 - Leaving the cue ball on a rail with your ball hidden behind another ball (snookered).
 - Driving a target ball to a position where no further shots are makeable.
-- Creating a two-way shot â a shot that either pockets the ball (success) or leaves a safe position (failure).
+- Creating a two-way shot — a shot that either pockets the ball (success) or leaves a safe position (failure).
 
 ### Jump Shots and Masse Shots
 
@@ -256,6 +256,6 @@ Common handicapping methods:
 
 ---
 
-*The Observatory Almanac â rules compiled from the Billiard Congress of America (BCA) official rules and World Pool-Billiard Association (WPA) standards.*
+*The Observatory Almanac — rules compiled from the Billiard Congress of America (BCA) official rules and World Pool-Billiard Association (WPA) standards.*
 
-### ð¯ Scorecard
+### 🎯 Scorecard

@@ -6,18 +6,18 @@
 
 ## Time Zones: 24 Major Cities
 
-All offsets shown as UTC+/â. Times shift during Daylight Saving Time (DST) where observed â check a live source for current offsets.
+All offsets shown as UTC+/−. Times shift during Daylight Saving Time (DST) where observed — check a live source for current offsets.
 
 | City | Country | Standard Offset | DST Offset | Notes |
 | --- | --- | --- | --- | --- |
-| Honolulu | USA (Hawaii) | UTCâ10 | No DST | Hawaii never observes DST |
-| Anchorage | USA (Alaska) | UTCâ9 | UTCâ8 | DST observed MarâNov |
-| Los Angeles | USA | UTCâ8 | UTCâ7 | Pacific Time |
-| Denver | USA | UTCâ7 | UTCâ6 | Mountain Time |
-| Chicago | USA | UTCâ6 | UTCâ5 | Central Time |
-| New York | USA | UTCâ5 | UTCâ4 | Eastern Time |
-| SÃ£o Paulo | Brazil | UTCâ3 | UTCâ2 (summer) | Southern Hemisphere DST |
-| London | UK | UTCÂ±0 | UTC+1 | GMT / BST |
+| Honolulu | USA (Hawaii) | UTC−10 | No DST | Hawaii never observes DST |
+| Anchorage | USA (Alaska) | UTC−9 | UTC−8 | DST observed Mar–Nov |
+| Los Angeles | USA | UTC−8 | UTC−7 | Pacific Time |
+| Denver | USA | UTC−7 | UTC−6 | Mountain Time |
+| Chicago | USA | UTC−6 | UTC−5 | Central Time |
+| New York | USA | UTC−5 | UTC−4 | Eastern Time |
+| São Paulo | Brazil | UTC−3 | UTC−2 (summer) | Southern Hemisphere DST |
+| London | UK | UTC±0 | UTC+1 | GMT / BST |
 | Paris | France | UTC+1 | UTC+2 | CET / CEST |
 | Berlin | Germany | UTC+1 | UTC+2 | CET / CEST |
 | Cairo | Egypt | UTC+2 | No DST | Egypt suspended DST |
@@ -30,12 +30,12 @@ All offsets shown as UTC+/â. Times shift during Daylight Saving Time (DST) 
 | Bangkok | Thailand | UTC+7 | No DST | Indochina Time |
 | Singapore | Singapore | UTC+8 | No DST | SST |
 | Beijing | China | UTC+8 | No DST | All of China uses one time zone |
-| Tokyo | Japan | UTC+9 | No DST | JST â Japan has never used DST |
-| Sydney | Australia | UTC+10 | UTC+11 | AEST / AEDT (OctâApr DST) |
+| Tokyo | Japan | UTC+9 | No DST | JST — Japan has never used DST |
+| Sydney | Australia | UTC+10 | UTC+11 | AEST / AEDT (Oct–Apr DST) |
 | Auckland | New Zealand | UTC+12 | UTC+13 | NZST / NZDT |
-| Fiji | Fiji | UTC+12 | UTC+13 | DST observed NovâJan |
+| Fiji | Fiji | UTC+12 | UTC+13 | DST observed Nov–Jan |
 
-**Converting between two cities:** Subtract the origin offset from the destination offset to find the difference. Example: New York (UTCâ5) to Tokyo (UTC+9) = +14 hours.
+**Converting between two cities:** Subtract the origin offset from the destination offset to find the difference. Example: New York (UTC−5) to Tokyo (UTC+9) = +14 hours.
 
 ---
 
@@ -101,11 +101,11 @@ All offsets shown as UTC+/â. Times shift during Daylight Saving Time (DST) 
 | 14 | 36 | 34 | 86 | XS |
 | 14.5 | 37 | 36 | 91 | S |
 | 15 | 38 | 38 | 96 | S |
-| 15.5 | 39â40 | 40 | 101 | M |
+| 15.5 | 39–40 | 40 | 101 | M |
 | 16 | 41 | 42 | 107 | L |
 | 16.5 | 42 | 44 | 112 | L |
 | 17 | 43 | 46 | 117 | XL |
-| 17.5 | 44â45 | 48 | 122 | 2XL |
+| 17.5 | 44–45 | 48 | 122 | 2XL |
 | 18 | 46 | 50 | 127 | 3XL |
 
 ### Men's Pants (Waist)
@@ -124,19 +124,19 @@ All offsets shown as UTC+/â. Times shift during Daylight Saving Time (DST) 
 
 | Age | US Size | EU Size | Height (cm) | Weight (kg approx.) |
 | --- | --- | --- | --- | --- |
-| 0â3 months | 3M | 56â62 | 56â62 | 3â5 |
-| 3â6 months | 6M | 62â68 | 62â68 | 5â7 |
-| 6â12 months | 12M | 68â80 | 68â80 | 7â10 |
-| 12â18 months | 18M | 80â86 | 80â86 | 10â12 |
-| 2 years | 2T | 92 | 86â92 | 12â14 |
-| 3 years | 3T | 98 | 92â98 | 14â16 |
-| 4 years | 4T | 104 | 98â104 | 16â18 |
-| 5 years | 5 | 110 | 104â110 | 18â20 |
-| 6 years | 6 | 116 | 110â116 | 20â22 |
-| 7 years | 7 | 122 | 116â122 | 22â25 |
-| 8 years | 8 | 128 | 122â128 | 25â28 |
-| 10 years | 10 | 140 | 134â140 | 30â34 |
-| 12 years | 12 | 152 | 146â152 | 38â43 |
+| 0–3 months | 3M | 56–62 | 56–62 | 3–5 |
+| 3–6 months | 6M | 62–68 | 62–68 | 5–7 |
+| 6–12 months | 12M | 68–80 | 68–80 | 7–10 |
+| 12–18 months | 18M | 80–86 | 80–86 | 10–12 |
+| 2 years | 2T | 92 | 86–92 | 12–14 |
+| 3 years | 3T | 98 | 92–98 | 14–16 |
+| 4 years | 4T | 104 | 98–104 | 16–18 |
+| 5 years | 5 | 110 | 104–110 | 18–20 |
+| 6 years | 6 | 116 | 110–116 | 20–22 |
+| 7 years | 7 | 122 | 116–122 | 22–25 |
+| 8 years | 8 | 128 | 122–128 | 25–28 |
+| 10 years | 10 | 140 | 134–140 | 30–34 |
+| 12 years | 12 | 152 | 146–152 | 38–43 |
 
 ---
 
@@ -146,21 +146,21 @@ All offsets shown as UTC+/â. Times shift during Daylight Saving Time (DST) 
 | --- | --- | --- | --- |
 | 4 | H | 46.8 | 14.9 |
 | 4.5 | I | 47.8 | 15.3 |
-| 5 | JâK | 49.3 | 15.7 |
-| 5.5 | KâL | 50.6 | 16.1 |
-| 6 | LâM | 51.9 | 16.5 |
-| 6.5 | MâN | 53.1 | 16.9 |
-| 7 | NâO | 54.4 | 17.3 |
-| 7.5 | OâP | 55.7 | 17.7 |
-| 8 | PâQ | 57.0 | 18.1 |
-| 8.5 | QâR | 58.3 | 18.6 |
-| 9 | RâS | 59.5 | 18.9 |
-| 9.5 | SâT | 60.8 | 19.4 |
-| 10 | TâU | 62.1 | 19.8 |
-| 11 | VâW | 64.6 | 20.6 |
-| 12 | XâY | 67.2 | 21.4 |
+| 5 | J–K | 49.3 | 15.7 |
+| 5.5 | K–L | 50.6 | 16.1 |
+| 6 | L–M | 51.9 | 16.5 |
+| 6.5 | M–N | 53.1 | 16.9 |
+| 7 | N–O | 54.4 | 17.3 |
+| 7.5 | O–P | 55.7 | 17.7 |
+| 8 | P–Q | 57.0 | 18.1 |
+| 8.5 | Q–R | 58.3 | 18.6 |
+| 9 | R–S | 59.5 | 18.9 |
+| 9.5 | S–T | 60.8 | 19.4 |
+| 10 | T–U | 62.1 | 19.8 |
+| 11 | V–W | 64.6 | 20.6 |
+| 12 | X–Y | 67.2 | 21.4 |
 
-**To measure ring size at home:** Wrap a thin strip of paper around the base of your finger, mark where it overlaps, measure the length in mm â that is your circumference. Match to the EU column above.
+**To measure ring size at home:** Wrap a thin strip of paper around the base of your finger, mark where it overlaps, measure the length in mm — that is your circumference. Match to the EU column above.
 
 ---
 
@@ -170,13 +170,13 @@ All offsets shown as UTC+/â. Times shift during Daylight Saving Time (DST) 
 
 | Size | mm | inches | Common Use |
 | --- | --- | --- | --- |
-| A0 | 841 Ã 1189 | 33.1 Ã 46.8 | Large posters, architectural drawings |
-| A1 | 594 Ã 841 | 23.4 Ã 33.1 | Posters, flip charts |
-| A2 | 420 Ã 594 | 16.5 Ã 23.4 | Posters, large diagrams |
-| A3 | 297 Ã 420 | 11.7 Ã 16.5 | Tabloid equivalent, spreadsheets |
-| A4 | 210 Ã 297 | 8.3 Ã 11.7 | Standard document (most of world) |
-| A5 | 148 Ã 210 | 5.8 Ã 8.3 | Notepads, small booklets |
-| A6 | 105 Ã 148 | 4.1 Ã 5.8 | Postcards, index cards |
+| A0 | 841 × 1189 | 33.1 × 46.8 | Large posters, architectural drawings |
+| A1 | 594 × 841 | 23.4 × 33.1 | Posters, flip charts |
+| A2 | 420 × 594 | 16.5 × 23.4 | Posters, large diagrams |
+| A3 | 297 × 420 | 11.7 × 16.5 | Tabloid equivalent, spreadsheets |
+| A4 | 210 × 297 | 8.3 × 11.7 | Standard document (most of world) |
+| A5 | 148 × 210 | 5.8 × 8.3 | Notepads, small booklets |
+| A6 | 105 × 148 | 4.1 × 5.8 | Postcards, index cards |
 
 *Each A size is exactly half of the one above. A0 has an area of exactly 1 square meter.*
 
@@ -184,9 +184,9 @@ All offsets shown as UTC+/â. Times shift during Daylight Saving Time (DST) 
 
 | Name | mm | inches | Common Use |
 | --- | --- | --- | --- |
-| Letter | 215.9 Ã 279.4 | 8.5 Ã 11 | Standard US/Canada document |
-| Legal | 215.9 Ã 355.6 | 8.5 Ã 14 | Legal documents, contracts |
-| Tabloid / Ledger | 279.4 Ã 431.8 | 11 Ã 17 | Newspapers, large spreadsheets |
+| Letter | 215.9 × 279.4 | 8.5 × 11 | Standard US/Canada document |
+| Legal | 215.9 × 355.6 | 8.5 × 14 | Legal documents, contracts |
+| Tabloid / Ledger | 279.4 × 431.8 | 11 × 17 | Newspapers, large spreadsheets |
 
 ---
 
@@ -249,21 +249,21 @@ All offsets shown as UTC+/â. Times shift during Daylight Saving Time (DST) 
 
 | Country | Restaurants | Taxis | Other | Notes |
 | --- | --- | --- | --- | --- |
-| **USA** | 15â20% (mandatory in practice) | 15â20% | Bartenders $1â2/drink; hotel housekeeping $2â5/night | Tipping is effectively compulsory; servers may earn below minimum wage |
-| **Canada** | 15â20% | 10â15% | Similar to USA | Tax-inclusive prices; tip on pre-tax amount |
-| **UK** | 10â15% (check for service charge) | Round up or 10% | Not expected for drinks at pub bar | Service charge is often added automatically â check bill first |
-| **France** | Service compris (included) â add 1â5% if pleased | Round up | Not widely expected | "Pourboire" is optional and truly appreciated rather than expected |
-| **Germany** | 5â10%; round up to nearest euro | Round up | Cafes: round up | Say "stimmt so" (keep the change) when paying; do not leave coins on table |
+| **USA** | 15–20% (mandatory in practice) | 15–20% | Bartenders $1–2/drink; hotel housekeeping $2–5/night | Tipping is effectively compulsory; servers may earn below minimum wage |
+| **Canada** | 15–20% | 10–15% | Similar to USA | Tax-inclusive prices; tip on pre-tax amount |
+| **UK** | 10–15% (check for service charge) | Round up or 10% | Not expected for drinks at pub bar | Service charge is often added automatically — check bill first |
+| **France** | Service compris (included) — add 1–5% if pleased | Round up | Not widely expected | "Pourboire" is optional and truly appreciated rather than expected |
+| **Germany** | 5–10%; round up to nearest euro | Round up | Cafes: round up | Say "stimmt so" (keep the change) when paying; do not leave coins on table |
 | **Japan** | Never tip | Never tip | Never tip | Tipping is considered rude; can cause embarrassment or be refused |
-| **China** | Not traditional; increasingly 10â15% in tourist areas | Not expected | Hotel: not expected | High-end hotels and Western restaurants may add service charge |
+| **China** | Not traditional; increasingly 10–15% in tourist areas | Not expected | Hotel: not expected | High-end hotels and Western restaurants may add service charge |
 | **Australia** | Not required; 10% appreciated | Not required | Not required | Minimum wage is high; tipping is optional and not expected |
-| **Mexico** | 10â15% | 10% | Hotel staff: 20â50 pesos | Always tip in cash; many workers earn very low base wages |
-| **Brazil** | 10% service charge usually included | Round up | Not widely expected | Check bill for "taxa de serviÃ§o" before adding extra |
-| **UAE / Dubai** | 10â15% in restaurants | Round up | Hotel: 10 AED per service | Service charge often included in hotels; appreciate the gesture |
-| **India** | 10% in restaurants | Round up | Hotel porter: â¹20â50 | Varies widely by location; street food/local chai: not expected |
-| **Italy** | Coperto (cover charge) is normal; no further tip required | Round up | Espresso bar: leave coins | Coperto is â¹1â3 per person; it is for bread and table service |
-| **Spain** | 5â10% appreciated; not required | Round up | Not widely expected | Spanish locals tip modestly; tourists expected to be generous |
-| **South Africa** | 10â15% | 10% | Petrol station attendants: R5â10 | Service industry wages are low; tipping is important |
+| **Mexico** | 10–15% | 10% | Hotel staff: 20–50 pesos | Always tip in cash; many workers earn very low base wages |
+| **Brazil** | 10% service charge usually included | Round up | Not widely expected | Check bill for "taxa de serviço" before adding extra |
+| **UAE / Dubai** | 10–15% in restaurants | Round up | Hotel: 10 AED per service | Service charge often included in hotels; appreciate the gesture |
+| **India** | 10% in restaurants | Round up | Hotel porter: ₹20–50 | Varies widely by location; street food/local chai: not expected |
+| **Italy** | Coperto (cover charge) is normal; no further tip required | Round up | Espresso bar: leave coins | Coperto is ₹1–3 per person; it is for bread and table service |
+| **Spain** | 5–10% appreciated; not required | Round up | Not widely expected | Spanish locals tip modestly; tourists expected to be generous |
+| **South Africa** | 10–15% | 10% | Petrol station attendants: R5–10 | Service industry wages are low; tipping is important |
 
 ---
 
@@ -271,16 +271,16 @@ All offsets shown as UTC+/â. Times shift during Daylight Saving Time (DST) 
 
 | Size | Dimensions (mm) | Voltage | Chemistry | Common Uses |
 | --- | --- | --- | --- | --- |
-| **AAA** | 10.5 dia Ã 44.5 | 1.5V | Alkaline / NiMH | Remote controls, small toys, flashlights, blood pressure monitors |
-| **AA** | 14.5 dia Ã 50.5 | 1.5V | Alkaline / NiMH | Most common â cameras, clocks, TV remotes, wireless mice, flashlights |
-| **C** | 26.2 dia Ã 50.0 | 1.5V | Alkaline | Portable radios, flashlights, toys, baby monitors |
-| **D** | 34.2 dia Ã 61.5 | 1.5V | Alkaline | High-drain devices: large flashlights, boomboxes, emergency radios |
-| **9V** | 26.5 Ã 17.5 Ã 48.5 | 9V | Alkaline / Lithium | Smoke detectors, guitar effects pedals, multimeters, walkie-talkies |
-| **CR2032** | 20 dia Ã 3.2 | 3V | Lithium (coin cell) | Watches, key fobs, calculators, computer CMOS memory, small LED lights |
-| **CR2025** | 20 dia Ã 2.5 | 3V | Lithium (coin cell) | Watches, key fobs, calculators â thinner version of CR2032 |
+| **AAA** | 10.5 dia × 44.5 | 1.5V | Alkaline / NiMH | Remote controls, small toys, flashlights, blood pressure monitors |
+| **AA** | 14.5 dia × 50.5 | 1.5V | Alkaline / NiMH | Most common — cameras, clocks, TV remotes, wireless mice, flashlights |
+| **C** | 26.2 dia × 50.0 | 1.5V | Alkaline | Portable radios, flashlights, toys, baby monitors |
+| **D** | 34.2 dia × 61.5 | 1.5V | Alkaline | High-drain devices: large flashlights, boomboxes, emergency radios |
+| **9V** | 26.5 × 17.5 × 48.5 | 9V | Alkaline / Lithium | Smoke detectors, guitar effects pedals, multimeters, walkie-talkies |
+| **CR2032** | 20 dia × 3.2 | 3V | Lithium (coin cell) | Watches, key fobs, calculators, computer CMOS memory, small LED lights |
+| **CR2025** | 20 dia × 2.5 | 3V | Lithium (coin cell) | Watches, key fobs, calculators — thinner version of CR2032 |
 
 **Notes:**
-- Rechargeable NiMH batteries output ~1.2V vs alkaline's 1.5V â compatible with most devices
+- Rechargeable NiMH batteries output ~1.2V vs alkaline's 1.5V — compatible with most devices
 - CR2032 and CR2025 are interchangeable in many devices (same diameter, slightly different thickness)
 - "CR" = Lithium chemistry; first two digits = diameter; last two = thickness in tenths of mm
 
@@ -292,17 +292,17 @@ All offsets shown as UTC+/â. Times shift during Daylight Saving Time (DST) 
 
 | Incandescent (Old) | LED Equivalent | Lumens | Best Use |
 | --- | --- | --- | --- |
-| 25W | 2â3W | 250 lm | Night lights, decorative lamps |
-| 40W | 5â6W | 450 lm | Bedside lamps, closets |
-| 60W | 8â10W | 800 lm | Standard table and floor lamps |
-| 75W | 10â13W | 1,100 lm | Kitchens, workspaces |
-| 100W | 14â18W | 1,600 lm | Bright overhead lighting |
-| 150W | 22â26W | 2,600 lm | Very bright workspace, garage |
+| 25W | 2–3W | 250 lm | Night lights, decorative lamps |
+| 40W | 5–6W | 450 lm | Bedside lamps, closets |
+| 60W | 8–10W | 800 lm | Standard table and floor lamps |
+| 75W | 10–13W | 1,100 lm | Kitchens, workspaces |
+| 100W | 14–18W | 1,600 lm | Bright overhead lighting |
+| 150W | 22–26W | 2,600 lm | Very bright workspace, garage |
 
 **Color Temperature Reference:**
-- **2700Kâ3000K:** Warm white (yellowish) â cozy, residential rooms
-- **3500Kâ4100K:** Cool white (neutral) â kitchens, offices
-- **5000Kâ6500K:** Daylight (bluish-white) â workshops, reading tasks
+- **2700K–3000K:** Warm white (yellowish) — cozy, residential rooms
+- **3500K–4100K:** Cool white (neutral) — kitchens, offices
+- **5000K–6500K:** Daylight (bluish-white) — workshops, reading tasks
 
 **CRI (Color Rendering Index):** 90+ CRI renders colors most accurately. Relevant for art studios, makeup areas.
 
@@ -316,35 +316,35 @@ All offsets shown as UTC+/â. Times shift during Daylight Saving Time (DST) 
 | --- | --- | --- |
 | 1 | Talc | Easily scratched by fingernail; feels greasy |
 | 2 | Gypsum | Can be scratched by fingernail (hardness 2.5) |
-| 2.5 | â | Fingernail |
+| 2.5 | — | Fingernail |
 | 3 | Calcite | Scratched easily by a copper coin |
-| 3.5 | â | Copper coin |
+| 3.5 | — | Copper coin |
 | 4 | Fluorite | Scratched by a steel knife but not a fingernail |
 | 5 | Apatite | Barely scratched by a steel knife |
-| 5.5 | â | Steel knife / glass |
+| 5.5 | — | Steel knife / glass |
 | 6 | Orthoclase feldspar | Scratches glass easily |
-| 6.5 | â | Steel file |
+| 6.5 | — | Steel file |
 | 7 | Quartz | Scratches glass and most steels; common sand |
 | 8 | Topaz | Scratched only by corundum and diamond |
 | 9 | Corundum (sapphire/ruby) | Scratched only by diamond |
 | 10 | Diamond | Scratches everything; hardest natural material |
 
 **Practical applications:**
-- Window glass: ~5.5 â can be scratched by keys (which are usually steel, ~6)
-- Steel file: ~6.5 â useful field test tool
-- Common sand (quartz): 7 â reason why sand scratches car paint (paint ~2â3)
+- Window glass: ~5.5 — can be scratched by keys (which are usually steel, ~6)
+- Steel file: ~6.5 — useful field test tool
+- Common sand (quartz): 7 — reason why sand scratches car paint (paint ~2–3)
 - Human tooth enamel: ~5
 - Human bone: ~5
 
 ---
 
-## pH Scale: 0â14
+## pH Scale: 0–14
 
 *The pH scale measures acidity vs. alkalinity. 7 = neutral; below 7 = acidic; above 7 = basic (alkaline).*
 
 | pH | Substance | Category |
 | --- | --- | --- |
-| 0 | Battery acid (HâSOâ) | Strongly acidic |
+| 0 | Battery acid (H₂SO₄) | Strongly acidic |
 | 1 | Hydrochloric acid (gastric acid) | Strongly acidic |
 | 2 | Lemon juice, vinegar | Strongly acidic |
 | 2.5 | Soft drinks (cola) | Strongly acidic |
@@ -369,9 +369,9 @@ All offsets shown as UTC+/â. Times shift during Daylight Saving Time (DST) 
 
 **Notes:**
 - Each step on the pH scale is a factor of 10 in concentration (pH 4 is 10x more acidic than pH 5)
-- The human body tightly regulates blood pH at ~7.35â7.45; deviations of Â±0.2 are medically significant
-- Soil pH affects plant growth: most vegetables prefer 6.0â7.0; blueberries prefer 4.5â5.5
-- Swimming pools are maintained at pH 7.2â7.6 to prevent skin/eye irritation and equipment corrosion
+- The human body tightly regulates blood pH at ~7.35–7.45; deviations of ±0.2 are medically significant
+- Soil pH affects plant growth: most vegetables prefer 6.0–7.0; blueberries prefer 4.5–5.5
+- Swimming pools are maintained at pH 7.2–7.6 to prevent skin/eye irritation and equipment corrosion
 
 ---
 

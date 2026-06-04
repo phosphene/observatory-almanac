@@ -66,7 +66,7 @@ Number of Americans who die annually from preventable medical errors: 250,000 (m
 
 Percentage of US adults who are obese: 42%
 
-Average life expectancy difference between the wealthiest and poorest Americans: 10â15 years
+Average life expectancy difference between the wealthiest and poorest Americans: 10–15 years
 
 Percentage of bankruptcies in the United States that are related to medical bills: approximately 66%
 
@@ -76,9 +76,9 @@ Average wait time to see a new primary care physician in major US cities: 26 day
 
 Percentage of clinical trial participants historically who were women: less than 25%
 
-Number of years it takes on average to diagnose endometriosis: 7â10
+Number of years it takes on average to diagnose endometriosis: 7–10
 
-Ratio of research funding for erectile dysfunction versus premenstrual syndrome despite PMS affecting 5â8% of women severely: historically 5:1 in favor of ED
+Ratio of research funding for erectile dysfunction versus premenstrual syndrome despite PMS affecting 5–8% of women severely: historically 5:1 in favor of ED
 
 Percentage of drugs recalled by the FDA that had been approved in the previous decade: nearly 20%
 
@@ -130,7 +130,7 @@ Percentage of the world's freshwater that is accessible for human use: less than
 
 Number of years it takes a plastic bag to decompose: 1,000
 
-Amount by which global average temperatures have already increased since pre-industrial levels: 1.2Â°C
+Amount by which global average temperatures have already increased since pre-industrial levels: 1.2°C
 
 Year the Great Barrier Reef last experienced mass bleaching: multiple events since 2016
 
@@ -154,7 +154,7 @@ Number of times the entire global economy could be powered by currently availabl
 
 Percentage of the Great Pacific Garbage Patch by count that is microplastics: 94%
 
-Average number of species a typical American diet sends toward extinction annually through land use: 1â2
+Average number of species a typical American diet sends toward extinction annually through land use: 1–2
 
 Cost differential between the impacts of climate change on the world's poorest nations versus their contribution to emissions: they suffer 75% of impacts while causing less than 10% of historical emissions
 
@@ -188,7 +188,7 @@ Number of countries where voting is compulsory: 26
 
 Voter turnout in the United States in midterm elections compared to Sweden's lowest-turnout election: US: ~45%, Sweden minimum: ~80%
 
-Average number of years between passage of climate legislation in Congress and when it takes effect: 5â10
+Average number of years between passage of climate legislation in Congress and when it takes effect: 5–10
 
 Percentage of Americans who cannot name all three branches of government: 36%
 
@@ -244,7 +244,7 @@ Number of books published daily in the United States: approximately 4,500
 
 Percentage of musicians on streaming platforms who earn less than $1,000 per year from streaming: 90%
 
-Amount Spotify pays per stream: approximately $0.003â$0.005
+Amount Spotify pays per stream: approximately $0.003–$0.005
 
 Percentage of the world's films produced in Nigeria (Nollywood) annually by volume: second only to India
 
@@ -252,7 +252,7 @@ Number of people who speak Mandarin Chinese as a first language versus English: 
 
 Number of hours of video uploaded to YouTube every minute: 500
 
-Percentage of news stories that are repackaged from a single wire service or press release with no original reporting: estimated 60â80%
+Percentage of news stories that are repackaged from a single wire service or press release with no original reporting: estimated 60–80%
 
 Number of Oscar Best Picture winners in the first 80 years of the Academy Awards that featured a non-white lead: fewer than 10
 
@@ -282,13 +282,13 @@ Number of data points tech companies collect about the average smartphone user p
 
 Percentage of global web traffic that is bot-generated: approximately 47%
 
-Amount of data generated globally every day: 2.5 quintillion bytes (2.5 Ã 10Â¹â¸)
+Amount of data generated globally every day: 2.5 quintillion bytes (2.5 × 10¹⁸)
 
 Number of people who have never used the internet: approximately 2.7 billion
 
 Percentage of websites that are in English despite only 16% of the world speaking it: approximately 55%
 
-Amount Google pays Apple annually to be the default search engine on Safari: estimated $18â20 billion
+Amount Google pays Apple annually to be the default search engine on Safari: estimated $18–20 billion
 
 Number of nuclear power plants it would take to power all data centers currently operating globally: approximately 90
 
@@ -304,11 +304,11 @@ Number of AI-generated images created daily as of 2023: estimated 34 million
 
 Amount of energy consumed by a single query to a large language model versus a Google search: AI query uses 10x more energy
 
-Percentage of AI training datasets that contain demonstrably false or fabricated information: studies suggest 20â40%
+Percentage of AI training datasets that contain demonstrably false or fabricated information: studies suggest 20–40%
 
 Number of the world's largest technology companies founded in a garage or dorm room: 6 (Apple, Amazon, Google, Facebook, Dell, HP)
 
-Age at which the average American child first gets a smartphone: 10â11
+Age at which the average American child first gets a smartphone: 10–11
 
 Percentage of US teenagers who say social media makes them feel worse about their body: 45%
 
@@ -316,7 +316,7 @@ Number of years it took radio to reach 50 million users versus TikTok reaching t
 
 Percentage of all email traffic that is spam: approximately 45%
 
-Amount spent on cybersecurity globally in 2023: $188 billion â and still rising
+Amount spent on cybersecurity globally in 2023: $188 billion — and still rising
 
 Number of countries that ban end-to-end encrypted messaging: over 20
 
@@ -392,7 +392,7 @@ Number of students who graduate from US colleges carrying student loan debt: app
 
 Average student loan debt for a bachelor's degree graduate: $37,000
 
-Percentage of US students who attend public Kâ12 schools: 90%
+Percentage of US students who attend public K–12 schools: 90%
 
 Average per-pupil spending gap between the wealthiest and poorest school districts in the same state: 2:1 or greater
 
@@ -420,21 +420,21 @@ Percentage of working adults who say their job requires skills they did not lear
 
 Number of languages offered in US public school instruction: dramatically fewer than in European countries; most US students study one
 
-Average age at which reading difficulties are formally identified in US schools: 8â9 (international research suggests intervention is most effective before age 6)
+Average age at which reading difficulties are formally identified in US schools: 8–9 (international research suggests intervention is most effective before age 6)
 
 Percentage of Americans who believe in at least one conspiracy theory: approximately 50%
 
 Percentage of US adults who could pass the US citizenship test (the one immigrants must pass): 36%
 
-Number of scientific facts that were accepted consensus that were later overturned: hundreds across history â pointing to science's strength (self-correction), not weakness
+Number of scientific facts that were accepted consensus that were later overturned: hundreds across history — pointing to science's strength (self-correction), not weakness
 
 Percentage of adults who say they never read for pleasure: 25%
 
 Average number of books read per year by adults who describe themselves as "readers": 12
 
-Number of US universities in the world's top 10 by most international rankings: 6â8
+Number of US universities in the world's top 10 by most international rankings: 6–8
 
-Percentage of scientific research globally funded by governments versus private corporations: shifting toward private â now roughly 45% private in the United States
+Percentage of scientific research globally funded by governments versus private corporations: shifting toward private — now roughly 45% private in the United States
 
 ---
 

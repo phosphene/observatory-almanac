@@ -1,6 +1,6 @@
 # Pet First Aid
 
-*Emergency care for dogs and cats â know this before you need it.*
+*Emergency care for dogs and cats — know this before you need it.*
 
 > **Always call your vet or an emergency animal hospital first when possible.** This guide covers stabilization until professional help is available. Keep your vet's number and the ASPCA Animal Poison Control Center (888-426-4435) saved in your phone.
 
@@ -12,9 +12,9 @@
 
 | Vital | Normal Range |
 | --- | --- |
-| Heart rate | 60â140 bpm (smaller dogs = faster) |
-| Respiratory rate | 15â30 breaths/min |
-| Temperature | 101â102.5Â°F (38.3â39.2Â°C) |
+| Heart rate | 60–140 bpm (smaller dogs = faster) |
+| Respiratory rate | 15–30 breaths/min |
+| Temperature | 101–102.5°F (38.3–39.2°C) |
 | Gum color | Pink and moist |
 | Capillary refill | Under 2 seconds |
 
@@ -22,13 +22,13 @@
 
 | Vital | Normal Range |
 | --- | --- |
-| Heart rate | 140â220 bpm |
-| Respiratory rate | 20â30 breaths/min |
-| Temperature | 100.5â102.5Â°F (38â39.2Â°C) |
+| Heart rate | 140–220 bpm |
+| Respiratory rate | 20–30 breaths/min |
+| Temperature | 100.5–102.5°F (38–39.2°C) |
 | Gum color | Pink and moist |
 | Capillary refill | Under 2 seconds |
 
-**How to check capillary refill:** Press your finger firmly on the gum above the front teeth for 1â2 seconds. Release and count how long the white spot takes to turn pink. Over 2 seconds = poor circulation, seek emergency care.
+**How to check capillary refill:** Press your finger firmly on the gum above the front teeth for 1–2 seconds. Release and count how long the white spot takes to turn pink. Over 2 seconds = poor circulation, seek emergency care.
 
 **How to check temperature:** Use a rectal thermometer with lubricant. Insert gently 1 inch. Digital thermometers give faster readings.
 
@@ -43,14 +43,14 @@
 * Blue or white gums (emergency)
 * Collapse or loss of consciousness
 
-### What to Do â Conscious Pet
+### What to Do — Conscious Pet
 
-1. **Look inside the mouth.** If you can clearly see the object and can remove it safely with one finger sweep, do so. Never do blind finger sweeps â you may push the object deeper.
-2. **For dogs:** Stand behind the dog. For small dogs, hold them with their back against your chest. Wrap both hands around their waist just behind the last rib. Give 3â5 firm upward thrusts (like the Heimlich maneuver).
-3. **For cats:** Hold the cat with its back against your chest. Place your thumbs on the belly just below the ribs. Give 3â5 quick upward compressions.
+1. **Look inside the mouth.** If you can clearly see the object and can remove it safely with one finger sweep, do so. Never do blind finger sweeps — you may push the object deeper.
+2. **For dogs:** Stand behind the dog. For small dogs, hold them with their back against your chest. Wrap both hands around their waist just behind the last rib. Give 3–5 firm upward thrusts (like the Heimlich maneuver).
+3. **For cats:** Hold the cat with its back against your chest. Place your thumbs on the belly just below the ribs. Give 3–5 quick upward compressions.
 4. Repeat and check the mouth after each round.
 
-### What to Do â Unconscious Pet
+### What to Do — Unconscious Pet
 
 1. Lay pet on its side.
 2. Open the mouth and look for the object. Remove if visible.
@@ -69,21 +69,21 @@
 
 ### CPR for Dogs
 
-**Step 1 â Airway:** Lay dog on right side. Tilt head back slightly to open airway. Check for foreign objects.
+**Step 1 — Airway:** Lay dog on right side. Tilt head back slightly to open airway. Check for foreign objects.
 
-**Step 2 â Breathing:** Close the dog's mouth. Breathe into the nose (not the mouth) until you see the chest rise. Give 2 rescue breaths.
+**Step 2 — Breathing:** Close the dog's mouth. Breathe into the nose (not the mouth) until you see the chest rise. Give 2 rescue breaths.
 
-**Step 3 â Compressions:**
+**Step 3 — Compressions:**
 - Small dogs and cats (under 30 lbs): Cup hands around the chest behind the front legs (chest compression from both sides)
 - Large dogs (over 30 lbs): Place heel of hand over the widest part of the chest (rib cage)
-- Push down 1â2 inches at a rate of 100â120 compressions per minute
+- Push down 1–2 inches at a rate of 100–120 compressions per minute
 - Allow chest to fully recoil between compressions
 
 **Ratio:** 30 compressions : 2 breaths. Continue for 2 minutes, then reassess.
 
 ### CPR for Cats
 
-Cats have very small chests. Use the thumb-and-forefinger method: squeeze the chest gently between thumb and forefinger just behind the front legs. Compress 1/3 to 1/2 the chest width at 120â140 compressions per minute.
+Cats have very small chests. Use the thumb-and-forefinger method: squeeze the chest gently between thumb and forefinger just behind the front legs. Compress 1/3 to 1/2 the chest width at 120–140 compressions per minute.
 
 ---
 
@@ -91,25 +91,25 @@ Cats have very small chests. Use the thumb-and-forefinger method: squeeze the ch
 
 ### Minor Wounds
 
-* Apply direct pressure with a clean cloth for 5â10 minutes
-* Do not remove the cloth if it soaks through â add more on top
+* Apply direct pressure with a clean cloth for 5–10 minutes
+* Do not remove the cloth if it soaks through — add more on top
 * Once bleeding stops, clean with mild soap and water or saline
 * Apply antibiotic ointment (plain Neosporin without pain relief additives)
 
 ### Severe Bleeding / Large Wounds
 
 1. Apply firm direct pressure immediately
-2. Do not remove embedded objects â stabilize them in place
+2. Do not remove embedded objects — stabilize them in place
 3. If bleeding won't stop after 10 minutes of pressure, apply a tourniquet above the wound (only for limbs, only if life-threatening)
 4. Get to an emergency vet immediately
 
 ### Tourniquet Instructions (Last Resort)
 
-* Use a strip of cloth 2â3 inches wide (never wire or cord)
+* Use a strip of cloth 2–3 inches wide (never wire or cord)
 * Apply 2 inches above the wound
 * Tighten until bleeding slows, then secure
 * **Write the time applied on the pet's skin or a note**
-* Do not remove â let the vet do this
+* Do not remove — let the vet do this
 
 ---
 
@@ -125,20 +125,20 @@ Cats have very small chests. Use the thumb-and-forefinger method: squeeze the ch
 
 ### Risk Factors
 
-* Temperatures above 80Â°F (27Â°C) in any enclosed space
+* Temperatures above 80°F (27°C) in any enclosed space
 * Flat-faced breeds (bulldogs, pugs, Persian cats) are especially vulnerable
 * Thick coats, obesity, heart/lung conditions increase risk
 
 ### Treatment
 
 1. **Move to shade or air conditioning immediately.**
-2. **Cool with room-temperature water â NOT ice water.** Ice water causes peripheral vessels to constrict and can trap heat inside.
+2. **Cool with room-temperature water — NOT ice water.** Ice water causes peripheral vessels to constrict and can trap heat inside.
 3. Wet paws, armpits, groin, and neck with cool water. Fan the pet.
 4. Offer small sips of cool water if conscious. Do not force water.
 5. Place on a cool surface (tile floor, cool wet towel).
 6. **Rush to vet even if the pet seems to recover.** Internal organ damage may not be immediately visible.
 
-**Target rectal temperature: 103Â°F (39.4Â°C).** Stop active cooling once reached to avoid overcooling.
+**Target rectal temperature: 103°F (39.4°C).** Stop active cooling once reached to avoid overcooling.
 
 ---
 
@@ -154,16 +154,16 @@ Cats have very small chests. Use the thumb-and-forefinger method: squeeze the ch
 
 ### During a Seizure
 
-1. **Stay calm.** Most seizures last 1â3 minutes.
-2. **Do not restrain the pet** â you may be bitten. Move furniture away to prevent injury.
-3. **Do not put anything in the mouth** â pets cannot swallow their tongues.
+1. **Stay calm.** Most seizures last 1–3 minutes.
+2. **Do not restrain the pet** — you may be bitten. Move furniture away to prevent injury.
+3. **Do not put anything in the mouth** — pets cannot swallow their tongues.
 4. Time the seizure.
 5. Dim lights and reduce noise. Keep calm.
-6. After the seizure: speak softly, offer water, keep warm. Pets are often disoriented for 10â30 minutes after ("postictal phase").
+6. After the seizure: speak softly, offer water, keep warm. Pets are often disoriented for 10–30 minutes after ("postictal phase").
 
 ### When to Rush to the Vet
 
-* Seizure lasts more than 5 minutes (status epilepticus â life-threatening)
+* Seizure lasts more than 5 minutes (status epilepticus — life-threatening)
 * Multiple seizures in 24 hours
 * Pet doesn't regain consciousness
 * First seizure ever (needs diagnosis)
@@ -171,13 +171,13 @@ Cats have very small chests. Use the thumb-and-forefinger method: squeeze the ch
 
 ---
 
-## Poisoning â The 50 Most Common Toxins
+## Poisoning — The 50 Most Common Toxins
 
 ### Category 1: Human Foods
 
 | Item | Danger | Signs |
 | --- | --- | --- |
-| **Chocolate** | Theobromine toxicity â dark and baker's chocolate worst | Vomiting, tremors, seizures, heart arrhythmia |
+| **Chocolate** | Theobromine toxicity — dark and baker's chocolate worst | Vomiting, tremors, seizures, heart arrhythmia |
 | **Xylitol** | Severe hypoglycemia, liver failure | Weakness, vomiting, seizures, yellowing of skin |
 | **Grapes & raisins** | Acute kidney failure (mechanism unknown) | Vomiting, lethargy, decreased urination |
 | **Onions & garlic** | Hemolytic anemia (destroys red blood cells) | Pale gums, weakness, collapse |
@@ -194,7 +194,7 @@ Cats have very small chests. Use the thumb-and-forefinger method: squeeze the ch
 
 | Item | Signs |
 | --- | --- |
-| **Antifreeze (ethylene glycol)** | Sweet taste attracts pets; causes kidney failure. Signs: drunk behavior initially, then acute kidney failure 24â72h later |
+| **Antifreeze (ethylene glycol)** | Sweet taste attracts pets; causes kidney failure. Signs: drunk behavior initially, then acute kidney failure 24–72h later |
 | **Rodenticides (rat poison)** | Varies by type: anticoagulants (bleeding), bromethalin (neurological), zinc phosphide (GI) |
 | **Cleaning products** | Burns to mouth/throat, vomiting |
 | **Batteries** | Heavy metal/acid burns |
@@ -224,7 +224,7 @@ Cats have very small chests. Use the thumb-and-forefinger method: squeeze the ch
 | --- | --- |
 | **Cannabis (THC)** | Staggering, dilated pupils, urinary incontinence, coma in severe cases |
 | **Tobacco/nicotine** | Tremors, seizures, cardiovascular effects |
-| **Vaping liquids** | Concentrated nicotine â very dangerous |
+| **Vaping liquids** | Concentrated nicotine — very dangerous |
 
 ### Poisoning First Aid
 
@@ -235,8 +235,8 @@ Cats have very small chests. Use the thumb-and-forefinger method: squeeze the ch
 5. Note the pet's weight.
 
 **When vomiting IS sometimes indicated (vet/poison control instruction only):**
-- Hydrogen peroxide 3% at 1 teaspoon per 5 lbs body weight (max 3 teaspoons) for dogs â *only if instructed*
-- Never for cats â far too dangerous
+- Hydrogen peroxide 3% at 1 teaspoon per 5 lbs body weight (max 3 teaspoons) for dogs — *only if instructed*
+- Never for cats — far too dangerous
 
 ---
 
@@ -244,62 +244,62 @@ Cats have very small chests. Use the thumb-and-forefinger method: squeeze the ch
 
 ### Severely Toxic (Veterinary Emergency)
 
-1. **Lilies (all species)** â Cats: even tiny amounts cause kidney failure; dogs: GI upset
-2. **Sago palm (Cycas revoluta)** â Liver failure in both; very common in landscaping
-3. **Azalea / Rhododendron** â Cardiac arrhythmia, seizures
-4. **Oleander** â Cardiac glycosides; heart failure
-5. **Yew (Taxus)** â Cardiac arrest; every part is toxic
-6. **Foxglove (Digitalis)** â Cardiac glycosides
-7. **Monkshood (Aconitum)** â Rapid heart effects
-8. **Water hemlock** â Violent seizures
-9. **Castor bean** â Ricin; multi-organ failure
-10. **Jimsonweed (Datura)** â Anticholinergic toxicity
-11. **Autumn crocus (Colchicum)** â Multi-organ failure; similar to sago palm severity
-12. **Death camas** â Neurological and cardiac
-13. **Angel's trumpet (Brugmansia)** â Anticholinergic; confusion, seizures
+1. **Lilies (all species)** — Cats: even tiny amounts cause kidney failure; dogs: GI upset
+2. **Sago palm (Cycas revoluta)** — Liver failure in both; very common in landscaping
+3. **Azalea / Rhododendron** — Cardiac arrhythmia, seizures
+4. **Oleander** — Cardiac glycosides; heart failure
+5. **Yew (Taxus)** — Cardiac arrest; every part is toxic
+6. **Foxglove (Digitalis)** — Cardiac glycosides
+7. **Monkshood (Aconitum)** — Rapid heart effects
+8. **Water hemlock** — Violent seizures
+9. **Castor bean** — Ricin; multi-organ failure
+10. **Jimsonweed (Datura)** — Anticholinergic toxicity
+11. **Autumn crocus (Colchicum)** — Multi-organ failure; similar to sago palm severity
+12. **Death camas** — Neurological and cardiac
+13. **Angel's trumpet (Brugmansia)** — Anticholinergic; confusion, seizures
 
 ### Moderately Toxic
 
-1. **Tulip bulbs** â GI upset, central nervous system effects
-2. **Daffodil / Narcissus bulbs** â Vomiting, low blood pressure
-3. **Hyacinth bulbs** â GI upset
-4. **Amaryllis** â GI upset, tremors
-5. **Kalanchoe** â Cardiac arrhythmia
-6. **Dieffenbachia (dumb cane)** â Oral burning, swelling (may prevent swallowing)
-7. **Philodendron** â Oral irritation, drooling
-8. **Pothos** â Oral irritation
-9. **Peace lily (Spathiphyllum)** â Calcium oxalate crystals; oral pain; kidney damage in cats
-10. **English ivy** â GI upset, neurological signs
-11. **Wisteria** â Vomiting, diarrhea
-12. **Lantana** â Liver failure; berries most toxic
-13. **Cyclamen** â GI upset; large amounts = seizures
-14. **Chrysanthemum** â GI upset, drooling
-15. **Bird of paradise** â GI upset
-16. **Black-eyed Susan** â Mild GI
-17. **Aloe vera** â GI upset (the gel is fine externally but toxic internally)
-18. **Snake plant (Sansevieria)** â GI upset
-19. **ZZ plant (Zamioculcas)** â GI upset, burning mouth
-20. **Hydrangea** â Cyanogenic glycosides; GI upset
-21. **Tomato plant (leaves/stems)** â Solanine; GI upset, weakness
-22. **Rhubarb leaves** â Oxalic acid; kidney damage
-23. **Potato plants (green parts)** â Solanine
-24. **Mistletoe** â GI upset, low heart rate
-25. **Holly (Ilex)** â Vomiting, diarrhea
+1. **Tulip bulbs** — GI upset, central nervous system effects
+2. **Daffodil / Narcissus bulbs** — Vomiting, low blood pressure
+3. **Hyacinth bulbs** — GI upset
+4. **Amaryllis** — GI upset, tremors
+5. **Kalanchoe** — Cardiac arrhythmia
+6. **Dieffenbachia (dumb cane)** — Oral burning, swelling (may prevent swallowing)
+7. **Philodendron** — Oral irritation, drooling
+8. **Pothos** — Oral irritation
+9. **Peace lily (Spathiphyllum)** — Calcium oxalate crystals; oral pain; kidney damage in cats
+10. **English ivy** — GI upset, neurological signs
+11. **Wisteria** — Vomiting, diarrhea
+12. **Lantana** — Liver failure; berries most toxic
+13. **Cyclamen** — GI upset; large amounts = seizures
+14. **Chrysanthemum** — GI upset, drooling
+15. **Bird of paradise** — GI upset
+16. **Black-eyed Susan** — Mild GI
+17. **Aloe vera** — GI upset (the gel is fine externally but toxic internally)
+18. **Snake plant (Sansevieria)** — GI upset
+19. **ZZ plant (Zamioculcas)** — GI upset, burning mouth
+20. **Hydrangea** — Cyanogenic glycosides; GI upset
+21. **Tomato plant (leaves/stems)** — Solanine; GI upset, weakness
+22. **Rhubarb leaves** — Oxalic acid; kidney damage
+23. **Potato plants (green parts)** — Solanine
+24. **Mistletoe** — GI upset, low heart rate
+25. **Holly (Ilex)** — Vomiting, diarrhea
 
 ### Mildly Toxic / Irritating
 
-1. **Jade plant** â GI upset, depression
-2. **Elephant ear (Colocasia)** â Oral irritation
-3. **Begonia** â GI upset
-4. **Impatiens** â GI upset
-5. **Morning glory** â Hallucinations in large amounts
-6. **Lemon / Citrus plants** â GI upset (cats are more sensitive)
-7. **Eucalyptus** â GI upset, CNS effects
-8. **Lavender** â Mild; mainly GI
-9. **Bay laurel** â GI upset
-10. **Nightshade** â Solanine toxicity
-11. **Sweet pea** â Neurological signs with prolonged exposure
-12. **Comfrey** â Liver toxicity with repeated exposure
+1. **Jade plant** — GI upset, depression
+2. **Elephant ear (Colocasia)** — Oral irritation
+3. **Begonia** — GI upset
+4. **Impatiens** — GI upset
+5. **Morning glory** — Hallucinations in large amounts
+6. **Lemon / Citrus plants** — GI upset (cats are more sensitive)
+7. **Eucalyptus** — GI upset, CNS effects
+8. **Lavender** — Mild; mainly GI
+9. **Bay laurel** — GI upset
+10. **Nightshade** — Solanine toxicity
+11. **Sweet pea** — Neurological signs with prolonged exposure
+12. **Comfrey** — Liver toxicity with repeated exposure
 
 ---
 
@@ -314,8 +314,8 @@ Keep these items on hand:
 * Blunt-tipped scissors
 * Tweezers
 * Saline eye wash
-* 3% hydrogen peroxide (for vomiting â only if vet-directed)
-* Diphenhydramine (Benadryl) plain â 1mg/lb for dogs for mild allergic reactions (confirm dose with vet)
+* 3% hydrogen peroxide (for vomiting — only if vet-directed)
+* Diphenhydramine (Benadryl) plain — 1mg/lb for dogs for mild allergic reactions (confirm dose with vet)
 * Disposable gloves
 * Muzzle (even the gentlest dog may bite when in pain)
 * Blanket for warmth/transport
@@ -327,12 +327,12 @@ Keep these items on hand:
 
 ## Transporting an Injured Pet
 
-* **Minimize movement** of a seriously injured pet â spinal injury is possible
+* **Minimize movement** of a seriously injured pet — spinal injury is possible
 * Slide the pet onto a rigid surface (board, tray, lid) and secure gently
 * Wrap in a blanket for warmth and to minimize struggling
 * Muzzle if there's any risk of biting (pain causes biting even in gentle animals)
 * Call the vet ahead so they can prepare
-* Have someone else drive if possible â you may need to monitor the pet
+* Have someone else drive if possible — you may need to monitor the pet
 
 ---
 
@@ -342,12 +342,12 @@ Keep these items on hand:
 | --- | --- |
 | Sudden collapse | Shock, heart failure, poisoning, heatstroke |
 | Pale/white gums | Internal bleeding, shock, anemia |
-| Blue/purple gums | Oxygen deprivation â IMMEDIATE emergency |
+| Blue/purple gums | Oxygen deprivation — IMMEDIATE emergency |
 | Bright red gums | Heatstroke, carbon monoxide |
 | Yellow gums | Liver disease, hemolytic anemia |
-| Sudden hindlimb paralysis (cats) | Aortic thromboembolism â very painful, emergency |
-| Straining to urinate (cats, especially males) | Urinary blockage â can be fatal within hours |
-| Distended abdomen + retching (large dogs) | Bloat (GDV) â can be fatal within hours |
+| Sudden hindlimb paralysis (cats) | Aortic thromboembolism — very painful, emergency |
+| Straining to urinate (cats, especially males) | Urinary blockage — can be fatal within hours |
+| Distended abdomen + retching (large dogs) | Bloat (GDV) — can be fatal within hours |
 
 ---
 

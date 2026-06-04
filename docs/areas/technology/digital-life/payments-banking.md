@@ -1,6 +1,6 @@
 # Digital Payments & Banking Setup
 
-Handling money digitally used to feel risky. Now it's often safer than carrying cash or writing checks â if you set things up correctly. This chapter walks through mobile banking, payment apps, and how to protect yourself from the fraud that does exist.
+Handling money digitally used to feel risky. Now it's often safer than carrying cash or writing checks — if you set things up correctly. This chapter walks through mobile banking, payment apps, and how to protect yourself from the fraud that does exist.
 
 ---
 
@@ -11,7 +11,7 @@ Handling money digitally used to feel risky. Now it's often safer than carrying 
 Before you set up your bank's app, have these ready:
 - Your bank account number (on a check or bank statement)
 - The routing number (the 9-digit number at the bottom left of a check)
-- Your Social Security Number â last 4 digits, or possibly the full number, depending on the bank
+- Your Social Security Number — last 4 digits, or possibly the full number, depending on the bank
 - Your debit card (and its PIN)
 - The phone number and email address on file with the bank
 
@@ -25,14 +25,14 @@ Most banks verify your identity in one of two ways: either through information t
 4. Open the app and tap "Enroll" or "Register" or "Sign Up"
 5. Enter your information as prompted
 6. Create a username and a strong, unique password (not the same as your email password)
-7. Set up fingerprint login or Face ID when offered â you'll use this every time
+7. Set up fingerprint login or Face ID when offered — you'll use this every time
 
 ### Mobile Check Deposit
 
 This is genuinely magical: you can deposit a paper check using only your camera.
 
 **How to do it:**
-1. Open your bank's app â tap "Deposit" or "Mobile Deposit"
+1. Open your bank's app → tap "Deposit" or "Mobile Deposit"
 2. Enter the check amount
 3. **Endorse the back of the check:** Write your signature, and often you need to write "For Mobile Deposit Only" below your signature. (Some banks require this to prevent double deposit fraud)
 4. Place the check on a dark, flat surface with good lighting
@@ -40,20 +40,20 @@ This is genuinely magical: you can deposit a paper check using only your camera.
 6. Take a photo of the back
 7. Confirm the amount and submit
 
-The deposit usually appears as "pending" within minutes and clears in 1-2 business days. **Hold onto the paper check for at least 5 business days** until you confirm the deposit cleared â then you can shred it.
+The deposit usually appears as "pending" within minutes and clears in 1-2 business days. **Hold onto the paper check for at least 5 business days** until you confirm the deposit cleared — then you can shred it.
 
 ### Setting Up Alerts
 
 Bank alerts are one of the best security tools available, and most people don't set them up.
 
-**Where to find them:** In your bank app â Account settings â Alerts or Notifications
+**Where to find them:** In your bank app → Account settings → Alerts or Notifications
 
 **Set up alerts for:**
-- **Any transaction over a threshold** (try $50 or $100) â you'll catch fraud immediately
-- **Low balance warning** â avoids overdraft fees
-- **Large purchases** â real-time visibility into your account
-- **Login from new device** â immediately know if someone else accesses your account
-- **Transfers out of your account** â the most important one for catching fraud
+- **Any transaction over a threshold** (try $50 or $100) — you'll catch fraud immediately
+- **Low balance warning** — avoids overdraft fees
+- **Large purchases** — real-time visibility into your account
+- **Login from new device** — immediately know if someone else accesses your account
+- **Transfers out of your account** — the most important one for catching fraud
 
 Choose to receive alerts via app notification (best), email, or text.
 
@@ -61,13 +61,13 @@ Choose to receive alerts via app notification (best), email, or text.
 
 Zelle is a bank-to-bank transfer service built into most major US bank apps. It's fast (usually instant), free, and safe when used with people you know and trust.
 
-**Most banks already have Zelle built in.** Look for it in your bank app â you don't usually need to create a separate Zelle account.
+**Most banks already have Zelle built in.** Look for it in your bank app — you don't usually need to create a separate Zelle account.
 
 1. In your bank app, find "Send Money" or "Zelle"
 2. Enroll with your phone number or email
 3. Verify with a code sent to that number/email
 
-**To send money:** Enter the recipient's phone number or email â enter the amount â send. They'll receive the money in their bank account, often in minutes.
+**To send money:** Enter the recipient's phone number or email → enter the amount → send. They'll receive the money in their bank account, often in minutes.
 
 **Zelle warning:** Zelle payments are immediate and irreversible. There's no "undo." Only send money to people you know personally. Scammers frequently use Zelle because transfers can't be cancelled. Your bank has limited ability to help you recover money sent via Zelle to a stranger.
 
@@ -84,18 +84,18 @@ Venmo is the most popular peer-to-peer payment app in the US. It's owned by PayP
 2. Create an account with your phone number and email
 3. Link your bank account (enter routing and account numbers) or debit card
 
-**Your privacy settings are wrong by default â fix this first:**
+**Your privacy settings are wrong by default — fix this first:**
 - Venmo's default setting makes all your transactions visible to the public. This means anyone can see who you're paying and why.
-- Tap the menu icon â Settings â Privacy â Default Privacy Setting â **Change to "Private"**
-- Also change "Past Transactions" to private â this covers your history
+- Tap the menu icon → Settings → Privacy → Default Privacy Setting → **Change to "Private"**
+- Also change "Past Transactions" to private — this covers your history
 
 **Using Venmo:**
-- Tap "Pay or Request" â search for someone by username, name, phone, or email
+- Tap "Pay or Request" → search for someone by username, name, phone, or email
 - Enter amount, add a description (emoji is fine if you prefer not to explain)
 - Choose Pay or Request
 - Confirm with your PIN, Face ID, or fingerprint
 
-Venmo keeps money in your Venmo balance unless you transfer it. To transfer to your bank: tap "Transfer to Bank" â standard transfer (1-3 days) is free; instant transfer costs a small fee (1.75%).
+Venmo keeps money in your Venmo balance unless you transfer it. To transfer to your bank: tap "Transfer to Bank" — standard transfer (1-3 days) is free; instant transfer costs a small fee (1.75%).
 
 ### Cash App
 
@@ -118,14 +118,14 @@ PayPal is the oldest major payment platform and has the most consumer protection
 - Purchasing from smaller or less-known online stores
 - Buying on eBay
 - Sending money internationally
-- When a site offers PayPal as a payment option â it means your card number isn't shared with that site
+- When a site offers PayPal as a payment option — it means your card number isn't shared with that site
 
 **Buyer protection:** PayPal offers "Purchase Protection" on most transactions. If an item doesn't arrive or isn't as described, you can open a dispute and typically get your money back. This is a significant advantage over paying by bank transfer or cash.
 
 **How to dispute a charge:**
-1. PayPal.com â Activity â find the transaction â "Report a Problem"
+1. PayPal.com → Activity → find the transaction → "Report a Problem"
 2. Choose the issue type: "I didn't receive my item" or "Item significantly not as described"
-3. Try to resolve with the seller first â PayPal requires this
+3. Try to resolve with the seller first — PayPal requires this
 4. If unresolved after a few days, escalate to a PayPal claim
 
 ### Apple Pay and Google Pay
@@ -133,7 +133,7 @@ PayPal is the oldest major payment platform and has the most consumer protection
 These let you pay with your phone at physical stores, without taking out your wallet.
 
 **Apple Pay setup:**
-1. Open Wallet app (the icon with cards) â tap the + sign â follow prompts to add your debit or credit card
+1. Open Wallet app (the icon with cards) → tap the + sign → follow prompts to add your debit or credit card
 2. Take a photo of your card or enter numbers manually
 3. Your bank will verify the addition (may send a text code)
 
@@ -144,7 +144,7 @@ These let you pay with your phone at physical stores, without taking out your wa
 - You'll feel a gentle vibration and hear a beep when payment is accepted
 
 **Google Pay setup:**
-1. Open Google Pay or Google Wallet app â tap "Payment methods" â "Add card"
+1. Open Google Pay or Google Wallet app → tap "Payment methods" → "Add card"
 2. Enter card details or take a photo
 3. Bank verifies
 
@@ -157,7 +157,7 @@ These let you pay with your phone at physical stores, without taking out your wa
 
 ### Tap to Pay with Physical Cards
 
-Most newer debit and credit cards have a contactless payment chip â look for the wave symbol on your card.
+Most newer debit and credit cards have a contactless payment chip — look for the wave symbol on your card.
 
 To use: Hold your card flat over the payment terminal's reader (same wave symbol) for 1-2 seconds. No PIN required for most purchases under $100. Faster than inserting your chip.
 
@@ -170,18 +170,18 @@ To use: Hold your card flat over the payment terminal's reader (same wave symbol
 **Use credit cards for online shopping, not debit cards.** This is one of the most important pieces of financial advice in this guide.
 
 **Why:**
-- Credit cards have federal protection under the Fair Credit Billing Act. If fraud occurs, you dispute the charge and the card company investigates â you're not out any money while this happens.
+- Credit cards have federal protection under the Fair Credit Billing Act. If fraud occurs, you dispute the charge and the card company investigates — you're not out any money while this happens.
 - Debit card fraud directly drains your bank account. Even with protections, you may be waiting days or weeks for the money to be returned while bills are due.
 - Credit cards also have zero liability fraud policies, meaning $0 out of pocket for unauthorized charges if reported promptly.
 
-If you don't have a credit card or prefer not to use one, check if your bank offers a "virtual card number" feature â see below.
+If you don't have a credit card or prefer not to use one, check if your bank offers a "virtual card number" feature — see below.
 
 ### Virtual Card Numbers
 
-Some banks and services let you generate a temporary card number for online purchases. The number is connected to your real card but different from it â so if that store gets hacked, your real card isn't exposed.
+Some banks and services let you generate a temporary card number for online purchases. The number is connected to your real card but different from it — so if that store gets hacked, your real card isn't exposed.
 
 **Where to get them:**
-- **Privacy.com** â Free service that generates virtual cards. You can set spending limits and delete the card after one use. Works with any bank.
+- **Privacy.com** — Free service that generates virtual cards. You can set spending limits and delete the card after one use. Works with any bank.
 - Many major credit card issuers have their own virtual number feature (Citi Virtual Account Numbers, Capital One Eno)
 
 ### Checking for HTTPS
@@ -191,9 +191,9 @@ Before entering any payment information on a website, verify it's secure:
 - Look for the padlock icon in the URL bar
 - The site name in the URL should match the store you think you're on
 
-**Example:** If you're buying from Amazon, the URL should start with **https://www.amazon.com** â not amazon.com.deals-site.ru or similar tricks.
+**Example:** If you're buying from Amazon, the URL should start with **https://www.amazon.com** — not amazon.com.deals-site.ru or similar tricks.
 
-HTTPS means the connection is encrypted, so your payment information can't be intercepted. It does NOT mean the site is legitimate â scam sites use HTTPS too. Check the URL carefully.
+HTTPS means the connection is encrypted, so your payment information can't be intercepted. It does NOT mean the site is legitimate — scam sites use HTTPS too. Check the URL carefully.
 
 ### Saving Payment Info on Sites
 
@@ -201,18 +201,18 @@ HTTPS means the connection is encrypted, so your payment information can't be in
 
 **When to be cautious:** Small online stores, new-to-you sites, one-time purchases. Use PayPal or a virtual card number instead of entering your real card directly.
 
-**Your browser's saved card feature:** Chrome and Safari both offer to save your credit card. This is convenient and reasonably secure â the data is encrypted and tied to your device. Acceptable for everyday use.
+**Your browser's saved card feature:** Chrome and Safari both offer to save your credit card. This is convenient and reasonably secure — the data is encrypted and tied to your device. Acceptable for everyday use.
 
 ### Disputing Charges
 
 If you see a charge you don't recognize or didn't authorize:
 1. First, check if it might be a subscription you forgot about
-2. Search the merchant name â sometimes it's a legal business name different from what you recognize
+2. Search the merchant name — sometimes it's a legal business name different from what you recognize
 3. Contact your card company (number on the back of your card) to dispute
 4. You have 60 days from the statement date to dispute billing errors (by law)
 5. For credit cards: the card company will typically issue a provisional credit while they investigate
 
-**For debit cards:** Report promptly â you have 2 business days to report for full $0 liability; up to 60 days for limited liability.
+**For debit cards:** Report promptly — you have 2 business days to report for full $0 liability; up to 60 days for limited liability.
 
 ---
 
@@ -223,11 +223,11 @@ If you see a charge you don't recognize or didn't authorize:
 Subscriptions are sneaky. People often have $200/month going out in small amounts they've forgotten about.
 
 **Methods:**
-1. **Check your credit card statements** â month by month, flag anything recurring
+1. **Check your credit card statements** — month by month, flag anything recurring
 2. **Check your email** for "Your subscription is confirmed" and "Receipt from..." messages
-3. **iPhone:** Settings â tap your name â Subscriptions â shows all App Store subscriptions
-4. **Android:** Google Play Store â Profile icon â Payments & Subscriptions â Subscriptions
-5. **Rocket Money or Truebill** â free apps that scan your bank statements and find subscriptions
+3. **iPhone:** Settings → tap your name → Subscriptions — shows all App Store subscriptions
+4. **Android:** Google Play Store → Profile icon → Payments & Subscriptions → Subscriptions
+5. **Rocket Money or Truebill** — free apps that scan your bank statements and find subscriptions
 
 Common forgotten subscriptions: streaming services from trials, news sites, gaming services, cloud storage upgrades, app subscriptions, fitness apps.
 
@@ -240,9 +240,9 @@ Companies use many tricks to make cancellation difficult:
 * **Phone-only cancellations:** Some services require you to call. They're counting on you not wanting to deal with it.
 * **Making you click through multiple "Are you sure?" screens:** Keep clicking.
 
-**The nuclear option for online subscriptions:** Contact your credit card company and request they block charges from a specific merchant. Use this only when you genuinely can't cancel through normal means â it can cause complications.
+**The nuclear option for online subscriptions:** Contact your credit card company and request they block charges from a specific merchant. Use this only when you genuinely can't cancel through normal means — it can cause complications.
 
-**Apple and Google subscriptions:** Cancel through the platform, not just the app. Deleting an app doesn't cancel its subscription. iPhone: Settings â your name â Subscriptions. Android: Play Store â Subscriptions.
+**Apple and Google subscriptions:** Cancel through the platform, not just the app. Deleting an app doesn't cancel its subscription. iPhone: Settings → your name → Subscriptions. Android: Play Store → Subscriptions.
 
 ### Free Trial Traps
 
@@ -250,8 +250,8 @@ Companies use many tricks to make cancellation difficult:
 
 **How to handle them:**
 1. Set a calendar reminder for 2 days before the trial ends
-2. Or use Privacy.com to create a virtual card with a $1 limit â the trial works, but the charge fails when billing starts
-3. Cancel immediately after signing up, if your intention is always to cancel â most services let you use the trial to its end even after cancelling
+2. Or use Privacy.com to create a virtual card with a $1 limit — the trial works, but the charge fails when billing starts
+3. Cancel immediately after signing up, if your intention is always to cancel — most services let you use the trial to its end even after cancelling
 
 ---
 
@@ -279,13 +279,13 @@ Memorize this. Banks, the IRS, Social Security Administration, and Microsoft do 
 - To move money to a "safe account" because yours is "compromised"
 - Wire transfers
 
-If you receive a call like this â hang up immediately. Call your bank back using the number on the back of your card. The real bank will understand.
+If you receive a call like this — hang up immediately. Call your bank back using the number on the back of your card. The real bank will understand.
 
 ### Fraud Alerts: Setting Them Up and Responding
 
 A fraud alert tells creditors to take extra steps to verify your identity before opening new credit accounts in your name.
 
-**Set a free initial fraud alert:** Go to one of the three credit bureaus â Equifax, Experian, or TransUnion â and request a fraud alert. When you set it with one, they notify the other two.
+**Set a free initial fraud alert:** Go to one of the three credit bureaus — Equifax, Experian, or TransUnion — and request a fraud alert. When you set it with one, they notify the other two.
 
 * Equifax: equifax.com
 * Experian: experian.com
@@ -301,7 +301,7 @@ Initial fraud alerts last 1 year. Victims of identity theft can get 7-year alert
 
 ### Freezing Your Credit
 
-A credit freeze prevents anyone â including you â from opening new credit accounts in your name. It's the strongest protection against identity theft.
+A credit freeze prevents anyone — including you — from opening new credit accounts in your name. It's the strongest protection against identity theft.
 
 **Cost:** Free, by federal law
 
@@ -318,15 +318,15 @@ You can temporarily unfreeze for a few days when applying for a loan, then refre
 
 ### If Your Card Is Stolen: Step by Step
 
-1. **Call your bank immediately** â number on the back of your card or your bank's website. Request the card be cancelled and a new one issued. Note the time you called.
-2. **Review recent transactions** â look for anything you don't recognize. Dispute any fraudulent charges.
+1. **Call your bank immediately** — number on the back of your card or your bank's website. Request the card be cancelled and a new one issued. Note the time you called.
+2. **Review recent transactions** — look for anything you don't recognize. Dispute any fraudulent charges.
 3. **Change your online banking password** and enable 2FA if you haven't already.
-4. **Check your other accounts** â if one card is compromised, check whether the same password was used elsewhere.
-5. **Update automatic payments** â any bills auto-charged to that card will now fail. Update them when your new card arrives.
-6. **If your physical wallet was stolen:** Also contact other card issuers, check if your driver's license was in the wallet (contact your DMV), and consider if your Social Security card was with it (it shouldn't be â keep that at home).
-7. **File a police report** if your wallet or bag was physically stolen â some financial institutions require this for certain claims.
+4. **Check your other accounts** — if one card is compromised, check whether the same password was used elsewhere.
+5. **Update automatic payments** — any bills auto-charged to that card will now fail. Update them when your new card arrives.
+6. **If your physical wallet was stolen:** Also contact other card issuers, check if your driver's license was in the wallet (contact your DMV), and consider if your Social Security card was with it (it shouldn't be — keep that at home).
+7. **File a police report** if your wallet or bag was physically stolen — some financial institutions require this for certain claims.
 
-**Timeline:** New cards typically arrive in 5-7 business days via regular mail, 1-2 days for expedited delivery (sometimes free for first-time fraud victims â ask).
+**Timeline:** New cards typically arrive in 5-7 business days via regular mail, 1-2 days for expedited delivery (sometimes free for first-time fraud victims — ask).
 
 ---
 

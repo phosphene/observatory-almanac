@@ -1,8 +1,8 @@
-# January â Observatory Stats
+# January — Observatory Stats
 
 *Inspired by Harper's Index*
 
-*Observatory Statsâstyle statistics. One month. 31 days. No repeats.*
+*Observatory Stats–style statistics. One month. 31 days. No repeats.*
 
 ---
 
@@ -21,7 +21,7 @@
 * Percentage of people who make the same resolution two years in a row: 38%
 * Number of babies born worldwide on January 1: approximately 371,000
 * Approximate number of New Year's Day parades held globally: 500
-* Year the Gregorian calendar â which fixed January 1 as the new year â was adopted in England: 1752
+* Year the Gregorian calendar — which fixed January 1 as the new year — was adopted in England: 1752
 
 ---
 
@@ -29,7 +29,7 @@
 
 * Estimated number of Christmas trees still standing in U.S. homes on January 2: 25 million
 * Percentage of global email spam that originates from botnets: 45%
-* Year the first postage stamp â the Penny Black â was issued: 1840
+* Year the first postage stamp — the Penny Black — was issued: 1840
 * Average number of words a human speaks per day: 16,000
 * Number of bones in the human hand: 27
 * Weight of the world's largest recorded snowflake, in grams: 3
@@ -139,7 +139,7 @@
 * Percentage of humans who experience "chills" from music: 65%
 * Year the vinyl record was invented: 1948
 * Number of grooves on a standard vinyl LP per side: approximately 500
-* Speed at which a vinyl record rotates per minute: 33â
+* Speed at which a vinyl record rotates per minute: 33⅓
 * Estimated global revenue of the music streaming industry in 2023, in billions of dollars: 19.3
 
 ---

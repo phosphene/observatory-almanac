@@ -1,6 +1,6 @@
 # Streaming & Entertainment Setup
 
-Television has changed more in the last ten years than the previous fifty. Most people now have more options than they know what to do with â and more monthly bills than they'd like. This guide helps you get set up, understand your options, and manage the whole thing sensibly.
+Television has changed more in the last ten years than the previous fifty. Most people now have more options than they know what to do with — and more monthly bills than they'd like. This guide helps you get set up, understand your options, and manage the whole thing sensibly.
 
 ---
 
@@ -8,7 +8,7 @@ Television has changed more in the last ten years than the previous fifty. Most 
 
 ### Smart TV Apps vs. Streaming Devices
 
-**Smart TVs** have streaming apps built in. Plug it in and Netflix, Hulu, and others are already there. Convenient â but the built-in software often gets slow over time and may not be updated for as long as a dedicated streaming device would be.
+**Smart TVs** have streaming apps built in. Plug it in and Netflix, Hulu, and others are already there. Convenient — but the built-in software often gets slow over time and may not be updated for as long as a dedicated streaming device would be.
 
 **Streaming sticks and boxes** plug into an HDMI port on your TV and run independently of the TV's own software. They tend to be faster, get longer software support, and are easier to take to a hotel or guest room.
 
@@ -18,7 +18,7 @@ The major options:
 
 **Amazon Fire Stick:** Similar to Roku but tied to Amazon's ecosystem (Prime Video is front and center, Amazon Alexa built in). Fire Stick 4K Max is a good pick at $40-60. Best for: Amazon Prime members.
 
-**Apple TV:** The premium option ($130). Excellent if you have an iPhone â AirPlay works seamlessly, the interface is polished, and it gets long software support. Best for: iPhone users who want the nicest experience and don't mind the price.
+**Apple TV:** The premium option ($130). Excellent if you have an iPhone — AirPlay works seamlessly, the interface is polished, and it gets long software support. Best for: iPhone users who want the nicest experience and don't mind the price.
 
 **Chromecast with Google TV:** Good mid-tier option with Google Assistant. Unique in that you can also cast content directly from your phone. Around $50. Best for: Android users or Google ecosystem fans.
 
@@ -36,9 +36,9 @@ Typing with a remote is miserable. Streaming services know this and offer better
 
 ### Sound: What Are Your Options?
 
-**TV speakers:** Built-in speakers on flat TVs are often disappointing â thin sound, no bass. Fine for casual watching.
+**TV speakers:** Built-in speakers on flat TVs are often disappointing — thin sound, no bass. Fine for casual watching.
 
-**Soundbar:** A long speaker that sits under or in front of your TV. Major improvement over built-in speakers, adds some bass. Single-cable setup (either HDMI ARC or optical). Good options start around $100-150 (Yamaha, Vizio, Sony). The HDMI ARC connection is preferred over optical â check if your TV has an "HDMI ARC" or "HDMI eARC" port.
+**Soundbar:** A long speaker that sits under or in front of your TV. Major improvement over built-in speakers, adds some bass. Single-cable setup (either HDMI ARC or optical). Good options start around $100-150 (Yamaha, Vizio, Sony). The HDMI ARC connection is preferred over optical — check if your TV has an "HDMI ARC" or "HDMI eARC" port.
 
 **Bluetooth speaker:** A quality Bluetooth speaker paired to your TV can work, but there's often noticeable audio lag (the sound is slightly behind the video). Some pairings work fine; others don't. Not ideal for movies or dialogue-heavy content.
 
@@ -48,39 +48,39 @@ Typing with a remote is miserable. Streaming services know this and offer better
 
 ---
 
-## The Major Streaming Services â What's What
+## The Major Streaming Services — What's What
 
 There are too many streaming services. Here's an honest one-sentence description of each:
 
-**Netflix** â The original. Best for prestige dramas, international content, and exclusive movies. (~$7-23/month depending on plan)
+**Netflix** — The original. Best for prestige dramas, international content, and exclusive movies. (~$7-23/month depending on plan)
 
-**Disney+** â Everything Disney, Pixar, Marvel, Star Wars, and National Geographic. Essential if you have kids or are a Marvel/Star Wars fan. (~$8-14/month)
+**Disney+** — Everything Disney, Pixar, Marvel, Star Wars, and National Geographic. Essential if you have kids or are a Marvel/Star Wars fan. (~$8-14/month)
 
-**Hulu** â Good for current network TV shows the day after they air; also has originals. (~$8-18/month)
+**Hulu** — Good for current network TV shows the day after they air; also has originals. (~$8-18/month)
 
-**Max (formerly HBO Max)** â HBO content (excellent prestige TV and movies) plus Warner Bros. films; the most critically acclaimed catalog. (~$10-20/month)
+**Max (formerly HBO Max)** — HBO content (excellent prestige TV and movies) plus Warner Bros. films; the most critically acclaimed catalog. (~$10-20/month)
 
-**Amazon Prime Video** â Solid originals (The Boys, Reacher, Rings of Power) included with Amazon Prime membership. (~$9/month standalone or included in Prime at ~$14/month)
+**Amazon Prime Video** — Solid originals (The Boys, Reacher, Rings of Power) included with Amazon Prime membership. (~$9/month standalone or included in Prime at ~$14/month)
 
-**Apple TV+** â Fewer titles but high quality; strong in prestige drama and comedy. (~$10/month, often comes free with new Apple devices for a few months)
+**Apple TV+** — Fewer titles but high quality; strong in prestige drama and comedy. (~$10/month, often comes free with new Apple devices for a few months)
 
-**Peacock** â NBC content, older shows, some sports. Has a solid free tier with ads. (~$6-12/month)
+**Peacock** — NBC content, older shows, some sports. Has a solid free tier with ads. (~$6-12/month)
 
-**Paramount+** â CBS shows, Star Trek, Paramount movies, some sports. (~$6-12/month)
+**Paramount+** — CBS shows, Star Trek, Paramount movies, some sports. (~$6-12/month)
 
-**YouTube Premium** â Removes ads from YouTube and YouTube Music, adds downloads. ($14/month â worth it if you watch a lot of YouTube)
+**YouTube Premium** — Removes ads from YouTube and YouTube Music, adds downloads. ($14/month — worth it if you watch a lot of YouTube)
 
 ### Free Ad-Supported Services
 
 These cost nothing and have actual good content:
 
-**Tubi** â Enormous library of movies and older TV shows, completely free. Owned by Fox. Underrated.
+**Tubi** — Enormous library of movies and older TV shows, completely free. Owned by Fox. Underrated.
 
-**Pluto TV** â Hundreds of "channels" that run content continuously (like old TV) plus on-demand. Also free.
+**Pluto TV** — Hundreds of "channels" that run content continuously (like old TV) plus on-demand. Also free.
 
-**Amazon Freevee** â Amazon's free tier with rotating content including some Prime originals. Accessible from the Prime Video app.
+**Amazon Freevee** — Amazon's free tier with rotating content including some Prime originals. Accessible from the Prime Video app.
 
-**Peacock (free tier)** â NBC and some Peacock content with ads.
+**Peacock (free tier)** — NBC and some Peacock content with ads.
 
 **If you're on a budget:** Tubi plus the free Peacock tier covers a surprising amount of content at zero cost.
 
@@ -88,13 +88,13 @@ These cost nothing and have actual good content:
 
 If you want live news, sports, and network channels without a cable subscription:
 
-**YouTube TV** â The most popular cable replacement. ~75 channels including local networks, ESPN, CNN, HGTV. Unlimited DVR storage. ~$73/month. Best overall pick.
+**YouTube TV** — The most popular cable replacement. ~75 channels including local networks, ESPN, CNN, HGTV. Unlimited DVR storage. ~$73/month. Best overall pick.
 
-**Hulu + Live TV** â Similar to YouTube TV, also includes Disney+ and ESPN+. ~$76/month. Good value if you want Disney+ bundled in.
+**Hulu + Live TV** — Similar to YouTube TV, also includes Disney+ and ESPN+. ~$76/month. Good value if you want Disney+ bundled in.
 
-**Sling TV** â More affordable entry point at ~$40-55/month. Two different package options (Orange/Blue) with different channel lineups. Good for sports specifically; limited local channels.
+**Sling TV** — More affordable entry point at ~$40-55/month. Two different package options (Orange/Blue) with different channel lineups. Good for sports specifically; limited local channels.
 
-**DirecTV Stream** â Higher cost (~$80+/month) but good local channel coverage in most markets.
+**DirecTV Stream** — Higher cost (~$80+/month) but good local channel coverage in most markets.
 
 **Reality check on cost:** YouTube TV and Hulu Live cost more than basic cable in many areas. If you're switching from cable to save money, calculate carefully. The savings come from flexibility (no contracts, cancel anytime) and often from dropping premium channels you're not watching.
 
@@ -104,15 +104,15 @@ If you want live news, sports, and network channels without a cable subscription
 
 ### The Options
 
-**Spotify** â The most popular service worldwide. Best discovery features, strongest algorithm for finding music you'll like. Free tier available (with ads and shuffle-only on mobile). $11/month for premium.
+**Spotify** — The most popular service worldwide. Best discovery features, strongest algorithm for finding music you'll like. Free tier available (with ads and shuffle-only on mobile). $11/month for premium.
 
-**Apple Music** â Best for iPhone users; tight integration with Siri, the Music app, and Apple CarPlay. No free tier. $11/month. Also has spatial audio with lossless quality.
+**Apple Music** — Best for iPhone users; tight integration with Siri, the Music app, and Apple CarPlay. No free tier. $11/month. Also has spatial audio with lossless quality.
 
-**YouTube Music** â Comes with YouTube Premium. Has every song on YouTube (including live versions and rarities official services don't have). $11/month standalone.
+**YouTube Music** — Comes with YouTube Premium. Has every song on YouTube (including live versions and rarities official services don't have). $11/month standalone.
 
-**Amazon Music** â Included with Amazon Prime at a basic tier; Unlimited tier adds the full catalog for $9/month. Good value for Prime members.
+**Amazon Music** — Included with Amazon Prime at a basic tier; Unlimited tier adds the full catalog for $9/month. Good value for Prime members.
 
-**Tidal** â Best audio quality (higher-quality files than competitors). Music nerd choice. $11/month for HiFi, $23/month for lossless.
+**Tidal** — Best audio quality (higher-quality files than competitors). Music nerd choice. $11/month for HiFi, $23/month for lossless.
 
 **Which to pick:** Spotify for most people (best recommendations, most users, works on everything). Apple Music if you're deep in the Apple ecosystem. YouTube Music if you already pay for YouTube Premium.
 
@@ -124,11 +124,11 @@ If you want live news, sports, and network channels without a cable subscription
 
 ### Downloading for Offline Listening
 
-All major paid services let you download music and podcasts for offline use â no internet required.
+All major paid services let you download music and podcasts for offline use — no internet required.
 
-**Spotify:** Tap the three dots on a playlist or album â Download. The download icon appears in the library. Uses your phone storage â a playlist of 500 songs takes about 1-2 GB.
+**Spotify:** Tap the three dots on a playlist or album → Download. The download icon appears in the library. Uses your phone storage — a playlist of 500 songs takes about 1-2 GB.
 
-**Apple Music:** Tap the cloud download icon next to a song, album, or playlist. Alternatively: Settings â Music â Automatic Downloads.
+**Apple Music:** Tap the cloud download icon next to a song, album, or playlist. Alternatively: Settings → Music → Automatic Downloads.
 
 **Practical use:** Download playlists before flights, road trips, or anywhere with unreliable data. You can also limit streaming quality in settings to save data if you have a limited plan.
 
@@ -136,9 +136,9 @@ All major paid services let you download music and podcasts for offline use â
 
 **Bluetooth speakers:** Open Bluetooth settings on your phone, put the speaker in pairing mode, connect once. After that, they connect automatically.
 
-**Car via Bluetooth:** Phone settings â Bluetooth â tap your car's system when it appears. Play music in your app; it routes through car speakers. **Apple CarPlay (iPhone)** and **Android Auto** offer deeper integration with navigation and voice control built in.
+**Car via Bluetooth:** Phone settings → Bluetooth → tap your car's system when it appears. Play music in your app; it routes through car speakers. **Apple CarPlay (iPhone)** and **Android Auto** offer deeper integration with navigation and voice control built in.
 
-**Car via USB:** Plug your phone into the car's USB port â often enables CarPlay or Android Auto depending on your car. Also charges the phone.
+**Car via USB:** Plug your phone into the car's USB port — often enables CarPlay or Android Auto depending on your car. Also charges the phone.
 
 **Smart speakers (Alexa, Google Home):** Say "Alexa, play [artist] on Spotify" or link your streaming service in the Alexa or Google Home app. You can also control playback from the streaming app by choosing the speaker as the playback device.
 
@@ -150,9 +150,9 @@ All major paid services let you download music and podcasts for offline use â
 
 Content moves between services constantly. Something available on Netflix last month may have moved to Peacock.
 
-**JustWatch** (free app and website) â Type any movie or show to see every service that currently has it and at what tier. The best solution to "where did that show go?"
+**JustWatch** (free app and website) — Type any movie or show to see every service that currently has it and at what tier. The best solution to "where did that show go?"
 
-**Reelgood** â Similar. Lets you track a watchlist across services.
+**Reelgood** — Similar. Lets you track a watchlist across services.
 
 ### Password Sharing: Post-Crackdown Reality
 
@@ -168,7 +168,7 @@ Most major services have now cracked down on sharing passwords outside your hous
 
 ### Cancelling Without Losing Watchlist and History
 
-**Netflix:** Before cancelling, export your viewing history if you want records: Account â Viewing Activity â Download All. Your watchlist isn't exportable. After cancelling, you have until the end of the billing period to watch. If you resubscribe within a certain window, your history is restored.
+**Netflix:** Before cancelling, export your viewing history if you want records: Account → Viewing Activity → Download All. Your watchlist isn't exportable. After cancelling, you have until the end of the billing period to watch. If you resubscribe within a certain window, your history is restored.
 
 **Hulu:** Your watchlist and history persist for a while after cancellation. Resubscribing usually restores them.
 
@@ -191,7 +191,7 @@ Most streaming services offer family or household plans that are cheaper per per
 
 **Disney+ Duo or trio bundles:** Disney+ + Hulu + ESPN+ bundles for less than subscribing separately.
 
-**Practical advice:** If two or more people in your household each pay separately for the same service, check if a family plan is available â you'll almost certainly save money.
+**Practical advice:** If two or more people in your household each pay separately for the same service, check if a family plan is available — you'll almost certainly save money.
 
 ---
 
@@ -199,11 +199,11 @@ Most streaming services offer family or household plans that are cheaper per per
 
 **Data usage:** Streaming video uses substantial data. A single hour of HD streaming uses about 3 GB. 4K uses 7-10 GB per hour. If you have a data cap on your home internet (AT&T and some others have caps around 1.5 TB), monitor your usage. Lower video quality in each service's settings to reduce data use.
 
-**Reducing buffering:** Buffering (the spinning circle) usually means slow internet or WiFi. Try: moving closer to your router, connecting via ethernet cable instead of WiFi, reducing video quality (Standard instead of 4K), or streaming during off-peak hours. Run speedtest.net â you need at least 25 Mbps for 4K streaming.
+**Reducing buffering:** Buffering (the spinning circle) usually means slow internet or WiFi. Try: moving closer to your router, connecting via ethernet cable instead of WiFi, reducing video quality (Standard instead of 4K), or streaming during off-peak hours. Run speedtest.net — you need at least 25 Mbps for 4K streaming.
 
-**Accessibility features:** Most smart TVs and streaming devices have subtitle settings. Look for CC (closed captions) in the video player. Netflix offers audio description (a narrator describes what's happening on screen) in many titles â useful for vision-impaired viewers.
+**Accessibility features:** Most smart TVs and streaming devices have subtitle settings. Look for CC (closed captions) in the video player. Netflix offers audio description (a narrator describes what's happening on screen) in many titles — useful for vision-impaired viewers.
 
-**Remote control app:** The physical remotes that come with streaming sticks get lost. Download the Roku app, Fire TV app, or Google TV app on your phone â they all include remote control functionality.
+**Remote control app:** The physical remotes that come with streaming sticks get lost. Download the Roku app, Fire TV app, or Google TV app on your phone — they all include remote control functionality.
 
 ---
 

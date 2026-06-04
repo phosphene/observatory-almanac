@@ -1,13 +1,13 @@
 # Greatest Films of All Time
 
-*From The Observatory Almanac â Cultural Pulse*
+*From The Observatory Almanac — Cultural Pulse*
 
 ---
 
 > *"Cinema is a mirror by which we often see ourselves."*
-> â Martin Scorsese
+> — Martin Scorsese
 
-Film is the defining art form of the twentieth century â and one of the most vital of the twenty-first. This chapter draws from the two most respected critical surveys in film history, supplemented by decade-by-decade highlights, and dedicated canons for documentary, animation, and international cinema.
+Film is the defining art form of the twentieth century — and one of the most vital of the twenty-first. This chapter draws from the two most respected critical surveys in film history, supplemented by decade-by-decade highlights, and dedicated canons for documentary, animation, and international cinema.
 
 ---
 
@@ -23,7 +23,7 @@ The American Film Institute's survey of 1,500 film artists and leaders to select
 | 4 | Gone with the Wind | 1939 | Victor Fleming | Epic Civil War-era romance, spectacular in scale and troubling in legacy. |
 | 5 | Lawrence of Arabia | 1962 | David Lean | The enigmatic T.E. Lawrence's desert campaign, rendered in breathtaking widescreen. |
 | 6 | The Wizard of Oz | 1939 | Victor Fleming | Dorothy's dreamscape journey remains the purest expression of Hollywood fantasy. |
-| 7 | The Graduate | 1967 | Mike Nichols | A young man's post-collegiate drift â a perfect document of Sixties disillusionment. |
+| 7 | The Graduate | 1967 | Mike Nichols | A young man's post-collegiate drift — a perfect document of Sixties disillusionment. |
 | 8 | On the Waterfront | 1954 | Elia Kazan | A dockworker's conscience awakens in the shadow of union corruption. |
 | 9 | Schindler's List | 1993 | Steven Spielberg | Holocaust history rendered with devastating intimacy and moral weight. |
 | 10 | Singin' in the Rain | 1952 | Stanley Donen, Gene Kelly | Hollywood's transition to sound retold as pure, exhilarating joy. |
@@ -33,33 +33,33 @@ The American Film Institute's survey of 1,500 film artists and leaders to select
 | 14 | Some Like It Hot | 1959 | Billy Wilder | Two musicians hide in an all-girl band; the funniest American film ever made. |
 | 15 | Star Wars | 1977 | George Lucas | Galaxy-spanning mythological adventure that transformed popular cinema. |
 | 16 | All About Eve | 1950 | Joseph L. Mankiewicz | Theater's backstabbing world dissected through the sharpest screenplay in Hollywood history. |
-| 17 | The African Queen | 1951 | John Huston | A spinster and a river rat navigate a steamer â and a war â in Africa. |
+| 17 | The African Queen | 1951 | John Huston | A spinster and a river rat navigate a steamer — and a war — in Africa. |
 | 18 | Psycho | 1960 | Alfred Hitchcock | The shower scene changed cinema; the psychology beneath it changed horror. |
 | 19 | Chinatown | 1974 | Roman Polanski | A private detective stumbles into Los Angeles corruption that goes all the way down. |
-| 20 | One Flew Over the Cuckoo's Nest | 1975 | MiloÅ¡ Forman | A rebellious patient challenges a psychiatric hospital's suffocating order. |
+| 20 | One Flew Over the Cuckoo's Nest | 1975 | Miloš Forman | A rebellious patient challenges a psychiatric hospital's suffocating order. |
 | 21 | The Grapes of Wrath | 1940 | John Ford | The Joad family's Great Depression migration is American tragedy at its noblest. |
 | 22 | 2001: A Space Odyssey | 1968 | Stanley Kubrick | Humanity's past and future collide in the most ambitious science fiction film ever made. |
 | 23 | The Maltese Falcon | 1941 | John Huston | Sam Spade pursues a jeweled bird through a fog of duplicity. |
 | 24 | Raging Bull | 1980 | Martin Scorsese | Jake LaMotta destroys everything he loves, including himself. |
 | 25 | E.T. the Extra-Terrestrial | 1982 | Steven Spielberg | A boy and an alien's friendship becomes a testament to wonder and loss. |
-| 26 | Dr. Strangelove | 1964 | Stanley Kubrick | Nuclear annihilation played as black comedy â and it still terrifies. |
+| 26 | Dr. Strangelove | 1964 | Stanley Kubrick | Nuclear annihilation played as black comedy — and it still terrifies. |
 | 27 | Bonnie and Clyde | 1967 | Arthur Penn | Outlaw glamour collides with brutal consequence in this New Hollywood landmark. |
 | 28 | Apocalypse Now | 1979 | Francis Ford Coppola | Vietnam through Conrad's *Heart of Darkness*: war as madness, myth, and corruption. |
 | 29 | Mr. Smith Goes to Washington | 1939 | Frank Capra | A naive senator takes on machine politics; idealism's most persuasive argument. |
 | 30 | The Treasure of the Sierra Madre | 1948 | John Huston | Gold turns three prospectors against each other in the Mexican mountains. |
 | 31 | Annie Hall | 1977 | Woody Allen | The romantic comedy deconstructed; a love story told in fragments of memory. |
 | 32 | The Godfather Part II | 1974 | Francis Ford Coppola | Michael Corleone's descent and Vito's rise intercut in a tragedy of empire. |
-| 33 | High Noon | 1952 | Fred Zinnemann | A marshal faces outlaws alone while the town watches â a Western about cowardice. |
+| 33 | High Noon | 1952 | Fred Zinnemann | A marshal faces outlaws alone while the town watches — a Western about cowardice. |
 | 34 | To Kill a Mockingbird | 1962 | Robert Mulligan | Atticus Finch defends a Black man in Depression-era Alabama; justice denied, dignity intact. |
 | 35 | It Happened One Night | 1934 | Frank Capra | The original screwball comedy; a reporter and a socialite flee across America. |
 | 36 | Midnight Cowboy | 1969 | John Schlesinger | A Texas naif and a dying hustler forge New York's most unlikely friendship. |
-| 37 | The Best Years of Our Lives | 1946 | William Wyler | Three veterans return home and struggle to find their place â an honest, humane masterwork. |
+| 37 | The Best Years of Our Lives | 1946 | William Wyler | Three veterans return home and struggle to find their place — an honest, humane masterwork. |
 | 38 | Double Indemnity | 1944 | Billy Wilder | An insurance salesman and a femme fatale plot the perfect murder. |
-| 39 | Doctor Zhivago | 1965 | David Lean | Love amid revolution in Russia â sweeping, elegiac, visually magnificent. |
+| 39 | Doctor Zhivago | 1965 | David Lean | Love amid revolution in Russia — sweeping, elegiac, visually magnificent. |
 | 40 | North by Northwest | 1959 | Alfred Hitchcock | An ad man mistaken for a spy endures the most exhilarating cross-country chase in cinema. |
 | 41 | West Side Story | 1961 | Jerome Robbins, Robert Wise | Romeo and Juliet in 1950s Manhattan; dance as language, tragedy as music. |
 | 42 | Rear Window | 1954 | Alfred Hitchcock | A photographer watches his neighbors through a lens and suspects murder. |
-| 43 | King Kong | 1933 | Merian C. Cooper | The original monster movie â and still one of the most mythologically resonant. |
+| 43 | King Kong | 1933 | Merian C. Cooper | The original monster movie — and still one of the most mythologically resonant. |
 | 44 | The Birth of a Nation | 1915 | D.W. Griffith | Technically revolutionary, morally reprehensible; cinema's original sin. |
 | 45 | A Streetcar Named Desire | 1951 | Elia Kazan | Blanche DuBois collides with Stanley Kowalski in a clash of delusion and desire. |
 | 46 | A Clockwork Orange | 1971 | Stanley Kubrick | Alex's ultraviolence and forced rehabilitation pose questions about free will and the state. |
@@ -67,16 +67,16 @@ The American Film Institute's survey of 1,500 film artists and leaders to select
 | 48 | Jaws | 1975 | Steven Spielberg | A great white shark terrorizes a beach town; the film that invented the summer blockbuster. |
 | 49 | Snow White and the Seven Dwarfs | 1937 | David Hand | The first animated feature and still one of its most enchanting. |
 | 50 | Butch Cassidy and the Sundance Kid | 1969 | George Roy Hill | Two outlaws outrun their era with grace, humor, and inevitable doom. |
-| 51 | The Philadelphia Story | 1940 | George Cukor | A divorced socialite faces her ex, fiancÃ©, and a reporter before her second wedding. |
+| 51 | The Philadelphia Story | 1940 | George Cukor | A divorced socialite faces her ex, fiancé, and a reporter before her second wedding. |
 | 52 | From Here to Eternity | 1953 | Fred Zinnemann | Pearl Harbor approaches as soldiers and their women navigate desire and duty. |
-| 53 | Amadeus | 1984 | MiloÅ¡ Forman | Salieri's jealous account of Mozart's divine, infuriating genius. |
+| 53 | Amadeus | 1984 | Miloš Forman | Salieri's jealous account of Mozart's divine, infuriating genius. |
 | 54 | All Quiet on the Western Front | 1930 | Lewis Milestone | German soldiers' idealism destroyed in the trenches of World War I. |
 | 55 | The Sound of Music | 1965 | Robert Wise | A von Trapp family story set to Rodgers and Hammerstein, and the Nazis can't ruin it. |
 | 56 | M*A*S\*H | 1970 | Robert Altman | Korean War surgeons cope with chaos through dark comedy; Vietnam's true subject. |
 | 57 | The Third Man | 1949 | Carol Reed | Vienna's ruins and a missing friend lead to a betrayal in the sewers. |
 | 58 | Fantasia | 1940 | Various | Disney's experimental fusion of animation and classical music remains extraordinary. |
 | 59 | Rebel Without a Cause | 1955 | Nicholas Ray | James Dean's alienated youth seared itself into American cultural memory. |
-| 60 | Raiders of the Lost Ark | 1981 | Steven Spielberg | Indiana Jones pursues a biblical artifact â adventure filmmaking at its purest. |
+| 60 | Raiders of the Lost Ark | 1981 | Steven Spielberg | Indiana Jones pursues a biblical artifact — adventure filmmaking at its purest. |
 | 61 | Vertigo | 1958 | Alfred Hitchcock | A detective's obsession with a woman he believes to be dead; Hitchcock's darkest film. |
 | 62 | Tootsie | 1982 | Sydney Pollack | A difficult actor disguises himself as a woman and discovers more than he bargained for. |
 | 63 | Stagecoach | 1939 | John Ford | Ford's genre-defining Western rode John Wayne to stardom. |
@@ -85,7 +85,7 @@ The American Film Institute's survey of 1,500 film artists and leaders to select
 | 66 | Network | 1976 | Sidney Lumet | A news anchor breaks down on air; prophecy dressed as satire. |
 | 67 | The Manchurian Candidate | 1962 | John Frankenheimer | A Korean War veteran is programmed as an assassin; paranoia at its finest. |
 | 68 | An American in Paris | 1951 | Vincente Minnelli | A painter in postwar Paris, a love triangle, and a seventeen-minute ballet. |
-| 69 | Shane | 1953 | George Stevens | A retired gunfighter helps homesteaders â the myth of the Western hero at its most lyrical. |
+| 69 | Shane | 1953 | George Stevens | A retired gunfighter helps homesteaders — the myth of the Western hero at its most lyrical. |
 | 70 | The French Connection | 1971 | William Friedkin | "Popeye" Doyle pursues heroin smugglers in New York's grittiest police thriller. |
 | 71 | Forrest Gump | 1994 | Robert Zemeckis | A simple man's life intersects with American history; loved and debated in equal measure. |
 | 72 | Ben-Hur | 1959 | William Wyler | Epic biblical spectacle with a chariot race that still thrills. |
@@ -126,10 +126,10 @@ The British Film Institute's *Sight & Sound* poll, conducted every decade, is wi
 
 | # | Title | Year | Director | Description |
 | --- | --- | --- | --- | --- |
-| 1 | Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles | 1975 | Chantal Akerman | Three days in a Brussels housewife's routine â the most radical film ever made. |
+| 1 | Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles | 1975 | Chantal Akerman | Three days in a Brussels housewife's routine — the most radical film ever made. |
 | 2 | Vertigo | 1958 | Alfred Hitchcock | Obsession, illusion, and misogyny in Hitchcock's most personal film. |
 | 3 | Citizen Kane | 1941 | Orson Welles | The American myth of the self-made man dissolved in a single whispered word. |
-| 4 | Tokyo Story | 1953 | YasujirÅ Ozu | Elderly parents visit their children; the gap between generations captured in still frames. |
+| 4 | Tokyo Story | 1953 | Yasujirō Ozu | Elderly parents visit their children; the gap between generations captured in still frames. |
 | 5 | In the Mood for Love | 2000 | Wong Kar-wai | Two neighbors suspect their spouses are having an affair; longing expressed through texture. |
 | 6 | 2001: A Space Odyssey | 1968 | Stanley Kubrick | The birth and possible death of human consciousness, on the largest possible canvas. |
 | 7 | Beau Travail | 1999 | Claire Denis | Foreign Legion soldiers in Djibouti; jealousy, discipline, and masculinity through bodies. |
@@ -138,11 +138,11 @@ The British Film Institute's *Sight & Sound* poll, conducted every decade, is wi
 | 10 | Singin' in the Rain | 1952 | Stanley Donen, Gene Kelly | Joy incarnate; also a surprisingly sharp satire of Hollywood. |
 | 11 | Sunrise: A Song of Two Humans | 1927 | F.W. Murnau | A farmer nearly kills his wife; German expressionism meets lyrical Americana. |
 | 12 | The Godfather | 1972 | Francis Ford Coppola | Power, family, and the American dream dressed in organized crime's dark suit. |
-| 13 | La RÃ¨gle du jeu | 1939 | Jean Renoir | A country house weekend exposes French society's hypocrisy and imminent collapse. |
-| 14 | Cleo from 5 to 7 | 1962 | AgnÃ¨s Varda | A singer waits for cancer results; two hours of Paris seen through new eyes. |
+| 13 | La Règle du jeu | 1939 | Jean Renoir | A country house weekend exposes French society's hypocrisy and imminent collapse. |
+| 14 | Cleo from 5 to 7 | 1962 | Agnès Varda | A singer waits for cancer results; two hours of Paris seen through new eyes. |
 | 15 | The Battle of Algiers | 1966 | Gillo Pontecorvo | The Algerian independence struggle recreated with documentary precision and moral complexity. |
 | 16 | Close-Up | 1990 | Abbas Kiarostami | A real court case about a man impersonating a director; reality and cinema refuse to separate. |
-| 17 | Histoire(s) du cinÃ©ma | 1988â1998 | Jean-Luc Godard | A video essay on cinema and the 20th century; Godard's essential late masterwork. |
+| 17 | Histoire(s) du cinéma | 1988–1998 | Jean-Luc Godard | A video essay on cinema and the 20th century; Godard's essential late masterwork. |
 | 18 | City Lights | 1931 | Charlie Chaplin | Chaplin's blind flower girl and the perfect final image of all silent cinema. |
 | 19 | Meshes of the Afternoon | 1943 | Maya Deren | Four minutes of dream logic that invented American experimental film. |
 | 20 | Andrei Rublev | 1966 | Andrei Tarkovsky | A medieval icon painter's spiritual journey through a Russia full of violence and beauty. |
@@ -150,13 +150,13 @@ The British Film Institute's *Sight & Sound* poll, conducted every decade, is wi
 | 22 | Au hasard Balthazar | 1966 | Robert Bresson | A donkey's life mirrors human suffering and grace; Bresson's most concentrated film. |
 | 23 | Pierrot le fou | 1965 | Jean-Luc Godard | A Parisian man flees his bourgeois life; Godard's most exuberant explosion. |
 | 24 | Do the Right Thing | 1989 | Spike Lee | A summer day in Brooklyn building toward inevitable racial violence. |
-| 25 | Apocalypse Now | 1979 | Francis Ford Coppola | Conrad, Vietnam, Wagner â civilization meeting its own darkness. |
+| 25 | Apocalypse Now | 1979 | Francis Ford Coppola | Conrad, Vietnam, Wagner — civilization meeting its own darkness. |
 
 ---
 
 ## Greatest Films by Decade
 
-### 1920s â The Silent Era
+### 1920s — The Silent Era
 
 The 1920s perfected the visual language of cinema before sound arrived to change everything.
 
@@ -171,7 +171,7 @@ The 1920s perfected the visual language of cinema before sound arrived to change
 | The Passion of Joan of Arc | 1928 | Carl Theodor Dreyer | Maria Falconetti's face is the entire history of suffering. |
 | Safety Last! | 1923 | Fred Newmeyer | Harold Lloyd hangs from a clockface; silent comedy's most iconic image. |
 
-### 1930s â Pre-War Hollywood and European Masters
+### 1930s — Pre-War Hollywood and European Masters
 
 | Title | Year | Director | Description |
 | --- | --- | --- | --- |
@@ -184,7 +184,7 @@ The 1920s perfected the visual language of cinema before sound arrived to change
 | Bride of Frankenstein | 1935 | James Whale | The rare sequel that surpasses the original; camp, horror, and pathos combined. |
 | Snow White and the Seven Dwarfs | 1937 | David Hand | The animated feature film was born; it arrived fully formed. |
 
-### 1940s â Wartime and Its Aftermath
+### 1940s — Wartime and Its Aftermath
 
 | Title | Year | Director | Description |
 | --- | --- | --- | --- |
@@ -193,17 +193,17 @@ The 1920s perfected the visual language of cinema before sound arrived to change
 | Double Indemnity | 1944 | Billy Wilder | Film noir crystallized in a single perfect film. |
 | The Third Man | 1949 | Carol Reed | Postwar Vienna; the cuckoo clock speech; zither music; Harry Lime. |
 | Great Expectations | 1946 | David Lean | Dickens rendered with gothic power and emotional precision. |
-| Late Spring | 1949 | YasujirÅ Ozu | A father must convince his daughter to marry; Ozu's first masterpiece. |
+| Late Spring | 1949 | Yasujirō Ozu | A father must convince his daughter to marry; Ozu's first masterpiece. |
 | Bicycle Thieves | 1948 | Vittorio De Sica | Italian neorealism at its humanist peak: a man and his son search Rome for a stolen bike. |
-| Children of Paradise | 1945 | Marcel CarnÃ© | Three hours of Paris theater, love, and tragedy made under Nazi occupation. |
+| Children of Paradise | 1945 | Marcel Carné | Three hours of Paris theater, love, and tragedy made under Nazi occupation. |
 
-### 1950s â Hollywood's Peak and World Cinema's Rise
+### 1950s — Hollywood's Peak and World Cinema's Rise
 
 | Title | Year | Director | Description |
 | --- | --- | --- | --- |
-| Tokyo Story | 1953 | YasujirÅ Ozu | Old parents, indifferent children; the gentlest possible examination of mortality. |
+| Tokyo Story | 1953 | Yasujirō Ozu | Old parents, indifferent children; the gentlest possible examination of mortality. |
 | Rear Window | 1954 | Alfred Hitchcock | The voyeur's film; cinema thinking about itself. |
-| Vertigo | 1958 | Alfred Hitchcock | Hitchcock's confession â and cinema's deepest look at male obsession. |
+| Vertigo | 1958 | Alfred Hitchcock | Hitchcock's confession — and cinema's deepest look at male obsession. |
 | Singin' in the Rain | 1952 | Stanley Donen, Gene Kelly | Hollywood's own mythology, celebrated and gently skewered. |
 | Pather Panchali | 1955 | Satyajit Ray | The first film of the Apu Trilogy; Indian cinema's international arrival. |
 | The Seven Samurai | 1954 | Akira Kurosawa | Seven warriors defend a village; the template for action ensemble films. |
@@ -211,22 +211,22 @@ The 1920s perfected the visual language of cinema before sound arrived to change
 | Wild Strawberries | 1957 | Ingmar Bergman | An elderly professor reflects on his life during a long drive; dreams and memory entwined. |
 | Some Like It Hot | 1959 | Billy Wilder | The perfect comedy, the perfect ending. |
 
-### 1960s â The Great Explosion
+### 1960s — The Great Explosion
 
 | Title | Year | Director | Description |
 | --- | --- | --- | --- |
-| 8Â½ | 1963 | Federico Fellini | A director out of ideas makes a film about a director out of ideas; autobiography as art. |
+| 8½ | 1963 | Federico Fellini | A director out of ideas makes a film about a director out of ideas; autobiography as art. |
 | Breathless | 1960 | Jean-Luc Godard | Jump cuts, Belmondo, Seberg; the French New Wave's opening salvo. |
 | 2001: A Space Odyssey | 1968 | Stanley Kubrick | The most technically audacious film ever made; still breathtaking. |
 | The Good, the Bad and the Ugly | 1966 | Sergio Leone | The Spaghetti Western's apotheosis; three men, one treasure, the Civil War as backdrop. |
 | Persona | 1966 | Ingmar Bergman | Two women merge identities; cinema as psychological experiment. |
 | Au hasard Balthazar | 1966 | Robert Bresson | A donkey's suffering contains all of human experience. |
 | Andrei Rublev | 1966 | Andrei Tarkovsky | Russia's spiritual heritage in blood, mud, and transcendence. |
-| Battle of Algiers | 1966 | Gillo Pontecorvo | Anticolonial struggle filmed like a documentary â and studied in military schools. |
+| Battle of Algiers | 1966 | Gillo Pontecorvo | Anticolonial struggle filmed like a documentary — and studied in military schools. |
 | Dr. Strangelove | 1964 | Stanley Kubrick | We learned to stop worrying and love the bomb, mostly. |
 | Do the Right Thing | 1989 | Spike Lee | *(Listed here for the 60s comparison; this film consciously engages the decade's civil rights legacy.)* |
 
-### 1970s â American Cinema's Golden Age
+### 1970s — American Cinema's Golden Age
 
 | Title | Year | Director | Description |
 | --- | --- | --- | --- |
@@ -240,7 +240,7 @@ The 1920s perfected the visual language of cinema before sound arrived to change
 | Network | 1976 | Sidney Lumet | Television devours itself and everything else. |
 | Nashville | 1975 | Robert Altman | Twenty-four characters converge on a country music festival. |
 
-### 1980s â Blockbusters and Art Cinema
+### 1980s — Blockbusters and Art Cinema
 
 | Title | Year | Director | Description |
 | --- | --- | --- | --- |
@@ -253,35 +253,35 @@ The 1920s perfected the visual language of cinema before sound arrived to change
 | The Right Stuff | 1983 | Philip Kaufman | The Mercury astronauts and Chuck Yeager; American heroism scrutinized. |
 | Ran | 1985 | Akira Kurosawa | King Lear in feudal Japan; war and old age on the largest possible canvas. |
 
-### 1990s â Global Cinema and the Indie Boom
+### 1990s — Global Cinema and the Indie Boom
 
 | Title | Year | Director | Description |
 | --- | --- | --- | --- |
 | Schindler's List | 1993 | Steven Spielberg | History as moral obligation; Spielberg's masterwork. |
 | Pulp Fiction | 1994 | Quentin Tarantino | Pop culture as cinema; structure as revelation. |
 | Goodfellas | 1990 | Martin Scorsese | The most kinetic crime film ever made. |
-| Three Colors: Blue | 1993 | Krzysztof KieÅlowski | Grief and freedom in post-Solidarity France. |
+| Three Colors: Blue | 1993 | Krzysztof Kieślowski | Grief and freedom in post-Solidarity France. |
 | Chungking Express | 1994 | Wong Kar-wai | Loneliness in Hong Kong, told in two vibrating, urgent stories. |
 | Secrets & Lies | 1996 | Mike Leigh | A Black woman discovers her birth mother is white; improvised family drama of shattering power. |
 | The Piano | 1993 | Jane Campion | A mute Scottish woman, her piano, and colonized New Zealand. |
 | Beau Travail | 1999 | Claire Denis | The Foreign Legion as a meditation on discipline, beauty, and masculinity. |
 | Fargo | 1996 | Joel & Ethan Coen | American crime in midwinter Minnesota; the Coens at their most precise. |
 
-### 2000s â Digital Age and World Cinema
+### 2000s — Digital Age and World Cinema
 
 | Title | Year | Director | Description |
 | --- | --- | --- | --- |
 | In the Mood for Love | 2000 | Wong Kar-wai | Repressed longing in 1960s Hong Kong; every frame is aching. |
 | Mulholland Drive | 2001 | David Lynch | Hollywood's dark dream of itself, and a woman's shattering. |
 | Spirited Away | 2001 | Hayao Miyazaki | A girl's journey through a spirit world; Japanese animation's supreme achievement. |
-| 4 Months, 3 Weeks and 2 Days | 2007 | Cristian Mungiu | An illegal abortion in CeauÈescu's Romania; unbearable tension, no relief. |
+| 4 Months, 3 Weeks and 2 Days | 2007 | Cristian Mungiu | An illegal abortion in Ceaușescu's Romania; unbearable tension, no relief. |
 | There Will Be Blood | 2007 | Paul Thomas Anderson | An oil prospector's religion is capitalism; one of the great American films. |
 | Eternal Sunshine of the Spotless Mind | 2004 | Michel Gondry | Memory, love, and the painful wisdom of regret. |
-| CachÃ© | 2005 | Michael Haneke | A bourgeois Parisian couple receives surveillance tapes; Algeria returns. |
+| Caché | 2005 | Michael Haneke | A bourgeois Parisian couple receives surveillance tapes; Algeria returns. |
 | Pan's Labyrinth | 2006 | Guillermo del Toro | A girl escapes Franco's Spain into a labyrinth of dark fairy tales. |
 | The New World | 2005 | Terrence Malick | Jamestown and the first meeting of America and England; rapturous and slow. |
 
-### 2010s â The Streaming Decade
+### 2010s — The Streaming Decade
 
 | Title | Year | Director | Description |
 | --- | --- | --- | --- |
@@ -289,20 +289,20 @@ The 1920s perfected the visual language of cinema before sound arrived to change
 | Moonlight | 2016 | Barry Jenkins | A Black man's coming-of-age in Miami told in three acts of stunning delicacy. |
 | Boyhood | 2014 | Richard Linklater | Filmed over twelve years; time itself becomes the subject. |
 | Mad Max: Fury Road | 2015 | George Miller | Non-stop post-apocalyptic action that is somehow also a feminist manifesto. |
-| Portrait of a Lady on Fire | 2019 | CÃ©line Sciamma | A painter falls in love with her subject; a film about looking and being looked at. |
+| Portrait of a Lady on Fire | 2019 | Céline Sciamma | A painter falls in love with her subject; a film about looking and being looked at. |
 | The Master | 2012 | Paul Thomas Anderson | A WWII veteran joins a cult leader; two performances of volcanic intensity. |
 | Parasite | 2019 | Bong Joon-ho | Class war between two Seoul families, told as comedy, thriller, and tragedy. |
-| Son of Saul | 2015 | LÃ¡szlÃ³ Nemes | The Holocaust rendered through a Sonderkommando's narrow, unblinking focus. |
-| Roma | 2018 | Alfonso CuarÃ³n | A domestic worker's life in 1970s Mexico City; memory as cinema. |
+| Son of Saul | 2015 | László Nemes | The Holocaust rendered through a Sonderkommando's narrow, unblinking focus. |
+| Roma | 2018 | Alfonso Cuarón | A domestic worker's life in 1970s Mexico City; memory as cinema. |
 
-### 2020s â A New Era
+### 2020s — A New Era
 
 | Title | Year | Director | Description |
 | --- | --- | --- | --- |
 | Memoria | 2021 | Apichatpong Weerasethakul | A Scottish woman in Colombia hears a sound that may be memory itself. |
 | Titane | 2021 | Julia Ducournau | Body horror and transformation; the most audacious Palme d'Or winner in years. |
 | The Power of the Dog | 2021 | Jane Campion | A repressed Montana rancher torments his brother's new wife; Campion's return. |
-| TÃ¡r | 2022 | Todd Field | A conductor's fall from grace; the most controversial film of its year. |
+| Tár | 2022 | Todd Field | A conductor's fall from grace; the most controversial film of its year. |
 | All Quiet on the Western Front | 2022 | Edward Berger | The anti-war novel filmed anew with 21st-century brutality. |
 | Aftersun | 2022 | Charlotte Wells | A daughter reconstructs a holiday with her father; memory and grief on Super 8. |
 | Past Lives | 2023 | Celine Song | First love, emigration, and the life not lived. |
@@ -363,7 +363,7 @@ The 1920s perfected the visual language of cinema before sound arrived to change
 | 47 | The Last Dance | 2020 | Jason Hehir | Michael Jordan and the 1990s Chicago Bulls dynasty. |
 | 48 | Crip Camp | 2020 | James LeBrecht | A 1970s summer camp for disabled teens becomes the seed of the disability rights movement. |
 | 49 | Summer of Soul | 2021 | Questlove | The 1969 Harlem Cultural Festival, buried for fifty years. |
-| 50 | All That Breathes | 2022 | Shaunak Sen | Two brothers in Delhi who rescue injured black kites â and breathe. |
+| 50 | All That Breathes | 2022 | Shaunak Sen | Two brothers in Delhi who rescue injured black kites — and breathe. |
 
 ---
 
@@ -384,7 +384,7 @@ The 1920s perfected the visual language of cinema before sound arrived to change
 | 11 | Up | 2009 | Pete Docter | The first ten minutes contain a complete lifetime. |
 | 12 | The Lion King | 1994 | Roger Allers, Rob Minkoff | Hamlet in the Serengeti; Disney's second golden age peak. |
 | 13 | Beauty and the Beast | 1991 | Gary Trousdale | The Disney Renaissance, fully realized. |
-| 14 | NausicaÃ¤ of the Valley of the Wind | 1984 | Hayao Miyazaki | Post-apocalyptic ecological hero; the film that led to Studio Ghibli. |
+| 14 | Nausicaä of the Valley of the Wind | 1984 | Hayao Miyazaki | Post-apocalyptic ecological hero; the film that led to Studio Ghibli. |
 | 15 | Howl's Moving Castle | 2004 | Hayao Miyazaki | A young woman cursed old; war and magic and love in a walking castle. |
 | 16 | The Iron Giant | 1999 | Brad Bird | A 1950s boy befriends a giant robot; "You are who you choose to be." |
 | 17 | Persepolis | 2007 | Marjane Satrapi | A girl grows up during the Iranian Revolution; the graphic memoir animated. |
@@ -410,9 +410,9 @@ The 1920s perfected the visual language of cinema before sound arrived to change
 | --- | --- | --- | --- | --- | --- |
 | 1 | The Seven Samurai | 1954 | Japan | Akira Kurosawa | The action film's DNA; seven warriors defend the weak. |
 | 2 | Rashomon | 1950 | Japan | Akira Kurosawa | The truth has four faces. |
-| 3 | La RÃ¨gle du jeu | 1939 | France | Jean Renoir | A country house comedy-tragedy; European civilization before the fall. |
-| 4 | 8Â½ | 1963 | Italy | Federico Fellini | Autobiography as dream; the most liberating film about creative block. |
-| 5 | Tokyo Story | 1953 | Japan | YasujirÅ Ozu | Family love and its inevitable limits. |
+| 3 | La Règle du jeu | 1939 | France | Jean Renoir | A country house comedy-tragedy; European civilization before the fall. |
+| 4 | 8½ | 1963 | Italy | Federico Fellini | Autobiography as dream; the most liberating film about creative block. |
+| 5 | Tokyo Story | 1953 | Japan | Yasujirō Ozu | Family love and its inevitable limits. |
 | 6 | Bicycle Thieves | 1948 | Italy | Vittorio De Sica | Neorealism's masterpiece: a stolen bicycle and a child who watches. |
 | 7 | Wild Strawberries | 1957 | Sweden | Ingmar Bergman | Old age, regret, and the possibility of grace. |
 | 8 | Pan's Labyrinth | 2006 | Spain/Mexico | Guillermo del Toro | Fascist Spain and fairy tale worlds; darkness in both. |
@@ -423,7 +423,7 @@ The 1920s perfected the visual language of cinema before sound arrived to change
 | 13 | Pather Panchali | 1955 | India | Satyajit Ray | Rural Bengal childhood; the beginning of world cinema's awareness of India. |
 | 14 | The Battle of Algiers | 1966 | Algeria/Italy | Gillo Pontecorvo | How to resist occupation; how to maintain it. |
 | 15 | Amarcord | 1973 | Italy | Federico Fellini | Childhood in Fascist Italy; memory made warm, funny, and terrible. |
-| 16 | Y Tu MamÃ¡ TambiÃ©n | 2001 | Mexico | Alfonso CuarÃ³n | Two boys and an older woman on a Mexican road trip; desire and death. |
+| 16 | Y Tu Mamá También | 2001 | Mexico | Alfonso Cuarón | Two boys and an older woman on a Mexican road trip; desire and death. |
 | 17 | Crouching Tiger, Hidden Dragon | 2000 | China/Taiwan/USA/HK | Ang Lee | Wuxia as emotional epic; love and duty in martial combat. |
 | 18 | City of God | 2002 | Brazil | Fernando Meirelles | Rio de Janeiro's favelas through two decades; kinetic, beautiful, horrifying. |
 | 19 | Incendies | 2010 | Canada/France | Denis Villeneuve | Twins discover their mother's Lebanese past; tragedy as Greek structure. |
@@ -431,5 +431,5 @@ The 1920s perfected the visual language of cinema before sound arrived to change
 
 ---
 
-*Part of The Observatory Almanac â Cultural Pulse*
+*Part of The Observatory Almanac — Cultural Pulse*
 *See also: Greatest Albums, Greatest Books, Release Radar*

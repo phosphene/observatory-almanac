@@ -1,35 +1,35 @@
 # Cultural Etiquette: 40+ Countries
 
-*Being a respectful traveler is not about knowing every rule â it is about approaching each culture with curiosity, humility, and the willingness to observe before acting.*
+*Being a respectful traveler is not about knowing every rule — it is about approaching each culture with curiosity, humility, and the willingness to observe before acting.*
 
 **Key to symbols:**
-- ð **Shoes off** at entry
-- ð **Shoes on** acceptable
-- ð¤ **Shake hands**
-- ð **Bow / namaste**
-- ð° **Tipping expected**
-- ð« **Tipping offensive**
+- 👟 **Shoes off** at entry
+- 👞 **Shoes on** acceptable
+- 🤝 **Shake hands**
+- 🙏 **Bow / namaste**
+- 💰 **Tipping expected**
+- 🚫 **Tipping offensive**
 
 ---
 
 ## EAST ASIA
 
-### ð¯ðµ Japan
+### 🇯🇵 Japan
 
-**Greeting:** Bow (ojigi). Depth indicates respect: 15Â° casual, 30Â° respectful, 45Â° deep apology or reverence. Handshakes with foreigners are acceptable. Never bow while shaking hands â it looks awkward.
+**Greeting:** Bow (ojigi). Depth indicates respect: 15° casual, 30° respectful, 45° deep apology or reverence. Handshakes with foreigners are acceptable. Never bow while shaking hands — it looks awkward.
 
-**Shoes:** ð Remove at home entrances (genkan), traditional ryokan, many temples, and some restaurants. Look for slippers by the door. Separate bathroom slippers are often provided â swap in and out.
+**Shoes:** 👟 Remove at home entrances (genkan), traditional ryokan, many temples, and some restaurants. Look for slippers by the door. Separate bathroom slippers are often provided — swap in and out.
 
 **Dining:**
-- Say *itadakimasu* before eating and *gochisÅsama deshita* after
+- Say *itadakimasu* before eating and *gochisōsama deshita* after
 - Never stick chopsticks upright in rice (funeral imagery)
 - Never pass food chopstick-to-chopstick (funeral ritual)
-- Slurping noodles is not rude â it is complimentary
+- Slurping noodles is not rude — it is complimentary
 - Do not eat or drink while walking
 
-**Tipping:** ð« Never tip. This can cause confusion and offense. Excellent service is expected as a matter of professional pride, not for extra compensation.
+**Tipping:** 🚫 Never tip. This can cause confusion and offense. Excellent service is expected as a matter of professional pride, not for extra compensation.
 
-**Gift giving:** Gifts are common and appreciated. Present and receive with both hands. Never give four items (death number). Wrap beautifully â presentation matters as much as content. Recipients often do not open gifts immediately.
+**Gift giving:** Gifts are common and appreciated. Present and receive with both hands. Never give four items (death number). Wrap beautifully — presentation matters as much as content. Recipients often do not open gifts immediately.
 
 **Major taboos:** Direct disagreement or saying "no" outright; asking personal questions too early; blowing nose in public (step away); speaking loudly on trains; tattoos may bar entry to onsens.
 
@@ -41,17 +41,17 @@
 
 ---
 
-### ð¨ð³ China
+### 🇨🇳 China
 
 **Greeting:** Handshake is now standard. A slight nod or bow is also appropriate. Business cards: offer and receive with both hands; study the card before putting it away.
 
-**Shoes:** Varies by household â follow the host's lead.
+**Shoes:** Varies by household — follow the host's lead.
 
 **Dining:**
-- The host pays â do not fight too hard over the bill (offer once or twice, then accept gracefully)
+- The host pays — do not fight too hard over the bill (offer once or twice, then accept gracefully)
 - Dishes are shared; do not take the last piece without offering it first
 - Leaving a small amount of food signals you were well-fed
-- Bones and seeds can be placed on the table or a side dish â spitting them out is common
+- Bones and seeds can be placed on the table or a side dish — spitting them out is common
 
 **Tipping:** Not traditionally expected. In tourist areas and Western-style restaurants, 10% is increasingly appreciated but not required.
 
@@ -67,17 +67,17 @@
 
 ---
 
-### ð°ð· South Korea
+### 🇰🇷 South Korea
 
-**Greeting:** A slight bow. Handshakes are common in business â often with the left hand supporting the right forearm as a sign of respect.
+**Greeting:** A slight bow. Handshakes are common in business — often with the left hand supporting the right forearm as a sign of respect.
 
-**Shoes:** ð Remove at traditional restaurants (floor seating), homes, and many guesthouses.
+**Shoes:** 👟 Remove at traditional restaurants (floor seating), homes, and many guesthouses.
 
 **Dining:**
 - The eldest or most senior person begins eating first
 - Use both hands when giving or receiving food/drink
 - Pouring drinks for others, not yourself, is the norm
-- Do not finish your drink completely â a full glass means you do not want more; empty means refill me
+- Do not finish your drink completely — a full glass means you do not want more; empty means refill me
 
 **Tipping:** Not expected or practiced. Servers may be confused or embarrassed.
 
@@ -93,15 +93,15 @@
 
 ---
 
-### ð®ð³ India
+### 🇮🇳 India
 
-**Greeting:** ð The *namaste* (palms together, slight bow) is universal and always appropriate. Handshakes are common among men in urban areas; wait for a woman to extend her hand first.
+**Greeting:** 🙏 The *namaste* (palms together, slight bow) is universal and always appropriate. Handshakes are common among men in urban areas; wait for a woman to extend her hand first.
 
-**Shoes:** ð Remove at all Hindu, Muslim, Sikh, and Jain religious sites. Remove before entering homes.
+**Shoes:** 👟 Remove at all Hindu, Muslim, Sikh, and Jain religious sites. Remove before entering homes.
 
 **Dining:**
 - Eat with the right hand (the left hand is considered unclean)
-- Accepting food or hospitality when offered is respectful â refusing can cause offense
+- Accepting food or hospitality when offered is respectful — refusing can cause offense
 - In many households, women eat after men
 - It is polite to leave a small amount on your plate
 
@@ -113,17 +113,17 @@
 
 **Dress code:** Conservative, especially for women; shoulders and knees covered at temples and mosques. Many temples require covering the head (scarves provided or bring your own).
 
-**Photography:** Always ask at temples. Never photograph military installations. Many people are happy to be photographed; some are not â read the situation.
+**Photography:** Always ask at temples. Never photograph military installations. Many people are happy to be photographed; some are not — read the situation.
 
 **Haggling:** Expected in markets and with auto-rickshaws. Agree on price before getting in any rickshaw or taxi without a meter.
 
 ---
 
-### ð¹ð­ Thailand
+### 🇹🇭 Thailand
 
-**Greeting:** ð The *wai* â palms pressed together, slight bow. Height of hands shows respect (forehead level for monks; chin level for elders and superiors; chest level for peers). Do not wai service staff who are serving you.
+**Greeting:** 🙏 The *wai* — palms pressed together, slight bow. Height of hands shows respect (forehead level for monks; chin level for elders and superiors; chest level for peers). Do not wai service staff who are serving you.
 
-**Shoes:** ð Remove before entering temples and homes.
+**Shoes:** 👟 Remove before entering temples and homes.
 
 **Dining:**
 - Spoons are the primary eating utensil; forks push food onto the spoon
@@ -131,9 +131,9 @@
 - It is impolite to waste food
 - Never drop or point chopsticks
 
-**Tipping:** 10â20 baht at casual restaurants; 10â15% at nicer establishments. Tipping is appreciated, not mandatory.
+**Tipping:** 10–20 baht at casual restaurants; 10–15% at nicer establishments. Tipping is appreciated, not mandatory.
 
-**Gift giving:** Bring fruits or pastries. Do not give marigolds (funerary). Wrap gifts â the act of wrapping shows care.
+**Gift giving:** Bring fruits or pastries. Do not give marigolds (funerary). Wrap gifts — the act of wrapping shows care.
 
 **Major taboos:** Criticizing or showing disrespect to the royal family is illegal and taken very seriously. Never touch someone's head (highest point, most sacred). Pointing feet at people or Buddha images is very rude.
 
@@ -145,18 +145,18 @@
 
 ---
 
-### ð»ð³ Vietnam
+### 🇻🇳 Vietnam
 
 **Greeting:** A slight bow and smile is universally safe. Handshakes are common in business. Older people are addressed with specific honorifics based on relative age.
 
-**Shoes:** ð Remove at temples, pagodas, and many homes.
+**Shoes:** 👟 Remove at temples, pagodas, and many homes.
 
 **Dining:**
 - Rice bowls are held up near the mouth
 - Offer food to elders before serving yourself
-- Refuse food at least once before accepting â a social ritual
+- Refuse food at least once before accepting — a social ritual
 
-**Tipping:** Not traditional but increasingly appreciated in tourist areas. 10â15% in tourist restaurants; tip guides generously.
+**Tipping:** Not traditional but increasingly appreciated in tourist areas. 10–15% in tourist restaurants; tip guides generously.
 
 **Gift giving:** Fruit, quality tea, or chocolates. Avoid handkerchiefs (associated with grief).
 
@@ -168,18 +168,18 @@
 
 ---
 
-### ð®ð© Indonesia
+### 🇮🇩 Indonesia
 
 **Greeting:** Handshake (light, with right hand). In Muslim areas, men may press the hand to the chest after shaking. Use "Selamat pagi/siang/malam" (morning/afternoon/evening).
 
-**Shoes:** ð Remove at mosques and many homes. Remove before entering a *rumah adat* (traditional house).
+**Shoes:** 👟 Remove at mosques and many homes. Remove before entering a *rumah adat* (traditional house).
 
 **Dining:**
 - Right hand for eating; left hand is unclean
 - Host usually pays
 - Saying "belum" (not yet) instead of "tidak" (no) when declining food is more polite
 
-**Tipping:** Not obligatory but appreciated â 5â10% in restaurants; tip guides, drivers.
+**Tipping:** Not obligatory but appreciated — 5–10% in restaurants; tip guides, drivers.
 
 **Gift giving:** Food gifts are welcome. Wrap everything. Avoid alcohol for Muslim hosts. Receive with right hand or both hands.
 
@@ -195,18 +195,18 @@
 
 ## MIDDLE EAST & SOUTH ASIA
 
-### ð¦ðª UAE (Dubai / Abu Dhabi)
+### 🇦🇪 UAE (Dubai / Abu Dhabi)
 
-**Greeting:** ð¤ Handshakes between men. Men should not extend hand to a woman unless she extends first. *As-salamu alaykum* is a respectful greeting.
+**Greeting:** 🤝 Handshakes between men. Men should not extend hand to a woman unless she extends first. *As-salamu alaykum* is a respectful greeting.
 
-**Shoes:** ð Remove at mosques.
+**Shoes:** 👟 Remove at mosques.
 
 **Dining:**
-- Accept hospitality â refusing tea or coffee is impolite
+- Accept hospitality — refusing tea or coffee is impolite
 - During Ramadan, do not eat, drink, or smoke in public during daylight hours
-- Alcohol is available in hotels and licensed establishments â not everywhere
+- Alcohol is available in hotels and licensed establishments — not everywhere
 
-**Tipping:** 10â15% at restaurants; taxi round-up. Tips are appreciated and common.
+**Tipping:** 10–15% at restaurants; taxi round-up. Tips are appreciated and common.
 
 **Gift giving:** Quality sweets or dates are excellent. Avoid alcohol (unless you know the recipient drinks). High-quality branded items are appreciated.
 
@@ -220,15 +220,15 @@
 
 ---
 
-### ð¸ð¦ Saudi Arabia
+### 🇸🇦 Saudi Arabia
 
 **Greeting:** Between men: handshake and perhaps touching cheeks. Men do not touch women in public.
 
-**Shoes:** ð Remove at mosques.
+**Shoes:** 👟 Remove at mosques.
 
 **Dining:**
 - Eat with right hand
-- Coffee (Arabic, cardamom-spiced) and dates offered at visits â always accept
+- Coffee (Arabic, cardamom-spiced) and dates offered at visits — always accept
 - Alcohol is prohibited
 
 **Tipping:** Not traditional but increasingly practiced; 10% appreciated in tourist-oriented restaurants.
@@ -239,28 +239,28 @@
 
 **Dress code:** Women should dress conservatively (abaya not legally required for tourists since 2019, but respectful). Men should not wear shorts in conservative areas.
 
-**Photography:** Very cautious with photography â ask before anything. No government buildings or religious sites.
+**Photography:** Very cautious with photography — ask before anything. No government buildings or religious sites.
 
 **Haggling:** Expected in traditional markets.
 
 ---
 
-### ð¹ð· Turkey
+### 🇹🇷 Turkey
 
 **Greeting:** Handshake is standard. Close friends may greet with kisses on both cheeks. *Merhaba* is a universal hello.
 
-**Shoes:** ð Remove at mosques. Follow the host's lead at homes.
+**Shoes:** 👟 Remove at mosques. Follow the host's lead at homes.
 
 **Dining:**
-- Hospitality is sacred â refusing an invitation is considered rude
-- Tea (Ã§ay) offered everywhere â accepting is polite
+- Hospitality is sacred — refusing an invitation is considered rude
+- Tea (çay) offered everywhere — accepting is polite
 - Leaving a small amount of food on the plate indicates you are satisfied
 
 **Tipping:** 10% in restaurants. Round up for taxis. Not expected in cafes.
 
 **Gift giving:** Sweets, baklava, or quality tea are excellent. Bring something from home country. Alcohol is appropriate for secular Turks.
 
-**Major taboos:** Denigrating Turkey, AtatÃ¼rk, or the Turkish flag â legally sensitive. Discussing Kurds or the Armenian Genocide requires great care.
+**Major taboos:** Denigrating Turkey, Atatürk, or the Turkish flag — legally sensitive. Discussing Kurds or the Armenian Genocide requires great care.
 
 **Dress code:** Conservative for mosques (head covering for women, no shorts). Istanbul is liberal; rural eastern Turkey is more conservative.
 
@@ -270,24 +270,24 @@
 
 ---
 
-### ð®ð± Israel
+### 🇮🇱 Israel
 
 **Greeting:** Handshakes are common. Be aware that Orthodox Jewish men may not shake hands with women (and vice versa).
 
-**Shoes:** ð Remove at mosques and some synagogues (not all).
+**Shoes:** 👟 Remove at mosques and some synagogues (not all).
 
 **Dining:**
-- Many restaurants are kosher â do not mix meat and dairy
+- Many restaurants are kosher — do not mix meat and dairy
 - Shabbat (Friday sundown to Saturday sundown): many businesses closed; do not request work from observant Jews
 - Friday evenings and Saturday lunches are sacred family times
 
-**Tipping:** 12â15% in restaurants. Customary for taxi drivers to round up.
+**Tipping:** 12–15% in restaurants. Customary for taxi drivers to round up.
 
 **Gift giving:** Wine, flowers, chocolates. Be aware of kosher requirements if the recipient is observant.
 
 **Major taboos:** Discussing Israeli politics without nuance; generalized statements about Judaism or Islam; working or driving in front of observant Jews on Shabbat.
 
-**Dress code:** Modest at religious sites â shoulders and knees covered. Jerusalem is far more conservative than Tel Aviv.
+**Dress code:** Modest at religious sites — shoulders and knees covered. Jerusalem is far more conservative than Tel Aviv.
 
 **Photography:** No photography at security areas or military checkpoints.
 
@@ -295,18 +295,18 @@
 
 ---
 
-### ðªð¬ Egypt
+### 🇪🇬 Egypt
 
 **Greeting:** Handshake. Men may greet male friends with a hug or cheek kiss. *Ahlan wa sahlan* (welcome) is common. Do not refuse hospitality.
 
-**Shoes:** ð Remove at mosques and Coptic churches (often).
+**Shoes:** 👟 Remove at mosques and Coptic churches (often).
 
 **Dining:**
 - Right hand for eating
 - Accepting a second helping is a compliment to the host
 - Saying "bismillah" before eating is respectful in Muslim households
 
-**Tipping:** Expected widely â at restaurants (10â15%), for bathroom attendants, for guides, for drivers. Carry small bills constantly.
+**Tipping:** Expected widely — at restaurants (10–15%), for bathroom attendants, for guides, for drivers. Carry small bills constantly.
 
 **Gift giving:** Sweets, pastries, or quality chocolate. Alcohol only if certain the recipient is not observant.
 
@@ -320,19 +320,19 @@
 
 ---
 
-### ð²ð¦ Morocco
+### 🇲🇦 Morocco
 
 **Greeting:** Handshake. Close friends and family: cheek kisses. Men often greet by pressing right hand to heart after shaking.
 
-**Shoes:** ð Remove at mosques and many homes.
+**Shoes:** 👟 Remove at mosques and many homes.
 
 **Dining:**
 - Eat with right hand (or bread if no utensils)
 - Meals are often from a communal dish
-- Accept mint tea â it is an act of hospitality
+- Accept mint tea — it is an act of hospitality
 - Leaving a small amount indicates fullness
 
-**Tipping:** 10â15% at restaurants. Tip guides well. Tip for any small service.
+**Tipping:** 10–15% at restaurants. Tip guides well. Tip for any small service.
 
 **Gift giving:** Pastries, dates, or quality sweets. Avoid alcohol for Muslim hosts.
 
@@ -340,20 +340,20 @@
 
 **Dress code:** Conservative, especially for women. Cover shoulders and knees. Head covering recommended outside tourist areas.
 
-**Photography:** Ask before photographing people â many will want payment. Be careful photographing souq workers.
+**Photography:** Ask before photographing people — many will want payment. Be careful photographing souq workers.
 
 **Haggling:** Very much expected everywhere except fixed-price shops.
 
 ---
 
-### ð®ð· Iran
+### 🇮🇷 Iran
 
 **Greeting:** Handshakes between same-gender only. Men do not shake hands with unrelated women; women may initiate with foreign men.
 
-**Shoes:** ð Remove at mosques and shrines.
+**Shoes:** 👟 Remove at mosques and shrines.
 
 **Dining:**
-- *Ta'arof* â a system of ritual politeness: always decline an offer once or twice before accepting; the host will insist
+- *Ta'arof* — a system of ritual politeness: always decline an offer once or twice before accepting; the host will insist
 - Eating with hands is common in traditional homes
 - Alcohol is prohibited
 
@@ -369,20 +369,20 @@
 
 ---
 
-### ðµð° Pakistan
+### 🇵🇰 Pakistan
 
 **Greeting:** *Assalamu alaikum* is the standard respectful greeting. Handshake between men. Men do not initiate contact with women.
 
-**Shoes:** ð Remove at mosques and shrines. Often at homes.
+**Shoes:** 👟 Remove at mosques and shrines. Often at homes.
 
 **Dining:**
 - Right hand only
-- Guests are treated with great honor â hospitality is paramount
+- Guests are treated with great honor — hospitality is paramount
 - Alcohol not widely available
 
 **Tipping:** 10% at restaurants in cities; tip drivers and guides.
 
-**Dress code:** Modest dress essential â long sleeves, long pants/skirt. Women cover head in religious areas.
+**Dress code:** Modest dress essential — long sleeves, long pants/skirt. Women cover head in religious areas.
 
 **Photography:** Ask permission. No military or security areas.
 
@@ -392,9 +392,9 @@
 
 ## AFRICA
 
-### ð°ðª Kenya
+### 🇰🇪 Kenya
 
-**Greeting:** Handshake is standard â can be long and lingering (a sign of trust). Friends: hug or shoulder bump. *Jambo* (Swahili hello) is always appreciated.
+**Greeting:** Handshake is standard — can be long and lingering (a sign of trust). Friends: hug or shoulder bump. *Jambo* (Swahili hello) is always appreciated.
 
 **Shoes:** Follow the host's lead at homes.
 
@@ -403,7 +403,7 @@
 - Guests eat first
 - Ugali (corn flour staple) is eaten with the right hand
 
-**Tipping:** 10â15% at tourist restaurants. Tip safari guides and drivers generously ($10â15/day). Small tips appreciated everywhere.
+**Tipping:** 10–15% at tourist restaurants. Tip safari guides and drivers generously ($10–15/day). Small tips appreciated everywhere.
 
 **Gift giving:** Quality food items, children's school supplies, or household goods.
 
@@ -417,18 +417,18 @@
 
 ---
 
-### ð¿ð¦ South Africa
+### 🇿🇦 South Africa
 
 **Greeting:** Handshake; in townships, you may encounter the three-part handshake (grip, thumb clasp, regular grip). *Sawubona* (isiZulu, "I see you") is a meaningful greeting.
 
 **Shoes:** Follow the host's lead.
 
 **Dining:**
-- *Braai* (BBQ) is a cultural institution â accept any invitation
+- *Braai* (BBQ) is a cultural institution — accept any invitation
 - Offering to bring something (meat or drinks) to a braai is expected
 - Do not discuss apartheid-era politics without sensitivity
 
-**Tipping:** 10â15% at restaurants. Tip petrol station attendants, car guards, and safari guides.
+**Tipping:** 10–15% at restaurants. Tip petrol station attendants, car guards, and safari guides.
 
 **Gift giving:** Wine (SA has world-class wine), chocolate, or quality food items.
 
@@ -440,22 +440,22 @@
 
 ---
 
-### ð³ð¬ Nigeria
+### 🇳🇬 Nigeria
 
-**Greeting:** Handshake. Elders: a slight bow or kneeling is respectful, especially in Yoruba culture. *Nno* (Igbo), *áº¸ kÃ¡ará»Ì* (Yoruba), or *Sannu* (Hausa) are culturally specific greetings.
+**Greeting:** Handshake. Elders: a slight bow or kneeling is respectful, especially in Yoruba culture. *Nno* (Igbo), *Ẹ káarọ̀* (Yoruba), or *Sannu* (Hausa) are culturally specific greetings.
 
 **Shoes:** Remove at traditional and religious ceremonies. Follow the host's lead.
 
 **Dining:**
 - Communal dining is common
 - Eat with right hand in traditional settings
-- Refusing food can be taken as suspicion of poisoning â accept and taste at minimum
+- Refusing food can be taken as suspicion of poisoning — accept and taste at minimum
 
 **Tipping:** 10% at restaurants. Tip drivers and helpers.
 
 **Gift giving:** Quality food items, alcohol (in non-Muslim areas), clothing.
 
-**Dress code:** Smart dress is important â looking well-dressed earns respect. Modest at mosques. Traditional attire at ceremonies.
+**Dress code:** Smart dress is important — looking well-dressed earns respect. Modest at mosques. Traditional attire at ceremonies.
 
 **Photography:** Ask permission. Government buildings are sensitive.
 
@@ -465,20 +465,20 @@
 
 ## EUROPE
 
-### ð¬ð§ United Kingdom
+### 🇬🇧 United Kingdom
 
-**Greeting:** Handshake for formal occasions. Close friends: hug or cheek kiss (one, two, or three depending on region/social circle â follow their lead).
+**Greeting:** Handshake for formal occasions. Close friends: hug or cheek kiss (one, two, or three depending on region/social circle — follow their lead).
 
 **Shoes:** Usually kept on indoors, but some households ask you to remove them.
 
 **Dining:**
-- Knife in right hand, fork in left â do not switch (as in USA)
+- Knife in right hand, fork in left — do not switch (as in USA)
 - Dinner is the evening meal; "tea" can mean afternoon tea (cakes) or the evening meal in working-class contexts
 - Rounds at the pub: buying a round for the group is expected etiquette
 
-**Tipping:** 10â15% at restaurants if service charge not already added. Not expected in pubs for drinks (occasionally for table service). Round up taxis.
+**Tipping:** 10–15% at restaurants if service charge not already added. Not expected in pubs for drinks (occasionally for table service). Round up taxis.
 
-**Gift giving:** Wine, chocolates, flowers (avoid white lilies â funerary). Bring a bottle if invited to dinner.
+**Gift giving:** Wine, chocolates, flowers (avoid white lilies — funerary). Bring a bottle if invited to dinner.
 
 **Major taboos:** Cutting in a queue. Asking someone's salary. Talking too loudly in public.
 
@@ -490,21 +490,21 @@
 
 ---
 
-### ð«ð· France
+### 🇫🇷 France
 
-**Greeting:** One or two cheek kisses (*la bise*) among acquaintances; handshake in formal settings. *Bonjour* first â always â before any request.
+**Greeting:** One or two cheek kisses (*la bise*) among acquaintances; handshake in formal settings. *Bonjour* first — always — before any request.
 
 **Shoes:** Typically worn indoors.
 
 **Dining:**
-- Meals are an occasion â three or four courses is normal
+- Meals are an occasion — three or four courses is normal
 - Hands on the table (not in the lap) is correct French etiquette
 - Bread accompanies every meal; it is placed directly on the tablecloth
-- Do not ask for a takeaway box (doggy bag) â it is changing but still culturally unusual
+- Do not ask for a takeaway box (doggy bag) — it is changing but still culturally unusual
 
 **Tipping:** Service is included (*service compris*). Leaving a few euros extra is appreciated but not expected.
 
-**Gift giving:** Quality wine, flowers (not chrysanthemums â funerary), quality chocolate or pastries.
+**Gift giving:** Quality wine, flowers (not chrysanthemums — funerary), quality chocolate or pastries.
 
 **Major taboos:** Asking "how are you" to strangers; discussing money openly; not greeting *bonjour* when entering a shop.
 
@@ -514,11 +514,11 @@
 
 ---
 
-### ð©ðª Germany
+### 🇩🇪 Germany
 
 **Greeting:** Firm handshake. "Guten Morgen/Tag/Abend." First names are used only after being invited; use *Herr/Frau* + surname otherwise.
 
-**Shoes:** Many Germans remove shoes indoors â follow the host's lead.
+**Shoes:** Many Germans remove shoes indoors — follow the host's lead.
 
 **Dining:**
 - Wait until everyone is served before eating
@@ -526,37 +526,37 @@
 - Round-glass signal with eyes before drinking (not doing so is said to bring bad luck)
 - Finishing everything on your plate is polite
 
-**Tipping:** Round up to the nearest 5 or 10 euros, or add 5â10%. Pay the waiter directly â do not leave on the table.
+**Tipping:** Round up to the nearest 5 or 10 euros, or add 5–10%. Pay the waiter directly — do not leave on the table.
 
 **Gift giving:** Wine, chocolates, or quality flowers. Bring an odd number of flowers (even numbers are for funerals).
 
-**Major taboos:** Nazi symbols, references, or salutes â illegal and deeply offensive. Jaywalking is genuinely frowned upon.
+**Major taboos:** Nazi symbols, references, or salutes — illegal and deeply offensive. Jaywalking is genuinely frowned upon.
 
 **Dress code:** Smart casual for restaurants and events. Casual otherwise.
 
-**Photography:** Privacy laws are strict â do not photograph individuals without consent.
+**Photography:** Privacy laws are strict — do not photograph individuals without consent.
 
 **Haggling:** Not practiced.
 
 ---
 
-### ð®ð¹ Italy
+### 🇮🇹 Italy
 
 **Greeting:** Handshake; close acquaintances: cheek kisses (left first). *Buongiorno/Buonasera.*
 
 **Shoes:** Typically worn indoors.
 
 **Dining:**
-- Cappuccino after 11 AM is a tourist marker â locals drink espresso
+- Cappuccino after 11 AM is a tourist marker — locals drink espresso
 - Do not ask for cheese on seafood pasta (considered offensive to Italian food culture)
-- Meals are leisurely â rushing a meal is rude
-- *Coperto* (cover charge) is normal â check your bill
+- Meals are leisurely — rushing a meal is rude
+- *Coperto* (cover charge) is normal — check your bill
 
-**Tipping:** Not mandatory; rounding up or leaving 1â2â¬ per person is appreciated.
+**Tipping:** Not mandatory; rounding up or leaving 1–2€ per person is appreciated.
 
 **Gift giving:** Quality wine, pastries, or regional specialties. Good quality anything.
 
-**Major taboos:** Rushing meals; wearing beachwear in churches (shoulders and knees covered â you will be turned away); knocking on wood at the wrong time.
+**Major taboos:** Rushing meals; wearing beachwear in churches (shoulders and knees covered — you will be turned away); knocking on wood at the wrong time.
 
 **Dress code:** Shoulders and knees covered at churches. Smart casual for dinners.
 
@@ -566,41 +566,41 @@
 
 ---
 
-### ðªð¸ Spain
+### 🇪🇸 Spain
 
-**Greeting:** Cheek kisses are very common (two â right cheek first), even with strangers in social settings. Handshakes in business.
+**Greeting:** Cheek kisses are very common (two — right cheek first), even with strangers in social settings. Handshakes in business.
 
 **Shoes:** Typically worn indoors.
 
 **Dining:**
-- Lunch (2â4 PM) is the main meal
-- Dinner rarely before 9â10 PM (tourist restaurants open earlier)
+- Lunch (2–4 PM) is the main meal
+- Dinner rarely before 9–10 PM (tourist restaurants open earlier)
 - *Tapas* are meant to be shared
-- The bill: you may need to ask explicitly (*la cuenta, por favor*) â it will not be brought automatically
+- The bill: you may need to ask explicitly (*la cuenta, por favor*) — it will not be brought automatically
 
-**Tipping:** 5â10% if pleased; not obligatory.
+**Tipping:** 5–10% if pleased; not obligatory.
 
 **Gift giving:** Quality wine, chocolates, or pastries from your home region.
 
 **Major taboos:** Mentioning the Spanish Civil War carelessly; rushing meals.
 
-**Photography:** Ask in markets. No photography in the Sagrada FamÃ­lia (as of recent rules â check current policy).
+**Photography:** Ask in markets. No photography in the Sagrada Família (as of recent rules — check current policy).
 
 **Haggling:** Not standard.
 
 ---
 
-### ð³ð± Netherlands
+### 🇳🇱 Netherlands
 
-**Greeting:** Three cheek kisses (right-left-right) among friends. Handshake in business. Dutch directness can surprise â "be honest" is deeply valued.
+**Greeting:** Three cheek kisses (right-left-right) among friends. Handshake in business. Dutch directness can surprise — "be honest" is deeply valued.
 
 **Shoes:** Many Dutch remove shoes at the door.
 
 **Dining:**
 - Going "Dutch" (splitting the bill equally) originated here
-- Punctuality matters â arriving late is disrespectful
+- Punctuality matters — arriving late is disrespectful
 
-**Tipping:** 5â10% appreciated; not obligatory.
+**Tipping:** 5–10% appreciated; not obligatory.
 
 **Photography:** Generally relaxed. Ask in red-light district (photographing sex workers is prohibited).
 
@@ -608,20 +608,20 @@
 
 ---
 
-### ð¸ðª Sweden
+### 🇸🇪 Sweden
 
-**Greeting:** Handshake. Swedes value personal space â keep comfortable distance. *Hej* (hello) is casual and universally used.
+**Greeting:** Handshake. Swedes value personal space — keep comfortable distance. *Hej* (hello) is casual and universally used.
 
-**Shoes:** ð Almost always remove shoes indoors.
+**Shoes:** 👟 Almost always remove shoes indoors.
 
 **Dining:**
 - *Fika* (coffee break with pastry) is a cultural institution
 - Punctuality for meals is expected
-- Toasting (*skÃ¥l*) with eye contact
+- Toasting (*skål*) with eye contact
 
-**Tipping:** 5â10% in nicer restaurants; increasingly digital tip options are offered.
+**Tipping:** 5–10% in nicer restaurants; increasingly digital tip options are offered.
 
-**Major taboos:** Boasting or excessive self-promotion â *Janteloven* (the Law of Jante) cultural norm discourages standing out.
+**Major taboos:** Boasting or excessive self-promotion — *Janteloven* (the Law of Jante) cultural norm discourages standing out.
 
 **Photography:** Generally relaxed.
 
@@ -629,22 +629,22 @@
 
 ---
 
-### ð·ðº Russia
+### 🇷🇺 Russia
 
-**Greeting:** Firm handshake; close friends: bear hug or cheek kisses. Always shake hands across a threshold is considered bad luck â step inside first.
+**Greeting:** Firm handshake; close friends: bear hug or cheek kisses. Always shake hands across a threshold is considered bad luck — step inside first.
 
-**Shoes:** ð Remove at homes. Hosts often provide tapochki (house slippers).
+**Shoes:** 👟 Remove at homes. Hosts often provide tapochki (house slippers).
 
 **Dining:**
-- Toasts are elaborate and heartfelt â raising your glass and saying something meaningful is expected
-- Do not refuse vodka at a toast if offered â declining is uncomfortable socially (juice is an acceptable alternative if you establish it early)
+- Toasts are elaborate and heartfelt — raising your glass and saying something meaningful is expected
+- Do not refuse vodka at a toast if offered — declining is uncomfortable socially (juice is an acceptable alternative if you establish it early)
 - Empty bottles are placed on the floor, not the table
 
-**Tipping:** 10â15% at restaurants.
+**Tipping:** 10–15% at restaurants.
 
 **Gift giving:** Quality wine, chocolates, flowers (odd numbers; not yellow flowers). Champagne is popular.
 
-**Major taboos:** Discussing politics, Crimea, or Ukraine requires extreme care. Smiling at strangers is unusual â a neutral expression is normal, not unfriendly.
+**Major taboos:** Discussing politics, Crimea, or Ukraine requires extreme care. Smiling at strangers is unusual — a neutral expression is normal, not unfriendly.
 
 **Photography:** No photography in metro stations, military areas, or near government buildings.
 
@@ -652,7 +652,7 @@
 
 ---
 
-### ðµð± Poland
+### 🇵🇱 Poland
 
 **Greeting:** Firm handshake. Men may kiss a woman's hand in formal settings.
 
@@ -660,10 +660,10 @@
 
 **Dining:**
 - *Na zdrowie* (to health) for toasts
-- Hospitality is generous â accept food and drink
+- Hospitality is generous — accept food and drink
 - Hosts will press you to eat more; politely declining once or twice is the dance
 
-**Tipping:** 10â15% at sit-down restaurants.
+**Tipping:** 10–15% at sit-down restaurants.
 
 **Gift giving:** Quality flowers (odd numbers), wine, chocolate, or whisky.
 
@@ -675,9 +675,9 @@
 
 ---
 
-### ð¬ð· Greece
+### 🇬🇷 Greece
 
-**Greeting:** Handshake. Close friends: cheek kisses (two â right first). *Yassas* (formal) or *Yassou* (informal).
+**Greeting:** Handshake. Close friends: cheek kisses (two — right first). *Yassas* (formal) or *Yassou* (informal).
 
 **Shoes:** Usually worn indoors.
 
@@ -685,13 +685,13 @@
 - Meals are social and unhurried
 - Bread and olive oil always present
 - *Mezedes* (small shared dishes) are the Greek way to eat
-- Arguing over who pays the bill is a social tradition â the host always wins
+- Arguing over who pays the bill is a social tradition — the host always wins
 
 **Tipping:** 10% in restaurants. Rounding up for taxis.
 
 **Gift giving:** Wine, honey, or quality pastries. Bringing something from your home region is appreciated.
 
-**Major taboos:** Moutza â holding the palm out toward someone is an extremely offensive gesture in Greece. Do not do it.
+**Major taboos:** Moutza — holding the palm out toward someone is an extremely offensive gesture in Greece. Do not do it.
 
 **Photography:** Ask in monasteries and Orthodox churches.
 
@@ -701,7 +701,7 @@
 
 ## OCEANIA
 
-### ð¦ðº Australia
+### 🇦🇺 Australia
 
 **Greeting:** Casual handshake or just "G'day." No bowing or formality needed. First names immediately.
 
@@ -709,7 +709,7 @@
 
 **Dining:**
 - Bring beer, wine, or food to a barbecue when invited (*BYO* = bring your own)
-- Tipping is not obligatory â minimum wage is high
+- Tipping is not obligatory — minimum wage is high
 - "Shouting" a round of drinks (buying for the group in turn) is culturally expected
 
 **Tipping:** Not mandatory; 10% is appreciated for exceptional service.
@@ -718,25 +718,25 @@
 
 **Major taboos:** Insulting sports teams; taking yourself too seriously (*tall poppy syndrome*); being perceived as arrogant.
 
-**Photography:** Respect Indigenous sacred sites â many prohibit photography. Always ask.
+**Photography:** Respect Indigenous sacred sites — many prohibit photography. Always ask.
 
 **Haggling:** Not common.
 
 ---
 
-### ð³ð¿ New Zealand
+### 🇳🇿 New Zealand
 
-**Greeting:** Handshake. MÄori greeting: the *hongi* (pressing foreheads and noses together) is used at formal welcomes and ceremonies; follow the lead of the hosts.
+**Greeting:** Handshake. Māori greeting: the *hongi* (pressing foreheads and noses together) is used at formal welcomes and ceremonies; follow the lead of the hosts.
 
-**Shoes:** Remove at marae (MÄori meeting grounds) and some homes.
+**Shoes:** Remove at marae (Māori meeting grounds) and some homes.
 
 **Dining:**
-- Hangi (earth oven feast) is a traditional MÄori meal â an invitation is an honor
+- Hangi (earth oven feast) is a traditional Māori meal — an invitation is an honor
 - BYO culture similar to Australia
 
 **Tipping:** Not expected but appreciated for excellent service.
 
-**Major taboos:** Disrespecting MÄori culture, sites, or traditions.
+**Major taboos:** Disrespecting Māori culture, sites, or traditions.
 
 **Photography:** Ask permission at marae and for portraits of elders.
 
@@ -746,22 +746,22 @@
 
 ## LATIN AMERICA
 
-### ð§ð· Brazil
+### 🇧🇷 Brazil
 
-**Greeting:** Warm handshake or hug between men; women exchange cheek kisses (one in SÃ£o Paulo, two or three in Rio and elsewhere â follow their lead). Physical contact and closeness is normal.
+**Greeting:** Warm handshake or hug between men; women exchange cheek kisses (one in São Paulo, two or three in Rio and elsewhere — follow their lead). Physical contact and closeness is normal.
 
 **Shoes:** Usually worn indoors.
 
 **Dining:**
 - Meals are social and lengthy
-- The most famous meal: *churrasco* (BBQ) â bring a hearty appetite
+- The most famous meal: *churrasco* (BBQ) — bring a hearty appetite
 - Service charge (10%) is often included
 
 **Tipping:** 10% at restaurants. Not expected in cafes.
 
 **Gift giving:** Good-quality chocolates, wine, or a gift representing your home region.
 
-**Major taboos:** Making the "OK" gesture (thumb and forefinger circle) â in Brazil this is an obscene gesture. Politics and Bolsonaro/Lula dynamics are sensitive.
+**Major taboos:** Making the "OK" gesture (thumb and forefinger circle) — in Brazil this is an obscene gesture. Politics and Bolsonaro/Lula dynamics are sensitive.
 
 **Photography:** Be cautious in favelas without a guide. Ask permission everywhere.
 
@@ -769,16 +769,16 @@
 
 ---
 
-### ð¦ð· Argentina
+### 🇦🇷 Argentina
 
 **Greeting:** Cheek kiss (one) for everyone, including between men in social settings. Warm and close. Handshake in formal business.
 
 **Shoes:** Usually worn indoors.
 
 **Dining:**
-- Dinner is rarely before 9â10 PM
+- Dinner is rarely before 9–10 PM
 - Sharing *mate* (herbal drink) from the same gourd is a deep sign of acceptance
-- Beef is sacred â vegetarian options are improving but still limited
+- Beef is sacred — vegetarian options are improving but still limited
 
 **Tipping:** 10% at restaurants.
 
@@ -790,9 +790,9 @@
 
 ---
 
-### ð²ð½ Mexico
+### 🇲🇽 Mexico
 
-**Greeting:** Handshake; friends: hug or cheek kiss. Very warm culture. *Buenos dÃ­as/tardes/noches.*
+**Greeting:** Handshake; friends: hug or cheek kiss. Very warm culture. *Buenos días/tardes/noches.*
 
 **Shoes:** Usually worn indoors.
 
@@ -801,9 +801,9 @@
 - Eating with hands is common (tacos, etc.)
 - Never refuse an offered food or drink outright without a reason
 
-**Tipping:** 10â15% at restaurants; tip hotel staff, guides, drivers.
+**Tipping:** 10–15% at restaurants; tip hotel staff, guides, drivers.
 
-**Gift giving:** Flowers (not white â funerary), chocolates, or crafts.
+**Gift giving:** Flowers (not white — funerary), chocolates, or crafts.
 
 **Major taboos:** Disrespecting Mexican Independence; reducing Mexican culture to stereotypes.
 
@@ -813,14 +813,14 @@
 
 ---
 
-### ð¨ð´ Colombia
+### 🇨🇴 Colombia
 
-**Greeting:** Handshake; women: cheek kiss. Warm culture. *Â¿CÃ³mo estÃ¡ usted?* (formal) or *Â¿QuÃ© mÃ¡s?* (casual).
+**Greeting:** Handshake; women: cheek kiss. Warm culture. *¿Cómo está usted?* (formal) or *¿Qué más?* (casual).
 
 **Shoes:** Usually worn indoors.
 
 **Dining:**
-- *Tinto* (small black coffee) offered everywhere â accept it
+- *Tinto* (small black coffee) offered everywhere — accept it
 - Lunch is the main meal
 
 **Tipping:** 10% at restaurants. Drivers and guides appreciate tips.
@@ -831,9 +831,9 @@
 
 ---
 
-### ðºð¸ USA
+### 🇺🇸 USA
 
-**Greeting:** Handshake or "Hey!" / "How are you?" (rhetorical â not an invitation for a detailed answer). Personal space is valued: arm's length distance.
+**Greeting:** Handshake or "Hey!" / "How are you?" (rhetorical — not an invitation for a detailed answer). Personal space is valued: arm's length distance.
 
 **Shoes:** Usually worn indoors.
 
@@ -842,7 +842,7 @@
 - Portions are large; asking for a takeaway box is completely normal
 - Tipping is quasi-mandatory
 
-**Tipping:** 15â20% at sit-down restaurants; 15% for taxis; $1â2 per drink at bars; $5+ per night for hotel housekeeping.
+**Tipping:** 15–20% at sit-down restaurants; 15% for taxis; $1–2 per drink at bars; $5+ per night for hotel housekeeping.
 
 **Gift giving:** Wine, chocolates, or something from your home region.
 
@@ -852,16 +852,16 @@
 
 ---
 
-### ð¨ð¦ Canada
+### 🇨🇦 Canada
 
 **Greeting:** Handshake. Similar to USA but generally slightly more reserved.
 
-**Shoes:** ð Canadians typically remove shoes at the door â do the same.
+**Shoes:** 👟 Canadians typically remove shoes at the door — do the same.
 
 **Dining:**
 - Similar to USA
 
-**Tipping:** 15â20% expected, similar to USA.
+**Tipping:** 15–20% expected, similar to USA.
 
 **Major taboos:** Assuming Canadians are just American; hockey jokes that miss the mark.
 
@@ -871,15 +871,15 @@
 
 ---
 
-### ð¨ðº Cuba
+### 🇨🇺 Cuba
 
 **Greeting:** Handshake; friends: cheek kiss. Warm and open culture.
 
 **Dining:**
 - Paladar (private restaurants) offer the best food
-- Jineterismo (hustling) is common â be friendly but firm
+- Jineterismo (hustling) is common — be friendly but firm
 
-**Tipping:** Essential â peso wages are very low. Tip in CUC (foreign currency) or USD. Tip musicians, guides, drivers, restaurant staff.
+**Tipping:** Essential — peso wages are very low. Tip in CUC (foreign currency) or USD. Tip musicians, guides, drivers, restaurant staff.
 
 **Photography:** Do not photograph police, military, or government buildings. Portraits: ask and offer a small tip.
 
@@ -887,15 +887,15 @@
 
 ---
 
-### ð¯ð² Jamaica
+### 🇯🇲 Jamaica
 
 **Greeting:** Warm handshake or fist bump. "Wha gwaan?" (What's going on?) is a friendly greeting.
 
 **Dining:**
-- Food is central to culture â jerk, patties, ackee
-- Meals can be slow â "soon come" means soon-ish
+- Food is central to culture — jerk, patties, ackee
+- Meals can be slow — "soon come" means soon-ish
 
-**Tipping:** 10â15% at restaurants; drivers and guides.
+**Tipping:** 10–15% at restaurants; drivers and guides.
 
 **Photography:** Ask permission, especially in rural communities. Rastafarian communities may resist.
 
@@ -905,9 +905,9 @@
 
 ## SOUTHEAST ASIA
 
-### ð¸ð¬ Singapore
+### 🇸🇬 Singapore
 
-**Greeting:** Handshake. Multi-ethnic (Chinese, Malay, Indian) â adapt greeting to the individual.
+**Greeting:** Handshake. Multi-ethnic (Chinese, Malay, Indian) — adapt greeting to the individual.
 
 **Shoes:** Remove at most homes and temples.
 
@@ -926,11 +926,11 @@
 
 ---
 
-### ð²ð¾ Malaysia
+### 🇲🇾 Malaysia
 
 **Greeting:** Handshake; Muslim Malays may press the hand to the chest after instead of gripping firmly. *Selamat pagi/petang/malam.*
 
-**Shoes:** ð Remove at mosques, Hindu and Buddhist temples, and many homes.
+**Shoes:** 👟 Remove at mosques, Hindu and Buddhist temples, and many homes.
 
 **Dining:**
 - Right hand for eating in Muslim contexts
@@ -947,11 +947,11 @@
 
 ---
 
-### ðµð­ Philippines
+### 🇵🇭 Philippines
 
-**Greeting:** *Mano po* â taking an elder's hand and pressing it to the forehead â is a sign of respect for elders. Handshakes among peers.
+**Greeting:** *Mano po* — taking an elder's hand and pressing it to the forehead — is a sign of respect for elders. Handshakes among peers.
 
-**Shoes:** ð Remove at many homes.
+**Shoes:** 👟 Remove at many homes.
 
 **Dining:**
 - *Kamayan* (eating with hands from banana leaves) is a festive tradition

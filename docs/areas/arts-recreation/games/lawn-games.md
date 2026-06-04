@@ -1,10 +1,10 @@
 # Lawn Games
 
-*The Observatory Almanac â Universal Rulebook*
+*The Observatory Almanac — Universal Rulebook*
 
 ---
 
-Lawn games occupy a unique cultural space â equal parts sport, social ritual, and deliberate leisure. They require skill without demanding athleticism, reward strategy without excluding novices, and create the conversational backdrop that defines summer gatherings across cultures. This section covers four of the finest: Croquet, Cornhole, Horseshoes, and Kubb.
+Lawn games occupy a unique cultural space — equal parts sport, social ritual, and deliberate leisure. They require skill without demanding athleticism, reward strategy without excluding novices, and create the conversational backdrop that defines summer gatherings across cultures. This section covers four of the finest: Croquet, Cornhole, Horseshoes, and Kubb.
 
 ---
 
@@ -18,20 +18,20 @@ Croquet is a lawn game of ancient lineage and surprising strategic depth, played
 
 * **Mallets:** Cylindrical-headed hammers, typically wood or composite.
 * **Balls:** Four balls in two pairs of contrasting colors (Blue & Black vs. Red & Yellow in standard play).
-* **Wickets (hoops):** Six wire hoops, 3Â¾ inches wide (just barely wider than the ball).
+* **Wickets (hoops):** Six wire hoops, 3¾ inches wide (just barely wider than the ball).
 * **Stakes:** Two wooden pegs, one at each end.
 
 ### Court Layout
 
 ```
     [Stake 1]
-        â
-   â¢        â¡
-        â 
+        ↑
+   ③        ②
+        ①
 
-   â£        â¤
-        â¥
-        â
+   ④        ⑤
+        ⑥
+        ↓
     [Stake 2]
 
 Wicket positions (numbered in playing order):
@@ -42,15 +42,15 @@ Wicket positions (numbered in playing order):
 5 = North, right
 6 = North, center, near top stake
 
-(Detailed: Standard court 100 Ã 84 feet; tournament play
+(Detailed: Standard court 100 × 84 feet; tournament play
   with precise wicket placement per USCA rules)
 ```
 
-**Standard court dimensions (USCA):** 100 feet Ã 84 feet. Backyard play commonly uses 50 Ã 42 feet (half size).
+**Standard court dimensions (USCA):** 100 feet × 84 feet. Backyard play commonly uses 50 × 42 feet (half size).
 
 **Wicket numbering and sequence:**
 Balls must pass through wickets in this order:
-1 â 2 â 3 â 4 â 5 â 6 â (top stake) â 6-back â 5-back â 4-back â 3-back â 2-back â 1-back â (finishing stake)
+1 → 2 → 3 → 4 → 5 → 6 → (top stake) → 6-back → 5-back → 4-back → 3-back → 2-back → 1-back → (finishing stake)
 
 This creates a figure-eight or hairpin course requiring 12 wicket passages and 2 stake contacts per ball.
 
@@ -59,20 +59,20 @@ This creates a figure-eight or hairpin course requiring 12 wicket passages and 2
 **Turn:** On your turn, you strike your ball once with the mallet. You earn additional strokes as follows:
 
 * **Running a wicket:** Successfully passing through the correct next wicket in the sequence earns one continuation stroke. Running two wickets in one stroke earns two continuation strokes (rare but legal).
-* **Roquet:** Striking another ball earns two additional strokes â one "croquet stroke" and one "continuation stroke."
+* **Roquet:** Striking another ball earns two additional strokes — one "croquet stroke" and one "continuation stroke."
 
 ### The Croquet Stroke
 
 After making a roquet (hitting another ball), the player:
 1. **Places their ball in contact with the roqueted ball.**
-2. **Plays the croquet stroke** â striking their ball so that both balls move. The player may send the opponent's ball to a strategic position, rush it toward a wicket, or simply clear it from a useful location.
-3. **Then plays the continuation stroke** â a normal single stroke.
+2. **Plays the croquet stroke** — striking their ball so that both balls move. The player may send the opponent's ball to a strategic position, rush it toward a wicket, or simply clear it from a useful location.
+3. **Then plays the continuation stroke** — a normal single stroke.
 
 You may not roquet the same ball again until you have run your next wicket (unless you hit a third ball in the same turn, which resets the roquet eligibility).
 
 ### Deadness
 
-A ball is "dead" on another ball once it has roqueted it. It cannot roquet that ball again until it runs its next wicket. Managing deadness â knowing which balls you are "dead" on â is a core tactical challenge.
+A ball is "dead" on another ball once it has roqueted it. It cannot roquet that ball again until it runs its next wicket. Managing deadness — knowing which balls you are "dead" on — is a core tactical challenge.
 
 In "full deadness" croquet (advanced), deadness accumulates across wickets rather than resetting, and a ball may become dead on all three other balls simultaneously. This is the primary format in high-level competition.
 
@@ -90,7 +90,7 @@ The first player (or partnership) to run all wickets in sequence and peg out (st
 
 * **Balls out of bounds:** Placed one mallet-head (approximately 9 inches) from the boundary.
 * **Hoop running:** Ball must pass completely through the hoop from the correct direction, coming to rest fully clear on the other side.
-* **Mallet swing:** The mallet must swing freely and strike the ball â no pushing, shoving, or guiding. The swing must be a pendulum motion, not a shove.
+* **Mallet swing:** The mallet must swing freely and strike the ball — no pushing, shoving, or guiding. The swing must be a pendulum motion, not a shove.
 * **Interference:** Any accidental movement of balls is corrected before play continues.
 
 ---
@@ -103,14 +103,14 @@ Cornhole (also called Bags) is a lawn tossing game in which players throw bean b
 
 ### Equipment
 
-* **Boards:** Two wooden platforms, 2 feet Ã 4 feet, with a 6-inch diameter hole centered 9 inches from the top edge. The near end is raised 2â4 inches off the ground; the far end approximately 12 inches. Boards are placed 27 feet apart (hole to hole), on level ground.
-* **Bags:** Eight bean bags total, four per team, each 6 inches Ã 6 inches, weighing 15â16 ounces. One team uses bags of one color; the other uses a contrasting color.
+* **Boards:** Two wooden platforms, 2 feet × 4 feet, with a 6-inch diameter hole centered 9 inches from the top edge. The near end is raised 2–4 inches off the ground; the far end approximately 12 inches. Boards are placed 27 feet apart (hole to hole), on level ground.
+* **Bags:** Eight bean bags total, four per team, each 6 inches × 6 inches, weighing 15–16 ounces. One team uses bags of one color; the other uses a contrasting color.
 
 ### Court Setup
 
 ```
-[Board A]   ââââ 27 feet ââââ   [Board B]
-   â                                â
+[Board A]   ←——— 27 feet ———→   [Board B]
+   ○                                ○
 (Hole)                           (Hole)
 
 Team 1 players stand at Board A      Team 1 partner at Board B
@@ -123,7 +123,7 @@ Partners stand at opposite ends and throw toward each other's board. In singles 
 
 ### Turn Structure
 
-Players alternate throwing one bag at a time until all four bags per player have been thrown (one "inning"). Bags are thrown from behind the front edge of the board, standing on either side of the board in the designated pitcher's box (3 feet wide Ã 4 feet long alongside the board).
+Players alternate throwing one bag at a time until all four bags per player have been thrown (one "inning"). Bags are thrown from behind the front edge of the board, standing on either side of the board in the designated pitcher's box (3 feet wide × 4 feet long alongside the board).
 
 The player (or team) who scored last in the previous inning throws first. In the first inning, a coin toss determines who throws first.
 
@@ -144,7 +144,7 @@ The player (or team) who scored last in the previous inning throws first. In the
 
 ### Winning
 
-First team to reach **21 points** wins. A team may "bust" past 21 in some variants (see below). ACA standard rules allow a team to win by going past 21 â the first to reach 21 or more wins.
+First team to reach **21 points** wins. A team may "bust" past 21 in some variants (see below). ACA standard rules allow a team to win by going past 21 — the first to reach 21 or more wins.
 
 **Winning exactly on 21:** If a team reaches exactly 21, the opposing team throws their remaining bags for the inning. If the opponent also reaches or exceeds 21, the higher score wins. If tied at 21, the game extends until one team leads at the end of an inning.
 
@@ -168,22 +168,22 @@ Horseshoe pitching is one of the oldest lawn sports in North America, with forma
 
 ### Equipment
 
-* **Horseshoes:** Metal shoes, maximum 7Â¼ inches wide Ã 7â inches long, weighing 2Â½ pounds maximum. Competition shoes are regulation metal; recreational sets vary.
-* **Stakes:** Iron stakes 1 inch in diameter, driven into the center of a sand-filled pit, leaning 3 inches forward (toward the pitcher) at the top, protruding 14â15 inches above the ground.
+* **Horseshoes:** Metal shoes, maximum 7¼ inches wide × 7⅝ inches long, weighing 2½ pounds maximum. Competition shoes are regulation metal; recreational sets vary.
+* **Stakes:** Iron stakes 1 inch in diameter, driven into the center of a sand-filled pit, leaning 3 inches forward (toward the pitcher) at the top, protruding 14–15 inches above the ground.
 
 ### Court Dimensions
 
 ```
 [Stake A]                         [Stake B]
-    |âââââââââââââ 40 feet âââââââââââââ|
+    |←———————————— 40 feet ————————————→|
 
 (Regulation: 40 feet stake-to-stake for adults;
   30 feet for youth and some recreational formats)
 
 Foul line: 37 feet from the opposite stake 
   (adult men); 27 feet (adult women and youth)
-Pitcher's box: 6 feet Ã 6 feet around each stake
-Pit: sand-filled, 43 inches Ã 72 inches minimum
+Pitcher's box: 6 feet × 6 feet around each stake
+Pit: sand-filled, 43 inches × 72 inches minimum
 ```
 
 Players throw from one end of the court to the other, standing in the pitcher's box at their end.
@@ -202,7 +202,7 @@ Horseshoes uses cancellation scoring between opponents, similar to cornhole.
 
 **Ringer:** A shoe that encircles the stake with both tips past the stake. To verify, a straight edge touching both tips must clear the stake. A ringer scores **3 points**.
 
-**Leaning shoe:** A shoe leaning against the stake scores the same as the closest shoe â not extra. It is not a ringer.
+**Leaning shoe:** A shoe leaning against the stake scores the same as the closest shoe — not extra. It is not a ringer.
 
 **Closest shoe:** If neither player has a ringer, the player whose shoe is closest to the stake scores **1 point** (if within 6 inches; otherwise, no score). If both players have a shoe within 6 inches, only the closer one scores.
 
@@ -214,7 +214,7 @@ Horseshoes uses cancellation scoring between opponents, similar to cornhole.
 
 ### Winning
 
-Standard games are played to **40 points** (NHPA competition format). Casual play often uses 21 points. Alternate format: set number of innings (50 innings in formal competition â the player with the most points after 50 innings wins).
+Standard games are played to **40 points** (NHPA competition format). Casual play often uses 21 points. Alternate format: set number of innings (50 innings in formal competition — the player with the most points after 50 innings wins).
 
 ### Ringer Percentage
 
@@ -226,30 +226,30 @@ In competitive play, ringer percentage is the defining statistic: ringers thrown
 
 ### Overview
 
-Kubb (pronounced "koob," from the Swedish dialect word for "wooden block") is a lawn bowling/throwing game of Swedish origin, now widely popular at parks, beaches, and gatherings worldwide. Players throw wooden batons at wooden blocks (kubbs), knocking them over to earn the right to attack the King â the central large block. The team that topples the King wins. Kubb rewards precision, team coordination, and a specific "pendulum throw" technique that takes real practice to master.
+Kubb (pronounced "koob," from the Swedish dialect word for "wooden block") is a lawn bowling/throwing game of Swedish origin, now widely popular at parks, beaches, and gatherings worldwide. Players throw wooden batons at wooden blocks (kubbs), knocking them over to earn the right to attack the King — the central large block. The team that topples the King wins. Kubb rewards precision, team coordination, and a specific "pendulum throw" technique that takes real practice to master.
 
 ### Equipment
 
-* **King:** One large wooden block (approximately 9 cm Ã 9 cm Ã 30 cm), placed in the center of the field.
-* **Kubbs (field kubbs):** 10 smaller blocks (approximately 7 cm Ã 7 cm Ã 15 cm), five per team.
-* **Batons:** 6 cylindrical throwing sticks (approximately 4.4 cm diameter Ã 30 cm long).
+* **King:** One large wooden block (approximately 9 cm × 9 cm × 30 cm), placed in the center of the field.
+* **Kubbs (field kubbs):** 10 smaller blocks (approximately 7 cm × 7 cm × 15 cm), five per team.
+* **Batons:** 6 cylindrical throwing sticks (approximately 4.4 cm diameter × 30 cm long).
 * **Baseline stakes:** 4 stakes to mark the field corners plus the center sides.
 
 ### Court Dimensions
 
 ```
 Team 2's Baseline
-âââââââââââââââââââââ 8 meters âââââââââââââââââââââ¤
-â  [ K ] [ K ] [ K ] [ K ] [ K ]                  â  â Baseline
+├──────────────────── 8 meters ────────────────────┤
+●  [ K ] [ K ] [ K ] [ K ] [ K ]                  ●  ← Baseline
 
-                  [ KING ]                          â Center field
+                  [ KING ]                          ← Center field
 
-â  [ K ] [ K ] [ K ] [ K ] [ K ]                  â  â Baseline
+●  [ K ] [ K ] [ K ] [ K ] [ K ]                  ●  ← Baseline
 Team 1's Baseline
-     â 5 meters â
+     ↕ 5 meters ↕
 ```
 
-**Field dimensions:** 8 meters wide Ã 5 meters long (recreational). Official competitive field is 8 Ã 5 meters for adults; smaller for children (5 Ã 3 meters).
+**Field dimensions:** 8 meters wide × 5 meters long (recreational). Official competitive field is 8 × 5 meters for adults; smaller for children (5 × 3 meters).
 
 Each team lines up their five kubbs along their own baseline, evenly spaced.
 
@@ -259,12 +259,12 @@ Teams alternate turns. Each team has **6 batons** to throw per turn.
 
 A turn proceeds in two phases:
 
-**Phase 1 â Throwing at field kubbs (inkastning and attacking):**
-If there are any field kubbs standing in the opposing team's field (knocked kubbs that have been raised by the opponent â see below), Team 1 must knock down ALL field kubbs before they may attack the opponent's baseline kubbs or the King. Batons that fail to knock all field kubbs still end the turn.
+**Phase 1 — Throwing at field kubbs (inkastning and attacking):**
+If there are any field kubbs standing in the opposing team's field (knocked kubbs that have been raised by the opponent — see below), Team 1 must knock down ALL field kubbs before they may attack the opponent's baseline kubbs or the King. Batons that fail to knock all field kubbs still end the turn.
 
 If there are no field kubbs in play, proceed directly to Phase 2.
 
-**Phase 2 â Attacking baseline kubbs:**
+**Phase 2 — Attacking baseline kubbs:**
 Throw remaining batons at the opposing team's baseline kubbs. Knock them over to score.
 
 ### The Field Kubb Raise
@@ -274,13 +274,13 @@ When a baseline kubb is knocked down, the attacking team tosses it ("inkastning"
 **Field kubb rules:**
 - A field kubb that lands out of bounds is tossed again from the center of the closest boundary line.
 - A field kubb must be at least one baton-length from the King.
-- If a field kubb lands on top of or touching another field kubb, they are "stacked" â both are stood up together, touching. A single baton hit to the stack topples both.
+- If a field kubb lands on top of or touching another field kubb, they are "stacked" — both are stood up together, touching. A single baton hit to the stack topples both.
 
 ### Winning
 
 **To win:** A team must knock down all five of the opponent's baseline kubbs AND then knock over the King.
 
-**The King cannot be attacked until all baseline kubbs are knocked down.** Hitting the King before all baseline kubbs are cleared is a loss â the attacking team immediately loses the game.
+**The King cannot be attacked until all baseline kubbs are knocked down.** Hitting the King before all baseline kubbs are cleared is a loss — the attacking team immediately loses the game.
 
 **Field kubb advantage:** If there are field kubbs in the opponent's half, the team whose kubbs are standing closest to the King may use that position as their throw line for the current turn (rather than their baseline). This is called the "field kubb advantage line."
 
@@ -292,15 +292,15 @@ The thrower must stand behind their baseline (or the field kubb advantage line i
 
 ### Teamplay
 
-Standard Kubb is team vs. team, typically 2â6 players per side. Teams decide internally who throws which batons on each turn. No player sub-rules limit which team member may throw on any given turn.
+Standard Kubb is team vs. team, typically 2–6 players per side. Teams decide internally who throws which batons on each turn. No player sub-rules limit which team member may throw on any given turn.
 
 ### Strategy Notes
 
-**Stacking field kubbs** is a powerful tactic â throw field kubbs near existing field kubbs to create cluster targets your opponent can knock down efficiently, but if you stack them favorably, you gain valuable advantage-line proximity.
+**Stacking field kubbs** is a powerful tactic — throw field kubbs near existing field kubbs to create cluster targets your opponent can knock down efficiently, but if you stack them favorably, you gain valuable advantage-line proximity.
 
-**Protecting the King:** Never leave all your baseline kubbs vulnerable while field kubbs remain â if the opponent clears field kubbs quickly, they get a shorter throw line at the King.
+**Protecting the King:** Never leave all your baseline kubbs vulnerable while field kubbs remain — if the opponent clears field kubbs quickly, they get a shorter throw line at the King.
 
-**Targeting the King:** Once baseline kubbs are cleared, aim for the King from the best available position (baseline or advantage line). The King is the largest and most rewarding target â but also the game-ender for the attacking team if missed with only one baton remaining (some rule sets consider this a loss; most recreational sets simply move on).
+**Targeting the King:** Once baseline kubbs are cleared, aim for the King from the best available position (baseline or advantage line). The King is the largest and most rewarding target — but also the game-ender for the attacking team if missed with only one baton remaining (some rule sets consider this a loss; most recreational sets simply move on).
 
 ---
 
@@ -316,6 +316,6 @@ Standard Kubb is team vs. team, typically 2â6 players per side. Teams decid
 
 ---
 
-*The Observatory Almanac â rules compiled from the United States Croquet Association (USCA), American Cornhole Association (ACA), National Horseshoe Pitchers Association (NHPA), and World Kubb Championship (Gotland) standards.*
+*The Observatory Almanac — rules compiled from the United States Croquet Association (USCA), American Cornhole Association (ACA), National Horseshoe Pitchers Association (NHPA), and World Kubb Championship (Gotland) standards.*
 
-### ð¯ Scorecard
+### 🎯 Scorecard

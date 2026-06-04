@@ -1,4 +1,4 @@
-# Observatory Stats â March
+# Observatory Stats — March
 
 *Inspired by Harper's Index*
 
@@ -171,11 +171,11 @@
 ## March 11
 
 * Year the Fukushima nuclear disaster occurred: 2011
-* Number of aftershocks exceeding magnitude 6.0 in the first year following the 2011 TÅhoku earthquake: 80
+* Number of aftershocks exceeding magnitude 6.0 in the first year following the 2011 Tōhoku earthquake: 80
 * Estimated cost, in dollars, of the 2011 Japan earthquake and tsunami: 360,000,000,000
 * Percentage of Japan's electricity once provided by nuclear power before 2011: 30
 * Number of countries that offered immediate aid to Japan following the disaster: 116
-* Average height, in feet, of the TÅhoku tsunami waves: 133
+* Average height, in feet, of the Tōhoku tsunami waves: 133
 * Number of UNESCO World Heritage Sites in Japan: 25
 * Percentage of global supply of electronics components manufactured in Japan: 60
 * Estimated number of robots used in Japanese manufacturing: 350,000
@@ -220,7 +220,7 @@
 
 * Pi Day: approximate value of pi to five decimal places: 3.14159
 * Number of digits of pi computed by machine as of 2024: 105,000,000,000,000
-* Year Euler first used the symbol Ï for the ratio of circumference to diameter: 1737
+* Year Euler first used the symbol π for the ratio of circumference to diameter: 1737
 * Estimated number of known prime numbers below one billion: 50,847,534
 * Percentage of adults in the U.S. who report difficulty with basic math: 33
 * Number of Fields Medals awarded since the prize was established in 1936: 64
@@ -244,7 +244,7 @@
 * Number of hills Rome was classically said to be built upon: 7
 * Distance, in miles, of Roman roads built at the empire's height: 250,000
 * Percentage of modern European legal systems influenced by Roman law: 60
-* Number of months added to the calendar by Julius Caesar's reform: 2 (Quintilis â July; Sextilis â August)
+* Number of months added to the calendar by Julius Caesar's reform: 2 (Quintilis → July; Sextilis → August)
 
 ---
 
@@ -287,7 +287,7 @@
 * Number of humans who have walked in space (EVA) through 2024: 261
 * Estimated cost, in dollars, of an astronaut's spacesuit: 12,000,000
 * Percentage of oxygen in Earth's atmosphere: 21
-* Temperature, in degrees Fahrenheit, at which liquid oxygen boils: â297
+* Temperature, in degrees Fahrenheit, at which liquid oxygen boils: −297
 * Year the International Space Station was first inhabited: 2000
 * Number of countries involved in building the ISS: 15
 * Estimated weight, in pounds, of the ISS: 925,000
@@ -317,7 +317,7 @@
 * Year the first crossword puzzle appeared in a newspaper (The New York World): 1913
 * Estimated number of crossword puzzles published in U.S. newspapers each year: 3,000,000
 * Average time, in minutes, it takes a skilled solver to complete a Monday NYT crossword: 8
-* Number of black squares in a standard 15Ã15 crossword grid (average): 38
+* Number of black squares in a standard 15×15 crossword grid (average): 38
 * Percentage of Americans who do a crossword puzzle at least once a week: 27
 * Year Scrabble was invented: 1938
 * Highest possible score in a single Scrabble turn: 1,782

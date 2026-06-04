@@ -1,25 +1,25 @@
-# Section XI â The Discovery Machine
+# Section XI — The Discovery Machine
 
-ð Discovery Machine â All Questionnaires
+🔍 Discovery Machine — All Questionnaires
 
-* [ð Depression Screen (PHQ-9)](../clinical-validated/#take-the-phq-9-now)
-* [ð Anxiety Screen (GAD-7)](../clinical-validated/#take-the-gad-7-now)
-* [ð§  Big Five Personality](../self-knowledge/#take-the-big-five-now)
-* [ð¼ Career Type (RIASEC)](../vocational-personality/#holland-riasec)
-* [ð Attachment Style](../relationship-social/#attachment-style)
-* [ð³ï¸ Political Compass](../self-discovery-suite/#political-compass)
-* [â¤ï¸ Relationship Health](../relationship-dynamics/#relationship-health)
-* [ð¨ Emergency Decision Tree](../body-survival/#emergency-decision-tree)
-* [ð¡ï¸ Scam Checker](../consumer-legal/#scam-checker)
-* [ð Is This Dog Friendly?](../animal-nature/#dog-friendly)
-* [ð  Home Safety Score](../home-environment/#home-safety)
-* [ð What's That Smell/Sound?](../sensory-diagnostics/#whats-that-smell)
-* [ð§ Boundary Health Check](../relational-behavioral-deep/#boundary-health)
-* [ð Glossary Mad Libs Quiz](../mad-libs-learning/#glossary-quiz)
+* [📋 Depression Screen (PHQ-9)](../clinical-validated/#take-the-phq-9-now)
+* [📋 Anxiety Screen (GAD-7)](../clinical-validated/#take-the-gad-7-now)
+* [🧠 Big Five Personality](../self-knowledge/#take-the-big-five-now)
+* [💼 Career Type (RIASEC)](../vocational-personality/#holland-riasec)
+* [💕 Attachment Style](../relationship-social/#attachment-style)
+* [🗳️ Political Compass](../self-discovery-suite/#political-compass)
+* [❤️ Relationship Health](../relationship-dynamics/#relationship-health)
+* [🚨 Emergency Decision Tree](../body-survival/#emergency-decision-tree)
+* [🛡️ Scam Checker](../consumer-legal/#scam-checker)
+* [🐕 Is This Dog Friendly?](../animal-nature/#dog-friendly)
+* [🏠 Home Safety Score](../home-environment/#home-safety)
+* [👃 What's That Smell/Sound?](../sensory-diagnostics/#whats-that-smell)
+* [🚧 Boundary Health Check](../relational-behavioral-deep/#boundary-health)
+* [📝 Glossary Mad Libs Quiz](../mad-libs-learning/#glossary-quiz)
 
 ## Relationship Dynamics: Healthy, Unhealthy, and Everything Between
 
-*These tools are maps, not verdicts. The goal is clarity â seeing your situation as clearly as possible so you can make informed choices. Some of what you find here may be uncomfortable. That discomfort is informative. Sit with it.*
+*These tools are maps, not verdicts. The goal is clarity — seeing your situation as clearly as possible so you can make informed choices. Some of what you find here may be uncomfortable. That discomfort is informative. Sit with it.*
 
 *If these assessments reveal abuse, please reach out to a professional. Knowledge is the beginning; safety and support are what carry you through.*
 
@@ -33,13 +33,13 @@
 
 **Purpose:** A deep, honest accounting of where your relationship actually stands across all major dimensions.
 
-**Rate each item 1â5 (1=Not at all true, 3=Somewhat true, 5=Completely true):**
+**Rate each item 1–5 (1=Not at all true, 3=Somewhat true, 5=Completely true):**
 
 **Trust (T):**
 1. I trust my partner to be honest with me, even when it's difficult.
 2. I feel safe being vulnerable with my partner.
 3. My partner follows through on commitments consistently.
-4. I trust my partner's fidelity â emotionally and physically.
+4. I trust my partner's fidelity — emotionally and physically.
 5. When something is wrong, I believe my partner will tell me.
 
 **Communication (C):**
@@ -81,7 +81,7 @@
 31. This relationship has made me a better person.
 32. I feel challenged to grow in healthy ways by this partnership.
 33. My partner supports my personal development and ambitions.
-34. I can see who I'm becoming in this relationship â and I like it.
+34. I can see who I'm becoming in this relationship — and I like it.
 35. We've navigated hard seasons and come through them.
 
 **Fun & Joy (F):**
@@ -103,18 +103,18 @@
 47. I feel emotionally safe with my partner.
 48. I feel safe expressing disagreement or displeasure.
 49. There are no threats, ultimatums, or intimidation in this relationship.
-50. I feel safe being myself â all of myself â in this relationship.
+50. I feel safe being myself — all of myself — in this relationship.
 
 **Scoring:**
 - Add scores by domain (10 items each for sub-domains, 5 items per the 10 listed areas).
-- 20â25 per domain: Strength
-- 13â19: Growing edge
-- 5â12: Significant concern
+- 20–25 per domain: Strength
+- 13–19: Growing edge
+- 5–12: Significant concern
 
 **Total Score:**
-- 200â250: Deeply healthy foundation
-- 130â199: Good foundation with growth areas
-- 70â129: Significant difficulties; work needed
+- 200–250: Deeply healthy foundation
+- 130–199: Good foundation with growth areas
+- 70–129: Significant difficulties; work needed
 - Under 70: Serious concern; professional support strongly recommended
 
 **Critical Flags:** If ANY item in the Safety domain scored 1 or 2, treat this as a priority, regardless of total score.
@@ -123,7 +123,7 @@
 
 ## 2. Power Dynamic Assessment
 
-**Purpose:** Power in relationships is natural â it becomes problematic when it's systematically one-sided in high-stakes domains.
+**Purpose:** Power in relationships is natural — it becomes problematic when it's systematically one-sided in high-stakes domains.
 
 **For each domain, rate who holds more power (1=Partner holds all, 3=Shared equally, 5=I hold all):**
 
@@ -150,8 +150,8 @@
 
 **Interpreting Results:**
 - **Scores clustered near 3:** Healthy shared power. Negotiation is the norm.
-- **Multiple domains scored 1â2:** You have significantly less power. This warrants reflection â is this chosen, acceptable, or imposed?
-- **Multiple domains scored 4â5:** You hold disproportionate power. This can harm the relationship and the other person.
+- **Multiple domains scored 1–2:** You have significantly less power. This warrants reflection — is this chosen, acceptable, or imposed?
+- **Multiple domains scored 4–5:** You hold disproportionate power. This can harm the relationship and the other person.
 
 **Key Questions:**
 - Are the imbalances chosen or forced?
@@ -162,12 +162,12 @@
 
 ## 3. Emotional Availability Assessment
 
-*Based on Biringen's Emotional Availability Scales â adapted for self-reflection*
+*Based on Biringen's Emotional Availability Scales — adapted for self-reflection*
 
 **How emotionally available are YOU in this relationship?**
 
-Rate 1â5 (1=Almost never, 5=Almost always):
-1. I am genuinely present when with my partner â not distracted or checked out.
+Rate 1–5 (1=Almost never, 5=Almost always):
+1. I am genuinely present when with my partner — not distracted or checked out.
 2. I can read my partner's emotional signals and respond appropriately.
 3. I allow my partner's emotional experience to matter to me.
 4. I can be playful and warm, not just functional.
@@ -178,7 +178,7 @@ Rate 1â5 (1=Almost never, 5=Almost always):
 
 **How emotionally available is YOUR PARTNER?**
 
-Rate 1â5:
+Rate 1–5:
 9. My partner is genuinely present when we're together.
 10. My partner accurately reads my emotional signals.
 11. My partner allows my experience to matter to them.
@@ -188,16 +188,16 @@ Rate 1â5:
 15. My partner can be with me in pain without leaving, fixing, or dismissing.
 16. My partner is curious about my inner life.
 
-**Scoring:** Your EA: Average items 1â8. Partner EA: Average items 9â16.
-- 4â5: High availability
-- 3â3.9: Moderate
-- 1â2.9: Low availability â significant disconnection
+**Scoring:** Your EA: Average items 1–8. Partner EA: Average items 9–16.
+- 4–5: High availability
+- 3–3.9: Moderate
+- 1–2.9: Low availability — significant disconnection
 
 ---
 
-## 4. Intimacy Assessment â Five Dimensions
+## 4. Intimacy Assessment — Five Dimensions
 
-**Rate each dimension 1â10 (1=Absent, 10=Rich and fulfilling):**
+**Rate each dimension 1–10 (1=Absent, 10=Rich and fulfilling):**
 
 **Emotional Intimacy:** The experience of being fully known and accepted. Sharing fears, vulnerabilities, dreams, and shame without judgment. Feeling that your inner world matters to your partner.
 Score: \_\_\_\_\_
@@ -205,39 +205,39 @@ Score: \_\_\_\_\_
 **Intellectual Intimacy:** Engaging with ideas together. Genuine curiosity about each other's thoughts. Stimulating conversations. Feeling mentally met.
 Score: \_\_\_\_\_
 
-**Physical Intimacy:** Encompasses touch, affection, sexuality, and physical presence â the full spectrum, not just sex. Feeling safe and desirable in your body with this person.
+**Physical Intimacy:** Encompasses touch, affection, sexuality, and physical presence — the full spectrum, not just sex. Feeling safe and desirable in your body with this person.
 Score: \_\_\_\_\_
 
 **Experiential Intimacy:** Shared activities, adventures, routines, and rituals. The intimacy that builds through doing life together.
 Score: \_\_\_\_\_
 
-**Spiritual Intimacy:** Connection around values, meaning, and the bigger questions â whether through religion, philosophy, shared mission, or mutual reverence for life.
+**Spiritual Intimacy:** Connection around values, meaning, and the bigger questions — whether through religion, philosophy, shared mission, or mutual reverence for life.
 Score: \_\_\_\_\_
 
-**Total:** 40â50: Very intimate. 25â39: Moderately connected. Under 25: Intimacy is underdeveloped.
+**Total:** 40–50: Very intimate. 25–39: Moderately connected. Under 25: Intimacy is underdeveloped.
 
-**What To Do Next:** Which dimension is lowest? Intimacy deficits are often addressable â the question is whether both people are willing to invest.
+**What To Do Next:** Which dimension is lowest? Intimacy deficits are often addressable — the question is whether both people are willing to invest.
 
 ---
 
 ## 5. Trust Rebuilding Readiness (Post-Betrayal)
 
-**Purpose:** After a serious breach of trust (infidelity, significant deception, major betrayal), rebuilding is possible â but only under certain conditions. This assessment helps both parties honestly evaluate readiness.
+**Purpose:** After a serious breach of trust (infidelity, significant deception, major betrayal), rebuilding is possible — but only under certain conditions. This assessment helps both parties honestly evaluate readiness.
 
 **For the Person Who Was Betrayed:**
 - [ ] I can be in the same room as this person without feeling physically unsafe.
-- [ ] I want to rebuild this relationship â not just stay out of fear or convenience.
+- [ ] I want to rebuild this relationship — not just stay out of fear or convenience.
 - [ ] I'm willing to eventually (not now, but eventually) stop punishing them.
 - [ ] I'm willing to enter couples therapy.
 - [ ] I can imagine, even faintly, that this person is more than their worst act.
 - [ ] I've processed at least some of the acute grief and rage before trying to rebuild.
 
 **For the Person Who Caused the Breach:**
-- [ ] I have fully disclosed what happened â no more "layers" to reveal.
+- [ ] I have fully disclosed what happened — no more "layers" to reveal.
 - [ ] I've stopped the behavior that caused the breach.
 - [ ] I can tolerate their anger without defending myself excessively.
 - [ ] I'm willing to be transparent for as long as they need.
-- [ ] I understand what I did and why â I'm not just apologizing for getting caught.
+- [ ] I understand what I did and why — I'm not just apologizing for getting caught.
 - [ ] I'm willing to enter couples therapy.
 - [ ] I understand that rebuilding is earned over time, not granted by apology.
 
@@ -247,9 +247,9 @@ Score: \_\_\_\_\_
 
 ## 6. Divorce/Separation Readiness Assessment
 
-*This is not advocacy for leaving. It's an honest mirror â wherever you are.*
+*This is not advocacy for leaving. It's an honest mirror — wherever you are.*
 
-**Rate 1â5 (1=Strongly disagree, 5=Strongly agree):**
+**Rate 1–5 (1=Strongly disagree, 5=Strongly agree):**
 
 1. I've tried significant, sustained effort to address the relationship's problems.
 2. My partner is also willing to invest genuinely in change.
@@ -267,7 +267,7 @@ Score: \_\_\_\_\_
 - Am I staying because the relationship is genuinely good, or because I'm afraid to leave?
 - If a close friend described this relationship to me, what would I think?
 
-**What To Do Next:** This isn't a scorecard for leaving or staying. It's a starting point for an honest conversation â with yourself, your partner, or a therapist.
+**What To Do Next:** This isn't a scorecard for leaving or staying. It's a starting point for an honest conversation — with yourself, your partner, or a therapist.
 
 ---
 
@@ -297,7 +297,7 @@ These four experiences feel similar from inside and are dramatically different i
 - The "love" you feel is most intense after conflict, cruelty, or near-loss.
 - You've been hurt repeatedly and keep returning.
 - Normal relationships feel boring or lacking.
-- You feel addicted â the intensity is the point.
+- You feel addicted — the intensity is the point.
 - You often feel worse after time with this person, but crave the next high.
 
 **Markers of Codependency:**
@@ -305,7 +305,7 @@ These four experiences feel similar from inside and are dramatically different i
 - You define yourself primarily through caretaking this person.
 - Their moods and needs dominate your internal experience.
 - You've lost track of who you are outside this relationship.
-- You fear their independence â it feels threatening.
+- You fear their independence — it feels threatening.
 
 **What To Do Next:** These distinctions aren't always clean, and they coexist. But naming which dynamic is primary is the beginning of navigating it wisely.
 
@@ -386,7 +386,7 @@ These four experiences feel similar from inside and are dramatically different i
 - [ ] The relationship began with intense attention, flattery, and "you're unlike anyone I've ever met."
 - [ ] There was a period of feeling extremely special, chosen, elevated.
 - [ ] The idealization gradually gave way to criticism, comparison, contempt.
-- [ ] Standards seemed to shift â what was once praised is now criticized.
+- [ ] Standards seemed to shift — what was once praised is now criticized.
 - [ ] You work harder to recapture the early feeling.
 - [ ] There have been episodes (or threats) of abrupt abandonment/discard.
 
@@ -414,21 +414,21 @@ These four experiences feel similar from inside and are dramatically different i
 
 ## 10. Coercive Control Indicators (Evan Stark Framework)
 
-**Purpose:** Evan Stark's research shows that the most dangerous intimate partner abuse isn't a series of incidents â it's a pattern of control that colonizes daily life. Coercive control often leaves no bruises.
+**Purpose:** Evan Stark's research shows that the most dangerous intimate partner abuse isn't a series of incidents — it's a pattern of control that colonizes daily life. Coercive control often leaves no bruises.
 
 **Check all that apply:**
 - [ ] Monitoring your whereabouts, movements, or communications.
 - [ ] Requiring constant check-ins or availability.
 - [ ] Isolating you from friends or family (gradually, often through criticism of those people).
 - [ ] Micromanaging your appearance, diet, activities, or social life.
-- [ ] Degradation â constant criticism that erodes your sense of competence and worth.
+- [ ] Degradation — constant criticism that erodes your sense of competence and worth.
 - [ ] Intimidation through looks, tone, gestures, or proximity.
 - [ ] Making you feel watched even when they're not present.
 - [ ] Using your children, pets, or vulnerabilities as leverage.
 - [ ] Taking away freedoms and making exceptions feel like gifts.
 - [ ] Making you feel you've lost yourself inside this relationship.
 
-**The Defining Feature of Coercive Control:** It operates like a cage that constrains your freedom of movement, behavior, and thought â not a series of explosions, but a continuous, pervasive reality. This is the "unfreedom" Stark describes.
+**The Defining Feature of Coercive Control:** It operates like a cage that constrains your freedom of movement, behavior, and thought — not a series of explosions, but a continuous, pervasive reality. This is the "unfreedom" Stark describes.
 
 ---
 
@@ -436,7 +436,7 @@ These four experiences feel similar from inside and are dramatically different i
 
 **Purpose:** DARVO (Deny, Attack, Reverse Victim and Offender) is a pattern abusers use when confronted. Recognizing it helps you trust your perceptions.
 
-**DARVO in action â recognize these responses when you've raised a concern or harm:**
+**DARVO in action — recognize these responses when you've raised a concern or harm:**
 
 **Deny:**
 - "That never happened."
@@ -486,18 +486,18 @@ These four experiences feel similar from inside and are dramatically different i
 
 **Purpose:** Gaslighting is the systematic distortion of your reality. It ranges from mild to severe.
 
-**Level 1 â Minimizing:** "You're too sensitive." "You're overreacting." "It was just a joke."
-**Level 2 â Dismissing:** "That's not how it happened." "You always misunderstand me."
-**Level 3 â Reframing:** Taking an event and restating it in a way that completely changes who did what.
-**Level 4 â Denial:** "I never said that." "That never happened." Consistent erasure of real events.
-**Level 5 â Memory challenges:** Claiming your memories of events are systematically wrong.
-**Level 6 â Competence attacks:** "You can't remember anything correctly." "You can't trust your judgment."
-**Level 7 â Reality replacement:** Creating an alternative account of events and insisting on it over time.
-**Level 8 â Witness manipulation:** Enlisting others to confirm their version of events.
-**Level 9 â Systemic identity erosion:** "You've always been unstable/crazy/paranoid."
-**Level 10 â Institutional gaslighting:** Using systems (therapy, family, medical) to confirm that your perceptions are disordered.
+**Level 1 — Minimizing:** "You're too sensitive." "You're overreacting." "It was just a joke."
+**Level 2 — Dismissing:** "That's not how it happened." "You always misunderstand me."
+**Level 3 — Reframing:** Taking an event and restating it in a way that completely changes who did what.
+**Level 4 — Denial:** "I never said that." "That never happened." Consistent erasure of real events.
+**Level 5 — Memory challenges:** Claiming your memories of events are systematically wrong.
+**Level 6 — Competence attacks:** "You can't remember anything correctly." "You can't trust your judgment."
+**Level 7 — Reality replacement:** Creating an alternative account of events and insisting on it over time.
+**Level 8 — Witness manipulation:** Enlisting others to confirm their version of events.
+**Level 9 — Systemic identity erosion:** "You've always been unstable/crazy/paranoid."
+**Level 10 — Institutional gaslighting:** Using systems (therapy, family, medical) to confirm that your perceptions are disordered.
 
-**What To Do Next:** If you're experiencing levels 5+, your grip on reality may genuinely be compromised â this is the design. Keeping a private journal (secure, private, inaccessible to them) and maintaining contact with trusted outside witnesses is essential.
+**What To Do Next:** If you're experiencing levels 5+, your grip on reality may genuinely be compromised — this is the design. Keeping a private journal (secure, private, inaccessible to them) and maintaining contact with trusted outside witnesses is essential.
 
 ---
 
@@ -513,12 +513,12 @@ These four experiences feel similar from inside and are dramatically different i
 
 Draw three concentric circles:
 - **Inner Circle (5 or fewer):** The people you can call at 2am. Who would know if you'd been in an accident for 48 hours? Who knows your real interior life?
-- **Middle Circle (up to 15):** Genuine friends. You're happy to see them, you trust them, you'd help in a crisis â but they don't know everything.
+- **Middle Circle (up to 15):** Genuine friends. You're happy to see them, you trust them, you'd help in a crisis — but they don't know everything.
 - **Outer Circle (up to 50):** Friendly acquaintances. People you like and see periodically but aren't deeply involved with.
 
 **Step 2: Assess Each Inner/Middle Circle Friendship**
 
-For each person, rate 1â5:
+For each person, rate 1–5:
 - **Reciprocity:** Does the care, effort, and investment flow both ways?
 - **Trust:** Could you tell them something difficult without fear?
 - **Growth:** Does this friendship make you better or more yourself?
@@ -528,7 +528,7 @@ For each person, rate 1â5:
 
 **What This Means:**
 - High on all dimensions: This is a core friendship. Tend it.
-- High on fun/energy, low on trust/reliability: Valuable but limited â pleasant company, not deep support.
+- High on fun/energy, low on trust/reliability: Valuable but limited — pleasant company, not deep support.
 - Low on reciprocity or energy: Examine honestly whether this friendship still serves both of you.
 
 ---
@@ -539,18 +539,18 @@ For each person, rate 1â5:
 
 **Check in with each layer:**
 
-**Intimate Support Clique (1â5 people):** These are your most important people. You'd turn to them in crisis. Do you have at least 2â3 people here?
+**Intimate Support Clique (1–5 people):** These are your most important people. You'd turn to them in crisis. Do you have at least 2–3 people here?
 Count: \_\_\_\_\_ Minimum recommended: 2
 
-**Sympathy Group (5â15 people):** People you'd invite to a small gathering. You feel genuine warmth. Do you have enough here?
-Count: \_\_\_\_\_ Minimum recommended: 5â8
+**Sympathy Group (5–15 people):** People you'd invite to a small gathering. You feel genuine warmth. Do you have enough here?
+Count: \_\_\_\_\_ Minimum recommended: 5–8
 
-**Active Network (15â50 people):** Regular social contacts. Community members, colleagues, extended friends.
+**Active Network (15–50 people):** Regular social contacts. Community members, colleagues, extended friends.
 Count: \_\_\_\_\_
 
 **Do you have:**
 - [ ] At least one person you can call in genuine crisis
-- [ ] At least 2â3 people who know your real story
+- [ ] At least 2–3 people who know your real story
 - [ ] At least one friendship formed in adulthood (not just maintained from childhood)
 - [ ] At least one friendship that is actively growing
 - [ ] At least one space (community, group, club, etc.) where you're known as a regular
@@ -559,7 +559,7 @@ Count: \_\_\_\_\_
 
 ---
 
-## 16. Toxic Friendship Recognition â 15 Patterns
+## 16. Toxic Friendship Recognition — 15 Patterns
 
 *Distinguishing difficult-but-worthwhile from genuinely toxic*
 
@@ -570,7 +570,7 @@ Count: \_\_\_\_\_
 * [ ] 3. They share your confidences with others.
 * [ ] 4. They compete with you rather than celebrate your success.
 * [ ] 5. They make digs disguised as jokes and dismiss your response as "too sensitive."
-* [ ] 6. They require constant management â you walk on eggshells around their moods.
+* [ ] 6. They require constant management — you walk on eggshells around their moods.
 * [ ] 7. They reliably redirect conversations back to themselves.
 * [ ] 8. They involve you in their drama but don't respect your counsel.
 * [ ] 9. They judge you against an implicit standard you can never meet.
@@ -579,17 +579,17 @@ Count: \_\_\_\_\_
 * [ ] 12. They have a consistent pattern of creating conflict and being the last to resolve it.
 * [ ] 13. Other people in your life have expressed concern about this friendship.
 * [ ] 14. You feel relief when their plans fall through.
-* [ ] 15. The friendship is based primarily on history, obligation, or fear of conflict â not genuine liking.
+* [ ] 15. The friendship is based primarily on history, obligation, or fear of conflict — not genuine liking.
 
-**Scoring:** 0â3: Difficult but probably worth it. 4â8: Seriously evaluate what you're getting and what you're giving. 9â15: Genuinely toxic â the question is not whether but how to create distance.
+**Scoring:** 0–3: Difficult but probably worth it. 4–8: Seriously evaluate what you're getting and what you're giving. 9–15: Genuinely toxic — the question is not whether but how to create distance.
 
 ---
 
 ## 17. Community Belonging Assessment
 
-**Purpose:** Humans evolved to belong to communities, not just dyads. Social integration â being known in multiple contexts â is one of the strongest predictors of wellbeing.
+**Purpose:** Humans evolved to belong to communities, not just dyads. Social integration — being known in multiple contexts — is one of the strongest predictors of wellbeing.
 
-**Rate 1â5 (1=Not at all, 5=Fully):**
+**Rate 1–5 (1=Not at all, 5=Fully):**
 
 1. I have at least one regular gathering place outside home and work (third place).
 2. I feel genuinely known and welcomed in at least one community.
@@ -600,9 +600,9 @@ Count: \_\_\_\_\_
 7. I feel I'd be missed if I disappeared from my communities.
 8. I have a sense of shared history or identity with a group.
 
-**Score 1â20:** High isolation â community connection is an urgent wellbeing investment.
-**Score 21â30:** Some community but could be deeper or broader.
-**Score 31â40:** Strong community integration.
+**Score 1–20:** High isolation — community connection is an urgent wellbeing investment.
+**Score 21–30:** Some community but could be deeper or broader.
+**Score 31–40:** Strong community integration.
 
 ---
 
@@ -612,9 +612,9 @@ Count: \_\_\_\_\_
 
 ## 18. Workplace Psychological Safety Assessment (Edmondson-Inspired)
 
-**Purpose:** Psychological safety â the belief that you can take interpersonal risks without punishment â is the #1 predictor of high-performing teams, according to Amy Edmondson's research.
+**Purpose:** Psychological safety — the belief that you can take interpersonal risks without punishment — is the #1 predictor of high-performing teams, according to Amy Edmondson's research.
 
-**Rate 1â5 (1=Not at all, 5=Completely):**
+**Rate 1–5 (1=Not at all, 5=Completely):**
 
 1. In my team, I can ask "stupid" questions without feeling embarrassed.
 2. It's safe to take risks in my workplace.
@@ -628,8 +628,8 @@ Count: \_\_\_\_\_
 10. People are genuinely curious about each other's perspectives.
 
 **Score:**
-- 40â50: High psychological safety. A rare and valuable environment.
-- 25â39: Moderate. Some safety with real gaps.
+- 40–50: High psychological safety. A rare and valuable environment.
+- 25–39: Moderate. Some safety with real gaps.
 - Under 25: Low psychological safety. Expect underperformance and stress-related costs.
 
 **What To Do Next:** Low psychological safety is primarily a leadership problem. Individual tactics can help at the margins; real change requires leadership behavior change. Document concerns carefully in very low-safety environments.
@@ -638,7 +638,7 @@ Count: \_\_\_\_\_
 
 ## 19. Boss/Manager Relationship Assessment
 
-**Rate your manager 1â5 (1=Never, 5=Always):**
+**Rate your manager 1–5 (1=Never, 5=Always):**
 
 **Supportive Leadership Indicators:**
 1. My manager gives me clear expectations and the resources to meet them.
@@ -659,9 +659,9 @@ Count: \_\_\_\_\_
 14. My manager changes expectations without explanation.
 15. My manager responds to mistakes with punishment rather than learning.
 
-**Scoring:** Add items 1â8. Reverse-score items 9â15 (6 minus your score), then average.
-- Score 4â5: Strong, supportive leadership.
-- Score 2.5â3.9: Mixed â some support with real issues.
+**Scoring:** Add items 1–8. Reverse-score items 9–15 (6 minus your score), then average.
+- Score 4–5: Strong, supportive leadership.
+- Score 2.5–3.9: Mixed — some support with real issues.
 - Under 2.5: Toxic or severely unsupportive management. This has compounding wellbeing effects.
 
 ---
@@ -679,13 +679,13 @@ Count: \_\_\_\_\_
 
 **Systematic bullying (check all that apply):**
 - [ ] You are singled out for treatment that others don't receive.
-- [ ] Criticism is personal, not behavioral â about you as a person, not your actions.
+- [ ] Criticism is personal, not behavioral — about you as a person, not your actions.
 - [ ] You're excluded from information, meetings, or opportunities without legitimate reason.
 - [ ] Work is removed or undermined without explanation.
 - [ ] You receive impossible demands, then are penalized for failure.
 - [ ] Your contributions are minimized or claimed by others.
 - [ ] You are the subject of rumors, mockery, or social exclusion.
-- [ ] Documentation is selective â your mistakes recorded, others' missed.
+- [ ] Documentation is selective — your mistakes recorded, others' missed.
 - [ ] You feel physically unwell before work or after specific interactions.
 
 **Scoring:** 3+ checks = systematic bullying pattern. Document everything with dates, specifics, and witnesses if possible. HR resources and legal protections exist in most jurisdictions.
@@ -694,9 +694,9 @@ Count: \_\_\_\_\_
 
 ## 21. Mentor Readiness Assessment
 
-**Purpose:** Whether to mentor or be mentored â and whether you're ready.
+**Purpose:** Whether to mentor or be mentored — and whether you're ready.
 
-**Are you ready to BE mentored? Rate 1â5:**
+**Are you ready to BE mentored? Rate 1–5:**
 1. I can receive honest feedback without becoming defensive.
 2. I'm clear about what I want to learn or develop.
 3. I'm willing to do the work, not just get the advice.
@@ -704,7 +704,7 @@ Count: \_\_\_\_\_
 5. I'm willing to be challenged, not just affirmed.
 6. I'll follow through on commitments I make to a mentor.
 
-**Are you ready to MENTOR others? Rate 1â5:**
+**Are you ready to MENTOR others? Rate 1–5:**
 7. I have genuine expertise worth sharing.
 8. I can teach without needing the student to do it my way.
 9. I can give hard feedback with compassion.
@@ -713,21 +713,21 @@ Count: \_\_\_\_\_
 12. I'm interested in their growth, not just passing down my legacy.
 
 **Score each section:**
-- Mentee readiness (items 1â6): Average under 3 = more growth work first.
-- Mentor readiness (items 7â12): Average under 3 = consider whether the timing is right.
+- Mentee readiness (items 1–6): Average under 3 = more growth work first.
+- Mentor readiness (items 7–12): Average under 3 = consider whether the timing is right.
 
 **What To Do Next:** Great mentoring relationships are mutually enriching. If you're ready to mentor, the practice of teaching often clarifies your own expertise. If you need a mentor, the most effective approach is usually specific, concrete, and respectful: "I'm trying to learn X, and watching how you do Y has been formative. Would you be willing to meet periodically?"
 
 ---
 
-*End of File 2 â Relationship Dynamics*
+*End of File 2 — Relationship Dynamics*
 
-*Disclaimer: The abuse and toxicity recognition tools in this section are educational frameworks. If you recognize your situation in these descriptions, please contact a professional â a therapist, domestic violence advocate, or trusted resource in your community. You deserve support, not just information.*
+*Disclaimer: The abuse and toxicity recognition tools in this section are educational frameworks. If you recognize your situation in these descriptions, please contact a professional — a therapist, domestic violence advocate, or trusted resource in your community. You deserve support, not just information.*
 
 ---
 
-## ð Interactive: Relationship Health Quick Check
+## 💚 Interactive: Relationship Health Quick Check
 
 ### Relationship Health Quick Check
 
-10 yes/no questions. Answer for a specific relationship â romantic partner, close friend, family member, or colleague.
+10 yes/no questions. Answer for a specific relationship — romantic partner, close friend, family member, or colleague.

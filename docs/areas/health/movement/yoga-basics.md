@@ -1,12 +1,12 @@
 # Yoga Basics: Foundations and Flows
 
-> "Yoga is not about touching your toes. It's about what you learn on the way down." â Jigar Gor
+> "Yoga is not about touching your toes. It's about what you learn on the way down." — Jigar Gor
 
 ---
 
 ## What Yoga Is
 
-Yoga (Sanskrit: *yuj* â to yoke or unite) is an ancient Indian system of physical postures, breath work, and meditation designed to integrate body, mind, and spirit. What most Westerners call "yoga" is primarily *hatha yoga* â the physical branch â and particularly asana (posture) practice.
+Yoga (Sanskrit: *yuj* — to yoke or unite) is an ancient Indian system of physical postures, breath work, and meditation designed to integrate body, mind, and spirit. What most Westerners call "yoga" is primarily *hatha yoga* — the physical branch — and particularly asana (posture) practice.
 
 The practice has documented health benefits: improved flexibility, strength, balance, and body awareness; reduced stress and anxiety; better sleep; reduced chronic pain. It is also a contemplative practice when approached as such.
 
@@ -22,7 +22,7 @@ The practice has documented health benefits: improved flexibility, strength, bal
 
 **Breathing:** In yoga, the breath links movement to awareness. The general rule is: **inhale on opening/expanding movements, exhale on closing/folding movements.** When in doubt, breathe.
 
-**Modifications:** Every pose has easier and harder variations. There is no shame in modification â it's how skilled practitioners work precisely at their edge rather than performing an approximation.
+**Modifications:** Every pose has easier and harder variations. There is no shame in modification — it's how skilled practitioners work precisely at their edge rather than performing an approximation.
 
 ---
 
@@ -34,7 +34,7 @@ Sun Salutation A is the foundational flow sequence in Ashtanga yoga, adopted wid
 
 ---
 
-**1. Tadasana (Mountain Pose) â Start here**
+**1. Tadasana (Mountain Pose) — Start here**
 Stand with feet together or hip-width apart. Weight evenly across both feet. Arms at sides, palms facing forward. Spine long. Chin parallel to floor. Breathe.
 
 **2. Urdhva Hastasana (Upward Salute)**
@@ -73,43 +73,43 @@ One round complete. Repeat.
 
 ## Sun Salutation B (Surya Namaskar B)
 
-Sun Salutation B adds Utkatasana and Warrior I, building more heat and leg strength. Practiced after 3â5 rounds of A.
+Sun Salutation B adds Utkatasana and Warrior I, building more heat and leg strength. Practiced after 3–5 rounds of A.
 
-**1. Tadasana** â Standing.
+**1. Tadasana** — Standing.
 
-**2. Utkatasana (Chair Pose)** â Inhale. Bend knees, sink hips as if sitting on a chair. Arms sweep up overhead. Back stays long, weight in heels.
+**2. Utkatasana (Chair Pose)** — Inhale. Bend knees, sink hips as if sitting on a chair. Arms sweep up overhead. Back stays long, weight in heels.
 
-**3. Uttanasana** â Exhale. Fold forward.
+**3. Uttanasana** — Exhale. Fold forward.
 
-**4. Ardha Uttanasana** â Inhale. Halfway lift.
+**4. Ardha Uttanasana** — Inhale. Halfway lift.
 
-**5. Chaturanga** â Exhale. Step back and lower.
+**5. Chaturanga** — Exhale. Step back and lower.
 
-**6. Upward Dog** â Inhale.
+**6. Upward Dog** — Inhale.
 
-**7. Downward Dog** â Exhale. Hold briefly.
+**7. Downward Dog** — Exhale. Hold briefly.
 
-**8. Virabhadrasana I, Right (Warrior I)** â Inhale. Step right foot forward, spin left heel down at 45Â°. Bend right knee over ankle. Lift arms overhead. Open chest, gaze forward or up.
+**8. Virabhadrasana I, Right (Warrior I)** — Inhale. Step right foot forward, spin left heel down at 45°. Bend right knee over ankle. Lift arms overhead. Open chest, gaze forward or up.
 
-**9. Chaturanga** â Exhale. Lower back to plank, then Chaturanga.
+**9. Chaturanga** — Exhale. Lower back to plank, then Chaturanga.
 
-**10. Upward Dog** â Inhale.
+**10. Upward Dog** — Inhale.
 
-**11. Downward Dog** â Exhale.
+**11. Downward Dog** — Exhale.
 
-**12. Warrior I, Left** â Inhale. Step left foot forward. Same as step 8, opposite side.
+**12. Warrior I, Left** — Inhale. Step left foot forward. Same as step 8, opposite side.
 
-**13. Chaturanga** â Exhale.
+**13. Chaturanga** — Exhale.
 
-**14. Upward Dog** â Inhale.
+**14. Upward Dog** — Inhale.
 
-**15. Downward Dog** â Exhale. Hold 5 breaths.
+**15. Downward Dog** — Exhale. Hold 5 breaths.
 
-**16. Ardha Uttanasana â Uttanasana** â Inhale/Exhale. Step forward, halfway lift, then full fold.
+**16. Ardha Uttanasana → Uttanasana** — Inhale/Exhale. Step forward, halfway lift, then full fold.
 
-**17. Utkatasana** â Inhale. Rise to Chair Pose.
+**17. Utkatasana** — Inhale. Rise to Chair Pose.
 
-**18. Tadasana** â Exhale. Stand.
+**18. Tadasana** — Exhale. Stand.
 
 ---
 
@@ -141,7 +141,7 @@ These poses form the building blocks of most yoga classes. Learn them and you ca
 
 **Category:** Forward fold  
 **Muscles:** Hamstrings, lower back, calves  
-**How:** From standing, hinge at hips. Bend knees as much as needed â the priority is a long spine, not straight legs. Let the head hang heavy. Hold opposite elbows.  
+**How:** From standing, hinge at hips. Bend knees as much as needed — the priority is a long spine, not straight legs. Let the head hang heavy. Hold opposite elbows.  
 **Why:** Calming, gentle inversion, deeply stretches the posterior chain.
 
 ---
@@ -150,7 +150,7 @@ These poses form the building blocks of most yoga classes. Learn them and you ca
 
 **Category:** Standing / strength  
 **Muscles:** Quads, hip flexors, shoulders, upper back  
-**How:** From Downward Dog, step right foot forward between hands. Spin left heel down, foot at 45Â°. Rise to standing. Bend front knee over ankle. Arms sweep up, palms face each other. Open chest.  
+**How:** From Downward Dog, step right foot forward between hands. Spin left heel down, foot at 45°. Rise to standing. Bend front knee over ankle. Arms sweep up, palms face each other. Open chest.  
 **Why:** Builds leg strength, hip flexor stretch, chest opening.
 
 ---
@@ -204,7 +204,7 @@ These poses form the building blocks of most yoga classes. Learn them and you ca
 
 **Category:** Backbend  
 **Muscles:** Spine extensors, chest, shoulders  
-**How:** Lie face down. Place hands under shoulders. Press into hands and lift chest â elbows stay slightly bent, shoulders away from ears. Tops of feet press down.  
+**How:** Lie face down. Place hands under shoulders. Press into hands and lift chest — elbows stay slightly bent, shoulders away from ears. Tops of feet press down.  
 **Why:** Gentle backbend, counters forward folding and desk posture, strengthens the back.
 
 ---
@@ -245,20 +245,20 @@ These poses form the building blocks of most yoga classes. Learn them and you ca
 
 ---
 
-### 15. Pigeon Pose (Eka Pada Rajakapotasana â modified)
+### 15. Pigeon Pose (Eka Pada Rajakapotasana — modified)
 
 **Category:** Hip opener  
 **Muscles:** Piriformis, hip rotators, hip flexors  
 **How:** From Downward Dog, bring right knee toward right wrist. Extend left leg behind. Right shin may be at any angle depending on flexibility. Rest on forearms or full hands. Left hip works toward the floor.  
-**Why:** Deep hip opener targeting the piriformis â invaluable for tight hips from sitting. One of the most immediately impactful poses for most people.
+**Why:** Deep hip opener targeting the piriformis — invaluable for tight hips from sitting. One of the most immediately impactful poses for most people.
 
 ---
 
-### 16. Ardha Matsyendrasana (Half Lord of the Fishes â Seated Twist)
+### 16. Ardha Matsyendrasana (Half Lord of the Fishes — Seated Twist)
 
 **Category:** Twist  
 **Muscles:** Spine, outer hip, shoulder  
-**How:** Sit with right knee bent, foot outside left hip. Left knee bent, foot outside right hip (or left leg extended). Inhale to lengthen. Exhale, twist left â right hand to floor behind, left elbow to right knee.  
+**How:** Sit with right knee bent, foot outside left hip. Left knee bent, foot outside right hip (or left leg extended). Inhale to lengthen. Exhale, twist left — right hand to floor behind, left elbow to right knee.  
 **Why:** Spinal rotation, digestive stimulation, hip opening.
 
 ---
@@ -284,13 +284,13 @@ These poses form the building blocks of most yoga classes. Learn them and you ca
 ### 19. Savasana (Corpse Pose)
 
 **Category:** Rest  
-**Muscles:** None â complete release  
-**How:** Lie flat on back. Feet fall open. Arms slightly away from body, palms up. Eyes closed. Do nothing. 5â15 minutes.  
+**Muscles:** None — complete release  
+**How:** Lie flat on back. Feet fall open. Arms slightly away from body, palms up. Eyes closed. Do nothing. 5–15 minutes.  
 **Why:** The most important pose in the practice. Allows the nervous system to integrate the work. Skipping Savasana is like cooking a meal and walking away before it's done.
 
 ---
 
-### 20. Sukhasana (Easy Pose â Seated Meditation)
+### 20. Sukhasana (Easy Pose — Seated Meditation)
 
 **Category:** Meditation / seated  
 **Muscles:** Hips, lower back  
@@ -301,15 +301,15 @@ These poses form the building blocks of most yoga classes. Learn them and you ca
 
 ## Building a Home Practice
 
-**10-minute practice:** Mountain â Cat-Cow (5 rounds) â Downward Dog (10 breaths) â Child's Pose (5 breaths) â Bridge (5 breaths) â Legs-Up-Wall (5 min) â Savasana (2 min)
+**10-minute practice:** Mountain → Cat-Cow (5 rounds) → Downward Dog (10 breaths) → Child's Pose (5 breaths) → Bridge (5 breaths) → Legs-Up-Wall (5 min) → Savasana (2 min)
 
-**20-minute practice:** 3 rounds Sun A â 2 rounds Sun B â Warrior I and II each side â Pigeon each side â Seated forward fold â Twist each side â Savasana (5 min)
+**20-minute practice:** 3 rounds Sun A → 2 rounds Sun B → Warrior I and II each side → Pigeon each side → Seated forward fold → Twist each side → Savasana (5 min)
 
-**30-minute practice:** 5 rounds Sun A â 3 rounds Sun B â Full standing sequence â Hip openers â Core pose â Inversions â Savasana (10 min)
+**30-minute practice:** 5 rounds Sun A → 3 rounds Sun B → Full standing sequence → Hip openers → Core pose → Inversions → Savasana (10 min)
 
 ---
 
-*Part of the Observatory Almanac â Section 17: Body & Movement*
+*Part of the Observatory Almanac — Section 17: Body & Movement*
 
 ---
 

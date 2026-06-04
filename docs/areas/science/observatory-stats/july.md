@@ -1,4 +1,4 @@
-# Observatory Stats â July
+# Observatory Stats — July
 
 *Inspired by Harper's Index*
 
@@ -44,7 +44,7 @@
 * Percentage of the Great Wall of China that has already crumbled: 30
 * Number of bones a human is born with versus the adult count: 270 vs 206
 * Average time it takes for light to travel from the Sun to Earth, in minutes: 8.3
-* Gallons of water used in a single five-minute shower: 10â25
+* Gallons of water used in a single five-minute shower: 10–25
 * Number of legal codes the US tax code exceeds in word count: all major world religions
 * Percentage of US households that own a pet: 70
 
@@ -133,7 +133,7 @@
 * Gallons of sweat the average person produces per year: 278
 * Percentage of Antarctic ice that holds 70% of the world's fresh water: 90 (of ice volume)
 * Average number of people born per second worldwide: 4.5
-* Number of full moons in a typical year: 12â13
+* Number of full moons in a typical year: 12–13
 * Weight of a cubic foot of air, in ounces: 1.2
 * Year the first video game was invented: 1958
 * Ratio of neurons in the gut to neurons in the spinal cord: 500,000,000 to 100,000,000
@@ -290,7 +290,7 @@
 
 ## July 20
 
-* Moon landing anniversary: Seconds of fuel remaining when Apollo 11 touched down: 25â60
+* Moon landing anniversary: Seconds of fuel remaining when Apollo 11 touched down: 25–60
 * Number of people who watched the moon landing on TV: 600,000,000
 * Average cost of the Apollo program in today's dollars: $280,000,000,000
 * Number of footprints left on the Moon: 12 (from 6 missions)
@@ -329,7 +329,7 @@
 * Average number of packages delivered by UPS per day: 24,700,000
 * Number of cities with a population over 10 million: 34
 * Percentage of US adults who have lived in only one state: 37
-* Gallons of water consumed per capita per day in the US: 80â100
+* Gallons of water consumed per capita per day in the US: 80–100
 * Average rent-to-income ratio in the most expensive US cities: 40%+
 * Year "suburbs" outnumbered cities in population in the US: 1960
 
@@ -357,7 +357,7 @@
 * Number of potentially habitable exoplanets discovered as of 2024: 60+
 * Percentage of the Milky Way galaxy explored by telescopes: 0.01
 * Average age of the universe, in billion years: 13.8
-* Number of dimensions proposed by string theory: 10â11
+* Number of dimensions proposed by string theory: 10–11
 * Percentage of the universe made up of ordinary matter: 5
 * Gallons of water estimated to exist on Jupiter's moon Europa: twice Earth's oceans
 * Year the Voyager 1 probe left the solar system: 2012
@@ -412,7 +412,7 @@
 
 * Year World War I began: 1914
 * Number of soldiers killed per day on the Western Front at peak fighting: 7,000
-* Percentage of all European men aged 15â49 who served in World War I: 65
+* Percentage of all European men aged 15–49 who served in World War I: 65
 * Average age of soldiers in the trenches: 19
 * Number of horses used during WWI: 8,000,000
 * Gallons of mud produced per mile of trench in a rainy week: immeasurable (measured in acres)
@@ -427,7 +427,7 @@
 
 * Number of languages used in the United Nations: 6
 * Percentage of the world's population that speaks Mandarin Chinese as a first language: 12
-* Average number of words a person learns per day between ages 1â17: 10
+* Average number of words a person learns per day between ages 1–17: 10
 * Year Esperanto was invented: 1887
 * Number of people who speak Esperanto today: 2,000,000
 * Percentage of languages that are considered endangered: 40
@@ -461,7 +461,7 @@
 * Year the first public library in the US opened: 1833
 * Number of books in the Library of Congress: 17,000,000+
 * Percentage of published books that sell fewer than 100 copies: 98
-* Average advance paid to a first-time novelist: $5,000â$15,000
+* Average advance paid to a first-time novelist: $5,000–$15,000
 * Number of languages Harry Potter has been translated into: 85
 * Percentage of books published in a given year that are still in print after 10 years: 10
 * Gallons of coffee consumed annually per capita in Finland, the world leader: equivalent of 1,600+ cups

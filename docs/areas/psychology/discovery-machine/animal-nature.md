@@ -1,23 +1,23 @@
 # The Discovery Machine
 
-ð Discovery Machine â All Questionnaires
+🔍 Discovery Machine — All Questionnaires
 
-* [ð Depression Screen (PHQ-9)](../clinical-validated/#take-the-phq-9-now)
-* [ð Anxiety Screen (GAD-7)](../clinical-validated/#take-the-gad-7-now)
-* [ð§  Big Five Personality](../self-knowledge/#take-the-big-five-now)
-* [ð¼ Career Type (RIASEC)](../vocational-personality/#holland-riasec)
-* [ð Attachment Style](../relationship-social/#attachment-style)
-* [ð³ï¸ Political Compass](../self-discovery-suite/#political-compass)
-* [â¤ï¸ Relationship Health](../relationship-dynamics/#relationship-health)
-* [ð¨ Emergency Decision Tree](../body-survival/#emergency-decision-tree)
-* [ð¡ï¸ Scam Checker](../consumer-legal/#scam-checker)
-* [ð Is This Dog Friendly?](../animal-nature/#dog-friendly)
-* [ð  Home Safety Score](../home-environment/#home-safety)
-* [ð What's That Smell/Sound?](../sensory-diagnostics/#whats-that-smell)
-* [ð§ Boundary Health Check](../relational-behavioral-deep/#boundary-health)
-* [ð Glossary Mad Libs Quiz](../mad-libs-learning/#glossary-quiz)
+* [📋 Depression Screen (PHQ-9)](../clinical-validated/#take-the-phq-9-now)
+* [📋 Anxiety Screen (GAD-7)](../clinical-validated/#take-the-gad-7-now)
+* [🧠 Big Five Personality](../self-knowledge/#take-the-big-five-now)
+* [💼 Career Type (RIASEC)](../vocational-personality/#holland-riasec)
+* [💕 Attachment Style](../relationship-social/#attachment-style)
+* [🗳️ Political Compass](../self-discovery-suite/#political-compass)
+* [❤️ Relationship Health](../relationship-dynamics/#relationship-health)
+* [🚨 Emergency Decision Tree](../body-survival/#emergency-decision-tree)
+* [🛡️ Scam Checker](../consumer-legal/#scam-checker)
+* [🐕 Is This Dog Friendly?](../animal-nature/#dog-friendly)
+* [🏠 Home Safety Score](../home-environment/#home-safety)
+* [👃 What's That Smell/Sound?](../sensory-diagnostics/#whats-that-smell)
+* [🚧 Boundary Health Check](../relational-behavioral-deep/#boundary-health)
+* [📝 Glossary Mad Libs Quiz](../mad-libs-learning/#glossary-quiz)
 
-*Knowledge Â· Questionnaires Â· Interactive Tools*
+*Knowledge · Questionnaires · Interactive Tools*
 
 ## Animal & Nature Reading
 
@@ -29,7 +29,7 @@
 
 ### "Is This Dog Friendly or About to Bite?"
 
-The most dangerous dog myth: a wagging tail means a friendly dog. Tail movement means arousal â the emotional valence requires the whole body to decode.
+The most dangerous dog myth: a wagging tail means a friendly dog. Tail movement means arousal — the emotional valence requires the whole body to decode.
 
 **Tail Assessment**
 
@@ -37,26 +37,26 @@ The most dangerous dog myth: a wagging tail means a friendly dog. Tail movement 
 | --- | --- | --- |
 | Low, slow wag | Gentle sweep | Submissive, uncertain |
 | Mid-height, loose sweep | Wide arc | Relaxed, friendly |
-| High and stiff | Short, fast vibration | High arousal â WARNING |
+| High and stiff | Short, fast vibration | High arousal — WARNING |
 | Tucked under | Minimal | Fear |
 | Flagged straight up | Any | Dominance assertion |
 
-The "helicopter tail" â a full circular wag â is the clearest friendly signal. A high, stiff tail wagging fast is the most misread signal in dog body language. It means the dog is highly aroused, not happy.
+The "helicopter tail" — a full circular wag — is the clearest friendly signal. A high, stiff tail wagging fast is the most misread signal in dog body language. It means the dog is highly aroused, not happy.
 
 **Ear Position**
 
 * *Relaxed, natural position*: Neutral state
-* *Pricked fully forward*: High alertness, focused attention â context-dependent
-* *Rotated back flat against skull*: Fear or aggression â ð´ back away slowly
+* *Pricked fully forward*: High alertness, focused attention — context-dependent
+* *Rotated back flat against skull*: Fear or aggression — 🔴 back away slowly
 * *Slightly back, soft*: Submissive, uncertain
 
 **Hackles (Piloerection)**
 
-Hair raised along the spine from shoulders to tail means the dog's sympathetic nervous system has fired. This is NOT a decision â it's an autonomic response. Even well-meaning dogs can have raised hackles when excited or scared. Context matters: hackles + stiff body + forward lean = ð´ threat. Hackles + loose body + play bow = excitement, not aggression.
+Hair raised along the spine from shoulders to tail means the dog's sympathetic nervous system has fired. This is NOT a decision — it's an autonomic response. Even well-meaning dogs can have raised hackles when excited or scared. Context matters: hackles + stiff body + forward lean = 🔴 threat. Hackles + loose body + play bow = excitement, not aggression.
 
 **Whale Eye**
 
-You can see the whites of the dog's eyes (sclera visible). The dog is turning its head away from something while keeping its eyes on it. This is a stress signal and often precedes a bite. ð´ Do not approach.
+You can see the whites of the dog's eyes (sclera visible). The dog is turning its head away from something while keeping its eyes on it. This is a stress signal and often precedes a bite. 🔴 Do not approach.
 
 **Lip Licking / Yawning / Nose Licking**
 
@@ -65,20 +65,20 @@ These are appeasement or stress signals, not satisfaction. If a dog is doing the
 **Play Bow vs. Stalk Posture**
 
 * *Play bow*: Front legs down, hindquarters up, often combined with a bouncy movement. Invitation to play.
-* *Stalk posture*: Low, fluid, controlled movement with weight shifting forward. Predatory â ð´ do not run.
+* *Stalk posture*: Low, fluid, controlled movement with weight shifting forward. Predatory — 🔴 do not run.
 
 **Growl Types**
 
 * *Play growl*: During tug or rough play, accompanied by loose body. Self-explanatory context.
 * *Warning growl*: Sustained, lower, often with stiffened body. **Never punish this.** It is communication.
-* *Deep, guttural, sustained*: Serious threat â ð´ stop all movement.
+* *Deep, guttural, sustained*: Serious threat — 🔴 stop all movement.
 
 **Approach Protocol for Unknown Dogs**
 
-1. Ask the owner first â always
+1. Ask the owner first — always
 2. Turn slightly sideways (less threatening profile)
 3. Avoid direct eye contact
-4. Let the dog approach you â do not reach toward it
+4. Let the dog approach you — do not reach toward it
 5. Offer a closed fist low and to the side
 6. If the dog sniffs and relaxes, proceed; if stiffness or any warning signal, withdraw hand and disengage
 
@@ -98,7 +98,7 @@ No identification skill is infallible in the field. Keep your distance regardles
 
 Pit viper indicators:
 - Triangular, arrow-shaped head (distinctly wider than neck)
-- Vertical, elliptical pupils (cat-eye â requires dangerously close observation)
+- Vertical, elliptical pupils (cat-eye — requires dangerously close observation)
 - Heat-sensing pit between eye and nostril
 - Thick body relative to length
 - Single row of scales on underside of tail (past vent)
@@ -111,7 +111,7 @@ Non-venomous mimics: Milk snake, scarlet king snake. If in doubt, apply the univ
 
 Home to most of the world's most venomous snakes. Brown snakes, taipans, death adders, tiger snakes, black snakes.
 
-Assume every snake in Australia is potentially lethal. No exceptions. Back away, give wide berth, do not attempt identification. If bitten: pressure immobilization bandaging (do NOT wash the wound â venom typing from skin helps treatment), immobilize the limb, call emergency services.
+Assume every snake in Australia is potentially lethal. No exceptions. Back away, give wide berth, do not attempt identification. If bitten: pressure immobilization bandaging (do NOT wash the wound — venom typing from skin helps treatment), immobilize the limb, call emergency services.
 
 **Europe Framework**
 
@@ -119,7 +119,7 @@ Only venomous native snake: the European adder (*Vipera berus*). Distinctive zig
 
 **Asia Framework**
 
-Highly variable. King cobras, kraits, pit vipers, sea snakes. In Southeast Asia, the monocled cobra and banded krait cause most deaths. Spitting cobras in Africa/Asia can cause eye damage at range. If a snake raises and spreads a hood: ð´ back away slowly.
+Highly variable. King cobras, kraits, pit vipers, sea snakes. In Southeast Asia, the monocled cobra and banded krait cause most deaths. Spitting cobras in Africa/Asia can cause eye damage at range. If a snake raises and spreads a hood: 🔴 back away slowly.
 
 **Behavioral Red Flags Regardless of Region:**
 - Coiling posture with raised head
@@ -138,18 +138,18 @@ Highly variable. King cobras, kraits, pit vipers, sea snakes. In Southeast Asia,
 | Straight up, tip curved | Friendly approach |
 | Puffed up, arched back | Fear or aggression |
 | Low and tucked | Submission, fear |
-| Lashing side to side | Irritation â stop stimulation |
+| Lashing side to side | Irritation — stop stimulation |
 | Slow, gentle wave | Mild interest or mild irritation |
 
 **Ear Position**
 
 * *Forward*: Alert, curious
 * *Sideways "airplane ears"*: Mild stress, uncertainty
-* *Flat against skull*: ð´ Fear or aggression â back off immediately
+* *Flat against skull*: 🔴 Fear or aggression — back off immediately
 
 **Pupil Dilation**
 
-Dilated pupils = arousal (positive OR negative). Cannot determine valence from pupils alone. Combined with flattened ears and puffed tail = ð´ fear aggression. Combined with relaxed posture = play mode.
+Dilated pupils = arousal (positive OR negative). Cannot determine valence from pupils alone. Combined with flattened ears and puffed tail = 🔴 fear aggression. Combined with relaxed posture = play mode.
 
 **Slow Blink**
 
@@ -157,14 +157,14 @@ A cat making eye contact and slowly closing its eyes is communicating trust and 
 
 **The Belly Trap**
 
-A cat exposing its belly is NOT an invitation to pet it. It is a display of trust. Many cats will immediately bite or scratch a hand that goes for the belly. Some cats do enjoy belly rubs â you learn this about an individual cat over time, not on first meeting.
+A cat exposing its belly is NOT an invitation to pet it. It is a display of trust. Many cats will immediately bite or scratch a hand that goes for the belly. Some cats do enjoy belly rubs — you learn this about an individual cat over time, not on first meeting.
 
 **Vocalization**
 
 * *Chirping/chattering* (at birds): Frustration or excitement, predatory mode
 * *Trill*: Friendly greeting
-* *Yowl*: Pain, distress, or mating call â ð¡ investigate
-* *Hiss + spit*: ð´ Clear threat, back away
+* *Yowl*: Pain, distress, or mating call — 🟡 investigate
+* *Hiss + spit*: 🔴 Clear threat, back away
 
 ---
 
@@ -173,9 +173,9 @@ A cat exposing its belly is NOT an invitation to pet it. It is a display of trus
 **Ears**
 
 Horses' ears are like directional antennae for attention:
-- *Both forward*: Alert, focused ahead â interest or slight alarm
+- *Both forward*: Alert, focused ahead — interest or slight alarm
 - *One each direction*: Relaxed multi-tasking
-- *Pinned flat back*: ð´ Anger, threat â imminent kick or bite
+- *Pinned flat back*: 🔴 Anger, threat — imminent kick or bite
 - *Drooping to sides*: Sleepy, relaxed, or ill
 
 **Tail**
@@ -188,14 +188,14 @@ Horses' ears are like directional antennae for attention:
 **Approach Protocol**
 
 * Always approach from the front-left (near side), never from the rear
-* Speak calmly before approaching â announce yourself
+* Speak calmly before approaching — announce yourself
 * Hold out a flat hand for sniffing
-* Watch the ear on the side you're approaching â if it pins back, stop
+* Watch the ear on the side you're approaching — if it pins back, stop
 * Never stand directly behind a horse
 
 **Pawing, Stomping**
 
-Ground-pawing often indicates impatience or frustration. Stomping is fly-response, usually benign. Repeated pawing combined with looking at the flank: ð´ may indicate colic â requires veterinary attention.
+Ground-pawing often indicates impatience or frustration. Stomping is fly-response, usually benign. Repeated pawing combined with looking at the flank: 🔴 may indicate colic — requires veterinary attention.
 
 ---
 
@@ -218,23 +218,23 @@ Ground-pawing often indicates impatience or frustration. Stomping is fly-respons
 - **If attack is prolonged or predatory (night attack on tent):** Fight back
 
 **Polar Bear**
-- ð´ Most dangerous; only bear that actively stalks humans as prey
+- 🔴 Most dangerous; only bear that actively stalks humans as prey
 - **Do not play dead**
 - **Fight back with everything available**
 - Deterrent: bear spray, flares, noise
-- Prevention: armed guide in polar bear territory â non-negotiable
+- Prevention: armed guide in polar bear territory — non-negotiable
 
 **Universal Bear Tips:**
 - Carry bear spray; know how to use it (safety off, aimed slightly down, 30-60 foot range)
 - Make noise while hiking to avoid surprise encounters
 - Store food properly (bear canisters, hanging)
-- Never run â triggers predatory chase response
+- Never run — triggers predatory chase response
 
 ---
 
 ### Shark Encounter Protocol
 
-Most shark encounters are investigatory bites â the shark is curious, not hunting.
+Most shark encounters are investigatory bites — the shark is curious, not hunting.
 
 **Reducing Risk:**
 - Avoid water at dawn, dusk, and night (peak feeding activity)
@@ -245,13 +245,13 @@ Most shark encounters are investigatory bites â the shark is curious, not h
 **If a Shark Approaches:**
 - Stay calm; panicked movement mimics distressed prey
 - Maintain eye contact; don't turn your back
-- Back toward a reef, rock, or boat â eliminate 360Â° exposure
+- Back toward a reef, rock, or boat — eliminate 360° exposure
 - Exit the water calmly if able
 
 **If Contact Occurs:**
-- Fight back â target the eyes, gills, snout (sensitive areas)
+- Fight back — target the eyes, gills, snout (sensitive areas)
 - Do not play dead
-- Exit the water immediately after any bite â blood will increase risk
+- Exit the water immediately after any bite — blood will increase risk
 
 ---
 
@@ -268,14 +268,14 @@ Most shark encounters are investigatory bites â the shark is curious, not h
 | Nest | Paper/wax, usually enclosed | Paper, often exposed |
 
 **Response Differences:**
-- *Bee sting*: Barbed stinger remains in skin. Remove it immediately by scraping sideways â do NOT pinch/pull (squeezes venom). Bees can only sting once.
+- *Bee sting*: Barbed stinger remains in skin. Remove it immediately by scraping sideways — do NOT pinch/pull (squeezes venom). Bees can only sting once.
 - *Wasp sting*: Smooth stinger, can sting repeatedly. Wasps release alarm pheromones attracting others.
 
 **If attacked by a swarm:**
 - Run. Cover your face. Don't swat (releases pheromones).
-- Get inside a building or car. Water is NOT safe refuge â they will wait.
+- Get inside a building or car. Water is NOT safe refuge — they will wait.
 - Do NOT jump in water.
-- Allergic reaction signs (anaphylaxis): throat swelling, difficulty breathing, dizziness â ð´ use epinephrine auto-injector if available, call emergency services.
+- Allergic reaction signs (anaphylaxis): throat swelling, difficulty breathing, dizziness — 🔴 use epinephrine auto-injector if available, call emergency services.
 
 ---
 
@@ -288,13 +288,13 @@ Most shark encounters are investigatory bites â the shark is curious, not h
 - 6 eyes in pairs (most spiders have 8)
 - Tan to brown, no other markings
 - Range: South-central US, not found on coasts
-- Bite: May cause necrotic lesion developing over days â ð´ seek medical care
+- Bite: May cause necrotic lesion developing over days — 🔴 seek medical care
 
 *Black Widow (Latrodectus spp.)*
 - Glossy black, red hourglass on underside of abdomen
 - Females are the dangerous ones; males are tiny and rarely bite
 - Messy, irregular web usually low to ground
-- Bite: Severe muscle cramping, pain spreading from bite site â ð´ medical care
+- Bite: Severe muscle cramping, pain spreading from bite site — 🔴 medical care
 
 **Australia:**
 
@@ -302,13 +302,13 @@ Most shark encounters are investigatory bites â the shark is curious, not h
 - Dark brown to black, shiny, aggressive
 - Males more dangerous than females (rare reversal)
 - Burrowing spider, funnel-shaped web entrance
-- Bite: ð´ Life-threatening â pressure immobilization bandaging, immediate emergency services
+- Bite: 🔴 Life-threatening — pressure immobilization bandaging, immediate emergency services
 - Antivenom available and effective
 
 *Redback (Latrodectus hasselti)*
 - Black with distinctive red stripe on upper abdomen
 - Found in sheltered, dry locations (under seats, in sheds)
-- Bite: Intense local pain, sweating, nausea â ð´ medical care, antivenom available
+- Bite: Intense local pain, sweating, nausea — 🔴 medical care, antivenom available
 
 **Europe:**
 
@@ -320,12 +320,12 @@ Engorged ticks are easier to identify; unfed ticks are tiny (nymph stage: poppy 
 
 **Removal:**
 1. Use fine-tipped tweezers; grasp tick as close to skin as possible
-2. Pull upward with steady, even pressure â do NOT twist or jerk
+2. Pull upward with steady, even pressure — do NOT twist or jerk
 3. Do NOT use petroleum jelly, heat, or nail polish remover
 4. Clean bite area with alcohol
 5. Dispose of tick in sealed bag or alcohol; do not crush with fingers
-6. ð¡ Monitor for rash (especially Lyme's "bullseye" erythema migrans) and flu symptoms for 30 days
-7. If bullseye rash appears: ð´ seek medical care immediately
+6. 🟡 Monitor for rash (especially Lyme's "bullseye" erythema migrans) and flu symptoms for 30 days
+7. If bullseye rash appears: 🔴 seek medical care immediately
 
 ---
 
@@ -335,11 +335,11 @@ Birds are the sentinels of any ecosystem. Learning their alarm language takes ti
 
 **Alarm Call Patterns:**
 
-* *Single species in high alarm*: Threat is very close and very immediate â the bird is alerting its own kind
-* *Spreading alarm across multiple species*: Predator is moving through â track the direction of alarm spread to track predator movement
-* *Scolding chips (persistent)*: Predator is stationary nearby â owl roosting, snake, sitting hawk
-* *Dive-bombing*: Nest too close; bird is bold enough to attack â give wide berth
-* *Sudden silence after active birds*: ð´ Something alarmed the entire soundscape â stop and assess
+* *Single species in high alarm*: Threat is very close and very immediate — the bird is alerting its own kind
+* *Spreading alarm across multiple species*: Predator is moving through — track the direction of alarm spread to track predator movement
+* *Scolding chips (persistent)*: Predator is stationary nearby — owl roosting, snake, sitting hawk
+* *Dive-bombing*: Nest too close; bird is bold enough to attack — give wide berth
+* *Sudden silence after active birds*: 🔴 Something alarmed the entire soundscape — stop and assess
 
 **Chickadee "dee" notes:** More "dee" notes at the end = higher threat level. A chickadee calling "chick-a-dee-dee-dee-dee-dee" has spotted a dangerous, mobile predator.
 
@@ -376,15 +376,15 @@ Birds are the sentinels of any ecosystem. Learning their alarm language takes ti
 
 | Cloud/Condition | Timeframe | Action |
 | --- | --- | --- |
-| Cumulonimbus (towering anvil) | ð´ Imminent | Seek shelter now |
+| Cumulonimbus (towering anvil) | 🔴 Imminent | Seek shelter now |
 | Rapid vertical development of cumulus | 1-2 hours | Begin descending |
-| Cirrus â cirrostratus â altostratus progression | 6-12 hours | Monitor; plan shelter |
+| Cirrus → cirrostratus → altostratus progression | 6-12 hours | Monitor; plan shelter |
 | Lenticular clouds over peaks | Ongoing | High winds at elevation |
 | Morning fog burning off | Stable day | Proceed with monitoring |
-| Mackerel sky (altocumulus in rows) | 6-8 hours | "Mackerel sky, not 24 dry" â change coming |
+| Mackerel sky (altocumulus in rows) | 6-8 hours | "Mackerel sky, not 24 dry" — change coming |
 
 **The 30-30 Rule for Lightning:**
-- 30 seconds between flash and thunder = lightning within 6 miles â seek shelter
+- 30 seconds between flash and thunder = lightning within 6 miles — seek shelter
 - Stay sheltered 30 minutes after last thunder
 
 ---
@@ -398,7 +398,7 @@ Birds are the sentinels of any ecosystem. Learning their alarm language takes ti
 | 4-5 | 13-24 | Small branches move, dust lifts |
 | 6-7 | 25-38 | Large branches move; umbrellas useless |
 | 8-9 | 39-54 | Twigs break; walking difficult |
-| 10+ | 55+ | ð´ Trees down; stay inside |
+| 10+ | 55+ | 🔴 Trees down; stay inside |
 
 ---
 
@@ -414,7 +414,7 @@ Birds are the sentinels of any ecosystem. Learning their alarm language takes ti
 - Unbuckle pack hip belt and chest strap (in case you need to shed it)
 - Use a pole or stick for a third point of contact
 - Cross diagonally downstream
-- Face upstream, move sideways â never turn your back to current
+- Face upstream, move sideways — never turn your back to current
 - Never cross flooded streams; wait for water to drop
 
 **If swept away:** Roll to your back, feet downstream, to fend off rocks. Swim diagonally toward bank; don't fight directly across.
@@ -446,10 +446,10 @@ Long period (12+ seconds) = deep-water swell, powerful shore break; more dangero
 **Flash-to-Thunder Calculation:** Count seconds between flash and thunder, divide by 5 = distance in miles.
 
 **Shelter Priority:**
-1. ð¢ Substantial building (not open structures)
-2. ð¢ Metal-topped vehicle (not convertible)
-3. ð¡ Dense forest of same-height trees (not isolated tall trees)
-4. ð´ Open field, hilltop, isolated tree, water
+1. 🟢 Substantial building (not open structures)
+2. 🟢 Metal-topped vehicle (not convertible)
+3. 🟡 Dense forest of same-height trees (not isolated tall trees)
+4. 🔴 Open field, hilltop, isolated tree, water
 
 **Lightning Position (if no shelter):**
 - Crouch low on balls of feet, feet together, hands over ears
@@ -462,16 +462,16 @@ Long period (12+ seconds) = deep-water swell, powerful shore break; more dangero
 ### Avalanche Terrain Assessment
 
 **Slope Angle (Primary Risk Factor):**
-- Under 25Â°: Generally safe
-- 30-45Â°: ð´ Prime avalanche terrain â most slides release here
-- Over 50Â°: Slides frequently, rarely accumulates enough to be deadly
+- Under 25°: Generally safe
+- 30-45°: 🔴 Prime avalanche terrain — most slides release here
+- Over 50°: Slides frequently, rarely accumulates enough to be deadly
 
-**Field Angle Estimate:** A slope where you'd instinctively want to kick steps rather than walk normally is approximately 30Â°.
+**Field Angle Estimate:** A slope where you'd instinctively want to kick steps rather than walk normally is approximately 30°.
 
 **High Risk Indicators:**
 - Recent heavy snowfall (especially 12-24 inches in 24 hours)
 - Wind loading on lee slopes (cornices, pillowed snow)
-- "Whumpfing" sound underfoot (weak layer collapsing â ð´ leave immediately)
+- "Whumpfing" sound underfoot (weak layer collapsing — 🔴 leave immediately)
 - Recent avalanche debris on similar aspects
 - Rain on snow (heavy loading)
 
@@ -479,7 +479,7 @@ Long period (12+ seconds) = deep-water swell, powerful shore break; more dangero
 - One person at a time across exposed slopes
 - Travel on ridgelines where possible
 - Watch for convex roll-overs (stress points)
-- Carry beacon, probe, shovel â all three, always
+- Carry beacon, probe, shovel — all three, always
 
 ---
 
@@ -487,8 +487,8 @@ Long period (12+ seconds) = deep-water swell, powerful shore break; more dangero
 
 **Color/Density Tells:**
 - *White or light gray smoke*: Burning green vegetation, relatively distant, probably manageable
-- *Dark gray to black smoke*: Structure fire or burning rubber/synthetics nearby â ð´ move away
-- *Orange-tinted haze*: Fine particulate smoke layer â may be far but air quality dangerous
+- *Dark gray to black smoke*: Structure fire or burning rubber/synthetics nearby — 🔴 move away
+- *Orange-tinted haze*: Fine particulate smoke layer — may be far but air quality dangerous
 - *Smell stronger than visibility suggests*: Fire may be in a valley or hollow, closer than apparent
 
 **Direction Reading:**
@@ -498,16 +498,16 @@ Track smoke drift against known wind direction. If smoke is moving toward you, f
 
 ### Star Navigation Basics
 
-**Northern Hemisphere â Finding North:**
+**Northern Hemisphere — Finding North:**
 1. Locate the Big Dipper (Ursa Major)
 2. Find the two stars at the outer edge of the dipper's "cup" (Dubhe and Merak)
 3. Draw a line through these stars extending upward approximately 5x their separation
-4. You land on Polaris (North Star), which sits within ~1Â° of true north
+4. You land on Polaris (North Star), which sits within ~1° of true north
 
-**Southern Hemisphere â Finding South:**
-1. Locate the Southern Cross (Crux) â four stars in a distinctive cross shape
+**Southern Hemisphere — Finding South:**
+1. Locate the Southern Cross (Crux) — four stars in a distinctive cross shape
 2. Extend the long axis of the cross approximately 4.5x its length
-3. That point is the South Celestial Pole â look directly below to the horizon for south
+3. That point is the South Celestial Pole — look directly below to the horizon for south
 
 ---
 
@@ -516,9 +516,9 @@ Track smoke drift against known wind direction. If smoke is moving toward you, f
 **Sun Position Rules (Northern Hemisphere):**
 - Sunrise is roughly east; sunset is roughly west (exact bearings vary by season)
 - Solar noon = sun at highest point = true south
-- Hour hand of analog watch pointed at the sun, bisect angle between hour hand and 12 â that bisection line points approximately south
+- Hour hand of analog watch pointed at the sun, bisect angle between hour hand and 12 — that bisection line points approximately south
 
-**Latitude Adjustment:** This works best between 20Â°-50Â° latitude.
+**Latitude Adjustment:** This works best between 20°-50° latitude.
 
 ---
 
@@ -528,7 +528,7 @@ Track smoke drift against known wind direction. If smoke is moving toward you, f
 - Tide line (wrack line): Line of debris on beach marks recent high tide
 - Exposed rocks with barnacles/mussels high above current waterline: you're near low tide
 - Seaweed still submerged at beach base: incoming tide may still fill further
-- Check whether water is covering or exposing rock features over 30 minutes â direction of change tells you tide direction
+- Check whether water is covering or exposing rock features over 30 minutes — direction of change tells you tide direction
 
 **Rough Rule:** Tide cycle is approximately 12.5 hours; if you know one high or low tide time, the others follow.
 
@@ -541,11 +541,11 @@ Track smoke drift against known wind direction. If smoke is moving toward you, f
 **The Rhyme and Its Limits:**
 
 "Leaves of three, let it be" covers poison ivy and poison oak. But:
-- Virginia creeper has 5 leaflets (safe â but sometimes mistaken)
+- Virginia creeper has 5 leaflets (safe — but sometimes mistaken)
 - Raspberry/blackberry have 3 leaflets (safe)
 - Boxelder maple sapling has 3 leaflets (safe)
 
-**Positive ID Features â Poison Ivy:**
+**Positive ID Features — Poison Ivy:**
 - Always 3 leaflets; middle leaflet on distinct stalk; two side leaflets directly attached
 - Leaflets pointed, often with irregular teeth or smooth edges
 - Shiny when young; can appear matte when mature
@@ -564,28 +564,28 @@ Track smoke drift against known wind direction. If smoke is moving toward you, f
 ### Deadly Plants to Recognize
 
 **Foxglove (Digitalis purpurea)**
-Tall spike with tubular purple/pink/white flowers, spotted inside. All parts toxic â contains cardiac glycosides. Can cause fatal heart rhythm disruption.
+Tall spike with tubular purple/pink/white flowers, spotted inside. All parts toxic — contains cardiac glycosides. Can cause fatal heart rhythm disruption.
 
 **Hemlock (Conium maculatum)**
 Resembles wild carrot and other benign Apiaceae family members. Key ID: purple-blotched hollow stems, musty unpleasant smell when crushed, smooth (not hairy). Socrates was executed with this.
 
 **Nightshade (Atropa belladonna and Solanum spp.)**
-Black or red berries, bell-shaped flowers. Children attracted to berries â ð´ always treat as toxic.
+Black or red berries, bell-shaped flowers. Children attracted to berries — 🔴 always treat as toxic.
 
 **Oleander (Nerium oleander)**
-Common ornamental shrub; leathery leaves, clusters of pink/white/red flowers. ALL parts extremely toxic. Do not burn â smoke is toxic. Do not use wood as skewers.
+Common ornamental shrub; leathery leaves, clusters of pink/white/red flowers. ALL parts extremely toxic. Do not burn — smoke is toxic. Do not use wood as skewers.
 
 **Castor Bean (Ricinus communis)**
-Large tropical-looking leaves, spiny seed pods. Seeds contain ricin â among the most toxic natural substances. Ornamental plant in many gardens.
+Large tropical-looking leaves, spiny seed pods. Seeds contain ricin — among the most toxic natural substances. Ornamental plant in many gardens.
 
 **Manchineel Tree (Hippomane mancinella)**
-Primarily Caribbean/Florida coasts. Small apple-like fruits â DO NOT EAT (Spanish: "little apple of death"). Standing under it in rain causes skin blistering. Burning it causes eye and respiratory damage.
+Primarily Caribbean/Florida coasts. Small apple-like fruits — DO NOT EAT (Spanish: "little apple of death"). Standing under it in rain causes skin blistering. Burning it causes eye and respiratory damage.
 
 ---
 
 ### The Universal Edibility Test (Military Survival Protocol)
 
-**For genuine wilderness survival situations only â not for foraging curiosity.**
+**For genuine wilderness survival situations only — not for foraging curiosity.**
 
 1. Fast 8 hours before testing
 2. Separate plant into components (leaves, stems, roots, flowers, fruit separately)
@@ -606,22 +606,22 @@ Primarily Caribbean/Florida coasts. Small apple-like fruits â DO NOT EAT (S
 
 | Plant | Claimed Use | Evidence Level | Notes |
 | --- | --- | --- | --- |
-| Aloe vera | Wound healing, burns | ð¢ Strong | Topical gel reduces healing time; do not ingest |
-| Ginger | Nausea, motion sickness | ð¢ Strong | Multiple RCTs support anti-nausea effect |
-| Turmeric/Curcumin | Anti-inflammatory | ð¡ Moderate | Bioavailability low without black pepper; some joint pain evidence |
-| Chamomile | Anxiety, sleep | ð¡ Moderate | Some evidence for mild anxiolytic effect |
-| Peppermint | Tension headache, IBS | ð¢ Strong | Topical application for headache well-supported; enteric-coated capsules for IBS |
-| Echinacea | Cold prevention/treatment | ð¡ Weak-moderate | Mixed results; slight reduction in cold duration in some studies |
+| Aloe vera | Wound healing, burns | 🟢 Strong | Topical gel reduces healing time; do not ingest |
+| Ginger | Nausea, motion sickness | 🟢 Strong | Multiple RCTs support anti-nausea effect |
+| Turmeric/Curcumin | Anti-inflammatory | 🟡 Moderate | Bioavailability low without black pepper; some joint pain evidence |
+| Chamomile | Anxiety, sleep | 🟡 Moderate | Some evidence for mild anxiolytic effect |
+| Peppermint | Tension headache, IBS | 🟢 Strong | Topical application for headache well-supported; enteric-coated capsules for IBS |
+| Echinacea | Cold prevention/treatment | 🟡 Weak-moderate | Mixed results; slight reduction in cold duration in some studies |
 
 ---
 
 ### Stinging and Dangerous Plants
 
 **Nettles (Urtica dioica)**
-Serrated leaves with tiny hollow stinging hairs. Sting is immediate but temporary (minutes to hours). Treatment: dock leaf (traditionally rubbed on sting â actually has mild anti-inflammatory), antihistamine cream. Nettles are edible when cooked â heat destroys stinging mechanism.
+Serrated leaves with tiny hollow stinging hairs. Sting is immediate but temporary (minutes to hours). Treatment: dock leaf (traditionally rubbed on sting — actually has mild anti-inflammatory), antihistamine cream. Nettles are edible when cooked — heat destroys stinging mechanism.
 
 **Giant Hogweed (Heracleum mantegazzianum)**
-ð´ **Extremely dangerous.** Tall (up to 14 feet), hollow stems with purple blotches, large white umbrella flower clusters. Toxic sap causes photodermatitis: exposure to sunlight after skin contact produces severe burns and blisters, potential permanent scarring, and eye exposure can cause blindness.
+🔴 **Extremely dangerous.** Tall (up to 14 feet), hollow stems with purple blotches, large white umbrella flower clusters. Toxic sap causes photodermatitis: exposure to sunlight after skin contact produces severe burns and blisters, potential permanent scarring, and eye exposure can cause blindness.
 
 If exposed: Cover affected area immediately (block sunlight), wash with soap and water, keep covered for 48 hours, seek medical attention. Do NOT rub eyes.
 

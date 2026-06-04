@@ -1,6 +1,6 @@
-# Go (å´æ£ / å²ç¢ / ë°ë)
+# Go (围棋 / 囲碁 / 바둑)
 
-**The Ancient Way** Â· 2 players Â· Ages 6+ Â· 20 minâ3 hours
+**The Ancient Way** · 2 players · Ages 6+ · 20 min–3 hours
 
 Go is the oldest continuously played board game in history, originating in China over 2,500 years ago. Despite rules that can be stated in minutes, Go's strategic depth exceeds chess: the number of possible games is estimated at 10^170. Black and White alternate placing stones on a grid, surrounding territory and capturing enemy stones.
 
@@ -10,12 +10,12 @@ Go is the oldest continuously played board game in history, originating in China
 
 Go is played on a grid of lines. Stones are placed on intersections, not squares.
 
-* **Standard (19Ã19):** Full competition board. 361 intersections.
-* **13Ã13:** Intermediate board, popular for learning.
-* **9Ã9:** Beginner board, games last 20â40 minutes.
+* **Standard (19×19):** Full competition board. 361 intersections.
+* **13×13:** Intermediate board, popular for learning.
+* **9×9:** Beginner board, games last 20–40 minutes.
 
 ```
-19Ã19 board â corners and star points marked:
+19×19 board — corners and star points marked:
 
    A B C D E F G H J K L M N O P Q R S T
 19 . . . . . . . . . . . . . . . . . . .
@@ -42,7 +42,7 @@ Go is played on a grid of lines. Stones are placed on intersections, not squares
 
 Note: Column I is omitted in Go notation (replaced by J) to avoid confusion with the number 1.
 
-Star points (hoshi) are marked intersections used for handicap stone placement and visual orientation. On a 19Ã19 board they are at d4, d10, d16, j4, j10, j16, q4, q10, q16.
+Star points (hoshi) are marked intersections used for handicap stone placement and visual orientation. On a 19×19 board they are at d4, d10, d16, j4, j10, j16, q4, q10, q16.
 
 ---
 
@@ -66,7 +66,7 @@ Star points (hoshi) are marked intersections used for handicap stone placement a
 
 ### Liberties and Capture
 
-Every stone and every connected group of same-color stones has **liberties**: the empty intersections directly adjacent (horizontally or verticallyânever diagonally) to the group.
+Every stone and every connected group of same-color stones has **liberties**: the empty intersections directly adjacent (horizontally or vertically—never diagonally) to the group.
 
 * A stone with no liberties is captured and removed from the board.
 * When you place a stone that removes all liberties from an enemy group, you capture that entire group immediately.
@@ -101,7 +101,7 @@ Two-eye life:
   B B B B
 ```
 
-**False eye:** An enclosed space that only one side of a group bordersâthe opponent may be able to play into it, denying life.
+**False eye:** An enclosed space that only one side of a group borders—the opponent may be able to play into it, denying life.
 
 **Seki:** A situation where two groups are mutually alive without having two eyes, because each player playing into the shared liberties would cause their own group to be captured. Both groups survive; their territory may or may not count depending on ruleset.
 
@@ -109,13 +109,13 @@ Two-eye life:
 
 ## The Ko Rule
 
-**Ko** (Japanese: å«, meaning "eternity") prevents infinite loops.
+**Ko** (Japanese: 劫, meaning "eternity") prevents infinite loops.
 
 A ko situation arises when a capture would recreate the exact same board position that existed before the previous move. This capture is temporarily forbidden.
 
 **Ko rule:** A player may not make a move that recreates the immediately previous board position.
 
-To "win" a ko, a player makes a **ko threat** elsewhere on the boardâa move that demands an immediate response. The opponent answers the threat, and the ko player returns to capture the ko. The opponent now has the threat-answering obligation elsewhere and cannot immediately recapture.
+To "win" a ko, a player makes a **ko threat** elsewhere on the board—a move that demands an immediate response. The opponent answers the threat, and the ko player returns to capture the ko. The opponent now has the threat-answering obligation elsewhere and cannot immediately recapture.
 
 **Super Ko:** Some rulesets extend this to prohibit any move that recreates ANY previous board position (not just the immediately prior one). Chinese and AGA rules use positional super ko; Japanese rules use situational super ko.
 
@@ -151,7 +151,7 @@ After both players pass, remove all dead stones by agreement (if players disagre
 
 ## Komi
 
-Because White plays second (a disadvantage), White receives **komi**âa set number of points added to White's score before comparison. Standard komi:
+Because White plays second (a disadvantage), White receives **komi**—a set number of points added to White's score before comparison. Standard komi:
 - Japanese/Korean rules: **6.5 points**
 - Chinese rules: **7.5 points**
 - The half-point eliminates draws.
@@ -164,7 +164,7 @@ Historically komi was 4.5, raised to 5.5, then 6.5 as understanding of the first
 
 To equalize games between players of different strength, the weaker player (Black) places extra stones on the board before the game begins. White then goes first.
 
-**Standard handicap placements (19Ã19):**
+**Standard handicap placements (19×19):**
 
 | Handicap | Stones placed at |
 | --- | --- |
@@ -187,7 +187,7 @@ Go ranks are measured in kyu (beginner, counting down from ~30 kyu) and dan (adv
 
 ### Opening (Fuseki)
 
-The opening phase establishes frameworkâlarge-scale influence and territorial claims.
+The opening phase establishes framework—large-scale influence and territorial claims.
 
 * **Corner priority:** Corners require the fewest stones to enclose territory. Open by approaching corners.
 * **Star point (hoshi):** Playing at the 4-4 point (d4, etc.) emphasizes influence over the center.
@@ -200,10 +200,10 @@ The opening phase establishes frameworkâlarge-scale influence and territori
 
 Involves attacking, defending, invading, and building shapes.
 
-* **Tesuji:** A clever tactical moveâthe "right move" in a local situation.
+* **Tesuji:** A clever tactical move—the "right move" in a local situation.
 * **Sente and gote:** Sente = a move that demands a reply (you keep initiative). Gote = a move your opponent doesn't need to answer immediately (they keep initiative). Playing sente moves first is generally better.
 * **Thickness (Atsumi):** A solid, influential wall of stones with no weaknesses. Thick groups exert influence over a wide area. Do not invade near thickness.
-* **Overconcentration:** Too many stones in a small areaâinefficient.
+* **Overconcentration:** Too many stones in a small area—inefficient.
 * **Cutting:** Separating enemy stones to prevent them from connecting and forming strong groups.
 * **Connection:** Keeping your own stones connected to prevent them from being isolated and killed.
 
@@ -240,4 +240,4 @@ Practicing life-and-death problems is the fastest way to improve. Tsumego train 
 
 *See also: Chess (abstract strategy), Shogi (captures and drops)*
 
-### ð¯ Scorecard
+### 🎯 Scorecard

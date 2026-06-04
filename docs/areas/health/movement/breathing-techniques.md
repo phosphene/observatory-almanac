@@ -1,28 +1,28 @@
 # Breathing Techniques
 
-ð ï¸ Practice Tools
+🛠️ Practice Tools
 
-* **ð« Guided Breathing** (below)
-* [ð§ Meditation Timer](../meditation-guide/#meditation-timer)
-* [ð§ââï¸ Yoga Basics](../yoga-basics/)
-* [ðª Stretching Routines](../stretching-routines/)
-> "Breath is the bridge which connects life to consciousness, which unites your body to your thoughts." â Thich Nhat Hanh
+* **🫁 Guided Breathing** (below)
+* [🧘 Meditation Timer](../meditation-guide/#meditation-timer)
+* [🧘‍♀️ Yoga Basics](../yoga-basics/)
+* [💪 Stretching Routines](../stretching-routines/)
+> "Breath is the bridge which connects life to consciousness, which unites your body to your thoughts." — Thich Nhat Hanh
 
-Breathing is the one autonomic function you can consciously control â and that makes it a direct lever into the autonomic nervous system. What follows is a guide to eight evidence-informed breathing practices, their mechanisms, instructions, and appropriate use.
+Breathing is the one autonomic function you can consciously control — and that makes it a direct lever into the autonomic nervous system. What follows is a guide to eight evidence-informed breathing practices, their mechanisms, instructions, and appropriate use.
 
 ---
 
 ## The Science of Breathing
 
 Your autonomic nervous system (ANS) has two main branches:
-- **Sympathetic:** "Fight or flight" â elevates heart rate, sharpens focus, mobilizes energy
-- **Parasympathetic:** "Rest and digest" â slows heart rate, promotes recovery and digestion
+- **Sympathetic:** "Fight or flight" — elevates heart rate, sharpens focus, mobilizes energy
+- **Parasympathetic:** "Rest and digest" — slows heart rate, promotes recovery and digestion
 
-**The key insight:** Breathing rate and pattern directly influence which branch dominates. Fast, shallow breathing activates the sympathetic. Slow, deep breathing â especially with extended exhales â activates the parasympathetic via the vagus nerve.
+**The key insight:** Breathing rate and pattern directly influence which branch dominates. Fast, shallow breathing activates the sympathetic. Slow, deep breathing — especially with extended exhales — activates the parasympathetic via the vagus nerve.
 
 **Heart Rate Variability (HRV):** Each breath slightly changes your heart rate (faster on inhale, slower on exhale). Greater variability is associated with better health, resilience, and emotional regulation. Most deliberate breathing practices improve HRV.
 
-**Carbon dioxide matters more than oxygen:** Contrary to intuition, it's rising COâ levels (not falling Oâ) that trigger the urge to breathe. People with "air hunger" often hyperventilate, dropping COâ too low and causing dizziness, tingling, and anxiety. Slow breathing normalizes COâ balance.
+**Carbon dioxide matters more than oxygen:** Contrary to intuition, it's rising CO₂ levels (not falling O₂) that trigger the urge to breathe. People with "air hunger" often hyperventilate, dropping CO₂ too low and causing dizziness, tingling, and anxiety. Slow breathing normalizes CO₂ balance.
 
 ---
 
@@ -38,7 +38,7 @@ A simple, symmetrical breath cycle used by military personnel, first responders,
 2. Hold the breath for **4 counts**
 3. Exhale through the nose (or mouth) for **4 counts**
 4. Hold empty for **4 counts**
-5. Repeat for 4â6 cycles (about 2 minutes)
+5. Repeat for 4–6 cycles (about 2 minutes)
 
 Visualize each phase as one side of a square.
 
@@ -57,7 +57,7 @@ Visualize each phase as one side of a square.
 
 ### The Science
 
-The breath holds allow COâ to accumulate slightly, resetting the respiratory drive. The equal timing of all phases creates a rhythmic, predictable pattern that the nervous system finds stabilizing.
+The breath holds allow CO₂ to accumulate slightly, resetting the respiratory drive. The equal timing of all phases creates a rhythmic, predictable pattern that the nervous system finds stabilizing.
 
 ### Contraindications
 
@@ -81,25 +81,25 @@ A technique popularized by integrative physician Andrew Weil, based on pranayama
 4. Exhale completely through the mouth (whoosh) for **8 counts**
 5. This is one breath. Repeat for 4 full cycles
 
-**The 4:7:8 ratio is the key â not the absolute time.** If 4 counts per second is too fast, slow down.
+**The 4:7:8 ratio is the key — not the absolute time.** If 4 counts per second is too fast, slow down.
 
 ### When to Use
 
 * Difficulty falling asleep
 * Acute anxiety or panic symptoms
 * Breaking a stress response in the moment
-* Anger management â before responding in a difficult situation
+* Anger management — before responding in a difficult situation
 
 ### The Science
 
-The extended exhale (longest phase) maximally stimulates vagal tone. The hold builds COâ tolerance. The ratio produces a pronounced parasympathetic response.
+The extended exhale (longest phase) maximally stimulates vagal tone. The hold builds CO₂ tolerance. The ratio produces a pronounced parasympathetic response.
 
 ### Contraindications
 
-* May cause light-headedness initially â sit or lie down
+* May cause light-headedness initially — sit or lie down
 * Some people feel worse with breath holds; if so, try diaphragmatic breathing instead
 * Not for use while driving or operating machinery
-* The extended hold can cause anxiety in some people â shorten it if so
+* The extended hold can cause anxiety in some people — shorten it if so
 
 ---
 
@@ -111,16 +111,16 @@ Developed by Wim Hof ("The Iceman"), this technique is a form of controlled hype
 
 ### The Technique
 
-**Round structure (perform 3â4 rounds):**
+**Round structure (perform 3–4 rounds):**
 
-1. **30 Power Breaths:** Inhale deeply through the nose or mouth, filling the belly then chest. Exhale without force â just let go. Do this 30 times in a continuous, rhythmic cycle. The pace is about one breath every 1.5â2 seconds.
-2. **Retention:** After the 30th exhale, let the air out and hold (without inhaling). Hold as long as comfortable without forcing. Beginners: 30â60 seconds. Experienced: 1â3+ minutes.
+1. **30 Power Breaths:** Inhale deeply through the nose or mouth, filling the belly then chest. Exhale without force — just let go. Do this 30 times in a continuous, rhythmic cycle. The pace is about one breath every 1.5–2 seconds.
+2. **Retention:** After the 30th exhale, let the air out and hold (without inhaling). Hold as long as comfortable without forcing. Beginners: 30–60 seconds. Experienced: 1–3+ minutes.
 3. **Recovery Breath:** When you feel the urge to breathe, inhale fully and hold for 15 seconds. Then exhale.
-4. Repeat for 3â4 rounds. Rest afterward.
+4. Repeat for 3–4 rounds. Rest afterward.
 
 ### What You May Feel
 
-* Tingling in hands, feet, face (normal â from COâ drop)
+* Tingling in hands, feet, face (normal — from CO₂ drop)
 * Light-headedness (normal)
 * Visual changes or a sense of elevation (normal)
 * Warmth and energy following the rounds
@@ -134,14 +134,14 @@ Developed by Wim Hof ("The Iceman"), this technique is a form of controlled hype
 
 ### The Science
 
-Hyperventilation drops COâ sharply, raising blood pH (respiratory alkalosis). This temporarily alters brain function and autonomic tone. Studies show Hof breathing can suppress inflammatory markers and affect immune response. The mechanism is real; long-term effects are still being studied.
+Hyperventilation drops CO₂ sharply, raising blood pH (respiratory alkalosis). This temporarily alters brain function and autonomic tone. Studies show Hof breathing can suppress inflammatory markers and affect immune response. The mechanism is real; long-term effects are still being studied.
 
-### Contraindications â ï¸
+### Contraindications ⚠️
 
 * **Never practice in or near water.** People have drowned due to hypoxic blackout during retention.
 * **Never while driving.**
 * Contraindicated in: pregnancy, epilepsy, cardiovascular disease, high blood pressure, recent surgery, Raynaud's disease
-* Some people experience anxiety, panic, or tetany (hand cramps from alkalosis) â stop if this occurs
+* Some people experience anxiety, panic, or tetany (hand cramps from alkalosis) — stop if this occurs
 * Always practice seated or lying down
 
 ---
@@ -164,7 +164,7 @@ Pranayama (Sanskrit: *prana* = life force / breath; *ayama* = expansion) is the 
 5. Inhale through the right nostril for 4 counts.
 6. Close both. Hold for 4 counts.
 7. Open the left nostril. Exhale through the left for 8 counts.
-8. This completes one full cycle. Repeat 5â10 cycles.
+8. This completes one full cycle. Repeat 5–10 cycles.
 
 **When to use:** Before meditation; to create balance and calm; when feeling mentally scattered; before sleep.
 
@@ -182,7 +182,7 @@ Pranayama (Sanskrit: *prana* = life force / breath; *ayama* = expansion) is the 
 1. Sit with a straight spine.
 2. Begin with a full inhale.
 3. Forcefully exhale through the nose by quickly contracting the lower abdomen (navel pulls sharply toward spine). The exhale is the active phase.
-4. Allow the inhale to happen passively â the relaxation of the abdomen naturally draws air in.
+4. Allow the inhale to happen passively — the relaxation of the abdomen naturally draws air in.
 5. Continue at a rate of about 1 exhale per second. Beginners: 30 pumps. Build to 100+.
 6. After a round, inhale fully, hold briefly, then exhale slowly. Rest. Repeat 3 rounds.
 
@@ -199,14 +199,14 @@ Pranayama (Sanskrit: *prana* = life force / breath; *ayama* = expansion) is the 
 **What it is:** A flowing, audible breath used throughout yoga practice, sometimes called "ocean breath" for its sound.
 
 **The Technique:**
-1. Slightly constrict the back of the throat (the glottis) â as if fogging a mirror, but with the mouth closed.
+1. Slightly constrict the back of the throat (the glottis) — as if fogging a mirror, but with the mouth closed.
 2. Breathe in and out through the nose, maintaining the constriction. This produces a soft, hissing, ocean-like sound (like Darth Vader, but gentler).
 3. Inhale and exhale should be roughly equal in length and audible to yourself.
 4. Use throughout yoga practice or as a standalone meditation.
 
 **When to use:** During yoga asana practice; as a sustained meditative breath; to create warmth internally.
 
-**The science:** Ujjayi slows the breath naturally (the restriction creates resistance), extends the exhale slightly, and the sound provides an internal focus point â helping maintain concentration. Produces mild vagal stimulation.
+**The science:** Ujjayi slows the breath naturally (the restriction creates resistance), extends the exhale slightly, and the sound provides an internal focus point — helping maintain concentration. Produces mild vagal stimulation.
 
 **Contraindications:** None significant; some find the sound-focus distracting rather than helpful.
 
@@ -216,7 +216,7 @@ Pranayama (Sanskrit: *prana* = life force / breath; *ayama* = expansion) is the 
 
 ### What It Is
 
-The foundational breathing technique â how humans are physiologically designed to breathe, though stress and poor posture often leads to shallow chest breathing.
+The foundational breathing technique — how humans are physiologically designed to breathe, though stress and poor posture often leads to shallow chest breathing.
 
 ### The Technique
 
@@ -224,18 +224,18 @@ The foundational breathing technique â how humans are physiologically desig
 2. Place one hand on your belly (just below the navel) and one on your chest.
 3. Inhale slowly through the nose. **The belly hand should rise; the chest hand should remain relatively still.** This means the diaphragm is descending and the lungs are filling from the bottom up.
 4. Exhale slowly through the nose or pursed lips. Feel the belly fall.
-5. Aim for 6â8 breaths per minute (inhale â5 seconds, exhale â5â7 seconds).
+5. Aim for 6–8 breaths per minute (inhale ≈5 seconds, exhale ≈5–7 seconds).
 
 ### Establishing the Habit
 
 Most adults breathe from the chest. Retraining takes consistent practice:
-- Practice 5â10 minutes daily for 2â3 weeks before expecting automatic changes
-- Check your breathing throughout the day â are you chest breathing under stress?
+- Practice 5–10 minutes daily for 2–3 weeks before expecting automatic changes
+- Check your breathing throughout the day — are you chest breathing under stress?
 - Sleep on your back occasionally and observe which moves more: belly or chest
 
 ### When to Use
 
-* Always â this should become your resting breathing pattern
+* Always — this should become your resting breathing pattern
 * Stress reduction throughout the day
 * Managing chronic anxiety
 * Improving athletic performance (better oxygen exchange)
@@ -255,24 +255,24 @@ None. This is baseline healthy function. If belly breathing is consistently diff
 
 ### What It Is
 
-A naturally occurring phenomenon â humans spontaneously sigh every 5â15 minutes, preventing the lungs' small air sacs (alveoli) from collapsing. The double inhale is the key.
+A naturally occurring phenomenon — humans spontaneously sigh every 5–15 minutes, preventing the lungs' small air sacs (alveoli) from collapsing. The double inhale is the key.
 
 ### The Technique
 
-1. Inhale through the nose â fill the lungs about 80%
-2. **Without exhaling, sniff in a second, shorter inhale** through the nose â pack in a bit more air
+1. Inhale through the nose — fill the lungs about 80%
+2. **Without exhaling, sniff in a second, shorter inhale** through the nose — pack in a bit more air
 3. Exhale slowly and completely through the mouth
 4. Just one to three cycles is often sufficient
 
 ### When to Use
 
-* Acute stress, anxiety, or panic â results can be felt within 30â90 seconds
+* Acute stress, anxiety, or panic — results can be felt within 30–90 seconds
 * When you need immediate calm without a full breathing session
 * As a quick reset in the middle of a difficult situation
 
 ### The Science
 
-Research from Stanford (Huberman Lab et al.) shows that the double inhale re-inflates collapsed alveoli, improving gas exchange and rapidly shifting COâ balance. The extended exhale produces rapid vagal activation. In a 2023 study, a single physiological sigh produced greater real-time stress reduction than any other breathing technique tested.
+Research from Stanford (Huberman Lab et al.) shows that the double inhale re-inflates collapsed alveoli, improving gas exchange and rapidly shifting CO₂ balance. The extended exhale produces rapid vagal activation. In a 2023 study, a single physiological sigh produced greater real-time stress reduction than any other breathing technique tested.
 
 ### Contraindications
 
@@ -294,19 +294,19 @@ None significant. The effect can occasionally cause brief light-headedness; sit 
 
 ---
 
-*Part of the Observatory Almanac â Section 17: Body & Movement*
+*Part of the Observatory Almanac — Section 17: Body & Movement*
 
 ---
 
-## ð« Practice Now
+## 🫁 Practice Now
 
 ### Guided Breathing
 
 Box Breathing (4-4-4-4)
 4-7-8 Technique
 Coherent Breathing (5-5)
-â¶ï¸ Start
-â¹ï¸ Stop
+▶️ Start
+⏹️ Stop
 
 Ready
 

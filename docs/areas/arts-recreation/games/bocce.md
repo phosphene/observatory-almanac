@@ -1,10 +1,10 @@
-# Bocce and PÃ©tanque
+# Bocce and Pétanque
 
-*The Observatory Almanac â Universal Rulebook*
+*The Observatory Almanac — Universal Rulebook*
 
 ---
 
-Bocce and pÃ©tanque are kissing cousins from Mediterranean antiquity â both descend from ancient ball-tossing traditions practiced across the Roman world and earlier. Both involve throwing or rolling balls toward a small target ball. Yet they differ substantially in technique, terrain, and tactical texture. Bocce, the Italian form, is played on a dedicated court with rolling throws. PÃ©tanque, the ProvenÃ§al form, uses a distinctive feet-together throw and embraces rougher natural terrain. Together they represent one of the world's great families of target sports, accessible to all ages and sizes.
+Bocce and pétanque are kissing cousins from Mediterranean antiquity — both descend from ancient ball-tossing traditions practiced across the Roman world and earlier. Both involve throwing or rolling balls toward a small target ball. Yet they differ substantially in technique, terrain, and tactical texture. Bocce, the Italian form, is played on a dedicated court with rolling throws. Pétanque, the Provençal form, uses a distinctive feet-together throw and embraces rougher natural terrain. Together they represent one of the world's great families of target sports, accessible to all ages and sizes.
 
 ---
 
@@ -24,18 +24,18 @@ Bocce (pronounced "BOH-chay," from the Italian for "bowls") is played between tw
 The standard bocce court is a long rectangular court of compacted sand, clay, or packed gravel:
 
 ```
-ââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-â                                                    â
-â  ââââââââââââââ 76.2 feet (approx 23.2m) ââââââââââ
-â                                                    â
-â  [foul line]              [foul line]              â
-â  [pallino throw line]                              â
-ââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-      â 13 feet (approximately 4m) wide
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  ←————————————— 76.2 feet (approx 23.2m) ————————→│
+│                                                    │
+│  [foul line]              [foul line]              │
+│  [pallino throw line]                              │
+└────────────────────────────────────────────────────┘
+      ↕ 13 feet (approximately 4m) wide
 ```
 
 **Official court dimensions (Bocce Standards Association):**
-- Length: 76.2 feet (23.2 meters) â sometimes listed as 60 to 90 feet depending on governing body
+- Length: 76.2 feet (23.2 meters) — sometimes listed as 60 to 90 feet depending on governing body
 - Width: 13 feet (approximately 4 meters)
 - End boards (backboards): Raised edges at each end
 - Side boards: Rails along the length
@@ -67,13 +67,13 @@ There is no restriction on throwing style. Players may roll, lob, or shoot at wi
 
 **Legal throw:** The player must release the ball from behind the foul line. The ball must stay in bounds. If a ball goes out of bounds, it is removed from play for that frame.
 
-**Pallino struck by bocce:** If a bocce ball moves the pallino, the pallino stays in its new position. Play continues normally. This is a major strategic element â moving the pallino away from the opponent's cluster can win a frame.
+**Pallino struck by bocce:** If a bocce ball moves the pallino, the pallino stays in its new position. Play continues normally. This is a major strategic element — moving the pallino away from the opponent's cluster can win a frame.
 
 **Ball touching back wall:** In many rule sets, a bocce ball that touches the back wall is a dead ball and is removed. In others, it remains in play. This should be agreed before the game.
 
 ### Scoring
 
-Only one team scores per frame â the team whose bocce ball is closest to the pallino.
+Only one team scores per frame — the team whose bocce ball is closest to the pallino.
 
 **That team scores one point for each ball that is closer to the pallino than the closest opponent ball.**
 
@@ -91,7 +91,7 @@ Standard bocce games are played to **12 points** (some organizations use 15 or 1
 
 ### Playing Positions (4-player teams)
 
-With four players per team, two stand at each end of the court. After each frame, teams switch ends â the players at the far end now throw in the next frame, with their partners waiting at the other end. This ensures both partners throw from each end across the game.
+With four players per team, two stand at each end of the court. After each frame, teams switch ends — the players at the far end now throw in the next frame, with their partners waiting at the other end. This ensures both partners throw from each end across the game.
 
 ### Fouls
 
@@ -101,42 +101,42 @@ With four players per team, two stand at each end of the court. After each frame
 
 ---
 
-## PÃ©tanque
+## Pétanque
 
 ### Overview
 
-PÃ©tanque (from the Occitan *pÃ¨s tancats*, "feet together") originated in the Provence region of France in the early twentieth century. It is played on rough natural ground, gravel, or a dedicated piste. The defining characteristic is the throwing stance: both feet must remain together on the ground throughout the throw, never leaving their starting position.
+Pétanque (from the Occitan *pès tancats*, "feet together") originated in the Provence region of France in the early twentieth century. It is played on rough natural ground, gravel, or a dedicated piste. The defining characteristic is the throwing stance: both feet must remain together on the ground throughout the throw, never leaving their starting position.
 
-PÃ©tanque is governed by the FÃ©dÃ©ration Internationale de PÃ©tanque et Jeu ProvenÃ§al (FIPJP) and played competitively in over 50 countries.
+Pétanque is governed by the Fédération Internationale de Pétanque et Jeu Provençal (FIPJP) and played competitively in over 50 countries.
 
 ### Equipment
 
-* **Boules:** Metal balls, hollow or semi-solid, 70.5â80mm diameter, 650â800g weight. Each player uses two or three boules depending on team size.
+* **Boules:** Metal balls, hollow or semi-solid, 70.5–80mm diameter, 650–800g weight. Each player uses two or three boules depending on team size.
 * **Cochonnet (jack):** A small wooden ball approximately 30mm in diameter. Also called the but ("target" in French).
 
 ### Team Sizes
 
-* **TÃªte-Ã -tÃªte (singles):** 1 vs. 1, each player uses 3 boules.
+* **Tête-à-tête (singles):** 1 vs. 1, each player uses 3 boules.
 * **Doublette (doubles):** 2 vs. 2, each player uses 3 boules.
 * **Triplette (triples):** 3 vs. 3, each player uses 2 boules.
 
 ### The Terrain (Piste)
 
-PÃ©tanque is intentionally played on rough, imperfect ground. Formal competition uses a piste of packed gravel or sand approximately 4 meters wide and 15 meters long. Casual play adapts to whatever ground is available. The irregular surface is part of the game.
+Pétanque is intentionally played on rough, imperfect ground. Formal competition uses a piste of packed gravel or sand approximately 4 meters wide and 15 meters long. Casual play adapts to whatever ground is available. The irregular surface is part of the game.
 
 ### Starting Play
 
-A circle approximately 35â50cm in diameter is drawn in the ground (or a circle disk placed). The starting player stands inside this circle with both feet on the ground, feet together or apart but both within the circle, and throws the cochonnet.
+A circle approximately 35–50cm in diameter is drawn in the ground (or a circle disk placed). The starting player stands inside this circle with both feet on the ground, feet together or apart but both within the circle, and throws the cochonnet.
 
 **Cochonnet throw:** Must land between 6 and 10 meters from the throwing circle (competitive distance). Must be at least 1 meter from any boundary and 50cm from any obstacle.
 
 ### Throwing Stance and Style
 
-**The mandatory rule:** Both feet must remain on the ground within the throwing circle throughout the entire throw and until the thrown boule lands. Players may not step, hop, or run up to the throw. This is the defining physical constraint of pÃ©tanque.
+**The mandatory rule:** Both feet must remain on the ground within the throwing circle throughout the entire throw and until the thrown boule lands. Players may not step, hop, or run up to the throw. This is the defining physical constraint of pétanque.
 
 **Throwing styles:**
-- **Pointer (pointeur):** Throws the boule with backspin or minimal spin to make it roll gently to rest near the cochonnet. A poussette is a low roll; a portÃ©e is a higher arc that lands and stops.
-- **Shooter (tireur):** Throws with high arc and backspin to knock the opponent's boule or the cochonnet. An accomplished tireur can reliably hit a stationary boule from 8â10 meters.
+- **Pointer (pointeur):** Throws the boule with backspin or minimal spin to make it roll gently to rest near the cochonnet. A poussette is a low roll; a portée is a higher arc that lands and stops.
+- **Shooter (tireur):** Throws with high arc and backspin to knock the opponent's boule or the cochonnet. An accomplished tireur can reliably hit a stationary boule from 8–10 meters.
 
 Most teams include at least one dedicated shooter and one dedicated pointer.
 
@@ -146,7 +146,7 @@ The team that does not hold the point throws next (same principle as bocce). The
 
 ### Scoring
 
-After all boules are thrown, the team closest to the cochonnet scores one point per boule closer to the cochonnet than the opponent's nearest boule. Only one team scores per round (mÃ¨ne).
+After all boules are thrown, the team closest to the cochonnet scores one point per boule closer to the cochonnet than the opponent's nearest boule. Only one team scores per round (mène).
 
 This is identical in principle to bocce scoring.
 
@@ -154,25 +154,25 @@ This is identical in principle to bocce scoring.
 
 Games are played to **13 points**. The first team to reach 13 wins.
 
-**Fanny:** If one team wins 13â0, the losing team is said to have "fanny" â and in ProvenÃ§al tradition, this involves a humiliating ceremony that varies by local custom.
+**Fanny:** If one team wins 13–0, the losing team is said to have "fanny" — and in Provençal tradition, this involves a humiliating ceremony that varies by local custom.
 
 ### Key Rules
 
 * **Thrown boule off-piste:** Dead ball, removed from play.
-* **Cochonnet off-piste:** If the cochonnet goes out of bounds and neither team can recover it, the mÃ¨ne is canceled; if one team has exhausted their boules and the other has boules remaining, the remaining team scores one point per remaining boule.
-* **Bouler (kissing the jack):** When a boule comes to rest touching the cochonnet. Still scored normally â touching is not special treatment.
+* **Cochonnet off-piste:** If the cochonnet goes out of bounds and neither team can recover it, the mène is canceled; if one team has exhausted their boules and the other has boules remaining, the remaining team scores one point per remaining boule.
+* **Bouler (kissing the jack):** When a boule comes to rest touching the cochonnet. Still scored normally — touching is not special treatment.
 * **Dead ball area:** Any ball resting more than 1.5m beyond the cochonnet is a dead ball in some formal rules.
 
 ---
 
-## Bocce vs. PÃ©tanque: Key Differences
+## Bocce vs. Pétanque: Key Differences
 
-| Feature | Bocce | PÃ©tanque |
+| Feature | Bocce | Pétanque |
 | --- | --- | --- |
 | Court | Defined rectangle, enclosed | Open natural ground (piste) |
 | Throwing | Running step allowed | Feet must stay in circle |
 | Ball material | Resin or metal | Metal (hollow or solid) |
-| Ball size | ~107mm | 70.5â80mm |
+| Ball size | ~107mm | 70.5–80mm |
 | Game to | 12 points | 13 points |
 | Target ball name | Pallino | Cochonnet |
 | Team sizes | 1, 2, or 4 per team | 1, 2, or 3 per team |
@@ -180,6 +180,6 @@ Games are played to **13 points**. The first team to reach 13 wins.
 
 ---
 
-*The Observatory Almanac â rules compiled from the Bocce Standards Association (BSA), World Bocce League, and FÃ©dÃ©ration Internationale de PÃ©tanque et Jeu ProvenÃ§al (FIPJP).*
+*The Observatory Almanac — rules compiled from the Bocce Standards Association (BSA), World Bocce League, and Fédération Internationale de Pétanque et Jeu Provençal (FIPJP).*
 
-### ð¯ Scorecard
+### 🎯 Scorecard

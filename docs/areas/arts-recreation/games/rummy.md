@@ -1,10 +1,10 @@
 # Rummy Family
 
-*The Observatory Almanac â Universal Rulebook*
+*The Observatory Almanac — Universal Rulebook*
 
 ---
 
-Rummy games share a common grammar: draw a card, meld sets and runs, discard. Within that elegant skeleton lives a sprawling family of variants â from the lightning-fast knocking game of Gin to the sprawling tableau of 500 Rummy to the wildly popular Indian variants that have defined card culture across South Asia. What unites them is the imperative to organize chaos: take the shuffled randomness dealt to you and impose order before your opponent does.
+Rummy games share a common grammar: draw a card, meld sets and runs, discard. Within that elegant skeleton lives a sprawling family of variants — from the lightning-fast knocking game of Gin to the sprawling tableau of 500 Rummy to the wildly popular Indian variants that have defined card culture across South Asia. What unites them is the imperative to organize chaos: take the shuffled randomness dealt to you and impose order before your opponent does.
 
 ---
 
@@ -12,7 +12,7 @@ Rummy games share a common grammar: draw a card, meld sets and runs, discard. Wi
 
 ### Overview
 
-Gin Rummy is a two-player game of skill, speed, and calculated risk. Developed in the early twentieth century, it became one of the most widely played two-person card games in the world. The goal is to form your ten cards into melds â sets of matching rank or runs of consecutive suit â and either knock with low deadwood or achieve gin with no deadwood at all.
+Gin Rummy is a two-player game of skill, speed, and calculated risk. Developed in the early twentieth century, it became one of the most widely played two-person card games in the world. The goal is to form your ten cards into melds — sets of matching rank or runs of consecutive suit — and either knock with low deadwood or achieve gin with no deadwood at all.
 
 ### The Deck and Deal
 
@@ -22,18 +22,18 @@ Ten cards are dealt to each player. The remaining deck becomes the stock pile, f
 
 ### Valid Melds
 
-**Sets:** Three or four cards of the same rank. Example: 7â  7â¥ 7â¦.
+**Sets:** Three or four cards of the same rank. Example: 7♠ 7♥ 7♦.
 
-**Runs:** Three or more consecutive cards of the same suit. Example: 4â£ 5â£ 6â£ 7â£. Ace is always low; runs cannot wrap around (K-A-2 is not valid).
+**Runs:** Three or more consecutive cards of the same suit. Example: 4♣ 5♣ 6♣ 7♣. Ace is always low; runs cannot wrap around (K-A-2 is not valid).
 
 Cards not part of any meld are called **deadwood**. The goal is to minimize deadwood.
 
 ### Turn Structure
 
 On each turn, a player must:
-1. **Draw** â take the top card from either the stock pile or the discard pile.
-2. **Meld or rearrange** â mentally (cards are kept in hand; melds are not laid down until knocking or ginning).
-3. **Discard** â place one card face up on the discard pile.
+1. **Draw** — take the top card from either the stock pile or the discard pile.
+2. **Meld or rearrange** — mentally (cards are kept in hand; melds are not laid down until knocking or ginning).
+3. **Discard** — place one card face up on the discard pile.
 
 The discard pile is visible but only the top card may be taken. You cannot take the discard and immediately discard the same card.
 
@@ -46,7 +46,7 @@ A player may knock when their deadwood total is **10 points or fewer** after dis
 2. Lay down all melds openly.
 3. Place deadwood cards face up separately.
 4. The opponent then lays down their own melds.
-5. **Critically:** The opponent may lay off cards â adding their deadwood onto the knocker's melds, thus reducing their own deadwood total. Example: if the knocker holds 4â¥ 5â¥ 6â¥, the opponent may lay off 3â¥ or 7â¥ from their deadwood.
+5. **Critically:** The opponent may lay off cards — adding their deadwood onto the knocker's melds, thus reducing their own deadwood total. Example: if the knocker holds 4♥ 5♥ 6♥, the opponent may lay off 3♥ or 7♥ from their deadwood.
 6. The knocker may NOT lay off on the opponent's melds.
 
 **Scoring after a knock:**
@@ -56,7 +56,7 @@ A player may knock when their deadwood total is **10 points or fewer** after dis
 
 ### Gin
 
-If a player melds all ten cards with zero deadwood, they declare **gin** â a superior outcome to knocking.
+If a player melds all ten cards with zero deadwood, they declare **gin** — a superior outcome to knocking.
 
 **Procedure:**
 1. Discard the final card face down.
@@ -72,7 +72,7 @@ On the very first turn of a hand, the non-dealer has the option to take the face
 
 ### Ending the Stock
 
-If the stock is depleted to two cards without anyone knocking or ginning, the hand is declared a **draw** â no points are scored and the cards are redealt.
+If the stock is depleted to two cards without anyone knocking or ginning, the hand is declared a **draw** — no points are scored and the cards are redealt.
 
 ### Game Scoring
 
@@ -84,8 +84,8 @@ At game end:
 - **Shutout (schneider/skunk):** If the loser scored zero points during the entire game, the winner's game bonus is doubled (200 instead of 100).
 
 **Final scoring example:**
-- Player A: 3 wins Ã 25 = 75 box bonus + 100 game bonus + hand totals
-- Player B: scored zero â Player A's game bonus doubles to 200.
+- Player A: 3 wins × 25 = 75 box bonus + 100 game bonus + hand totals
+- Player B: scored zero → Player A's game bonus doubles to 200.
 
 ### Oklahoma Gin
 
@@ -101,7 +101,7 @@ Three simultaneous games are played, scored on three columns. A player's first w
 
 ### Overview
 
-Rummy 500 â also called Pinochle Rummy or Persian Rummy â is a multi-player rummy variant distinguished by two features: melds are laid on the table as they are made, and players may draw not just the top card of the discard pile but the **entire discard pile** (or any portion down to a card they can immediately use). The target score is 500 points.
+Rummy 500 — also called Pinochle Rummy or Persian Rummy — is a multi-player rummy variant distinguished by two features: melds are laid on the table as they are made, and players may draw not just the top card of the discard pile but the **entire discard pile** (or any portion down to a card they can immediately use). The target score is 500 points.
 
 ### Players and Cards
 
@@ -116,17 +116,17 @@ Two to eight players. With two to four players, use one standard 52-card deck. W
 
 Each player receives:
 - 7 cards (2 players)
-- 7 cards (3â4 players)
-- 7 cards (5â8 players; some sets deal 13)
+- 7 cards (3–4 players)
+- 7 cards (5–8 players; some sets deal 13)
 
 The remaining cards form the stock, face down. The top card is turned face up to start the discard pile.
 
 ### Turn Structure
 
 On each turn:
-1. **Draw** â take the top card from the stock, or take a card (or cards) from the discard pile.
-2. **Meld** â lay down any valid sets or runs, face up, in front of you. Optionally lay off cards onto existing melds (yours or any other player's).
-3. **Discard** â place one card on top of the discard pile.
+1. **Draw** — take the top card from the stock, or take a card (or cards) from the discard pile.
+2. **Meld** — lay down any valid sets or runs, face up, in front of you. Optionally lay off cards onto existing melds (yours or any other player's).
+3. **Discard** — place one card on top of the discard pile.
 
 ### Drawing from the Discard Pile
 
@@ -166,7 +166,7 @@ The first player to reach **500 points** (cumulative) wins. If multiple players 
 
 ### Strategy Notes
 
-The dual-nature discard pile is the tactical heart of Rummy 500. Burying a useful card deep in the pile â then picking it up along with everything above it â can swing a hand dramatically. Conversely, discarding carelessly when the pile is large is a serious error. Tracking what other players are building is essential.
+The dual-nature discard pile is the tactical heart of Rummy 500. Burying a useful card deep in the pile — then picking it up along with everything above it — can swing a hand dramatically. Conversely, discarding carelessly when the pile is large is a serious error. Tracking what other players are building is essential.
 
 ---
 
@@ -178,7 +178,7 @@ Indian Rummy is the dominant card game across the Indian subcontinent, combining
 
 ### Players and Cards
 
-Typically 2â6 players. Two standard 52-card decks plus four printed jokers are shuffled together (108 cards total). With two players, some prefer a single deck.
+Typically 2–6 players. Two standard 52-card decks plus four printed jokers are shuffled together (108 cards total). With two players, some prefer a single deck.
 
 **Card values:**
 - Ace: 10 points
@@ -190,15 +190,15 @@ Typically 2â6 players. Two standard 52-card decks plus four printed jokers 
 
 13 cards are dealt to each player. The remaining cards form the stock. Two cards from the stock are set aside face down as the **open deck** starter and the **wild joker selector**.
 
-**Wild Joker:** One card is drawn at random and placed face up under the stock. All cards of that rank â in any suit â become **wild jokers** for the duration of the game. Wild jokers may substitute for any card in a meld but have special scoring rules.
+**Wild Joker:** One card is drawn at random and placed face up under the stock. All cards of that rank — in any suit — become **wild jokers** for the duration of the game. Wild jokers may substitute for any card in a meld but have special scoring rules.
 
 ### Valid Melds (Sets and Sequences)
 
-**Pure Sequence:** Three or more consecutive cards of the same suit, with no jokers. Example: 5â¦ 6â¦ 7â¦. This is the most critical meld â every valid hand must contain at least one pure sequence.
+**Pure Sequence:** Three or more consecutive cards of the same suit, with no jokers. Example: 5♦ 6♦ 7♦. This is the most critical meld — every valid hand must contain at least one pure sequence.
 
-**Impure Sequence:** A sequence in which one or more wild jokers or printed jokers substitute for missing cards. Example: 8â£ [Joker] 10â£.
+**Impure Sequence:** A sequence in which one or more wild jokers or printed jokers substitute for missing cards. Example: 8♣ [Joker] 10♣.
 
-**Set:** Three or four cards of the same rank but different suits. A set may contain jokers. Example: Kâ  Kâ¥ Kâ¦. Note: In strict Indian Rummy, duplicate suits within a set are not permitted (since two decks are used).
+**Set:** Three or four cards of the same rank but different suits. A set may contain jokers. Example: K♠ K♥ K♦. Note: In strict Indian Rummy, duplicate suits within a set are not permitted (since two decks are used).
 
 ### Winning Condition
 
@@ -211,9 +211,9 @@ A player declares by discarding their final card face down onto a separate "fini
 
 ### Turn Structure
 
-1. **Draw** â take the top card from the stock or the top card from the discard pile.
-2. **Meld mentally** â assess your hand.
-3. **Discard** â place one card on the discard pile.
+1. **Draw** — take the top card from the stock or the top card from the discard pile.
+2. **Meld mentally** — assess your hand.
+3. **Discard** — place one card on the discard pile.
 
 ### Jokers in Indian Rummy
 
@@ -221,7 +221,7 @@ A player declares by discarding their final card face down onto a separate "fini
 
 **Wild Jokers:** The randomly chosen rank for the game. All four suits of that rank are wild. They may be used in sets or impure sequences. However, if a wild joker is used in a meld, that meld is "impure" for scoring purposes. Wild jokers count as 0 points when melded.
 
-A player may hold more jokers than they need. Unused jokers in hand at declaration count as 0 points. However, jokers cannot form a pure sequence â a pure sequence must consist entirely of natural (non-joker) cards.
+A player may hold more jokers than they need. Unused jokers in hand at declaration count as 0 points. However, jokers cannot form a pure sequence — a pure sequence must consist entirely of natural (non-joker) cards.
 
 ### Scoring and Points
 
@@ -246,7 +246,7 @@ In the popular online Points Rummy format, each game is a single deal. Players a
 
 ### Pool Rummy (Variant)
 
-Players begin with 0 points. Each round, losers accumulate penalty points. Players are eliminated when their cumulative total reaches a threshold â 101 points (101 Pool) or 201 points (201 Pool). The last player remaining wins.
+Players begin with 0 points. Each round, losers accumulate penalty points. Players are eliminated when their cumulative total reaches a threshold — 101 points (101 Pool) or 201 points (201 Pool). The last player remaining wins.
 
 ### Deals Rummy (Variant)
 
@@ -266,6 +266,6 @@ A fixed number of deals are played (typically 2 or 3). Each player begins with a
 
 ---
 
-*The Observatory Almanac â authoritative rules compiled from standard tournament and platform sources. Variant house rules exist and are noted where significant.*
+*The Observatory Almanac — authoritative rules compiled from standard tournament and platform sources. Variant house rules exist and are noted where significant.*
 
-### ð¯ Scorecard
+### 🎯 Scorecard

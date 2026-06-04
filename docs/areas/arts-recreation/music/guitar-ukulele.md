@@ -8,7 +8,7 @@
 
 ## Reading String Notation
 
-Guitar has six strings. In standard notation, strings are numbered **1 (thinnest, highest pitch) through 6 (thickest, lowest pitch)**. However, chord notation is written from **low to high** â left to right â giving six characters, one per string:
+Guitar has six strings. In standard notation, strings are numbered **1 (thinnest, highest pitch) through 6 (thickest, lowest pitch)**. However, chord notation is written from **low to high** — left to right — giving six characters, one per string:
 
 ```
 String: 6  5  4  3  2  1
@@ -16,7 +16,7 @@ String: 6  5  4  3  2  1
 ```
 
 Each character means:
-- **A number (0â12):** Fret to press on that string
+- **A number (0–12):** Fret to press on that string
 - **x:** Do not play this string (mute or skip)
 - **0:** Play the string open (unfretted)
 
@@ -34,7 +34,7 @@ Each character means:
 
 ### Open Chords (Standard EADGBE Tuning)
 
-**A major** â `x02220`
+**A major** — `x02220`
 
 ```
 E |--x--|
@@ -45,11 +45,11 @@ B |--2--|
 e |--0--|
 ```
 
-Fingers: Index on D, middle on G, ring on B â or barre all three with one finger across frets 2 of D/G/B.
+Fingers: Index on D, middle on G, ring on B — or barre all three with one finger across frets 2 of D/G/B.
 
 ---
 
-**Am (A minor)** â `x02210`
+**Am (A minor)** — `x02210`
 
 ```
 E |--x--|
@@ -64,7 +64,7 @@ Fingers: Index on B (fret 1), middle on D (fret 2), ring on G (fret 2).
 
 ---
 
-**B major** â `x24442` (barre chord â see Barre Chord section)
+**B major** — `x24442` (barre chord — see Barre Chord section)
 
 ```
 E |--x--|
@@ -79,7 +79,7 @@ This is an A-shape barre chord at the 2nd fret.
 
 ---
 
-**Bm (B minor)** â `x24432`
+**Bm (B minor)** — `x24432`
 
 ```
 E |--x--|
@@ -94,7 +94,7 @@ Index finger barres strings 1 and 2 at fret 2; ring finger barres strings 2-4 at
 
 ---
 
-**C major** â `x32010`
+**C major** — `x32010`
 
 ```
 E |--x--|
@@ -109,7 +109,7 @@ Fingers: Ring on A (fret 3), middle on D (fret 2), index on B (fret 1). Classic 
 
 ---
 
-**D major** â `xx0232`
+**D major** — `xx0232`
 
 ```
 E |--x--|
@@ -124,7 +124,7 @@ Fingers: Index on e (fret 2), ring on B (fret 3), middle on G (fret 2). Strings 
 
 ---
 
-**Dm (D minor)** â `xx0231`
+**Dm (D minor)** — `xx0231`
 
 ```
 E |--x--|
@@ -139,7 +139,7 @@ Fingers: Index on e (fret 1), ring on B (fret 3), middle on G (fret 2).
 
 ---
 
-**E major** â `022100`
+**E major** — `022100`
 
 ```
 E |--0--|
@@ -154,7 +154,7 @@ Fingers: Middle on A (fret 2), ring on D (fret 2), index on G (fret 1).
 
 ---
 
-**Em (E minor)** â `022000`
+**Em (E minor)** — `022000`
 
 ```
 E |--0--|
@@ -169,7 +169,7 @@ Fingers: Middle on A (fret 2), ring on D (fret 2). The easiest two-finger chord.
 
 ---
 
-**F major** â `133211` (barre chord)
+**F major** — `133211` (barre chord)
 
 ```
 E |--1--|
@@ -180,14 +180,14 @@ B |--1--|
 e |--1--|
 ```
 
-Index finger barres all six strings at fret 1. Ring finger on A (fret 3), pinky on D (fret 3), middle on G (fret 2). *The infamous F chord â the first wall most beginners hit. It requires finger strength and patience.*
+Index finger barres all six strings at fret 1. Ring finger on A (fret 3), pinky on D (fret 3), middle on G (fret 2). *The infamous F chord — the first wall most beginners hit. It requires finger strength and patience.*
 
-**F major simplified (no barre)** â `xx3211`
+**F major simplified (no barre)** — `xx3211`
 Omit strings 6 and 5 for a treble-only version. Easier but thinner sound.
 
 ---
 
-**G major** â `320033`
+**G major** — `320033`
 
 ```
 E |--3--|
@@ -202,7 +202,7 @@ Fingers: Middle on A (fret 2), index on E (fret 3) [or use ring on E and pinky o
 
 ---
 
-**G7** â `320001`
+**G7** — `320001`
 
 ```
 E |--3--|
@@ -217,7 +217,7 @@ Same as G but add index finger on e (fret 1). Common in blues and folk.
 
 ---
 
-**A7** â `x02020`
+**A7** — `x02020`
 
 ```
 E |--x--|
@@ -232,7 +232,7 @@ Fingers: Middle on D (fret 2), ring on B (fret 2). Alternating open strings give
 
 ---
 
-**D7** â `xx0212`
+**D7** — `xx0212`
 
 ```
 E |--x--|
@@ -247,7 +247,7 @@ Fingers: Index on B (fret 1), middle on G (fret 2), ring on e (fret 2).
 
 ---
 
-**E7** â `020100`
+**E7** — `020100`
 
 ```
 E |--0--|
@@ -278,9 +278,9 @@ Based on an open E major shape. Move the entire shape up the neck, with the inde
 | Fret | Chord |
 | --- | --- |
 | 1 | F major |
-| 2 | F# / Gâ­ major |
+| 2 | F# / G♭ major |
 | 3 | G major |
-| 4 | G# / Aâ­ major |
+| 4 | G# / A♭ major |
 | 5 | A major |
 | 7 | B major |
 
@@ -297,8 +297,8 @@ Based on an open A major shape. Index barres all strings, ring finger (or barrin
 
 **Tips for barre chords:**
 - Position the index finger directly behind the fret wire (not in the middle of the fret space)
-- Roll the index finger slightly onto its bony side â the fleshy pad has joints that buzz
-- The F chord typically takes 2â6 weeks of consistent practice to nail cleanly
+- Roll the index finger slightly onto its bony side — the fleshy pad has joints that buzz
+- The F chord typically takes 2–6 weeks of consistent practice to nail cleanly
 - Build finger strength with sustained holds before attempting full songs
 
 ---
@@ -307,7 +307,7 @@ Based on an open A major shape. Index barres all strings, ring finger (or barrin
 
 Strumming is written with D (down stroke) and U (up stroke). Numbers represent beats; "+" means the "and" (off-beat eighth note).
 
-**Pattern 1 â Basic Down Strum (Beginner)**
+**Pattern 1 — Basic Down Strum (Beginner)**
 
 ```
 Beat:  1    2    3    4
@@ -318,7 +318,7 @@ One down strum per beat. Use for learning chords. Even, constant motion.
 
 ---
 
-**Pattern 2 â Down-Up Pattern**
+**Pattern 2 — Down-Up Pattern**
 
 ```
 Beat:  1    +    2    +    3    +    4    +
@@ -329,19 +329,19 @@ Continuous eighth notes. Good for folk and acoustic pop. Keep the strumming hand
 
 ---
 
-**Pattern 3 â Folk/Pop Pattern (Most Common)**
+**Pattern 3 — Folk/Pop Pattern (Most Common)**
 
 ```
 Beat:  1    +    2    +    3    +    4    +
        D    -    D    U    -    U    D    U
 ```
 
-(Dashes indicate a miss â the hand moves but doesn't hit the strings.)
+(Dashes indicate a miss — the hand moves but doesn't hit the strings.)
 This pattern underlies hundreds of pop and folk songs. Once internalized, it becomes automatic.
 
 ---
 
-**Pattern 4 â Reggae / Ska Upstroke Pattern**
+**Pattern 4 — Reggae / Ska Upstroke Pattern**
 
 ```
 Beat:  1    +    2    +    3    +    4    +
@@ -359,12 +359,12 @@ Only upstrokes, on the off-beats. Classic reggae "skank." Requires good timing t
 The default tuning for virtually all guitar instruction. From lowest (string 6) to highest (string 1):
 
 ```
-6: E  (lowest â thick wound string)
+6: E  (lowest — thick wound string)
 5: A
 4: D
 3: G
 2: B
-1: e  (highest â thin plain string)
+1: e  (highest — thin plain string)
 ```
 
 Memory aid: "**E**ddie **A**te **D**ynamite, **G**ood **B**ye **E**ddie"
@@ -403,7 +403,7 @@ Strings are tuned to form a G major chord when played open (no fretting).
 1: D  (down from e)
 ```
 
-**Why Open G?** Strumming open strings produces a full G chord. Slide guitar (bottleneck) is easier because any single fret barre produces a major chord. Keith Richards (Rolling Stones) famously uses Open G â and typically removes the 6th string entirely. Robert Johnson, many Delta blues musicians.
+**Why Open G?** Strumming open strings produces a full G chord. Slide guitar (bottleneck) is easier because any single fret barre produces a major chord. Keith Richards (Rolling Stones) famously uses Open G — and typically removes the 6th string entirely. Robert Johnson, many Delta blues musicians.
 
 ---
 
@@ -414,19 +414,19 @@ A capo is a clamp that attaches to any fret, pressing all strings down behind it
 **What it does:**
 - Raises the key of all chords without changing your finger shapes
 - Allows you to play in "difficult" keys using easy open-chord shapes
-- Changes the timbre â capo at high frets gives a brighter, mandolin-like sound
+- Changes the timbre — capo at high frets gives a brighter, mandolin-like sound
 
 **Capo placement reference (capo at fret X, chord Y = actual pitch Z):**
 
 | Capo Position | C becomes | G becomes | D becomes | A becomes | E becomes |
 | --- | --- | --- | --- | --- | --- |
-| Fret 1 | C# / Dâ­ | G# / Aâ­ | D# / Eâ­ | A# / Bâ­ | F |
+| Fret 1 | C# / D♭ | G# / A♭ | D# / E♭ | A# / B♭ | F |
 | Fret 2 | D | A | E | B | F# |
-| Fret 3 | D# / Eâ­ | A# / Bâ­ | F | C | G |
+| Fret 3 | D# / E♭ | A# / B♭ | F | C | G |
 | Fret 4 | E | B | F# | C# | G# |
 | Fret 5 | F | C | G | D | A |
 
-**Example:** A song is written in the key of B major, a difficult key. Put the capo at fret 2 and play A major shapes â you'll sound in B.
+**Example:** A song is written in the key of B major, a difficult key. Put the capo at fret 2 and play A major shapes — you'll sound in B.
 
 ---
 
@@ -447,11 +447,11 @@ E |--------------------|
 
 | Symbol | Meaning |
 | --- | --- |
-| h | Hammer-on (e.g., 5h7 â pick fret 5, then hammer finger onto 7 without picking again) |
-| p | Pull-off (e.g., 7p5 â pick fret 7, then pull off to 5) |
-| / | Slide up (e.g., 5/7 â slide from fret 5 to 7) |
+| h | Hammer-on (e.g., 5h7 — pick fret 5, then hammer finger onto 7 without picking again) |
+| p | Pull-off (e.g., 7p5 — pick fret 7, then pull off to 5) |
+| / | Slide up (e.g., 5/7 — slide from fret 5 to 7) |
 | \ | Slide down |
-| b | Bend (e.g., 7b9 â bend fret 7 up to sound like fret 9) |
+| b | Bend (e.g., 7b9 — bend fret 7 up to sound like fret 9) |
 | ~ | Vibrato (oscillate pitch slightly) |
 | x | Muted hit (percussive click) |
 
@@ -463,43 +463,43 @@ Tab does not indicate rhythm by itself. Most tab notation includes note duration
 
 These songs can be learned with a small set of open chords. Practice the chord transitions separately before attempting full songs.
 
-**1. "Knockin' on Heaven's Door" â Bob Dylan**
+**1. "Knockin' on Heaven's Door" — Bob Dylan**
 Chords: G, D, Am, C
 Pattern: Slow, even strumming. Great for beginners.
 
-**2. "Horse With No Name" â America**
-Chords: Em, D6 (or Dsus2) â essentially a two-chord song
+**2. "Horse With No Name" — America**
+Chords: Em, D6 (or Dsus2) — essentially a two-chord song
 Pattern: Continuous down-up. Easy entry point.
 
-**3. "Wonderwall" â Oasis**
+**3. "Wonderwall" — Oasis**
 Chords: Em7, G, Dsus4, A7sus4 (capo fret 2)
 Pattern: The iconic down-down-up-up-down strum. Intermediate transitions.
 
-**4. "Brown Eyed Girl" â Van Morrison**
+**4. "Brown Eyed Girl" — Van Morrison**
 Chords: G, C, D, Em
 Pattern: Upbeat strum. Classic rock feel.
 
-**5. "Let Her Go" â Passenger**
+**5. "Let Her Go" — Passenger**
 Chords: C, G, Am, F, D (capo fret 2)
 Pattern: Fingerpicking or strum. Good for practicing F chord.
 
-**6. "Stand By Me" â Ben E. King**
+**6. "Stand By Me" — Ben E. King**
 Chords: A, F#m, D, E
 Pattern: Slow, laid-back strum.
 
-**7. "Country Roads" â John Denver**
+**7. "Country Roads" — John Denver**
 Chords: G, D, Em, C
 Pattern: Waltz feel (3/4 time). Great first song for timing.
 
-**8. "House of the Rising Sun" â The Animals**
+**8. "House of the Rising Sun" — The Animals**
 Chords: Am, C, D, F, E (6/8 time)
 Pattern: Fingerpicking or arpeggiated. Develops picking technique.
 
-**9. "Leaving on a Jet Plane" â John Denver**
+**9. "Leaving on a Jet Plane" — John Denver**
 Chords: G, C, D
 Pattern: Simple three-chord song in 4/4. Excellent first song.
 
-**10. "Wish You Were Here" â Pink Floyd**
+**10. "Wish You Were Here" — Pink Floyd**
 Chords: Em7, G, A7sus4, C, D (with a distinctive intro riff)
 Pattern: Fingerpicking on intro; strumming on verses.
 
@@ -509,7 +509,7 @@ Pattern: Fingerpicking on intro; strumming on verses.
 
 ## About the Ukulele
 
-The ukulele originated in Hawaii in the 1880s, adapted from the Portuguese machÃªte. It has four nylon strings, a warm, bright sound, and is considerably easier on the fingers than steel-string guitar. The standard ukulele is the soprano or concert size; the tenor size offers more volume and a deeper tone.
+The ukulele originated in Hawaii in the 1880s, adapted from the Portuguese machête. It has four nylon strings, a warm, bright sound, and is considerably easier on the fingers than steel-string guitar. The standard ukulele is the soprano or concert size; the tenor size offers more volume and a deeper tone.
 
 ---
 
@@ -600,9 +600,9 @@ A |--0--|
 ```
 
 Notation: `2210`
-Index on E (fret 1), middle on C (fret 2), ring on G (fret 2). Or barre index across G, C, and E at fret 2 with middle on E fret 1 â various fingerings work.
+Index on E (fret 1), middle on C (fret 2), ring on G (fret 2). Or barre index across G, C, and E at fret 2 with middle on E fret 1 — various fingerings work.
 
-**Alternative:** `2220` (barre all three strings at fret 2 with ring, plus index at E fret 1) â try both.
+**Alternative:** `2220` (barre all three strings at fret 2 with ring, plus index at E fret 1) — try both.
 
 ---
 
@@ -622,23 +622,23 @@ Index on E (fret 1), middle on C (fret 2), ring on A (fret 2).
 
 ## 5 Beginner Ukulele Songs
 
-**1. "Somewhere Over the Rainbow" â Israel Kamakawiwo'ole version**
+**1. "Somewhere Over the Rainbow" — Israel Kamakawiwo'ole version**
 Chords: C, Em, Am, F, G
 This is the definitive ukulele song. Start with the fingerpicking intro pattern, then strum the verses.
 
-**2. "I'm Yours" â Jason Mraz**
+**2. "I'm Yours" — Jason Mraz**
 Chords: C, G, Am, F
 Four chords, upbeat reggae-influenced strum. Very beginner-friendly.
 
-**3. "Riptide" â Vance Joy**
+**3. "Riptide" — Vance Joy**
 Chords: Am, G, C, F
 Simple chord progression that recycles throughout the entire song.
 
-**4. "You Are My Sunshine" â Traditional**
+**4. "You Are My Sunshine" — Traditional**
 Chords: C, F, G7
 Three-chord classic in 3/4 time. Great for learning chord transitions.
 
-**5. "Count on Me" â Bruno Mars**
+**5. "Count on Me" — Bruno Mars**
 Chords: C, Em, Am, F, G
 Gentle, cheerful feel. Good for practicing smooth transitions between five chords.
 
@@ -663,7 +663,7 @@ Gentle, cheerful feel. Good for practicing smooth transitions between five chord
 
 ### Building Chord Muscle Memory
 
-* Practice chord transitions in isolation: place chord A, strum once, switch to chord B, strum once â repeat without pausing to "find" the chord
+* Practice chord transitions in isolation: place chord A, strum once, switch to chord B, strum once — repeat without pausing to "find" the chord
 * Use the "one-minute changes" drill: set a timer for 60 seconds and count how many times you can cleanly change between two chords
 * Practice chord grips while watching TV to build unconscious hand memory
 
@@ -672,7 +672,7 @@ Gentle, cheerful feel. Good for practicing smooth transitions between five chord
 * Press the string with the fingertip, not the flat of the finger
 * Position fingers just behind the fret, not in the middle of the fret space
 * Keep the thumb on the back of the neck (not hooked over the top)
-* Use minimum pressure â just enough to produce a clean note
+* Use minimum pressure — just enough to produce a clean note
 
 ### Right-Hand (Strumming Hand) Technique
 

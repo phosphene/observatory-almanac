@@ -1,6 +1,6 @@
 # Italian Complete Recipe Collection
 
-*The Wise Men Almanac â 04 Human Hearth*
+*The Wise Men Almanac — 04 Human Hearth*
 
 ---
 
@@ -33,7 +33,7 @@
 - 50g butter
 - 8 baguette slices, toasted
 
-1. SautÃ© onion in butter until soft.
+1. Sauté onion in butter until soft.
 2. Add livers, cook until just pink inside.
 3. Add wine, reduce by half.
 4. Blend livers with capers and anchovies to a rough paste.
@@ -119,7 +119,7 @@
 
 ---
 
-### SupplÃ¬ al Telefono
+### Supplì al Telefono
 
 **Region:** Rome/Lazio
 - 300g risotto rice (cooked, cooled)
@@ -130,7 +130,7 @@
 
 1. Shape cooled risotto around a cube of mozzarella into oval balls.
 2. Dip in beaten egg; coat with breadcrumbs.
-3. Deep fry at 180Â°C until golden. Serve hot so cheese stretches like a telephone wire.
+3. Deep fry at 180°C until golden. Serve hot so cheese stretches like a telephone wire.
 
 ---
 
@@ -138,7 +138,7 @@
 
 **Region:** Sicily
 - 400g arborio rice
-- 200g meat ragÃ¹
+- 200g meat ragù
 - 100g mozzarella, diced
 - 100g peas, cooked
 - 3 eggs
@@ -146,7 +146,7 @@
 - Pinch saffron
 
 1. Cook rice with saffron; mix with 1 egg and Parmesan. Cool.
-2. Shape rice around ragÃ¹, peas, and mozzarella.
+2. Shape rice around ragù, peas, and mozzarella.
 3. Coat in egg and breadcrumbs; deep fry until golden.
 
 ---
@@ -174,7 +174,7 @@
 - 200g canned tomatoes
 - 4 tbsp olive oil
 
-1. SautÃ© garlic and sage in oil until fragrant.
+1. Sauté garlic and sage in oil until fragrant.
 2. Add tomatoes; cook 5 min.
 3. Add beans; simmer 15 min. Season.
 
@@ -190,7 +190,7 @@
 - 4 tbsp olive oil
 - Salt, basil
 
-1. SautÃ© onion and garlic in oil.
+1. Sauté onion and garlic in oil.
 2. Add peppers; cook 10 min.
 3. Add tomatoes; simmer 20 min until soft. Season with basil.
 
@@ -198,13 +198,13 @@
 
 ## SALSE (SAUCES)
 
-### RagÃ¹ Bolognese
+### Ragù Bolognese
 
 **Region:** Emilia-Romagna
 - 300g beef mince
 - 150g pork mince
 - 100g chicken livers (optional)
-- 1 onion, 1 carrot, 1 celery stalk â finely diced
+- 1 onion, 1 carrot, 1 celery stalk — finely diced
 - 150ml white wine
 - 200ml whole milk
 - 400g canned tomatoes
@@ -216,7 +216,7 @@
 3. Brown meat thoroughly; season.
 4. Add wine; reduce.
 5. Add milk; reduce.
-6. Add tomatoes; simmer on lowest heat 2â4 hours.
+6. Add tomatoes; simmer on lowest heat 2–4 hours.
 
 ---
 
@@ -263,11 +263,11 @@
 - 400g penne
 - 400g canned tomatoes
 - 4 cloves garlic
-- 2â4 dried chillies, crumbled
+- 2–4 dried chillies, crumbled
 - 4 tbsp olive oil
 - Fresh parsley
 
-1. SautÃ© garlic and chilli in oil until fragrant.
+1. Sauté garlic and chilli in oil until fragrant.
 2. Add tomatoes; simmer 15 min. Season.
 3. Cook pasta; toss with sauce. Garnish with parsley.
 
@@ -285,7 +285,7 @@
 - 1 tsp chilli flakes
 - 4 tbsp olive oil
 
-1. SautÃ© garlic and anchovies in oil until anchovies dissolve.
+1. Sauté garlic and anchovies in oil until anchovies dissolve.
 2. Add tomatoes, capers, olives, chilli. Simmer 15 min.
 3. Toss with cooked pasta.
 
@@ -356,21 +356,21 @@
 
 ---
 
-## PRIMI â PASTA
+## PRIMI — PASTA
 
 ### Pasta al Forno (Baked Pasta)
 
 **Region:** Sicily/National
 - 400g rigatoni, cooked
-- 400g ragÃ¹ bolognese
+- 400g ragù bolognese
 - 200g mozzarella, diced
 - 100g Parmesan, grated
-- 300ml bÃ©chamel
+- 300ml béchamel
 
-1. Mix pasta with ragÃ¹ and half the mozzarella.
-2. Layer in baking dish with bÃ©chamel.
+1. Mix pasta with ragù and half the mozzarella.
+2. Layer in baking dish with béchamel.
 3. Top with remaining mozzarella and Parmesan.
-4. Bake 200Â°C, 25 min until bubbling and golden.
+4. Bake 200°C, 25 min until bubbling and golden.
 
 ---
 
@@ -378,14 +378,14 @@
 
 **Region:** Emilia-Romagna
 - 400g fresh lasagne sheets
-- 600g ragÃ¹ bolognese
-- 600ml bÃ©chamel
+- 600g ragù bolognese
+- 600ml béchamel
 - 150g Parmesan, grated
 - Butter
 
-1. Layer lasagne sheets with ragÃ¹ and bÃ©chamel alternately; 4 layers minimum.
-2. Top with bÃ©chamel and Parmesan; dot with butter.
-3. Bake 180Â°C, 35â40 min. Rest 10 min before cutting.
+1. Layer lasagne sheets with ragù and béchamel alternately; 4 layers minimum.
+2. Top with béchamel and Parmesan; dot with butter.
+3. Bake 180°C, 35–40 min. Rest 10 min before cutting.
 
 ---
 
@@ -414,7 +414,7 @@
 
 1. Blanch cime di rapa in pasta water 2 min; remove.
 2. Cook pasta in same water.
-3. Meanwhile, sautÃ© garlic, anchovies, chilli in oil.
+3. Meanwhile, sauté garlic, anchovies, chilli in oil.
 4. Add cime di rapa; toss. Add pasta and pasta water; toss well.
 
 ---
@@ -430,7 +430,7 @@
 - 400g canned tomatoes
 - Rosemary, olive oil
 
-1. SautÃ© pancetta with soffritto until soft.
+1. Sauté pancetta with soffritto until soft.
 2. Add garlic, rosemary, tomatoes. Cook 5 min.
 3. Add beans; mash half to thicken.
 4. Add pasta; cook in soup until done. Adjust consistency.
@@ -447,22 +447,22 @@
 - Chilli flakes, parsley
 - 5 tbsp olive oil
 
-1. SautÃ© garlic in oil; add clams and wine.
-2. Cover; cook until clams open (3â4 min). Discard unopened.
+1. Sauté garlic in oil; add clams and wine.
+2. Cover; cook until clams open (3–4 min). Discard unopened.
 3. Cook pasta; toss with clam sauce and pasta water.
 4. Garnish with parsley.
 
 ---
 
-### Tagliatelle al RagÃ¹
+### Tagliatelle al Ragù
 
 **Region:** Emilia-Romagna
 - 400g fresh tagliatelle
-- 600g bolognese ragÃ¹
+- 600g bolognese ragù
 - Parmesan to serve
 
-1. Cook tagliatelle in boiling salted water 2â3 min.
-2. Heat ragÃ¹; toss with pasta and splash of pasta water.
+1. Cook tagliatelle in boiling salted water 2–3 min.
+2. Heat ragù; toss with pasta and splash of pasta water.
 3. Serve with Parmesan.
 
 ---
@@ -515,7 +515,7 @@
 - Saffron, fennel fronds
 - Breadcrumbs, toasted
 
-1. SautÃ© onion; add fennel seeds, saffron, pine nuts, raisins.
+1. Sauté onion; add fennel seeds, saffron, pine nuts, raisins.
 2. Add sardines; cook until flaked. Season.
 3. Toss with pasta; top with toasted breadcrumbs.
 
@@ -532,7 +532,7 @@
 - Juniper berries, bay, rosemary
 
 1. Marinate boar overnight in wine with vegetables and aromatics.
-2. Remove boar; sautÃ© soffritto, brown meat.
+2. Remove boar; sauté soffritto, brown meat.
 3. Return marinade; add tomatoes. Braise 2 hours.
 4. Shred meat; toss with pasta.
 
@@ -564,14 +564,14 @@
 - 400g canned tomatoes
 - Olive oil, parsley
 
-1. SautÃ© onion and garlic; add cuttlefish pieces.
+1. Sauté onion and garlic; add cuttlefish pieces.
 2. Add wine; reduce. Add tomatoes and ink.
 3. Simmer 20 min. Season.
 4. Toss with pasta; garnish with parsley.
 
 ---
 
-### Gnocchi al RagÃ¹ di Pomodoro
+### Gnocchi al Ragù di Pomodoro
 
 **Region:** National
 - 1kg potatoes, floury
@@ -588,7 +588,7 @@
 
 ---
 
-### Maltagliati con RagÃ¹ d'Anatra
+### Maltagliati con Ragù d'Anatra
 
 **Region:** Emilia-Romagna/Veneto
 - 400g maltagliati or pappardelle
@@ -599,7 +599,7 @@
 - Sage, rosemary
 
 1. Brown duck legs; remove.
-2. SautÃ© soffritto; deglaze with wine.
+2. Sauté soffritto; deglaze with wine.
 3. Return duck; add tomatoes and herbs. Braise 1.5 hours.
 4. Shred duck; toss with pasta.
 
@@ -637,7 +637,7 @@
 
 ---
 
-## PRIMI â RISOTTO
+## PRIMI — RISOTTO
 
 ### Risotto alla Milanese
 
@@ -650,7 +650,7 @@
 - 1g saffron, dissolved in warm stock
 - 100g Parmesan, grated
 
-1. SautÃ© onion in half the butter until translucent.
+1. Sauté onion in half the butter until translucent.
 2. Toast rice 2 min.
 3. Add wine; stir until absorbed.
 4. Add hot stock ladle by ladle, stirring constantly.
@@ -671,7 +671,7 @@
 - Thyme, white wine
 
 1. Strain porcini soaking water; use as stock.
-2. SautÃ© onion; add fresh mushrooms and porcini.
+2. Sauté onion; add fresh mushrooms and porcini.
 3. Toast rice; add wine.
 4. Build risotto with stock as usual.
 5. Finish with butter and Parmesan.
@@ -689,7 +689,7 @@
 - 1L fish stock
 - 4 tbsp olive oil
 
-1. SautÃ© onion and garlic; add cuttlefish.
+1. Sauté onion and garlic; add cuttlefish.
 2. Toast rice; add wine.
 3. Build with fish stock; add ink during cooking.
 4. Finish without cheese (not traditional with fish).
@@ -707,7 +707,7 @@
 - 100ml red wine
 - 1L chicken stock
 
-1. SautÃ© onion; add radicchio until wilted.
+1. Sauté onion; add radicchio until wilted.
 2. Toast rice; add red wine.
 3. Build risotto with stock.
 4. Finish with butter and Gorgonzola.
@@ -725,7 +725,7 @@
 - 1L chicken stock
 - Amaretti biscuits, crumbled (optional, Mantovan style)
 
-1. SautÃ© onion; add pumpkin, cook until soft.
+1. Sauté onion; add pumpkin, cook until soft.
 2. Mash half the pumpkin.
 3. Toast rice; build risotto with stock.
 4. Finish with butter and Parmesan. Optional: crumble amaretti on top.
@@ -743,7 +743,7 @@
 - Parsley, chilli, olive oil
 
 1. Steam mussels and clams; set aside. Reserve cooking liquid.
-2. SautÃ© onion and garlic; sear squid and prawns briefly.
+2. Sauté onion and garlic; sear squid and prawns briefly.
 3. Toast rice; add wine.
 4. Build with fish stock and mussel liquid.
 5. Fold in shellfish at end; finish with parsley and olive oil.
@@ -760,7 +760,7 @@
 - 1L chicken stock
 - Basil or mint
 
-1. SautÃ© shallot in butter; toast rice.
+1. Sauté shallot in butter; toast rice.
 2. Build risotto with stock.
 3. Finish with butter, Parmesan, lemon zest, and juice. Garnish with basil.
 
@@ -778,13 +778,13 @@
 - White wine
 
 1. Blend asparagus stalks with stock.
-2. SautÃ© shallot; toast rice; add wine.
+2. Sauté shallot; toast rice; add wine.
 3. Build risotto with asparagus stock.
 4. Add tips last 5 min. Finish with butter and Parmesan.
 
 ---
 
-## PRIMI â ZUPPA/SOUP
+## PRIMI — ZUPPA/SOUP
 
 ### Ribollita
 
@@ -797,7 +797,7 @@
 - 4 thick slices day-old bread
 - 100ml olive oil, salt, pepper
 
-1. SautÃ© soffritto in oil.
+1. Sauté soffritto in oil.
 2. Add potatoes, tomatoes; cook 10 min.
 3. Add cavolo nero and beans with water to cover.
 4. Simmer 40 min; stir in bread to thicken.
@@ -815,7 +815,7 @@
 - Parmesan rind
 - 4 tbsp olive oil, pesto to finish
 
-1. SautÃ© onion and leek; add harder vegetables first.
+1. Sauté onion and leek; add harder vegetables first.
 2. Add tomatoes, beans, Parmesan rind; cover with water.
 3. Simmer 30 min; add pasta. Cook 10 min more.
 4. Stir in pesto; serve with Parmesan.
@@ -832,7 +832,7 @@
 - Salt, black pepper
 - Toasted bread to serve
 
-1. SautÃ© garlic and rosemary in oil.
+1. Sauté garlic and rosemary in oil.
 2. Add chickpeas with their cooking liquid.
 3. Simmer 20 min; blend half to thicken.
 4. Season; serve over bread with olive oil drizzle.
@@ -842,14 +842,14 @@
 ### Acquacotta
 
 **Region:** Tuscany (Maremma)
-- 1 onion, 2 celery stalks, 2 tomatoes â chopped
+- 1 onion, 2 celery stalks, 2 tomatoes — chopped
 - 4 eggs
 - 4 slices stale bread
 - Pecorino, grated
 - 4 tbsp olive oil
 - 1L water
 
-1. SautÃ© onion and celery in oil until soft.
+1. Sauté onion and celery in oil until soft.
 2. Add tomatoes; simmer 10 min.
 3. Add water; bring to simmer.
 4. Poach eggs directly in broth.
@@ -867,7 +867,7 @@
 - 150ml olive oil
 - Salt, pepper
 
-1. SautÃ© garlic in oil; add tomatoes. Cook 15 min.
+1. Sauté garlic in oil; add tomatoes. Cook 15 min.
 2. Add bread and water to cover; stir until mushy.
 3. Stir in basil and remaining oil. Serve warm or at room temperature.
 
@@ -883,7 +883,7 @@
 - Saffron, parsley, chilli
 - Toasted bread to serve
 
-1. SautÃ© soffritto until soft; add wine.
+1. Sauté soffritto until soft; add wine.
 2. Add tomatoes, saffron; simmer 10 min.
 3. Add firmest fish first; then shellfish.
 4. Cover; cook until all is done.
@@ -902,7 +902,7 @@
 - 4 tbsp olive oil
 - Parmesan
 
-1. SautÃ© garlic and rosemary; add tomatoes; cook 5 min.
+1. Sauté garlic and rosemary; add tomatoes; cook 5 min.
 2. Add chickpeas; simmer 15 min. Mash some beans.
 3. Cook pasta in the soup; adjust consistency.
 
@@ -941,7 +941,7 @@
 1. Dissolve yeast in water; mix with flour, salt, sugar. Knead 10 min.
 2. Rise 2 hours; divide into 250g balls. Cold-prove 24 hours for best results.
 3. Stretch by hand to 30cm disc; do not roll.
-4. Top with passata; bake at highest oven temp (300Â°C+, stone if possible) 7â9 min.
+4. Top with passata; bake at highest oven temp (300°C+, stone if possible) 7–9 min.
 5. Add mozzarella midway; finish with basil and oil.
 
 ---
@@ -988,9 +988,9 @@
 - Coarse sea salt and olive oil for top
 
 1. Mix flour, yeast, water, 3 tbsp oil, salt. Knead 8 min.
-2. Rise 1 hour; press into oiled 30Ã40 baking tin.
+2. Rise 1 hour; press into oiled 30×40 baking tin.
 3. Dimple surface with fingers; drizzle with remaining oil and sea salt.
-4. Rise 30 min; bake 220Â°C, 20 min until golden.
+4. Rise 30 min; bake 220°C, 20 min until golden.
 
 ---
 
@@ -1018,7 +1018,7 @@
 
 1. Stretch thin onto oiled sheet (thinner than focaccia).
 2. Drizzle generously with oil; press rosemary in; scatter salt.
-3. Bake 220Â°C, 15 min.
+3. Bake 220°C, 15 min.
 
 ---
 
@@ -1028,7 +1028,7 @@
 - Pizza dough, tomato sauce, mozzarella
 - Artichoke hearts (1/4)
 - Ham (1/4)
-- Mushrooms sautÃ©ed (1/4)
+- Mushrooms sautéed (1/4)
 - Black olives and anchovies (1/4)
 
 1. Divide pizza into quarters; top each with different toppings.
@@ -1048,11 +1048,11 @@
 1. Stretch dough; fill half with ricotta, mozzarella, salami.
 2. Fold over; seal edges by pressing.
 3. Brush with oil; cut vent.
-4. Bake 220Â°C, 20 min.
+4. Bake 220°C, 20 min.
 
 ---
 
-## SECONDI â CARNE (MEAT)
+## SECONDI — CARNE (MEAT)
 
 ### Osso Buco alla Milanese
 
@@ -1065,7 +1065,7 @@
 - Gremolata: zest 1 lemon, 1 garlic clove minced, parsley
 
 1. Flour and brown shanks; remove.
-2. SautÃ© soffritto; deglaze with wine.
+2. Sauté soffritto; deglaze with wine.
 3. Return shanks; add tomatoes and stock.
 4. Braise covered 1.5 hours until tender.
 5. Make gremolata; scatter over before serving with risotto Milanese.
@@ -1075,12 +1075,12 @@
 ### Bistecca alla Fiorentina
 
 **Region:** Tuscany
-- 1 large T-bone steak (Chianina beef, 1kg+), 4â5cm thick
+- 1 large T-bone steak (Chianina beef, 1kg+), 4–5cm thick
 - Olive oil, salt, rosemary
 - Lemon wedge to serve
 
 1. Bring steak to room temperature; season only with salt.
-2. Grill over intense charcoal heat, 4â5 min per side.
+2. Grill over intense charcoal heat, 4–5 min per side.
 3. Rest on bone side 5 min.
 4. Never cook beyond medium-rare. Slice and drizzle with oil and lemon.
 
@@ -1111,7 +1111,7 @@
 - Salt, lemon
 
 1. Season chops; dip in egg then breadcrumbs; press to adhere.
-2. Fry in hot clarified butter 3â4 min each side until deep gold.
+2. Fry in hot clarified butter 3–4 min each side until deep gold.
 3. Drain; serve with lemon.
 
 ---
@@ -1143,7 +1143,7 @@
 - Capers, olives, rosemary, bay
 
 1. Brown chicken pieces; remove.
-2. SautÃ© onion, garlic, pepper.
+2. Sauté onion, garlic, pepper.
 3. Add wine, tomatoes, capers, olives, herbs.
 4. Return chicken; braise 40 min.
 
@@ -1158,7 +1158,7 @@
 - Olive oil, rosemary
 
 1. Marinate chicken 1 hour in lemon, garlic, oil, rosemary.
-2. Roast 200Â°C, 45 min basting with juices.
+2. Roast 200°C, 45 min basting with juices.
 
 ---
 
@@ -1171,7 +1171,7 @@
 - Olive oil, salt, pepper
 
 1. Stud meat with garlic slivers and herbs.
-2. Season; roast 180Â°C, 1.5 hours. Rest 20 min.
+2. Season; roast 180°C, 1.5 hours. Rest 20 min.
 
 ---
 
@@ -1184,7 +1184,7 @@
 
 1. Score skin; spread paste of garlic, herbs, spices over meat side.
 2. Roll tightly; tie with string.
-3. Roast 220Â°C, 30 min; reduce to 180Â°C, 1.5 hours.
+3. Roast 220°C, 30 min; reduce to 180°C, 1.5 hours.
 4. Rest; slice thinly.
 
 ---
@@ -1213,7 +1213,7 @@
 - Salt, lemon
 
 1. Marinate cutlets in oil, rosemary, garlic 30 min.
-2. Grill over high heat 2 min per side â eat with fingers while hot.
+2. Grill over high heat 2 min per side — eat with fingers while hot.
 
 ---
 
@@ -1227,7 +1227,7 @@
 - Pecorino Romano
 
 1. Parboil tripe 30 min; drain.
-2. SautÃ© onion and garlic; add tripe.
+2. Sauté onion and garlic; add tripe.
 3. Add tomatoes and chilli; simmer 40 min.
 4. Scatter fresh mint and Pecorino before serving.
 
@@ -1275,8 +1275,8 @@
 - Pine nuts, raisins
 - 200ml white wine
 
-1. Brown oxtail; sautÃ© soffritto.
-2. Add wine, tomatoes; braise 2.5â3 hours.
+1. Brown oxtail; sauté soffritto.
+2. Add wine, tomatoes; braise 2.5–3 hours.
 3. Add chocolate, pine nuts, raisins for last 30 min.
 
 ---
@@ -1312,7 +1312,7 @@
 
 ---
 
-## SECONDI â PESCE (FISH)
+## SECONDI — PESCE (FISH)
 
 ### Branzino al Forno con Patate
 
@@ -1325,14 +1325,14 @@
 
 1. Layer potatoes in oiled dish; season.
 2. Place fish on top; scatter garlic, rosemary, tomatoes, olives.
-3. Drizzle wine and oil; roast 200Â°C, 30 min.
+3. Drizzle wine and oil; roast 200°C, 30 min.
 
 ---
 
-### BaccalÃ  alla Vicentina
+### Baccalà alla Vicentina
 
 **Region:** Veneto
-- 600g salt cod (baccalÃ ), soaked 3 days
+- 600g salt cod (baccalà), soaked 3 days
 - 2 onions, sliced
 - 4 anchovy fillets
 - 500ml milk
@@ -1340,7 +1340,7 @@
 
 1. Layer onions, anchovies, and cod in casserole.
 2. Pour milk and oil over; cover.
-3. Cook very slowly 4â5 hours without stirring.
+3. Cook very slowly 4–5 hours without stirring.
 4. Serve with polenta.
 
 ---
@@ -1355,7 +1355,7 @@
 - Lemon wedges
 
 1. Make batter with flour and cold sparkling water; don't overmix.
-2. Dip seafood; fry in hot oil (180Â°C) in batches.
+2. Dip seafood; fry in hot oil (180°C) in batches.
 3. Drain; season with salt. Serve with lemon.
 
 ---
@@ -1370,7 +1370,7 @@
 
 1. Place each fillet on foil; top with lemon, dill, capers.
 2. Drizzle oil and splash wine; seal foil packets.
-3. Bake 200Â°C, 15â18 min.
+3. Bake 200°C, 15–18 min.
 
 ---
 
@@ -1384,7 +1384,7 @@
 - Parsley, olive oil
 
 1. Place octopus in pot with all ingredients.
-2. Cook covered on lowest heat 45â60 min (no added water; octopus releases liquid).
+2. Cook covered on lowest heat 45–60 min (no added water; octopus releases liquid).
 3. Serve with bread or polenta.
 
 ---
@@ -1413,7 +1413,7 @@
 
 1. Mix breadcrumbs with garlic, parsley, capers, oil.
 2. Press mixture onto tuna steaks.
-3. Pan-fry or grill 2â3 min per side. Serve with olives and lemon.
+3. Pan-fry or grill 2–3 min per side. Serve with olives and lemon.
 
 ---
 
@@ -1426,7 +1426,7 @@
 - Squid ink (optional)
 - Parsley, olive oil
 
-1. SautÃ© onion and garlic; add cuttlefish.
+1. Sauté onion and garlic; add cuttlefish.
 2. Add wine and ink; simmer 30 min until tender.
 3. Garnish with parsley; serve with polenta.
 
@@ -1441,7 +1441,7 @@
 - Salt
 
 1. Score mackerel; rub with oil, garlic, rosemary.
-2. Grill 4â5 min per side. Serve with lemon.
+2. Grill 4–5 min per side. Serve with lemon.
 
 ---
 
@@ -1456,7 +1456,7 @@
 - Salt
 
 1. Toss potatoes with oil, garlic, rosemary, salt.
-2. Roast 200Â°C, 45 min, turning once.
+2. Roast 200°C, 45 min, turning once.
 
 ---
 
@@ -1472,7 +1472,7 @@
 1. Salt aubergine slices; drain 30 min; rinse and dry.
 2. Fry in oil until golden; drain.
 3. Layer: sauce, aubergine, mozzarella, Parmesan, basil.
-4. Bake 180Â°C, 30 min.
+4. Bake 180°C, 30 min.
 
 ---
 
@@ -1485,7 +1485,7 @@
 - Salt, lemon juice (optional)
 
 1. Wilt spinach in dry pan; squeeze out moisture.
-2. SautÃ© garlic in oil; add spinach; toss. Season.
+2. Sauté garlic in oil; add spinach; toss. Season.
 
 ---
 
@@ -1501,7 +1501,7 @@
 - Toasted pine nuts, raisins
 
 1. Salt and drain aubergine; fry until golden; drain.
-2. SautÃ© celery and onion; add tomatoes, capers, olives.
+2. Sauté celery and onion; add tomatoes, capers, olives.
 3. Add vinegar and sugar; stir in aubergine.
 4. Simmer 10 min; add pine nuts and raisins.
 5. Serve at room temperature.
@@ -1512,13 +1512,13 @@
 
 **Region:** National
 - 4 fennel bulbs, quartered and boiled until tender
-- 200ml bÃ©chamel
+- 200ml béchamel
 - 60g Parmesan
 - Butter
 
 1. Place fennel in buttered baking dish.
-2. Pour bÃ©chamel over; top with Parmesan and butter.
-3. Bake 200Â°C, 20 min until golden.
+2. Pour béchamel over; top with Parmesan and butter.
+3. Bake 200°C, 20 min until golden.
 
 ---
 
@@ -1531,7 +1531,7 @@
 - Olive oil, salt
 
 1. Boil chicory until tender; drain and squeeze.
-2. SautÃ© garlic and chilli in oil; add chicory.
+2. Sauté garlic and chilli in oil; add chicory.
 3. Toss over high heat 5 min.
 
 ---
@@ -1625,7 +1625,7 @@
 
 1. Heat milk and cream with vanilla.
 2. Whisk yolks with sugar; pour hot milk over, stirring.
-3. Return to heat; cook to 82Â°C, stirring.
+3. Return to heat; cook to 82°C, stirring.
 4. Cool; churn in ice cream machine. Freeze.
 
 ---
@@ -1683,7 +1683,7 @@
 1. Make shortcrust pastry; rest.
 2. Line tart tin; fill with pastry cream.
 3. Cover with pastry lid; press edges; prick; scatter pine nuts.
-4. Bake 180Â°C, 35 min.
+4. Bake 180°C, 35 min.
 
 ---
 
@@ -1713,11 +1713,11 @@
 1. Make stiff dough; rest.
 2. Roll paper-thin; brush with lard; roll into log; refrigerate.
 3. Cut discs; shape into cones; fill; press closed.
-4. Bake 200Â°C, 20 min until crisp.
+4. Bake 200°C, 20 min until crisp.
 
 ---
 
-### BignÃ¨ di San Giuseppe (Zeppole)
+### Bignè di San Giuseppe (Zeppole)
 
 **Region:** Naples/National
 - Choux pastry (200ml water, 80g butter, 120g flour, 3 eggs)
@@ -1743,7 +1743,7 @@
 1. Melt chocolate and butter; cool.
 2. Beat eggs and sugar; fold in chocolate mixture.
 3. Fold in almonds and baking powder.
-4. Bake 180Â°C, 30â35 min. The centre should stay dense.
+4. Bake 180°C, 30–35 min. The centre should stay dense.
 
 ---
 
@@ -1760,7 +1760,7 @@
 
 1. Make enriched dough; develop fully.
 2. Knead in butter gradually; add fruit.
-3. Rise 8 hours in panettone mould; bake 180Â°C, 40 min.
+3. Rise 8 hours in panettone mould; bake 180°C, 40 min.
 
 ---
 
@@ -1783,7 +1783,7 @@
 - 1 tsp baking powder, vanilla
 
 1. Mix all into stiff dough.
-2. Shape into logs; bake 180Â°C, 25 min.
+2. Shape into logs; bake 180°C, 25 min.
 3. Slice diagonally; bake again 15 min until dry. Serve with Vin Santo.
 
 ---
@@ -1825,7 +1825,7 @@
 1. Cook wheat in milk with butter and orange zest.
 2. Mix ricotta, eggs, sugar, spices; fold in wheat.
 3. Line tart tin; fill; add lattice top.
-4. Bake 170Â°C, 1 hour. Best day 2.
+4. Bake 170°C, 1 hour. Best day 2.
 
 ---
 
@@ -1839,7 +1839,7 @@
 
 1. Make syrup with water and sugar; cool.
 2. Add lemon juice and zest.
-3. Freeze in shallow tray; scrape with fork every 30 min for 3â4 hours.
+3. Freeze in shallow tray; scrape with fork every 30 min for 3–4 hours.
 4. Serve in glasses.
 
 ---
@@ -1946,14 +1946,14 @@
 - Toasted bread rubbed with garlic
 
 1. Cook cephalopods first (30 min); then firm fish (10 min); then delicate fish and shellfish (5 min).
-2. SautÃ© soffritto; deglaze with wine.
+2. Sauté soffritto; deglaze with wine.
 3. Add tomatoes; simmer 15 min.
 4. Layer fish back in; barely simmer.
 5. Ladle over garlicky toast.
 
 ---
 
-### BaccalÃ  alla Napoletana
+### Baccalà alla Napoletana
 
 **Region:** Naples/Campania
 - 600g salt cod (soaked 2 days)
@@ -1980,7 +1980,7 @@
 - Olive oil, flour
 
 1. Flour and fry sardines; drain.
-2. SautÃ© onions in oil until golden; add vinegar; reduce.
+2. Sauté onions in oil until golden; add vinegar; reduce.
 3. Add pine nuts and raisins.
 4. Layer sardines and onion mixture; refrigerate 24 hours.
 
@@ -2008,7 +2008,7 @@
 - 2 potatoes
 - Garlic, bay, cumin
 
-1. Cook beans; sautÃ© garlic.
+1. Cook beans; sauté garlic.
 2. Add sauerkraut, beans, pork, potatoes.
 3. Cover with water; simmer 45 min. Thick, robust stew.
 
@@ -2039,7 +2039,7 @@
 1. Make elastic dough; rest 30 min.
 2. Stretch paper-thin on cloth.
 3. Brush with melted butter; spread filling along one edge.
-4. Roll using cloth; bake 180Â°C, 40 min.
+4. Roll using cloth; bake 180°C, 40 min.
 
 ---
 
@@ -2053,7 +2053,7 @@
 - Tomato paste
 
 1. Marinate meat 24 hours in wine with herbs.
-2. Brown meat; sautÃ© soffritto.
+2. Brown meat; sauté soffritto.
 3. Add marinade; tomato paste; braise 3 hours.
 
 ---
@@ -2093,7 +2093,7 @@
 1. Mix breadcrumbs, pine nuts, raisins, parsley, garlic, lemon zest.
 2. Place filling on each sardine; roll up.
 3. Pack tightly in oiled dish alternating with bay leaves.
-4. Drizzle orange juice; bake 180Â°C, 20 min.
+4. Drizzle orange juice; bake 180°C, 20 min.
 
 ---
 
@@ -2165,7 +2165,7 @@
 - 1 onion
 - Saffron, pecorino sardo
 
-1. SautÃ© onion; brown sausage.
+1. Sauté onion; brown sausage.
 2. Add passata and saffron; simmer 20 min.
 3. Cook malloreddus; toss with sauce and pecorino.
 
@@ -2181,7 +2181,7 @@
 - Saffron, parsley, white wine
 
 1. Steam clams; reserve broth.
-2. SautÃ© onion and garlic; add tomatoes, saffron.
+2. Sauté onion and garlic; add tomatoes, saffron.
 3. Toast fregola briefly; cook risotto-style with clam broth.
 4. Add clams at end; garnish with parsley.
 
@@ -2195,7 +2195,7 @@
 
 1. Layer pastry sheets, brushing each with oil.
 2. Fill with chard-ricotta mixture; make 6 wells for eggs.
-3. Cover with remaining pastry; bake 180Â°C, 45 min.
+3. Cover with remaining pastry; bake 180°C, 45 min.
 
 ---
 
@@ -2209,7 +2209,7 @@
 1. Make very thin dough (no yeast); rest 1 hour.
 2. Stretch thin; lay on oiled tin.
 3. Dot cheese; cover with second layer stretched even thinner.
-4. Seal edges; drizzle oil; bake 250Â°C, 10â12 min.
+4. Seal edges; drizzle oil; bake 250°C, 10–12 min.
 
 ---
 
@@ -2233,7 +2233,7 @@
 ### Tajarin al Tartufo
 
 **Region:** Piedmont
-- 400g tajarin (thin egg pasta â 30+ egg yolks per kg flour)
+- 400g tajarin (thin egg pasta — 30+ egg yolks per kg flour)
 - 50g butter
 - 1 fresh white truffle (or 20g black truffle)
 - Parmesan
@@ -2355,7 +2355,7 @@
 
 1. Mix all into smooth dough; rest 30 min.
 2. Divide; roll thin (3mm).
-3. Cook on hot griddle 2â3 min per side.
+3. Cook on hot griddle 2–3 min per side.
 4. Fill with squacquerone cheese, prosciutto, rocket.
 
 ---
@@ -2382,9 +2382,9 @@
 - Onion, garlic, vinegar, saffron
 - White wine, olive oil
 
-1. SautÃ© onion; deglaze with vinegar.
+1. Sauté onion; deglaze with vinegar.
 2. Add fish in order of cooking time.
-3. No tomato â more rustic/northern style.
+3. No tomato — more rustic/northern style.
 4. Serve over grilled bread.
 
 ---
@@ -2392,7 +2392,7 @@
 ### Vincigrassi
 
 **Region:** Marche
-- Rich lasagne with chicken livers, giblets, and bÃ©chamel
+- Rich lasagne with chicken livers, giblets, and béchamel
 - Truffles in season
 - Similar to lasagne but richer sauce base
 
@@ -2470,7 +2470,7 @@
 1. Mix ricotta, spinach, half the mozzarella.
 2. Combine with pasta and tomato sauce.
 3. Top with remaining mozzarella and Parmesan.
-4. Bake 200Â°C, 25 min.
+4. Bake 200°C, 25 min.
 
 ---
 
@@ -2484,7 +2484,7 @@
 
 1. Toss gnocchi with sauce; add mozzarella.
 2. Pour into baking dish; top with Parmesan.
-3. Bake 200Â°C, 15 min until bubbling.
+3. Bake 200°C, 15 min until bubbling.
 
 ---
 
@@ -2506,7 +2506,7 @@
 
 ---
 
-### Pasta con RagÃ¹ di Agnello
+### Pasta con Ragù di Agnello
 
 **Region:** Abruzzo/Lazio
 - 400g pasta (spaghetti alla chitarra)
@@ -2516,7 +2516,7 @@
 - 400g canned tomatoes
 - Pecorino
 
-1. Brown lamb; sautÃ© soffritto.
+1. Brown lamb; sauté soffritto.
 2. Add wine, tomatoes; braise 1.5 hours.
 3. Toss with spaghetti alla chitarra; top with Pecorino.
 
@@ -2543,10 +2543,10 @@
 - 400g canned tomatoes
 - Garlic, olive oil
 
-1. Melt nduja in hot pan â fat renders, heat blooms.
+1. Melt nduja in hot pan — fat renders, heat blooms.
 2. Add garlic; add tomatoes; simmer.
 3. Toss with pasta.
 
 ---
 
-*End of Italian Complete Recipe Collection â 200+ recipes covering all major regions and categories.*
+*End of Italian Complete Recipe Collection — 200+ recipes covering all major regions and categories.*

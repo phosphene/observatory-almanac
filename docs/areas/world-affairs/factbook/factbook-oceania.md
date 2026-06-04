@@ -1,4 +1,4 @@
-# National Factbook â Oceania
+# National Factbook — Oceania
 
 *The Observatory Almanac | Regional Volume: Oceania & Pacific*
 
@@ -14,7 +14,7 @@
 - **Flower:** Golden Wattle (*Acacia pycnantha*)
 - **Tree:** Golden Wattle
 
-**National Anthem:** *Advance Australia Fair* â A stirring anthem of national pride written by Peter Dodds McCormick in the 19th century; adopted officially in 1984, with a second verse added in 2021 to honour Indigenous Australians.
+**National Anthem:** *Advance Australia Fair* — A stirring anthem of national pride written by Peter Dodds McCormick in the 19th century; adopted officially in 1984, with a second verse added in 2021 to honour Indigenous Australians.
 
 **National Dish & Drink**
 - **Dish:** Meat pie (savoury minced-meat pastry, ubiquitous at sport events); also roast lamb
@@ -31,7 +31,7 @@
 
 **Cultural Quirks**
 - Australians are enthusiastic users of diminutives: "arvo" (afternoon), "brekkie" (breakfast), "servo" (service station), "barbie" (barbecue).
-- The country is home to roughly 80% of the world's most venomous snakes, yet deaths from snakebite are statistically rare â fewer than five per year on average.
+- The country is home to roughly 80% of the world's most venomous snakes, yet deaths from snakebite are statistically rare — fewer than five per year on average.
 
 ---
 
@@ -40,28 +40,28 @@
 **Capital:** Wellington | **Population:** ~5.1 million
 
 **Symbols**
-- **Animal:** Kiwi (*Apteryx* spp.) â nocturnal, flightless, national icon
+- **Animal:** Kiwi (*Apteryx* spp.) — nocturnal, flightless, national icon
 - **Bird:** Kiwi
-- **Flower:** KÅwhai (*Sophora* spp.) â unofficial; PÄ«kake/Silver Fern widely used as emblem
+- **Flower:** Kōwhai (*Sophora* spp.) — unofficial; Pīkake/Silver Fern widely used as emblem
 - **Tree:** Kauri (*Agathis australis*)
 
-**National Anthem:** *God Defend New Zealand* (*Aotearoa*) â Written as a poem in 1876 by Thomas Bracken; sung in both MÄori and English, reflecting the nation's bicultural identity. Adopted as co-official anthem in 1977.
+**National Anthem:** *God Defend New Zealand* (*Aotearoa*) — Written as a poem in 1876 by Thomas Bracken; sung in both Māori and English, reflecting the nation's bicultural identity. Adopted as co-official anthem in 1977.
 
 **National Dish & Drink**
-- **Dish:** HÄngÄ« (earth-oven cooked meat and vegetables, MÄori tradition); pavlova (meringue dessert, co-claimed with Australia)
+- **Dish:** Hāngī (earth-oven cooked meat and vegetables, Māori tradition); pavlova (meringue dessert, co-claimed with Australia)
 - **Drink:** Sauvignon blanc (Marlborough region is world-famous); flat white coffee
 
-**Traditional Costume:** MÄori traditional dress includes cloaks woven from flax (*harakeke*) decorated with feathers, and piupiu (flax skirts) worn during kapa haka performances. European settler heritage is reflected in colonial-era dress.
+**Traditional Costume:** Māori traditional dress includes cloaks woven from flax (*harakeke*) decorated with feathers, and piupiu (flax skirts) worn during kapa haka performances. European settler heritage is reflected in colonial-era dress.
 
 **Major Holidays**
-- **Waitangi Day (Feb 6):** National Day commemorating the 1840 Treaty of Waitangi between the British Crown and MÄori chiefs â celebrated and debated.
+- **Waitangi Day (Feb 6):** National Day commemorating the 1840 Treaty of Waitangi between the British Crown and Māori chiefs — celebrated and debated.
 - **ANZAC Day (Apr 25):** Shared with Australia; dawn parades at war memorials nationwide.
-- **Matariki (June/July, varies):** MÄori New Year, marked by the rise of the Pleiades star cluster; became a public holiday in 2022.
+- **Matariki (June/July, varies):** Māori New Year, marked by the rise of the Pleiades star cluster; became a public holiday in 2022.
 - **Queen's/King's Birthday (June):** Public holiday.
 - **Christmas (Dec 25):** Midsummer celebration; kiwifruit and lamb are seasonal staples.
 
 **Cultural Quirks**
-- The haka â a MÄori war dance of stamping feet, protruding tongue, and rhythmic chanting â is performed by the All Blacks rugby team before every international match, a practice begun in 1905.
+- The haka — a Māori war dance of stamping feet, protruding tongue, and rhythmic chanting — is performed by the All Blacks rugby team before every international match, a practice begun in 1905.
 - New Zealand was the first self-governing country in the world to grant women the right to vote, in 1893.
 
 ---
@@ -72,11 +72,11 @@
 
 **Symbols**
 - **Animal:** Dugong (unofficial); Raggiana Bird-of-Paradise (*Paradisaea raggiana*)
-- **Bird:** Raggiana Bird-of-Paradise â featured on the national flag
+- **Bird:** Raggiana Bird-of-Paradise — featured on the national flag
 - **Flower:** Rhododendron (*Rhododendron macgregoriae*)
 - **Tree:** Kwila (*Intsia bijuga*)
 
-**National Anthem:** *O Arise, All You Sons* â Adopted at independence in 1975; patriotic anthem calling citizens to build a united nation from its extraordinarily diverse population.
+**National Anthem:** *O Arise, All You Sons* — Adopted at independence in 1975; patriotic anthem calling citizens to build a united nation from its extraordinarily diverse population.
 
 **National Dish & Drink**
 - **Dish:** Mumu (earth-oven meal of pork, sweet potato, banana, and greens cooked over hot stones)
@@ -91,7 +91,7 @@
 - **Christmas (Dec 25):** Widely observed; Christian denominations hold vibrant outdoor services.
 
 **Cultural Quirks**
-- PNG has the world's greatest linguistic diversity â over 840 languages spoken among a population of 10 million, representing roughly 12% of all human languages.
+- PNG has the world's greatest linguistic diversity — over 840 languages spoken among a population of 10 million, representing roughly 12% of all human languages.
 - The Huli Wigmen of the Highlands wear enormous wigs made from their own hair, sometimes taking years to grow; the wigs are worn in battle and ceremony.
 
 ---
@@ -101,16 +101,16 @@
 **Capital:** Suva | **Population:** ~930,000
 
 **Symbols**
-- **Animal:** Collared lory (*Phigys solitarius*) â unofficial
+- **Animal:** Collared lory (*Phigys solitarius*) — unofficial
 - **Bird:** Collared lory
-- **Flower:** Tagimaucia (*Medinilla waterhousei*) â rare flower found only on Taveuni island
+- **Flower:** Tagimaucia (*Medinilla waterhousei*) — rare flower found only on Taveuni island
 - **Tree:** Yasi (*Santalum yasi*, Fijian sandalwood)
 
-**National Anthem:** *Meda Dau Doka* ("God Bless Fiji") â A reverent anthem adopted at independence in 1970; reflects the Fijian tradition of communal identity and respect for elders.
+**National Anthem:** *Meda Dau Doka* ("God Bless Fiji") — A reverent anthem adopted at independence in 1970; reflects the Fijian tradition of communal identity and respect for elders.
 
 **National Dish & Drink**
 - **Dish:** Kokoda (raw fish marinated in citrus and coconut cream, Fiji's ceviche); lovo (earth-oven feast)
-- **Drink:** Kava (*yaqona*) â the ceremonial pepper-root drink shared at all formal occasions
+- **Drink:** Kava (*yaqona*) — the ceremonial pepper-root drink shared at all formal occasions
 
 **Traditional Costume:** Men wear the sulu (wraparound skirt); warriors traditionally wore masi (barkcloth) and carried spears and clubs. Women wear sulu and floral tops; masi is used for ceremonial cloaks.
 
@@ -122,7 +122,7 @@
 
 **Cultural Quirks**
 - The kava ceremony (*yaqona*) is the cornerstone of Fijian social life; visitors must present a bundle of kava root (*sevusevu*) when entering a village, and the ritual cup must be drunk in one go after clapping three times.
-- Fiji's indigenous Fijian firewalking (*vilavilairevo*) â walking barefoot on glowing rocks â is performed by the Sawau people of Beqa Island and can only be done by initiated men of that clan.
+- Fiji's indigenous Fijian firewalking (*vilavilairevo*) — walking barefoot on glowing rocks — is performed by the Sawau people of Beqa Island and can only be done by initiated men of that clan.
 
 ---
 
@@ -136,7 +136,7 @@
 - **Flower:** Teuila (*Alpinia purpurata*, red ginger)
 - **Tree:** *Ifilele* (*Intsia bijuga*)
 
-**National Anthem:** *The Banner of Freedom* (*O le Fua o le Saolotoga o Samoa*) â Adopted at independence in 1962; celebrates Samoa's journey to self-governance, the first Pacific Island nation to achieve independence in the 20th century.
+**National Anthem:** *The Banner of Freedom* (*O le Fua o le Saolotoga o Samoa*) — Adopted at independence in 1962; celebrates Samoa's journey to self-governance, the first Pacific Island nation to achieve independence in the 20th century.
 
 **National Dish & Drink**
 - **Dish:** Palusami (taro leaves baked in coconut cream); oka (raw fish in lime and coconut)
@@ -151,38 +151,38 @@
 - **Christmas (Dec 25):** Entire extended families gather; carol singing (*pese*) is a beloved tradition.
 
 **Cultural Quirks**
-- Samoa crossed to the west side of the International Date Line in 2011, meaning the island skipped December 30 entirely â a deliberate decision to align business hours with Australia and New Zealand.
+- Samoa crossed to the west side of the International Date Line in 2011, meaning the island skipped December 30 entirely — a deliberate decision to align business hours with Australia and New Zealand.
 - The *fa'asamoa* (the Samoan Way) is a living code of communal obligation, chiefly authority, and extended family loyalty that governs daily life more than formal law in many villages.
 
 ---
 
 ## Tonga
 
-**Capital:** NukuÊ»alofa | **Population:** ~105,000
+**Capital:** Nukuʻalofa | **Population:** ~105,000
 
 **Symbols**
-- **Animal:** Humpback whale (*Megaptera novaeangliae*) â unofficial; revered in folklore
+- **Animal:** Humpback whale (*Megaptera novaeangliae*) — unofficial; revered in folklore
 - **Bird:** Many-coloured fruit dove
-- **Flower:** Heilala (*Garcinia sessilis*) â national flower; blooms only in Tonga
+- **Flower:** Heilala (*Garcinia sessilis*) — national flower; blooms only in Tonga
 - **Tree:** Fau (*Hibiscus tiliaceus*)
 
-**National Anthem:** *Ko e fasi Ê»o e tuÊ»i Ê»o e Ê»Otu Tonga* ("Song of the King of the Tonga Islands") â A royal anthem reflecting Tonga's status as the only Pacific nation never fully colonised and still a constitutional monarchy.
+**National Anthem:** *Ko e fasi ʻo e tuʻi ʻo e ʻOtu Tonga* ("Song of the King of the Tonga Islands") — A royal anthem reflecting Tonga's status as the only Pacific nation never fully colonised and still a constitutional monarchy.
 
 **National Dish & Drink**
-- **Dish:** LÅ« pulu (corned beef and coconut cream baked in taro leaves); Ê»ota ika (raw fish in coconut)
-- **Drink:** Kava (*Ê»akau*); locally brewed *otai* (fruit punch)
+- **Dish:** Lū pulu (corned beef and coconut cream baked in taro leaves); ʻota ika (raw fish in coconut)
+- **Drink:** Kava (*ʻakau*); locally brewed *otai* (fruit punch)
 
-**Traditional Costume:** *Ngatu* (barkcloth) garments worn over the *ta'ovala* â a woven mat worn around the waist â which is mandatory for formal occasions and marks respect. Women wear *kiekie* (decorative waist ornament).
+**Traditional Costume:** *Ngatu* (barkcloth) garments worn over the *ta'ovala* — a woven mat worn around the waist — which is mandatory for formal occasions and marks respect. Women wear *kiekie* (decorative waist ornament).
 
 **Major Holidays**
-- **Emancipation Day (Jun 4):** Commemorates the abolition of serfdom in 1862 by King TÄufaÊ»Ähau Tupou I.
+- **Emancipation Day (Jun 4):** Commemorates the abolition of serfdom in 1862 by King Tāufaʻāhau Tupou I.
 - **King's Birthday (Jul 4):** National celebration of the monarch.
 - **Heilala Festival (Jul):** Week-long cultural festival; beauty pageants, traditional crafts, kava ceremonies.
 - **Constitution Day (Nov 4):** Marks the granting of Tonga's constitution in 1875.
 
 **Cultural Quirks**
-- Tonga is the only Pacific nation that was never formally colonised, though it was a British protectorate from 1900â1970. The royal family has reigned continuously for centuries.
-- Tonga produces some of the world's finest woven *ngatu* barkcloth; the process â pounding mulberry bark, drying, and painting geometric designs â is practised collectively by women in groups called *kautaha*.
+- Tonga is the only Pacific nation that was never formally colonised, though it was a British protectorate from 1900–1970. The royal family has reigned continuously for centuries.
+- Tonga produces some of the world's finest woven *ngatu* barkcloth; the process — pounding mulberry bark, drying, and painting geometric designs — is practised collectively by women in groups called *kautaha*.
 
 ---
 
@@ -191,16 +191,16 @@
 **Capital:** Port Vila | **Population:** ~335,000
 
 **Symbols**
-- **Animal:** Tusked pig (wild boar with curved tusks) â features on coat of arms
+- **Animal:** Tusked pig (wild boar with curved tusks) — features on coat of arms
 - **Bird:** Tanna ground dove (unofficial)
 - **Flower:** *Medinilla spectabilis* (unofficial)
-- **Tree:** Banyan tree (*Ficus benghalensis*) â appears on coat of arms
+- **Tree:** Banyan tree (*Ficus benghalensis*) — appears on coat of arms
 
-**National Anthem:** *Yumi, Yumi, Yumi* â Written in Bislama, the creole pidgin that unifies Vanuatu's 80+ island communities; adopted at independence in 1980. The title translates roughly as "We, We, We" â a declaration of collective nationhood.
+**National Anthem:** *Yumi, Yumi, Yumi* — Written in Bislama, the creole pidgin that unifies Vanuatu's 80+ island communities; adopted at independence in 1980. The title translates roughly as "We, We, We" — a declaration of collective nationhood.
 
 **National Dish & Drink**
 - **Dish:** Lap lap (grated root vegetables or banana baked in leaves over hot stones with coconut cream); flying fox stew is a delicacy
-- **Drink:** Kava (*nakamal*-style â potent, unfiltered, traditionally ground by hand)
+- **Drink:** Kava (*nakamal*-style — potent, unfiltered, traditionally ground by hand)
 
 **Traditional Costume:** Men on Pentecost Island wear only a *nambas* (penis sheath); elsewhere traditional dress includes woven fibre skirts, shell jewellery, and feather ornamentation. Ceremonial body paint and pig-tooth necklaces mark chiefly rank.
 
@@ -211,7 +211,7 @@
 - **Christmas (Dec 25):** Major celebration with church services and feasting.
 
 **Cultural Quirks**
-- The land diving (*naghol*) of Pentecost Island â men jumping from 30-metre wooden towers with vines tied to their ankles â predates bungee jumping by centuries and is performed to ensure a good yam harvest. Vines are precisely calibrated to allow the diver's head to brush the earth.
+- The land diving (*naghol*) of Pentecost Island — men jumping from 30-metre wooden towers with vines tied to their ankles — predates bungee jumping by centuries and is performed to ensure a good yam harvest. Vines are precisely calibrated to allow the diver's head to brush the earth.
 - Vanuatu has the world's most accessible active volcano: Mount Yasur on Tanna Island, where tourists regularly walk to the rim to watch lava fountains.
 
 ---
@@ -221,28 +221,28 @@
 **Capital:** Honiara | **Population:** ~740,000
 
 **Symbols**
-- **Animal:** Saltwater crocodile (*Crocodylus porosus*) â prominent in island culture
-- **Bird:** Sanford's sea eagle (*Haliaeetus sanfordi*) â endemic
+- **Animal:** Saltwater crocodile (*Crocodylus porosus*) — prominent in island culture
+- **Bird:** Sanford's sea eagle (*Haliaeetus sanfordi*) — endemic
 - **Flower:** *Cananga odorata* (ylang ylang, unofficial)
 - **Tree:** Pacific rosewood (*Pterocarpus indicus*)
 
-**National Anthem:** *God Save Our Solomon Islands* â Patriotic anthem adopted at independence in 1978; includes reference to unity among the many island groups.
+**National Anthem:** *God Save Our Solomon Islands* — Patriotic anthem adopted at independence in 1978; includes reference to unity among the many island groups.
 
 **National Dish & Drink**
 - **Dish:** Poi (fermented taro paste); fresh reef fish cooked in coconut milk
 - **Drink:** Coconut toddy; SP Lager
 
-**Traditional Costume:** Ornamental shell jewellery (especially *kap kap* â carved tortoiseshell on clam shell discs) is a sign of chiefly status. Men wear woven fibre belts; women wear grass skirts. The Kwara'ae people practise elaborate skull shrines to honour ancestors.
+**Traditional Costume:** Ornamental shell jewellery (especially *kap kap* — carved tortoiseshell on clam shell discs) is a sign of chiefly status. Men wear woven fibre belts; women wear grass skirts. The Kwara'ae people practise elaborate skull shrines to honour ancestors.
 
 **Major Holidays**
 - **Independence Day (Jul 7):** Marks independence from Britain in 1978; canoe races and cultural performances.
 - **Queen's/King's Birthday (June):** Public holiday.
-- **Christmas (Dec 25â26):** Major two-day celebration.
+- **Christmas (Dec 25–26):** Major two-day celebration.
 - **Easter (March/April):** Good Friday and Easter Monday.
 
 **Cultural Quirks**
-- The Solomon Islands was the site of one of WWII's most intense naval campaigns; Iron Bottom Sound (Ironbottom Sound) near Guadalcanal earned its name from the dozens of warships and hundreds of aircraft sunk there between 1942â1943.
-- Traditional shell money (*tafuliae* â strings of red feather money from the Malaita island region) remains a legitimate currency for bride price payments and ceremonial exchanges.
+- The Solomon Islands was the site of one of WWII's most intense naval campaigns; Iron Bottom Sound (Ironbottom Sound) near Guadalcanal earned its name from the dozens of warships and hundreds of aircraft sunk there between 1942–1943.
+- Traditional shell money (*tafuliae* — strings of red feather money from the Malaita island region) remains a legitimate currency for bride price payments and ceremonial exchanges.
 
 ---
 
@@ -251,27 +251,27 @@
 **Capital:** South Tarawa | **Population:** ~125,000
 
 **Symbols**
-- **Animal:** Frigatebird (*Fregata* spp.) â features on national flag
+- **Animal:** Frigatebird (*Fregata* spp.) — features on national flag
 - **Bird:** Frigatebird
 - **Flower:** *Te ango* (screw pine flower, unofficial)
 - **Tree:** Coconut palm (*Cocos nucifera*)
 
-**National Anthem:** *Teirake Kaini Kiribati* ("Stand Up, Kiribati") â Rousing anthem of unity adopted at independence in 1979, calling the people of the Gilbert Islands to rise together.
+**National Anthem:** *Teirake Kaini Kiribati* ("Stand Up, Kiribati") — Rousing anthem of unity adopted at independence in 1979, calling the people of the Gilbert Islands to rise together.
 
 **National Dish & Drink**
 - **Dish:** Te bero (breadfruit pudding); roasted coconut crab; raw reef fish
-- **Drink:** Coconut toddy (*karewe*) â fresh sap tapped daily from coconut palms; fermented toddy (*kamaimai*)
+- **Drink:** Coconut toddy (*karewe*) — fresh sap tapped daily from coconut palms; fermented toddy (*kamaimai*)
 
 **Traditional Costume:** The *te bau* (a fibre skirt for men) and *te kiakia* (woven pandanus waistband); women wear woven fibre skirts with shell jewellery. Dance costumes include frigate bird feathers and shark-tooth ornaments.
 
 **Major Holidays**
 - **Independence Day (Jul 12):** Celebrates independence from Britain in 1979.
 - **Youth Day (Aug 4):** Celebrates the next generation.
-- **Christmas (Dec 25â26):** Two-day celebration; the island chain straddles both sides of the dateline.
+- **Christmas (Dec 25–26):** Two-day celebration; the island chain straddles both sides of the dateline.
 - **Easter (March/April):** Widely observed.
 
 **Cultural Quirks**
-- Kiribati spans the International Date Line and both hemispheres, covering a sea area larger than the continental United States â yet its total land area is just 811 kmÂ². It is among the most geographically dispersed nations on Earth.
+- Kiribati spans the International Date Line and both hemispheres, covering a sea area larger than the continental United States — yet its total land area is just 811 km². It is among the most geographically dispersed nations on Earth.
 - Kiribati is one of the world's first nations forecast to become uninhabitable from sea-level rise; the government has already purchased land in Fiji as a contingency and is training citizens in "migration with dignity."
 
 ---
@@ -281,18 +281,18 @@
 **Capital:** Palikir | **Population:** ~115,000
 
 **Symbols**
-- **Animal:** Dugong (*Dugong dugon*) â protected in territorial waters
+- **Animal:** Dugong (*Dugong dugon*) — protected in territorial waters
 - **Bird:** Purple-capped fruit dove (unofficial)
 - **Flower:** *Pohnpei sakau* flower (unofficial); plumeria is widely used
 - **Tree:** Breadfruit tree (*Artocarpus altilis*)
 
-**National Anthem:** *Patriots of Micronesia* â Adopted in 1991; celebrates the diverse cultures of Chuuk, Pohnpei, Yap, and Kosrae united in a single federal state.
+**National Anthem:** *Patriots of Micronesia* — Adopted in 1991; celebrates the diverse cultures of Chuuk, Pohnpei, Yap, and Kosrae united in a single federal state.
 
 **National Dish & Drink**
 - **Dish:** Sakau (pounded kava drink on Pohnpei); breadfruit poi; taro in coconut
 - **Drink:** Sakau (ceremonial kava); coconut toddy
 
-**Traditional Costume:** Yapese men traditionally wear thu (loincloths); women wear lavalava skirts. Yapese are known for their stone money (*rai*) â giant limestone discs quarried in Palau and floated to Yap. Pohnpeian women weave intricate loom-woven lavalavas.
+**Traditional Costume:** Yapese men traditionally wear thu (loincloths); women wear lavalava skirts. Yapese are known for their stone money (*rai*) — giant limestone discs quarried in Palau and floated to Yap. Pohnpeian women weave intricate loom-woven lavalavas.
 
 **Major Holidays**
 - **Constitution Day (May 10):** Celebrates the 1979 constitution establishing the federated state.
@@ -301,8 +301,8 @@
 - **Christmas (Dec 25):** Major celebration.
 
 **Cultural Quirks**
-- The island of Yap is famous for its *rai* stone money â limestone discs up to 3.6 metres in diameter quarried from Palau. Ownership transfers without moving the stones; the entire community knows who owns which disc, making it an early form of distributed ledger finance.
-- Micronesia's traditional navigation techniques â reading wave patterns, swells, stars, and bird movements without instruments â are among the most sophisticated indigenous navigation systems ever developed, allowing canoe voyages of 2,000+ km.
+- The island of Yap is famous for its *rai* stone money — limestone discs up to 3.6 metres in diameter quarried from Palau. Ownership transfers without moving the stones; the entire community knows who owns which disc, making it an early form of distributed ledger finance.
+- Micronesia's traditional navigation techniques — reading wave patterns, swells, stars, and bird movements without instruments — are among the most sophisticated indigenous navigation systems ever developed, allowing canoe voyages of 2,000+ km.
 
 ---
 
@@ -312,14 +312,14 @@
 
 **Symbols**
 - **Animal:** Dugong
-- **Bird:** Palau fruit dove (*Ptilinopus pelewensis*) â endemic
+- **Bird:** Palau fruit dove (*Ptilinopus pelewensis*) — endemic
 - **Flower:** Plumeria (*Plumeria rubra*)
 - **Tree:** Breadfruit tree
 
-**National Anthem:** *Belau rekid* ("Our Palau") â A gentle, melodic anthem in the Palauan language reflecting the island's beauty and the people's pride in their homeland.
+**National Anthem:** *Belau rekid* ("Our Palau") — A gentle, melodic anthem in the Palauan language reflecting the island's beauty and the people's pride in their homeland.
 
 **National Dish & Drink**
-- **Dish:** Taro soup with fish; bat soup (flying fox stew) â a traditional delicacy
+- **Dish:** Taro soup with fish; bat soup (flying fox stew) — a traditional delicacy
 - **Drink:** Coconut water; imported beverages
 
 **Traditional Costume:** Men wear the *toluk* (loincloth); women wear woven fibre skirts. Traditional tattoos in geometric patterns mark social status and clan identity. The *bai* (men's meeting house) is decorated with elaborate carved and painted story panels.
@@ -331,8 +331,8 @@
 - **Christmas (Dec 25):** Widely observed.
 
 **Cultural Quirks**
-- Palau established the world's first shark sanctuary in 2009, banning all commercial shark fishing in its 600,000 kmÂ² exclusive economic zone â later expanded into a no-take marine reserve covering 80% of its waters.
-- Palau's Jellyfish Lake on Eil Malk Island hosts millions of stingless golden jellyfish (*Mastigias papua etpisoni*) that evolved in isolation; swimmers can snorkel among them without risk of stings â until the mid-2010s, when drought and El NiÃ±o temporarily killed the population (since recovered).
+- Palau established the world's first shark sanctuary in 2009, banning all commercial shark fishing in its 600,000 km² exclusive economic zone — later expanded into a no-take marine reserve covering 80% of its waters.
+- Palau's Jellyfish Lake on Eil Malk Island hosts millions of stingless golden jellyfish (*Mastigias papua etpisoni*) that evolved in isolation; swimmers can snorkel among them without risk of stings — until the mid-2010s, when drought and El Niño temporarily killed the population (since recovered).
 
 ---
 
@@ -342,17 +342,17 @@
 
 **Symbols**
 - **Animal:** *None official*
-- **Bird:** Pacific reef heron (*Egretta sacra*) â unofficial
+- **Bird:** Pacific reef heron (*Egretta sacra*) — unofficial
 - **Flower:** Plumeria (unofficial)
 - **Tree:** Breadfruit tree
 
-**National Anthem:** *Forever Marshall Islands* â Patriotic anthem in Marshallese celebrating the beauty of the atolls and the resilience of the people, adopted at independence in 1986.
+**National Anthem:** *Forever Marshall Islands* — Patriotic anthem in Marshallese celebrating the beauty of the atolls and the resilience of the people, adopted at independence in 1986.
 
 **National Dish & Drink**
 - **Dish:** Pounded breadfruit (*mo*); pandanus fruit preparations; reef fish
 - **Drink:** Coconut water; *noni* juice (Morinda citrifolia)
 
-**Traditional Costume:** Woven pandanus leaf skirts and mats; shell jewellery; stick charts (*rebbelib* and *mattang*) â woven stick navigation maps â are a form of cultural artefact unique to the Marshall Islands.
+**Traditional Costume:** Woven pandanus leaf skirts and mats; shell jewellery; stick charts (*rebbelib* and *mattang*) — woven stick navigation maps — are a form of cultural artefact unique to the Marshall Islands.
 
 **Major Holidays**
 - **Constitution Day (May 1):** Marks the 1979 constitution.
@@ -361,8 +361,8 @@
 - **Independence Day (Oct 21):** Celebrates the Compact of Free Association.
 
 **Cultural Quirks**
-- Between 1946 and 1958, the United States conducted 67 nuclear tests at Bikini Atoll â including the largest US nuclear test ever, Castle Bravo (15 megatons). Bikini remains contaminated; its residents were displaced and never fully compensated.
-- Marshallese stick charts (*mattang*) encode ocean swell patterns and island positions in woven bamboo and shells â a navigational technology so sophisticated that the US Navy studied them during WWII.
+- Between 1946 and 1958, the United States conducted 67 nuclear tests at Bikini Atoll — including the largest US nuclear test ever, Castle Bravo (15 megatons). Bikini remains contaminated; its residents were displaced and never fully compensated.
+- Marshallese stick charts (*mattang*) encode ocean swell patterns and island positions in woven bamboo and shells — a navigational technology so sophisticated that the US Navy studied them during WWII.
 
 ---
 
@@ -372,11 +372,11 @@
 
 **Symbols**
 - **Animal:** *None official*
-- **Bird:** Nauru reed warbler (*Acrocephalus rehsei*) â endemic, found nowhere else
+- **Bird:** Nauru reed warbler (*Acrocephalus rehsei*) — endemic, found nowhere else
 - **Flower:** Temon (*Calophyllum inophyllum*)
 - **Tree:** Tamanu (*Calophyllum inophyllum*)
 
-**National Anthem:** *Nauru Bwiema* ("Nauru, Our Homeland") â A short, dignified anthem in Nauruan celebrating the island's independence achieved in 1968, making it one of the world's smallest republics.
+**National Anthem:** *Nauru Bwiema* ("Nauru, Our Homeland") — A short, dignified anthem in Nauruan celebrating the island's independence achieved in 1968, making it one of the world's smallest republics.
 
 **National Dish & Drink**
 - **Dish:** Noddy tern eggs (seasonal delicacy); reef fish; imported processed food now dominates
@@ -386,12 +386,12 @@
 
 **Major Holidays**
 - **Independence Day (Jan 31):** Marks independence from Australian trusteeship in 1968.
-- **Angam Day (Oct 26):** Celebrates the moment when the Nauruan population recovered to 1,500 â a symbolic threshold that had been threatened by WWII Japanese occupation and disease.
+- **Angam Day (Oct 26):** Celebrates the moment when the Nauruan population recovered to 1,500 — a symbolic threshold that had been threatened by WWII Japanese occupation and disease.
 - **Constitutional Day (May 17):** Observes the constitution.
 - **Christmas (Dec 25):** Major celebration.
 
 **Cultural Quirks**
-- Nauru was once the world's wealthiest nation per capita, thanks to phosphate mining revenues in the 1970sâ80s; by the 1990s, the phosphate was nearly exhausted and the island was left with an estimated $2 billion in lost wealth and 80% of the land strip-mined to a moonscape.
+- Nauru was once the world's wealthiest nation per capita, thanks to phosphate mining revenues in the 1970s–80s; by the 1990s, the phosphate was nearly exhausted and the island was left with an estimated $2 billion in lost wealth and 80% of the land strip-mined to a moonscape.
 - The Nauruan language is unique: it has no confirmed linguistic relatives and may be a language isolate, meaning it cannot be classified within any known language family.
 
 ---
@@ -406,7 +406,7 @@
 - **Flower:** *Teuga* (heliotrope, unofficial)
 - **Tree:** Coconut palm
 
-**National Anthem:** *Tuvalu mo te Atua* ("Tuvalu for the Almighty") â A devout anthem reflecting the Christian faith that permeates Tuvaluan life; adopted at independence in 1978.
+**National Anthem:** *Tuvalu mo te Atua* ("Tuvalu for the Almighty") — A devout anthem reflecting the Christian faith that permeates Tuvaluan life; adopted at independence in 1978.
 
 **National Dish & Drink**
 - **Dish:** Pulaka (giant taro grown in pits); te ika (fish); coconut-based dishes
@@ -431,18 +431,18 @@
 **Capital:** Dili | **Population:** ~1.35 million
 
 **Symbols**
-- **Animal:** Saltwater crocodile (*Crocodylus porosus*) â sacred ancestor figure in Timorese mythology
+- **Animal:** Saltwater crocodile (*Crocodylus porosus*) — sacred ancestor figure in Timorese mythology
 - **Bird:** *None official*
 - **Flower:** *None official*; sandalwood is a national symbol
 - **Tree:** Sandalwood (*Santalum album*)
 
-**National Anthem:** *PÃ¡tria* ("Fatherland") â A passionate anthem of liberation adopted at independence in 2002, after 24 years of Indonesian occupation and a brutal independence struggle that cost up to a third of the population's lives.
+**National Anthem:** *Pátria* ("Fatherland") — A passionate anthem of liberation adopted at independence in 2002, after 24 years of Indonesian occupation and a brutal independence struggle that cost up to a third of the population's lives.
 
 **National Dish & Drink**
-- **Dish:** Batar daan (maize, mung beans, and pumpkin stew â a staple); grilled fish with chilli
+- **Dish:** Batar daan (maize, mung beans, and pumpkin stew — a staple); grilled fish with chilli
 - **Drink:** Locally grown Arabica coffee (Timor-Leste is the world's 12th-largest coffee exporter by quality); *tua sabu* (palm wine)
 
-**Traditional Costume:** The *tais* â a hand-woven textile in bold geometric patterns â is the national garment, worn by both men and women as a wrap skirt or shawl. Each region has distinct tais patterns encoding clan identity and local cosmology.
+**Traditional Costume:** The *tais* — a hand-woven textile in bold geometric patterns — is the national garment, worn by both men and women as a wrap skirt or shawl. Each region has distinct tais patterns encoding clan identity and local cosmology.
 
 **Major Holidays**
 - **Independence Restoration Day (May 20):** Celebrates the formal restoration of independence in 2002; the most important national holiday.

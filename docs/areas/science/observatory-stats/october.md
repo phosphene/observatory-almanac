@@ -1,4 +1,4 @@
-# Observatory Stats â October
+# Observatory Stats — October
 
 *Inspired by Harper's Index*
 
@@ -208,7 +208,7 @@
 * Speed in knots of the world's fastest production submarine: 44
 * Percentage of Earth's surface covered by ocean: 71
 * Number of naval battles fought in World War II: 100+
-* Year the aircraft carrier was first used in combat (HMS Hermes, 1942 context wrong â Langley 1922): 1922
+* Year the aircraft carrier was first used in combat (HMS Hermes, 1942 context wrong — Langley 1922): 1922
 * Weight in tons of a Nimitz-class aircraft carrier: 100,000
 * Number of crew members aboard a Nimitz-class carrier: 5,000
 * Percentage of world trade transported by sea: 90
@@ -481,7 +481,7 @@
 * Number of adaptations "War of the Worlds" has received in film, TV, and radio: 50+
 * Year the first science fiction story is generally dated to (Mary Shelley's Frankenstein): 1818
 * Number of science fiction novels published per year in the US: 3,500
-* Year the word "robot" was first used in print (Karel Äapek's play R.U.R.): 1920
+* Year the word "robot" was first used in print (Karel Čapek's play R.U.R.): 1920
 * Number of industrial robots installed globally in 2023: 540,000
 * Countries with the highest robot density per worker (South Korea first): 1
 * Percentage of jobs economists predict automation could affect by 2030: 30

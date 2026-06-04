@@ -127,7 +127,7 @@
 
 ## June 8
 
-* Year Muhammad Ali was born (as Cassius Clay) â actually January 17, but June 8 is the anniversary of a landmark fight
+* Year Muhammad Ali was born (as Cassius Clay) — actually January 17, but June 8 is the anniversary of a landmark fight
 * Number of times Ali was named "Sportsman of the Century" or similar superlatives: 3 major designations
 * Record of Ali's professional boxing career: 56 wins, 5 losses
 * Year Ali was stripped of his heavyweight title for refusing Vietnam draft: 1967
@@ -178,13 +178,13 @@
 
 ## June 11
 
-* Year the first openly gay country leader was elected (JÃ³hanna SigurÃ°ardÃ³ttir, Iceland): 2009
+* Year the first openly gay country leader was elected (Jóhanna Sigurðardóttir, Iceland): 2009
 * Number of countries where same-sex marriage is legal: 35+
 * Countries where homosexuality is illegal: 64
 * Countries where homosexuality is punishable by death: 11
 * Year the first Pride march was held in New York City: 1970
 * Size of the first Pride march, in participants: 3,000-5,000
-* Size of the SÃ£o Paulo Pride Parade (world's largest), in participants: 4,000,000
+* Size of the São Paulo Pride Parade (world's largest), in participants: 4,000,000
 * Year the Supreme Court ruled same-sex marriage constitutional in the U.S.: 2015
 * Percentage of Americans who supported same-sex marriage in 2015: 60
 * Percentage of Americans who supported it in 1996: 27

@@ -1,6 +1,6 @@
 # Poker: Omaha
 
-**Action Poker** Â· 2â10 players Â· Ages 16+ Â· Variable
+**Action Poker** · 2–10 players · Ages 16+ · Variable
 
 Omaha Hold'em is the second most popular poker variant worldwide. Like Texas Hold'em, players use five community cards, but each player receives four hole cards and must use exactly two of them (no more, no fewer) combined with exactly three community cards to form their best five-card hand. This mandatory constraint creates bigger hands, bigger draws, and bigger pots than Hold'em.
 
@@ -62,11 +62,11 @@ Because players have four cards to choose from, hand strengths in PLO escalate s
 
 ### Nut Flush Draws
 
-The ace-high flush draw is the dominant flush draw. Holding Aâ¥ + another heart means no other player can draw to a higher flush. Holding the king-high flush draw means you can be beaten by the nut draw.
+The ace-high flush draw is the dominant flush draw. Holding A♥ + another heart means no other player can draw to a higher flush. Holding the king-high flush draw means you can be beaten by the nut draw.
 
 ### Wrap Straights
 
-A "wrap" is a straight draw that uses all four hole cards. Example: board shows 7-8-9; you hold 5-6-J-T. You have a massive number of outs to complete a straightâ13 outs or more in some combinations.
+A "wrap" is a straight draw that uses all four hole cards. Example: board shows 7-8-9; you hold 5-6-J-T. You have a massive number of outs to complete a straight—13 outs or more in some combinations.
 
 ---
 
@@ -74,22 +74,22 @@ A "wrap" is a straight draw that uses all four hole cards. Example: board shows 
 
 ### Premium Hands (Strongest)
 
-* **AA + double-suited connectors:** Aâ Aâ¥Kâ Qâ¥ â top pair potential + two nut flush draws + straight draws
+* **AA + double-suited connectors:** A♠A♥K♠Q♥ — top pair potential + two nut flush draws + straight draws
 * **KKQQ double-suited**
-* **Connected high cards double-suited:** Jâ Tâ 9â¥8â¥
+* **Connected high cards double-suited:** J♠T♠9♥8♥
 
 ### Key Principles
 
-1. **Double-suited hands** (two pairs of the same suit) have enormous valueâtwo nut or near-nut flush draws.
+1. **Double-suited hands** (two pairs of the same suit) have enormous value—two nut or near-nut flush draws.
 2. **Connected hands** (cards that work together for straights) are stronger than scattered hands.
 3. **Dangling cards** (a card that doesn't contribute to the hand's overall plan) weaken hands.
-4. **AA** in PLO is good but not as dominant as in Hold'emâit's one pair, and big pots in PLO are rarely won by pairs.
+4. **AA** in PLO is good but not as dominant as in Hold'em—it's one pair, and big pots in PLO are rarely won by pairs.
 
 ### Hands to Avoid
 
-* Disconnected, single-suited hands: Aâ 7â¥2â£Jâ¦ (poorâcards don't work together)
-* Three-of-a-kind in hand: Aâ Aâ¥Aâ£Kâ¦ â one ace is wasted (can only use two hole cards)
-* Pairs with no connectors: 9â 9â¥2â£8â¦ â the 2â£ is a dangler
+* Disconnected, single-suited hands: A♠7♥2♣J♦ (poor—cards don't work together)
+* Three-of-a-kind in hand: A♠A♥A♣K♦ — one ace is wasted (can only use two hole cards)
+* Pairs with no connectors: 9♠9♥2♣8♦ — the 2♣ is a dangler
 
 ---
 
@@ -134,7 +134,7 @@ Strong Hi-Lo starting hands have both high potential and low potential:
 - **A-2-3-4:** Strong low draws with straight potential
 - **A-2 + two high connectors:** The low component (A-2) supports multiple lo draws; the high cards fight for the high
 
-Avoid hands that only fight for one half of the potâyou're risking half your investment for half the reward (a "quartered" loss, where you tie for lo and get only 25% of the pot).
+Avoid hands that only fight for one half of the pot—you're risking half your investment for half the reward (a "quartered" loss, where you tie for lo and get only 25% of the pot).
 
 ---
 
@@ -156,4 +156,4 @@ A growing variant uses five hole cards with the same 2+3 rule. Even bigger hands
 
 *See also: Poker: Texas Hold'em (fundamental poker rules and concepts), Bridge (complex card partnership)*
 
-### ð¯ Scorecard
+### 🎯 Scorecard

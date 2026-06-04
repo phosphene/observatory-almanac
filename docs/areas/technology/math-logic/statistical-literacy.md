@@ -10,13 +10,13 @@ The most repeated concept in statistics, and the most frequently ignored in head
 
 **Correlation** means two variables tend to move together. When ice cream sales rise, so do drowning rates. When per-capita cheese consumption increases, so do deaths by bedsheet tangling. These relationships are real statistical correlations. They are also completely meaningless as causal claims.
 
-**Causation** means one thing actually produces another â changing A changes B. This is much harder to establish.
+**Causation** means one thing actually produces another — changing A changes B. This is much harder to establish.
 
 ### Why Correlation Is Not Causation
 
 Three alternative explanations always exist for any correlation:
 
-1. **Reverse causation:** Maybe B causes A, not A causes B. Low self-esteem correlates with depression â but does low self-esteem cause depression, or does depression reduce self-esteem? Both directions may be true.
+1. **Reverse causation:** Maybe B causes A, not A causes B. Low self-esteem correlates with depression — but does low self-esteem cause depression, or does depression reduce self-esteem? Both directions may be true.
 2. **Confounding variable (lurking variable):** A third variable C causes both A and B independently. Ice cream and drownings are both caused by hot weather (people buy ice cream AND people swim when it's hot). Remove the confounder and the correlation disappears.
 3. **Coincidence:** Especially in large datasets, spurious correlations appear by chance. Nicholas Cage films per year correlates with swimming pool drownings. This is statistical noise mistaken for signal.
 
@@ -38,11 +38,11 @@ When you see "X linked to Y" in a headline, ask: Is there a plausible mechanism?
 
 The number of subjects in a study determines how much random variation can distort results.
 
-**Small samples amplify noise.** If you flip a coin 10 times and get 7 heads, you might conclude the coin is biased. Flip it 10,000 times and 70% heads would be extraordinary evidence of bias â but 7/10 is just random variation.
+**Small samples amplify noise.** If you flip a coin 10 times and get 7 heads, you might conclude the coin is biased. Flip it 10,000 times and 70% heads would be extraordinary evidence of bias — but 7/10 is just random variation.
 
 ### Why Sample Size Matters
 
-With a small sample, extreme results occur by chance. A cancer cluster in a county with 1,200 people might be 6 cases vs. an expected 3 â alarming, but statistically indistinguishable from chance variation. A county with 120,000 people showing the same doubled rate is much stronger evidence.
+With a small sample, extreme results occur by chance. A cancer cluster in a county with 1,200 people might be 6 cases vs. an expected 3 — alarming, but statistically indistinguishable from chance variation. A county with 120,000 people showing the same doubled rate is much stronger evidence.
 
 **The Law of Large Numbers:** As sample size increases, the sample average converges to the true population average. Small samples are uncertain; large samples are more reliable.
 
@@ -60,7 +60,7 @@ Depends on the effect size you're trying to detect:
 A study too small to reliably detect an effect produces misleading results:
 - A real effect may appear absent (false negative)
 - The effects that ARE detected are often exaggerated (winner's curse / publication bias)
-- Results are unstable â small replication studies often fail
+- Results are unstable — small replication studies often fail
 
 A study with 30 subjects proving a drug works should be taken much less seriously than a trial with 30,000 subjects.
 
@@ -80,7 +80,7 @@ The p-value is the probability of seeing results as extreme as these (or more ex
 
 **P-hacking:** If you run enough comparisons, some will be significant by chance. Run 20 comparisons and one will achieve p < 0.05 just by luck. Researchers who keep collecting data until they hit significance, or who only report the significant result from many analyses, are exploiting this.
 
-**Statistical significance â  practical significance.** A drug that reduces blood pressure by 1 mm Hg might achieve p < 0.0001 in a 50,000-person trial. The finding is statistically robust â and clinically irrelevant. Always ask: what is the effect size?
+**Statistical significance ≠ practical significance.** A drug that reduces blood pressure by 1 mm Hg might achieve p < 0.0001 in a 50,000-person trial. The finding is statistically robust — and clinically irrelevant. Always ask: what is the effect size?
 
 **What to ask instead:**
 - What is the effect size (how big is the effect)?
@@ -92,7 +92,7 @@ The p-value is the probability of seeing results as extreme as these (or more ex
 
 ## Survivorship Bias
 
-During World War II, analysts were asked which parts of returning bombers should be reinforced â the wings, engines, or fuselage. They counted bullet holes in returning planes and proposed reinforcing the areas with the most damage. Statistician Abraham Wald pointed out the error: they should reinforce the areas with the least damage â because the planes hit there didn't survive to return.
+During World War II, analysts were asked which parts of returning bombers should be reinforced — the wings, engines, or fuselage. They counted bullet holes in returning planes and proposed reinforcing the areas with the most damage. Statistician Abraham Wald pointed out the error: they should reinforce the areas with the least damage — because the planes hit there didn't survive to return.
 
 **Survivorship bias occurs when you study only the survivors, missing the lessons in the failures.**
 
@@ -104,7 +104,7 @@ During World War II, analysts were asked which parts of returning bombers should
 
 **"They don't make things like they used to":** Old things that lasted long enough to still exist are the ones built well. The poorly-made ones were thrown away decades ago.
 
-**Medical treatments before modern trials:** Patients who recovered were visible; those who died after the treatment, less so â creating false impressions of efficacy.
+**Medical treatments before modern trials:** Patients who recovered were visible; those who died after the treatment, less so — creating false impressions of efficacy.
 
 ### Spotting It
 
@@ -132,15 +132,15 @@ The resolution: Women applied in higher proportions to competitive departments (
 
 ## Misleading Graphs
 
-Visual representations of data are powerful â and easily manipulated.
+Visual representations of data are powerful — and easily manipulated.
 
 ### Truncated Axes
 
 The most common graph manipulation: the Y-axis doesn't start at zero.
 
-A stock price rises from $98 to $102 over a month. On a chart from $95 to $105, this looks like explosive growth â a dramatic upward line. On a chart from $0 to $200, it looks flat. The data is identical; the impression is opposite.
+A stock price rises from $98 to $102 over a month. On a chart from $95 to $105, this looks like explosive growth — a dramatic upward line. On a chart from $0 to $200, it looks flat. The data is identical; the impression is opposite.
 
-**When truncated axes are legitimate:** When zero is irrelevant (e.g., body temperature changes of 0.5Â°F matter clinically; a chart from 0 to 110Â°F would hide the signal). The key is whether truncation illuminates or deceives.
+**When truncated axes are legitimate:** When zero is irrelevant (e.g., body temperature changes of 0.5°F matter clinically; a chart from 0 to 110°F would hide the signal). The key is whether truncation illuminates or deceives.
 
 **How to spot it:** Always look at the Y-axis starting value. If it doesn't start at zero, ask whether the visual slope accurately represents the magnitude of change.
 
@@ -148,7 +148,7 @@ A stock price rises from $98 to $102 over a month. On a chart from $95 to $105, 
 
 Any investment, policy, or trend can look good or bad depending on where you start and end the graph.
 
-A mutual fund shows strong 5-year returns â but starting the chart from just before a crash in year 0. A crime rate "declining" since 2010 â but starting the chart at the 2008 peak.
+A mutual fund shows strong 5-year returns — but starting the chart from just before a crash in year 0. A crime rate "declining" since 2010 — but starting the chart at the 2008 peak.
 
 **How to spot it:** Ask why this particular time frame was chosen. What does a longer or shorter view show?
 
@@ -156,7 +156,7 @@ A mutual fund shows strong 5-year returns â but starting the chart from jus
 
 * **Dual Y-axes:** Two scales on the same chart can make any two unrelated trends look correlated
 * **3D pie charts:** The tilt exaggerates front slices
-* **Area vs. linear scales:** Using area (circles or squares) to represent quantities â a circle with twice the area looks much larger than twice the linear size because our eye responds to area
+* **Area vs. linear scales:** Using area (circles or squares) to represent quantities — a circle with twice the area looks much larger than twice the linear size because our eye responds to area
 * **Inconsistent intervals:** Irregular spacing on the X-axis that compresses or expands time
 
 ---
@@ -173,7 +173,7 @@ This distinction is crucial for evaluating health news.
 - Absolute risk reduction: 1 percentage point (2% minus 1%)
 - Number needed to treat (NNT): 100 people must take the drug to prevent 1 case
 
-The headline "Drug cuts disease risk by 50%!" is technically accurate. But if the baseline risk is 2%, the absolute benefit is tiny â 1 in 100 people benefit. The other 99 get the cost and side effects with no benefit.
+The headline "Drug cuts disease risk by 50%!" is technically accurate. But if the baseline risk is 2%, the absolute benefit is tiny — 1 in 100 people benefit. The other 99 get the cost and side effects with no benefit.
 
 **Why this matters:**
 - Headlines almost always use relative risk (sounds bigger)
@@ -201,11 +201,11 @@ Most people guess 95%. The actual answer is about 16%.
 **The math:**
 - 1,000 people tested
 - 10 actually have the disease (1%)
-- Of those 10: test correctly identifies 9.5 (sensitivity 95%) â 10 positive tests
+- Of those 10: test correctly identifies 9.5 (sensitivity 95%) ≈ 10 positive tests
 - Of the 990 healthy people: 95% correctly test negative, but 5% (about 50) test falsely positive
 - Total positive tests: approximately 60
 - True positives among those: 10
-- Probability of disease given positive test: 10/60 â 16%
+- Probability of disease given positive test: 10/60 ≈ 16%
 
 The base rate (1% prevalence) dominates. When a disease is rare, even an accurate test produces mostly false positives because the healthy pool is so large.
 
@@ -219,19 +219,19 @@ The base rate (1% prevalence) dominates. When a disease is rare, even an accurat
 * Start with prior probabilities (base rates matter)
 * Update proportionally when new evidence arrives
 * Extraordinary claims require extraordinary evidence (high prior improbability requires very strong evidence to overcome)
-* One study doesn't overturn established science â the prior is very strong
+* One study doesn't overturn established science — the prior is very strong
 
 ---
 
 ## How Polls Work
 
-A properly conducted poll doesn't ask everyone â it asks a carefully selected sample and infers the population.
+A properly conducted poll doesn't ask everyone — it asks a carefully selected sample and infers the population.
 
 ### Key Concepts
 
-**Sample size and margin of error:** A well-designed random sample of ~1,000 people yields a margin of error of roughly Â±3 percentage points (at 95% confidence). Adding more people helps at first, but the benefit decreases â going from 1,000 to 10,000 people cuts the margin of error in half, not by ten. Going from 1,000 to 1,500 barely helps.
+**Sample size and margin of error:** A well-designed random sample of ~1,000 people yields a margin of error of roughly ±3 percentage points (at 95% confidence). Adding more people helps at first, but the benefit decreases — going from 1,000 to 10,000 people cuts the margin of error in half, not by ten. Going from 1,000 to 1,500 barely helps.
 
-**The margin of error only covers random sampling error** â not bias, question wording effects, or non-response issues. The stated Â±3% does not include these other sources of error.
+**The margin of error only covers random sampling error** — not bias, question wording effects, or non-response issues. The stated ±3% does not include these other sources of error.
 
 **95% confidence interval:** If you ran the same poll 100 times with different random samples, 95 of those polls' results would fall within the stated margin of error of the true value. This means 5 out of 100 polls are simply wrong even with perfect methodology.
 
@@ -249,7 +249,7 @@ A properly conducted poll doesn't ask everyone â it asks a carefully select
 
 ### What Poll Results Mean
 
-A poll showing Candidate A at 48% and Candidate B at 46% with Â±3% margin of error does NOT mean A is winning. The difference (2 points) is within the margin of error â it's statistically a toss-up. The poll only meaningfully distinguishes candidates if the gap exceeds roughly twice the margin of error.
+A poll showing Candidate A at 48% and Candidate B at 46% with ±3% margin of error does NOT mean A is winning. The difference (2 points) is within the margin of error — it's statistically a toss-up. The poll only meaningfully distinguishes candidates if the gap exceeds roughly twice the margin of error.
 
 ---
 
@@ -257,15 +257,15 @@ A poll showing Candidate A at 48% and Candidate B at 46% with Â±3% margin of e
 
 These three concepts are essential for understanding any diagnostic test.
 
-**Sensitivity** (true positive rate): Of all people who actually have the disease, what proportion does the test correctly identify as positive? A highly sensitive test misses few cases (low false negative rate). Good for ruling out a disease â a negative result on a sensitive test is reassuring.
+**Sensitivity** (true positive rate): Of all people who actually have the disease, what proportion does the test correctly identify as positive? A highly sensitive test misses few cases (low false negative rate). Good for ruling out a disease — a negative result on a sensitive test is reassuring.
 
-**Specificity** (true negative rate): Of all people who don't have the disease, what proportion does the test correctly identify as negative? A highly specific test rarely falsely alarms (low false positive rate). Good for ruling in a disease â a positive result on a highly specific test is meaningful.
+**Specificity** (true negative rate): Of all people who don't have the disease, what proportion does the test correctly identify as negative? A highly specific test rarely falsely alarms (low false positive rate). Good for ruling in a disease — a positive result on a highly specific test is meaningful.
 
 **The trade-off:** Lowering the threshold for a positive test increases sensitivity but decreases specificity (and vice versa). Cancer screening often uses sensitive tests to catch every case, accepting false positives that require follow-up.
 
 **Positive Predictive Value (PPV):** Of all people who test positive, what fraction actually have the disease? This depends on sensitivity, specificity, AND the base rate (prevalence) of the disease.
 
-When disease prevalence is low, even excellent tests have low PPV â producing many false positives for each true positive. This is the false positive paradox described above in the Bayesian section.
+When disease prevalence is low, even excellent tests have low PPV — producing many false positives for each true positive. This is the false positive paradox described above in the Bayesian section.
 
 **Negative Predictive Value (NPV):** Of all people who test negative, what fraction are truly disease-free? High NPV means a negative result is trustworthy.
 
@@ -274,7 +274,7 @@ When disease prevalence is low, even excellent tests have low PPV â produci
 * A highly sensitive test used for screening will generate false positives that require follow-up (colonoscopies, biopsies, additional imaging), with associated costs, anxiety, and harms
 * A highly specific test is used to confirm a suspected diagnosis
 * Understanding PPV requires knowing the prevalence in the population being tested (high-risk populations vs. general population)
-* "False positive rate" and "false negative rate" alone are insufficient â the base rate is always required to calculate real-world predictive value
+* "False positive rate" and "false negative rate" alone are insufficient — the base rate is always required to calculate real-world predictive value
 
 ---
 
@@ -294,4 +294,4 @@ When disease prevalence is low, even excellent tests have low PPV â produci
 
 ---
 
-*Statistical literacy is not about knowing advanced mathematics â it's about asking the right questions before accepting a number as meaningful. Most statistical deception is not malicious; it comes from enthusiasm, motivated reasoning, and the universal human desire for clean stories. The data is almost always messier than the headline.*
+*Statistical literacy is not about knowing advanced mathematics — it's about asking the right questions before accepting a number as meaningful. Most statistical deception is not malicious; it comes from enthusiasm, motivated reasoning, and the universal human desire for clean stories. The data is almost always messier than the headline.*

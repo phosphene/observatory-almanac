@@ -6,8 +6,8 @@
 
 ## How to Stretch Safely
 
-* **Never stretch cold muscles.** These routines are designed for the appropriate time â Morning uses gentle movements; the Athlete routine follows exercise.
-* **Hold static stretches 20â60 seconds.** Under 20 seconds provides minimal benefit; over 60 rarely provides more.
+* **Never stretch cold muscles.** These routines are designed for the appropriate time — Morning uses gentle movements; the Athlete routine follows exercise.
+* **Hold static stretches 20–60 seconds.** Under 20 seconds provides minimal benefit; over 60 rarely provides more.
 * **Breathe continuously.** Never hold your breath. Exhale into deeper ranges.
 * **Feel a gentle pull, not pain.** Sharp, shooting, or joint pain = stop immediately.
 * **Symmetry matters.** Stretch both sides equally unless otherwise noted.
@@ -44,8 +44,8 @@
 ### 3. Cat-Cow
 
 **Muscles:** Entire spine, paraspinals, abdominals, neck  
-**Position:** On hands and knees (or seated in chair: hands on knees). Alternate arching spine upward (cat â exhale, tuck chin) and letting belly drop (cow â inhale, look up).  
-**Duration:** 8â10 slow repetitions  
+**Position:** On hands and knees (or seated in chair: hands on knees). Alternate arching spine upward (cat — exhale, tuck chin) and letting belly drop (cow — inhale, look up).  
+**Duration:** 8–10 slow repetitions  
 **Breathing:** Inhale = cow (belly drops). Exhale = cat (spine rounds). Let breath drive the movement.  
 **Modification:** Seated: place hands on knees, perform the same spinal flexion and extension
 
@@ -84,7 +84,7 @@
 ### 7. Chest Opener / Doorframe Stretch
 
 **Muscles:** Pectorals, anterior deltoid, biceps  
-**Position:** Stand in a doorway, place forearms on the frame at 90Â° (like a goalpost). Step one foot forward and gently lean into the opening.  
+**Position:** Stand in a doorway, place forearms on the frame at 90° (like a goalpost). Step one foot forward and gently lean into the opening.  
 **Duration:** 45 seconds  
 **Breathing:** Inhale to expand the chest; exhale to lean slightly deeper  
 **Modification:** Arms lower (at hip height) for lower chest; arms at shoulder height for mid-chest; clasp hands behind back if no doorframe available
@@ -97,7 +97,7 @@
 **Position:** Seated or standing. Drop right ear toward right shoulder. Hold. Repeat left.  
 **Duration:** 30 seconds each side  
 **Breathing:** Exhale to relax the neck and allow the stretch to deepen  
-**Modification:** Gently place hand on the same side as the tilt on top of the head â NOT pulling â just the weight of the hand adds gentle traction
+**Modification:** Gently place hand on the same side as the tilt on top of the head — NOT pulling — just the weight of the hand adds gentle traction
 
 ---
 
@@ -153,7 +153,7 @@
 **Position:** Seated. Reach right hand under chair seat for anchor. Drop left ear to left shoulder. Gently pull head further with left hand (no jerking).  
 **Duration:** 30 seconds each side  
 **Breathing:** Exhale to soften the neck muscles  
-**Modification:** Skip the hand on head â just let gravity do the work
+**Modification:** Skip the hand on head — just let gravity do the work
 
 ---
 
@@ -172,7 +172,7 @@
 **Muscles:** Wrist flexors, extensors, forearm muscles  
 **Position:** Extend right arm, palm up. With left hand, gently pull fingers back toward body (forearm stretch). Then flip palm down, press fingers down and back.  
 **Duration:** 20 seconds each direction, each side  
-**Breathing:** Breathe normally; hold gently â these are powerful stretches  
+**Breathing:** Breathe normally; hold gently — these are powerful stretches  
 **Modification:** Press palm against a wall instead if it's more comfortable
 
 ---
@@ -245,7 +245,7 @@
 
 ### 6. Seated Forward Fold
 
-**Muscles:** Entire posterior chain â hamstrings, glutes, lower back, calves  
+**Muscles:** Entire posterior chain — hamstrings, glutes, lower back, calves  
 **Position:** Sit on the floor with legs straight. Hinge from the hips, reaching toward feet. Keep spine long rather than rounding the back.  
 **Duration:** 60 seconds  
 **Breathing:** Exhale to lengthen forward; inhale to keep spine from rounding  
@@ -266,7 +266,7 @@
 ### 8. Chest and Bicep Stretch (Floor)
 
 **Muscles:** Pectorals, anterior deltoid, biceps  
-**Position:** Lie face-down. Extend right arm out at 90Â° to the body, palm down. Slowly roll onto your right side, bending the left knee for balance.  
+**Position:** Lie face-down. Extend right arm out at 90° to the body, palm down. Slowly roll onto your right side, bending the left knee for balance.  
 **Duration:** 45 seconds each side  
 **Breathing:** Exhale to let the chest relax toward the floor  
 **Modification:** Just do the doorframe standing version from Routine 1
@@ -303,13 +303,13 @@
 
 **Muscles:** Hamstrings, calves (passive); promotes circulation  
 **Position:** Lie on back and swing legs up against a wall. Hips may be near or against the wall. Arms relax by sides, palms up.  
-**Duration:** 3â5 minutes  
+**Duration:** 3–5 minutes  
 **Breathing:** Long, slow breaths. Let the nervous system calm.  
 **Modification:** Place a folded blanket under the hips; or just lie flat with knees bent if the hamstrings are too tight
 
 ---
 
-## Routine 4: Senior Mobility â Chair-Accessible (10 Minutes)
+## Routine 4: Senior Mobility — Chair-Accessible (10 Minutes)
 
 *Purpose: Maintain range of motion, balance, and daily functional movement. All exercises can be performed seated or with a chair for support. No floor work required.*
 
@@ -321,7 +321,7 @@
 **Position:** Seated upright. Point and flex both feet 10 times. Circle each ankle 10 times in each direction.  
 **Duration:** 90 seconds  
 **Breathing:** Normal  
-**Modification:** Fully passive â use hands to move the foot if mobility is very limited
+**Modification:** Fully passive — use hands to move the foot if mobility is very limited
 
 ---
 
@@ -341,7 +341,7 @@
 **Position:** Sit at the edge of the chair. Slide one leg back so the foot is behind the hip. Sit tall and gently press hip forward. (Can also stand with chair support.)  
 **Duration:** 30 seconds each side  
 **Breathing:** Exhale to press hip slightly forward  
-**Modification:** Just sit upright at edge of chair and let one leg fall behind â gravity provides gentle stretch
+**Modification:** Just sit upright at edge of chair and let one leg fall behind — gravity provides gentle stretch
 
 ---
 
@@ -418,14 +418,14 @@
 ## General Flexibility Notes
 
 **How long until I see improvement?**
-Most people notice improved range of motion within 4â6 weeks of consistent daily stretching (even 5â10 minutes).
+Most people notice improved range of motion within 4–6 weeks of consistent daily stretching (even 5–10 minutes).
 
 **Should stretching hurt?**
-A "good" stretch feels like mild to moderate tension â 3â5 on a 10-point discomfort scale. Sharp pain, joint pain, tingling, or numbness means stop.
+A "good" stretch feels like mild to moderate tension — 3–5 on a 10-point discomfort scale. Sharp pain, joint pain, tingling, or numbness means stop.
 
 **Dynamic vs static stretching:**
-- *Dynamic* (movement-based): best before exercise to warm up â leg swings, arm circles, hip circles
-- *Static* (held positions): best after exercise or as standalone sessions â the routines above
+- *Dynamic* (movement-based): best before exercise to warm up — leg swings, arm circles, hip circles
+- *Static* (held positions): best after exercise or as standalone sessions — the routines above
 
 **The 10 tightest spots in most adults (from sitting):**
 1. Hip flexors (psoas)

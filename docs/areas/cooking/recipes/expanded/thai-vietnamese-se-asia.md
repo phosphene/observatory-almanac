@@ -1,6 +1,6 @@
 # Southeast Asian Recipes
 
-Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singaporean
+Thai · Vietnamese · Indonesian · Malaysian · Filipino · Singaporean
 
 ---
 
@@ -46,7 +46,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 2. Add 200ml coconut milk; cook 5 min.
 3. Add beef; brown lightly. Add remaining coconut milk, potatoes, onion.
 4. Stir in tamarind, fish sauce, sugar, peanuts.
-5. Simmer covered 45â60 min until beef tender. Serve with roti or rice.
+5. Simmer covered 45–60 min until beef tender. Serve with roti or rice.
 
 ### Panang Curry
 
@@ -64,7 +64,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 **Ingredients:** 1L chicken stock, 300g shrimp (shell-on), 200g mushrooms (halved), 3 stalks lemongrass (bruised), 4 kaffir lime leaves, 5 slices galangal, 3 tbsp fish sauce, 3 tbsp lime juice, 1 tbsp chili paste (nam prik pao), 5 bird's eye chilies (bruised), 1 tsp sugar, cilantro to garnish.
 1. Bring stock to boil. Add lemongrass, galangal, kaffir lime leaves; simmer 5 min.
 2. Add mushrooms; cook 3 min.
-3. Add shrimp; cook until pink, 2â3 min.
+3. Add shrimp; cook until pink, 2–3 min.
 4. Season with fish sauce, lime juice, chili paste, chilies, sugar.
 5. Ladle into bowls; garnish with cilantro.
 
@@ -144,7 +144,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 
 *Region: Central Thailand*
 **Ingredients:** 2 cups glutinous rice (soaked overnight), 400ml coconut milk, 3 tbsp sugar, 1 tsp salt, 2 ripe mangoes (sliced), sesame seeds or mung beans to garnish.
-1. Steam soaked glutinous rice 20â25 min until cooked.
+1. Steam soaked glutinous rice 20–25 min until cooked.
 2. Mix 300ml coconut milk with 2 tbsp sugar and 1/2 tsp salt; heat until sugar dissolves.
 3. Pour sweet coconut milk over hot rice; mix, cover, rest 20 min to absorb.
 4. Mix remaining coconut milk with 1 tbsp sugar and 1/2 tsp salt for sauce; warm gently.
@@ -184,7 +184,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 **Ingredients:** 600ml water or shrimp stock, 3 tbsp gaeng som paste (shrimp paste, dried chilies, shallots, turmeric), 300g shrimp or fish, 200g green papaya or cabbage, 2 tbsp fish sauce, 2 tbsp tamarind paste, 1 tsp palm sugar.
 1. Bring stock to boil; stir in gaeng som paste.
 2. Add vegetables; cook 5 min.
-3. Add seafood; cook 3â4 min.
+3. Add seafood; cook 3–4 min.
 4. Season with fish sauce, tamarind, sugar. Bright, sour, spicy.
 
 ### Gang Keow Wan Tofu (Vegetarian Green Curry)
@@ -207,7 +207,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 **Ingredients (broth):** 2kg beef bones (knuckle + marrow), 500g beef brisket, 1 onion (charred), 100g ginger (charred), 3 star anise, 1 cinnamon stick, 5 cloves, 1 tsp coriander seeds, 3 tbsp fish sauce, 1 tsp sugar, salt. **Bowl:** 200g flat rice noodles, thinly sliced raw beef (eye round), bean sprouts, Thai basil, lime, hoisin, sriracha, green onion, fried shallots.
 1. Blanch bones in boiling water 5 min; rinse clean.
 2. Char onion and ginger directly on flame until blackened; rinse.
-3. Simmer bones, brisket, charred aromatics, dry spices 4â6 hours.
+3. Simmer bones, brisket, charred aromatics, dry spices 4–6 hours.
 4. Add fish sauce, sugar, salt; strain broth.
 5. Slice brisket; soak noodles in warm water, cook in boiling water, drain.
 6. Bowl: noodles, brisket slices, raw beef. Pour boiling broth over. Garnish and serve with condiments.
@@ -217,17 +217,17 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 *Region: Hanoi*
 **Ingredients:** 1 whole chicken (1.5kg), 1 onion (charred), 80g ginger (charred), 3 star anise, 1 cinnamon stick, 3 tbsp fish sauce, salt. **Bowl:** rice noodles, shredded chicken, green onion, ginger julienne, cilantro, lime, bean sprouts.
 1. Char onion and ginger; rinse.
-2. Simmer whole chicken with aromatics 45 minâ1 hour.
+2. Simmer whole chicken with aromatics 45 min–1 hour.
 3. Remove chicken; shred meat. Strain broth; season.
 4. Assemble bowls with noodles, chicken, garnishes.
 
 ### Banh Mi
 
 *Region: Ho Chi Minh City / South Vietnam*
-**Ingredients:** 1 baguette (Vietnamese-style, airy crumb), 100g pork pÃ¢tÃ©, 100g cold cuts or char siu pork, 2 tbsp mayonnaise, pickled daikon and carrot (do chua), cucumber slices, jalapeÃ±o, cilantro, Maggi seasoning.
+**Ingredients:** 1 baguette (Vietnamese-style, airy crumb), 100g pork pâté, 100g cold cuts or char siu pork, 2 tbsp mayonnaise, pickled daikon and carrot (do chua), cucumber slices, jalapeño, cilantro, Maggi seasoning.
 **Do chua:** 100g daikon + 100g carrot, julienned, 3 tbsp sugar, 3 tbsp rice vinegar, 1 tsp salt; rest 30 min.
-1. Slice baguette; spread mayo and pÃ¢tÃ© on both halves.
-2. Layer cold cuts; add pickled vegetables, cucumber, jalapeÃ±o, cilantro.
+1. Slice baguette; spread mayo and pâté on both halves.
+2. Layer cold cuts; add pickled vegetables, cucumber, jalapeño, cilantro.
 3. Drizzle with Maggi; press closed and eat immediately.
 
 ### Goi Cuon (Fresh Spring Rolls)
@@ -245,7 +245,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 **Ingredients:** 12 rice paper wrappers, 300g ground pork, 100g shrimp (minced), 50g glass noodles (soaked, chopped), 2 shallots (minced), 2 tsp fish sauce, 1 tsp sugar, 1 egg, black pepper. Oil for frying. Nuoc cham for dipping.
 1. Mix pork, shrimp, noodles, shallots, fish sauce, sugar, egg, pepper.
 2. Soak rice paper briefly; roll 2 tbsp filling into tight cylinder.
-3. Fry in oil at 170Â°C until golden, 5â6 min.
+3. Fry in oil at 170°C until golden, 5–6 min.
 4. Drain; serve with lettuce leaves, herbs, nuoc cham.
 
 ### Bun Cha
@@ -278,11 +278,11 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 ### Cao Lau
 
 *Region: Hoi An*
-**Ingredients:** 200g cao lau noodles (thick, chewy, made with local well water and lye), 200g char siu pork (sliced), 100g pork skin cracklings, 50g dried won ton chips, bean sprouts, mint, cilantro, green onion. **Sauce:** 2 tbsp soy sauce, 1 tbsp fish sauce, 1 tsp sugar, dash sesame oil, star aniseâinfused broth.
+**Ingredients:** 200g cao lau noodles (thick, chewy, made with local well water and lye), 200g char siu pork (sliced), 100g pork skin cracklings, 50g dried won ton chips, bean sprouts, mint, cilantro, green onion. **Sauce:** 2 tbsp soy sauce, 1 tbsp fish sauce, 1 tsp sugar, dash sesame oil, star anise–infused broth.
 1. Blanch noodles; drain.
 2. Warm pork slices in seasoned broth.
 3. Bowl: noodles, pork, cracklings, won ton chips, sprouts, herbs.
-4. Drizzle with sauce; very little broth â this is a dry-style dish.
+4. Drizzle with sauce; very little broth — this is a dry-style dish.
 
 ### Bun Bo Hue
 
@@ -296,18 +296,18 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 ### Vietnamese Iced Coffee (Ca Phe Sua Da)
 
 *Region: Vietnam*
-**Ingredients:** 2 tbsp Vietnamese ground coffee (Trung Nguyen or similar, dark roast), 2 tbsp sweetened condensed milk, hot water (85Â°C), ice.
+**Ingredients:** 2 tbsp Vietnamese ground coffee (Trung Nguyen or similar, dark roast), 2 tbsp sweetened condensed milk, hot water (85°C), ice.
 1. Spoon condensed milk into glass.
 2. Place phin filter over glass; add ground coffee; tamp lightly.
-3. Pour 30ml hot water to bloom; then fill filter. Drip 4â5 min.
+3. Pour 30ml hot water to bloom; then fill filter. Drip 4–5 min.
 4. Stir coffee with condensed milk; pour over ice. Drink immediately.
 
 ### Mi Quang (Turmeric Noodles)
 
 *Region: Quang Nam, Central Vietnam*
 **Ingredients:** 300g wide turmeric noodles, 300g shrimp + 200g pork belly (sliced), 1 tsp turmeric, 2 tbsp fish sauce, shallots, garlic, peanut oil. **Broth:** 200ml bone broth, very small amount. **Garnish:** roasted peanuts, sesame rice crackers, banana blossom, herbs, lime, chili.
-1. SautÃ© shallots and garlic in peanut oil; add pork, then shrimp with turmeric.
-2. Season with fish sauce; add a small amount of broth â broth barely covers.
+1. Sauté shallots and garlic in peanut oil; add pork, then shrimp with turmeric.
+2. Season with fish sauce; add a small amount of broth — broth barely covers.
 3. Blanch noodles; pile in bowl.
 4. Add proteins and small amount of broth; top generously with peanuts, crackers, herbs, lime.
 
@@ -316,7 +316,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 *Region: Hanoi*
 **Ingredients:** 250g rice flour, 50g tapioca starch, 600ml water, pinch salt. **Filling:** 200g ground pork, 50g dried wood ear mushrooms (rehydrated, minced), 3 shallots (minced), 2 tsp fish sauce. **Serve:** nuoc cham, fried shallots, Vietnamese sausage (cha lua), bean sprouts, cucumber.
 1. Mix flour, starch, water, salt into thin batter.
-2. SautÃ© shallots, pork, mushrooms; season with fish sauce.
+2. Sauté shallots, pork, mushrooms; season with fish sauce.
 3. Oil a flat pan or steamer insert; pour thin batter layer; steam 2 min.
 4. Spoon filling on half; fold over and roll off with spatula.
 5. Serve with nuoc cham, fried shallots, accompaniments.
@@ -343,7 +343,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 1. Blend spice paste; fry in oil 5 min until fragrant.
 2. Add beef; coat in paste.
 3. Pour in coconut milk, lemongrass, kaffir lime leaves, turmeric leaves.
-4. Simmer uncovered on low heat 2â3 hours, stirring occasionally.
+4. Simmer uncovered on low heat 2–3 hours, stirring occasionally.
 5. As liquid reduces, stir more frequently. Add kerisik.
 6. Continue until beef is very dark, dry, and coated. Deep flavor, no sauce.
 
@@ -388,7 +388,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 *Region: Java*
 **Ingredients:** 300g tempeh (sliced), 3 tbsp kecap manis, 2 tbsp soy sauce, 2 cloves garlic (minced), 1 tsp turmeric, 1 tsp coriander, oil for frying.
 1. Marinate tempeh in soy, kecap manis, garlic, turmeric, coriander 30 min.
-2. Fry in hot oil until golden and crispy on both sides, 3â4 min.
+2. Fry in hot oil until golden and crispy on both sides, 3–4 min.
 3. Drain; serve as side dish or snack with sambal.
 
 ### Nasi Uduk (Fragrant Coconut Rice)
@@ -429,7 +429,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 
 *Region: Kuala Lumpur / Malaysia*
 **Ingredients:** 400ml coconut milk, 600ml chicken stock, 3 tbsp laksa paste, 200g tofu puffs (halved), 150g shrimp, 150g chicken (shredded), 200g thick rice noodles, 100g bean sprouts. **Garnish:** fresh laksa leaves (daun kesom), fried tofu, sambal, lime, cucumber.
-**Laksa paste:** dried chilies, shallots, garlic, lemongrass, galangal, candlenuts, shrimp paste, turmeric â blended.
+**Laksa paste:** dried chilies, shallots, garlic, lemongrass, galangal, candlenuts, shrimp paste, turmeric — blended.
 1. Fry laksa paste in oil 5 min until fragrant.
 2. Add chicken stock; simmer 10 min.
 3. Add coconut milk; bring to gentle simmer.
@@ -451,7 +451,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 
 *Region: Malaysia (national dish)*
 **Ingredients:** 2 cups jasmine rice, 400ml coconut milk, 200ml water, 3 pandan leaves, 1 tsp salt. **Accompaniments:** sambal ikan bilis (anchovies in chili paste), fried anchovies, hard-boiled egg, roasted peanuts, cucumber slices, banana leaf.
-**Sambal:** dried chilies, shallots, garlic, tamarind, sugar, oil â blend and fry until thick.
+**Sambal:** dried chilies, shallots, garlic, tamarind, sugar, oil — blend and fry until thick.
 1. Cook rice in coconut milk, water, pandan, salt.
 2. Prepare sambal; fry anchovies crispy.
 3. Wrap rice in banana leaf with all accompaniments.
@@ -483,7 +483,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 *Region: Singapore / Malaysia (Chinese-Hainanese)*
 **Ingredients:** 1 whole chicken, 3 stalks green onion, 3 slices ginger, salt. **Rice:** 2 cups jasmine rice, 2 tbsp chicken fat, 3 cloves garlic (minced), 1 tsp ginger (grated), 400ml chicken poaching stock, pandan leaf. **Sauces:** ginger paste (ginger + oil + salt), chili sauce (red chilies, garlic, ginger, lime, sugar), dark soy.
 1. Rub chicken with salt inside and out; stuff with ginger and green onion.
-2. Poach in gently simmering water 35â40 min until cooked; rest 15 min.
+2. Poach in gently simmering water 35–40 min until cooked; rest 15 min.
 3. Ice bath to firm skin; cut into pieces.
 4. Fry garlic and ginger in chicken fat; add rice; toast 2 min.
 5. Cook toasted rice in stock with pandan.
@@ -519,7 +519,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 
 *Region: Philippines*
 **Ingredients:** 1kg pork belly (cut into cubes), 1/2 cup vinegar, 1/3 cup soy sauce, 1 head garlic (crushed), 3 bay leaves, 1 tsp peppercorns, 1 tbsp oil.
-1. Same method as chicken adobo but simmer 40â50 min until pork very tender.
+1. Same method as chicken adobo but simmer 40–50 min until pork very tender.
 2. For dry adobo: continue cooking uncovered until sauce evaporates and pork fries in its own fat.
 
 ### Sinigang (Sour Soup)
@@ -538,7 +538,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 **Ingredients:** 20 spring roll wrappers, 400g ground pork, 100g shrimp (minced), 1 carrot (minced), 3 green onions (minced), 1 egg, 2 tbsp soy sauce, 1 tsp sesame oil, black pepper, oil for frying. **Dipping:** sweet chili sauce.
 1. Mix pork, shrimp, carrot, green onion, egg, soy, sesame oil, pepper.
 2. Roll 1 tbsp filling in wrapper into thin cylinder; seal with egg wash.
-3. Fry at 170Â°C until golden and cooked through, ~5 min.
+3. Fry at 170°C until golden and cooked through, ~5 min.
 4. Serve with sweet chili sauce.
 
 ### Lechon Kawali (Crispy Pork Belly)
@@ -547,15 +547,15 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 **Ingredients:** 1kg pork belly (whole slab), 1 head garlic, 3 bay leaves, 1 tbsp salt, 1 tsp peppercorns, water to boil, oil for deep frying. **Serve with:** liver sauce (Mang Tomas).
 1. Boil pork belly with garlic, bay leaves, salt, peppercorns 45 min until tender.
 2. Remove; air-dry uncovered in refrigerator 4+ hours or overnight.
-3. Deep fry at 180Â°C until skin blisters and crisps, 8â10 min.
+3. Deep fry at 180°C until skin blisters and crisps, 8–10 min.
 4. Drain; hack into pieces; serve with liver sauce.
 
 ### Kare-Kare (Peanut Oxtail Stew)
 
 *Region: Pampanga, Philippines*
 **Ingredients:** 1kg oxtail + 500g tripe, 200g ground roasted peanuts, 3 tbsp peanut butter, 2 tbsp annatto water (achuete + warm water), 1 onion (diced), 4 cloves garlic, 100g banana blossom, 100g eggplant, 100g sitaw, 100g bok choy, salt, shrimp paste (bagoong) to serve.
-1. Boil oxtail and tripe 2â3 hours until very tender; reserve broth.
-2. SautÃ© onion and garlic; add annatto water.
+1. Boil oxtail and tripe 2–3 hours until very tender; reserve broth.
+2. Sauté onion and garlic; add annatto water.
 3. Add broth (3 cups), ground peanuts, peanut butter; stir until smooth.
 4. Add oxtail and tripe; simmer 15 min.
 5. Add vegetables in stages (banana blossom first, then eggplant, sitaw, bok choy).
@@ -565,7 +565,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 
 *Region: Philippines (Chinese-Filipino)*
 **Ingredients:** 200g rice vermicelli (soaked), 200g chicken breast (shredded), 100g shrimp, 100g cabbage (shredded), 2 carrots (julienned), 2 celery stalks (sliced), 3 cloves garlic, 1 onion, 3 tbsp soy sauce, 1 tbsp oyster sauce, chicken broth, oil, calamansi (or lime) to serve.
-1. SautÃ© garlic and onion; add chicken and shrimp.
+1. Sauté garlic and onion; add chicken and shrimp.
 2. Add carrots, celery, cabbage; cook 3 min.
 3. Add drained noodles; pour broth to moisten.
 4. Season with soy sauce and oyster sauce; toss until noodles absorb liquid.
@@ -603,7 +603,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 2. Add sambal; cook 2 min.
 3. Add crabs; stir-fry 3 min.
 4. Add tomato sauce, sweet chili, soy sauce, sugar, 200ml water.
-5. Cover; cook 8â10 min until crabs cooked.
+5. Cover; cook 8–10 min until crabs cooked.
 6. Stir in cornstarch slurry; drizzle in beaten eggs while stirring gently.
 7. Garnish with cilantro; serve with mantou to mop up sauce.
 
@@ -620,11 +620,11 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 ### Kaya Toast with Soft Eggs
 
 *Region: Singapore / Kopitiam (coffee shop) culture*
-**Ingredients:** 4 slices white bread (toasted until crispy), 4 tbsp kaya (coconut-egg jam), salted butter. **Kaya:** 4 egg yolks, 200ml coconut milk, 100g sugar, 3 pandan leaves. **Soft eggs:** 2 eggs, hot water (65Â°C), soy sauce, white pepper.
-**Kaya:** Whisk yolks, sugar, coconut milk, pandan in double boiler; stir 20â30 min until thick jam consistency.
+**Ingredients:** 4 slices white bread (toasted until crispy), 4 tbsp kaya (coconut-egg jam), salted butter. **Kaya:** 4 egg yolks, 200ml coconut milk, 100g sugar, 3 pandan leaves. **Soft eggs:** 2 eggs, hot water (65°C), soy sauce, white pepper.
+**Kaya:** Whisk yolks, sugar, coconut milk, pandan in double boiler; stir 20–30 min until thick jam consistency.
 1. Toast bread until crisp.
 2. Spread kaya on one slice, cold butter on other; sandwich.
-3. Soft eggs: lower eggs into 65Â°C water; cover 13 min. Crack into bowl; season with soy and white pepper.
+3. Soft eggs: lower eggs into 65°C water; cover 13 min. Crack into bowl; season with soy and white pepper.
 4. Serve toast with soft eggs and Singaporean white coffee.
 
 ---
@@ -637,7 +637,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 **Ingredients:** 400g white fish fillets, 2 tbsp red curry paste, 1 egg, 2 tbsp fish sauce, 1 tsp sugar, 4 kaffir lime leaves (julienned), 100g long beans (thinly sliced), oil for frying. **Dipping sauce:** sweet chili sauce, cucumber relish.
 1. Process fish until smooth; mix in curry paste, egg, fish sauce, sugar.
 2. Fold in kaffir lime leaves and long beans by hand.
-3. Form 1cm-thick patties; fry in shallow oil at 170Â°C until golden, 3 min per side.
+3. Form 1cm-thick patties; fry in shallow oil at 170°C until golden, 3 min per side.
 4. Serve with sweet chili sauce and cucumber relish.
 
 ### Thai Basil Fried Rice (Khao Pad Kra Pao)
@@ -664,7 +664,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 *Region: Northeast Thailand*
 **Ingredients:** 2 cups glutinous rice, water.
 1. Soak rice in cold water overnight (or minimum 4 hours).
-2. Drain; steam in bamboo steamer over boiling water 20â25 min.
+2. Drain; steam in bamboo steamer over boiling water 20–25 min.
 3. Flip halfway through.
 4. Serve in banana leaf or sticky rice basket alongside larb, grilled meats.
 
@@ -712,7 +712,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 ### Nuoc Cham (Dipping Sauce)
 
 *Region: Vietnam (universal condiment)*
-**Ingredients:** 3 tbsp fish sauce, 3 tbsp lime juice, 2 tbsp sugar, 4 tbsp water, 2 cloves garlic (minced), 1â2 bird's eye chilies (sliced).
+**Ingredients:** 3 tbsp fish sauce, 3 tbsp lime juice, 2 tbsp sugar, 4 tbsp water, 2 cloves garlic (minced), 1–2 bird's eye chilies (sliced).
 1. Dissolve sugar in warm water; cool.
 2. Mix in fish sauce, lime juice, garlic, chilies.
 3. Adjust balance of salty, sour, sweet. Use as dipping sauce for everything.
@@ -722,7 +722,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 *Region: South Vietnam*
 **Ingredients:** 600g beef tenderloin (2cm cubes), 3 cloves garlic, 2 tbsp oyster sauce, 1 tbsp soy sauce, 1 tbsp fish sauce, 1 tsp sugar, 1 tsp sesame oil, black pepper. **Serve:** watercress, tomato, red onion, lime dipping sauce.
 1. Marinate beef 30 min.
-2. Heat wok until smoking; sear beef in small batches â "shake" pan constantly.
+2. Heat wok until smoking; sear beef in small batches — "shake" pan constantly.
 3. Cook 2 min for medium-rare.
 4. Serve on bed of watercress; squeeze lime over.
 
@@ -733,7 +733,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 1. Mix dough; knead 10 min; rest 1 hour.
 2. Season pork; divide filling into portions, each with quail egg and sausage.
 3. Flatten dough balls; wrap filling; pinch closed.
-4. Rest 30 min; steam 15â18 min.
+4. Rest 30 min; steam 15–18 min.
 
 ### Cha Ca La Vong (Turmeric Fish with Dill)
 
@@ -741,7 +741,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 **Ingredients:** 600g firm white fish (catfish, cut into chunks), 2 tbsp turmeric, 1 tbsp galangal (minced), 1 tbsp fish sauce, 1 tsp shrimp paste, oil. **Serve:** rice vermicelli, fresh dill, green onion, peanuts, nuoc cham, rice crackers.
 1. Marinate fish with turmeric, galangal, fish sauce, shrimp paste 1 hour.
 2. Pan-fry fish in oil until golden and cooked through.
-3. At table: place fish in hot pan with oil, dill, and green onion â sizzle tableside.
+3. At table: place fish in hot pan with oil, dill, and green onion — sizzle tableside.
 4. Wrap with noodles, herbs, peanuts; dip in nuoc cham.
 
 ### Banh Cuon Nhan Thit (Stuffed Rice Rolls)
@@ -768,7 +768,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 ### Ayam Goreng (Fried Chicken)
 
 *Region: Java*
-**Ingredients:** 1kg chicken pieces. **Marinade:** 4 shallots, 3 garlic, 2cm galangal, 2cm ginger, 1 tsp turmeric, 1 tsp coriander, 2 lemongrass, salt, sugar â blended. Oil for deep frying.
+**Ingredients:** 1kg chicken pieces. **Marinade:** 4 shallots, 3 garlic, 2cm galangal, 2cm ginger, 1 tsp turmeric, 1 tsp coriander, 2 lemongrass, salt, sugar — blended. Oil for deep frying.
 1. Marinate chicken in spice paste 2+ hours.
 2. Add 200ml water; braise until almost dry, 30 min.
 3. Deep fry braised chicken until golden and crispy.
@@ -795,8 +795,8 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 
 *Region: Indonesia (condiment)*
 **Ingredients:** 300g dried shrimp crackers (store-bought raw kerupuk), oil for deep frying.
-1. Heat oil to 190Â°C.
-2. Add 2â3 raw crackers; they puff within seconds.
+1. Heat oil to 190°C.
+2. Add 2–3 raw crackers; they puff within seconds.
 3. Remove when puffed and white; drain.
 4. Serve immediately as accompaniment.
 
@@ -817,7 +817,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 **Ingredients:** 2 cups glutinous rice (soaked), 400ml coconut milk, 1 tsp salt, banana leaf-lined bamboo tubes.
 1. Mix rice with coconut milk and salt.
 2. Pour into banana leaf-lined bamboo; seal.
-3. Cook over charcoal fire, rotating 2â3 hours.
+3. Cook over charcoal fire, rotating 2–3 hours.
 4. Slice; serve with rendang.
 
 ### Bubur Lambuk (Rice Porridge)
@@ -837,7 +837,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 
 *Region: Philippines*
 **Ingredients:** 1kg chicken pieces, 1.5L water, 100g green papaya or chayote (wedges), 100g malunggay (moringa) leaves or spinach, 3cm ginger (julienned), 1 onion (sliced), 4 cloves garlic, 2 tbsp fish sauce, 1 tbsp oil.
-1. SautÃ© garlic and onion; add ginger; add chicken and brown lightly.
+1. Sauté garlic and onion; add ginger; add chicken and brown lightly.
 2. Add water and fish sauce; bring to boil.
 3. Simmer 30 min; add papaya; cook 10 min.
 4. Add malunggay leaves last; cook 2 min. Serve with rice.
@@ -846,7 +846,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 
 *Region: Philippines*
 **Ingredients:** 400g pumpkin (cubed), 200g shrimp, 100g long beans, 400ml coconut milk, 3 cloves garlic, 1 onion, 2 tbsp bagoong (shrimp paste), oil.
-1. SautÃ© garlic, onion, bagoong in oil.
+1. Sauté garlic, onion, bagoong in oil.
 2. Add pumpkin; cook 5 min.
 3. Add coconut milk; simmer until pumpkin tender, 15 min.
 4. Add shrimp and long beans; cook 5 min. Season.
@@ -855,7 +855,7 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 
 *Region: Bicol, Philippines*
 **Ingredients:** 400g pork belly (cubed), 400ml coconut milk, 100g long green chilies (sliced), 50g dried shrimp, 3 cloves garlic, 1 onion, 2 tbsp bagoong, 2 tsp sugar.
-1. SautÃ© garlic, onion; add pork, cook 10 min.
+1. Sauté garlic, onion; add pork, cook 10 min.
 2. Add dried shrimp and bagoong; cook 3 min.
 3. Add coconut milk and chilies; simmer 25 min until pork tender and sauce thick.
 4. Season with sugar. Spicy, creamy, salty.
@@ -864,29 +864,29 @@ Thai Â· Vietnamese Â· Indonesian Â· Malaysian Â· Filipino Â· Singapore
 
 *Region: Philippines (Chinese-Filipino)*
 **Ingredients:** 1 cup rice, 1.5L chicken broth, 400g chicken (bone-in), 3cm ginger (julienned), 4 cloves garlic, 1 onion, 2 tbsp fish sauce, oil. **Garnish:** fried garlic, hard-boiled egg, green onion, calamansi, safflower (kasubha).
-1. SautÃ© garlic, onion, ginger; add chicken, cook 5 min.
+1. Sauté garlic, onion, ginger; add chicken, cook 5 min.
 2. Add rice; toast 2 min.
-3. Add broth; simmer 30â40 min, stirring, until porridge consistency.
+3. Add broth; simmer 30–40 min, stirring, until porridge consistency.
 4. Season; serve with garnishes.
 
 ### Dinuguan (Pork Blood Stew)
 
 *Region: Philippines*
 **Ingredients:** 500g pork belly + 200g pork intestines (cleaned), 250ml pork blood, 200ml pork broth, 1/4 cup vinegar, 4 long green chilies, 6 cloves garlic, 1 onion, 2 tbsp fish sauce, oil.
-1. SautÃ© garlic and onion; add pork, cook until lightly browned.
+1. Sauté garlic and onion; add pork, cook until lightly browned.
 2. Add broth; simmer 30 min.
 3. Pour in pork blood; stir quickly to prevent clumping.
 4. Add vinegar; do not stir for 2 min. Then stir.
 5. Add chilies; season. Serve with puto (rice cakes).
 
-### Leche Flan (Filipino CrÃ¨me Caramel)
+### Leche Flan (Filipino Crème Caramel)
 
 *Region: Philippines (Spanish influence)*
 **Ingredients:** 10 egg yolks, 400ml condensed milk, 200ml evaporated milk, 1 tsp vanilla, 1/2 tsp lime zest. **Caramel:** 1/2 cup sugar, 2 tbsp water.
 1. Caramelize sugar with water; pour into llanera (oval molds).
-2. Mix yolks, condensed milk, evaporated milk, vanilla, zest â strain.
+2. Mix yolks, condensed milk, evaporated milk, vanilla, zest — strain.
 3. Pour over caramel; cover with foil.
-4. Steam over low heat 35â40 min until just set.
+4. Steam over low heat 35–40 min until just set.
 5. Cool; invert onto plate.
 
 ---

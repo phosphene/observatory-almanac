@@ -1,8 +1,8 @@
-# Robert's Rules of Order â For Regular People
+# Robert's Rules of Order — For Regular People
 
-*The Observatory Almanac â Section 18*
+*The Observatory Almanac — Section 18*
 
-Robert's Rules of Order is a parliamentary procedure system that has run American meetings since 1876. Most people encounter it at HOA meetings, nonprofit boards, unions, civic organizations, or school committees â and feel completely lost.
+Robert's Rules of Order is a parliamentary procedure system that has run American meetings since 1876. Most people encounter it at HOA meetings, nonprofit boards, unions, civic organizations, or school committees — and feel completely lost.
 
 This guide covers the essentials without the 800-page manual.
 
@@ -11,12 +11,12 @@ This guide covers the essentials without the 800-page manual.
 ## The Point of Parliamentary Procedure
 
 To run meetings that are:
-- **Fair** â everyone gets a voice
-- **Efficient** â things actually get decided
-- **Orderly** â chaos doesn't win
-- **Documented** â decisions are recorded and stick
+- **Fair** — everyone gets a voice
+- **Efficient** — things actually get decided
+- **Orderly** — chaos doesn't win
+- **Documented** — decisions are recorded and stick
 
-The rules aren't bureaucratic obstacles â they're protection. They prevent one loud person from steamrolling everyone, stop meetings from running three hours with no decisions, and create a record of what was actually agreed to.
+The rules aren't bureaucratic obstacles — they're protection. They prevent one loud person from steamrolling everyone, stop meetings from running three hours with no decisions, and create a record of what was actually agreed to.
 
 ---
 
@@ -24,12 +24,12 @@ The rules aren't bureaucratic obstacles â they're protection. They prevent 
 
 ### The Order of Business (Typical Agenda)
 
-1. **Call to Order** â Chair opens the meeting
-2. **Roll Call / Quorum Check** â Do we have enough people to act?
-3. **Approval of Minutes** â Were the previous meeting's notes correct?
-4. **Reports** â Officers, committees
-5. **Old Business (Unfinished Business)** â Items carried over from last meeting
-6. **New Business** â New items brought to the floor
+1. **Call to Order** — Chair opens the meeting
+2. **Roll Call / Quorum Check** — Do we have enough people to act?
+3. **Approval of Minutes** — Were the previous meeting's notes correct?
+4. **Reports** — Officers, committees
+5. **Old Business (Unfinished Business)** — Items carried over from last meeting
+6. **New Business** — New items brought to the floor
 7. **Announcements**
 8. **Adjournment**
 
@@ -62,14 +62,14 @@ A member raises their hand (or stands) and waits to be acknowledged by the chair
 
 > "I move that we [specific action: approve the budget / table this item / appoint a committee / etc.]"
 
-Use "I move" or "I make a motion." Avoid "I'd like to propose" or "can we maybe..." â vague language leads to confusion about what was actually decided.
+Use "I move" or "I make a motion." Avoid "I'd like to propose" or "can we maybe..." — vague language leads to confusion about what was actually decided.
 
 **3. Another member seconds the motion**
 A second indicates that at least one other person wants the motion discussed. If no second, the motion dies.
 
 > "Second." (or "I second the motion.")
 
-A second is NOT an endorsement â it just means "I think this is worth discussing."
+A second is NOT an endorsement — it just means "I think this is worth discussing."
 
 **4. The chair states the motion**
 
@@ -120,7 +120,7 @@ These take priority over the main motion and must be resolved first.
 
 **Previous Question (Close Debate):** "I move the previous question." If adopted (requires 2/3 vote), debate ends immediately and a vote is taken. This is the parliamentary way to say "let's just vote already."
 
-**Table (Lay on the Table):** "I move to table this motion." Postpones it indefinitely. Note: in common usage people say "table" when they mean postpone to next meeting â but technically "tabling" in Robert's Rules means set it aside until a majority votes to take it up again.
+**Table (Lay on the Table):** "I move to table this motion." Postpones it indefinitely. Note: in common usage people say "table" when they mean postpone to next meeting — but technically "tabling" in Robert's Rules means set it aside until a majority votes to take it up again.
 
 ### Privileged Motions (urgent, unrelated to current business)
 
@@ -139,7 +139,7 @@ These take priority over the main motion and must be resolved first.
 
 **Appeal from the decision of the chair:** "I appeal the decision of the chair." Requires a second. Allows the full group to overrule the chair. Vote: majority overrides the chair.
 
-**Division of the Assembly:** "Division!" Demands a counted vote after a voice vote seems too close to call. No motion needed â just call out "Division."
+**Division of the Assembly:** "Division!" Demands a counted vote after a voice vote seems too close to call. No motion needed — just call out "Division."
 
 **Withdraw a motion:** The maker can withdraw their own motion before it's been debated (doesn't require a vote). After debate begins, requires majority consent.
 
@@ -152,7 +152,7 @@ These take priority over the main motion and must be resolved first.
 | **Majority** (more than half of votes cast) | Most motions |
 | **Two-thirds** (2/3 of votes cast) | Limiting rights, suspending rules, closing debate, amending bylaws |
 | **Majority of entire membership** | Some bylaw changes (check your bylaws) |
-| **Unanimous** (or no objection) | Routine/uncontested items â "Is there any objection to...? Hearing none..." |
+| **Unanimous** (or no objection) | Routine/uncontested items — "Is there any objection to...? Hearing none..." |
 
 ---
 
@@ -176,7 +176,7 @@ The chair (president, facilitator) conducts the meeting. Key principles:
 
 ## Minutes: What They Are and How to Take Them
 
-**Minutes are the official record of what was decided** â not a transcript of debate.
+**Minutes are the official record of what was decided** — not a transcript of debate.
 
 ### What Minutes MUST Include
 
@@ -230,7 +230,7 @@ Scheduled, recurring meeting for normal business. Most organizations meet monthl
 
 ### Special Meeting
 
-Called for a specific purpose outside the regular schedule. Only the stated purpose may be addressed â no new business.
+Called for a specific purpose outside the regular schedule. Only the stated purpose may be addressed — no new business.
 
 ### Executive Session
 
@@ -281,30 +281,30 @@ Formality scales with the stakes. A 5-person committee can conduct business pret
 ## When Things Go Wrong: Common Problems
 
 **The meeting is dominated by one person**
-â Chair interrupts: "Thank you. I want to make sure others have a chance to speak. [Other name], did you wish to be heard?"
+→ Chair interrupts: "Thank you. I want to make sure others have a chance to speak. [Other name], did you wish to be heard?"
 
 **People are talking over each other**
-â Chair: "Let's come to order. One person at a time. I recognize [Name]."
+→ Chair: "Let's come to order. One person at a time. I recognize [Name]."
 
 **No one will second a motion**
-â The motion dies for lack of second. Move on.
+→ The motion dies for lack of second. Move on.
 
 **People keep going back to debate after a vote**
-â "The motion has been decided. It is not in order to debate a question already decided."
+→ "The motion has been decided. It is not in order to debate a question already decided."
 
 **The meeting runs way over time**
-â At the start: set time limits on agenda items. Mid-meeting: "I move we limit discussion on this item to [X] minutes."
+→ At the start: set time limits on agenda items. Mid-meeting: "I move we limit discussion on this item to [X] minutes."
 
 **Two incompatible motions on the floor**
-â Only one main motion can be pending at a time. The second one is out of order until the first is resolved.
+→ Only one main motion can be pending at a time. The second one is out of order until the first is resolved.
 
 ---
 
 ## Further Learning
 
-* *Robert's Rules of Order, Newly Revised* (12th edition) â the authoritative source
-* *Robert's Rules of Order Simplified* â more accessible version
-* *The Standard Code of Parliamentary Procedure* â alternative system, simpler
+* *Robert's Rules of Order, Newly Revised* (12th edition) — the authoritative source
+* *Robert's Rules of Order Simplified* — more accessible version
+* *The Standard Code of Parliamentary Procedure* — alternative system, simpler
 * Your organization's bylaws override Robert's Rules where they conflict
 
 ---

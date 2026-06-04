@@ -1,8 +1,8 @@
-# February â Observatory Stats Daily
+# February — Observatory Stats Daily
 
 *Inspired by Harper's Index*
 
-*Observatory Statsâstyle statistics for every day of February. Includes leap day (Feb 29).*
+*Observatory Stats–style statistics for every day of February. Includes leap day (Feb 29).*
 
 ---
 
@@ -196,7 +196,7 @@
 * Number of species Darwin described in "On the Origin of Species": 0 (he described the theory; the book contained no formal species descriptions)
 * Estimated number of species that have gone extinct since life began on Earth: 5,000,000,000
 * Average time in years for a species to go extinct under natural (background) conditions: 1,000,000
-* Number of finch species Darwin observed in the GalÃ¡pagos that influenced his theory: 13
+* Number of finch species Darwin observed in the Galápagos that influenced his theory: 13
 * Year Abraham Lincoln was born (same day as Darwin): 1809
 * Age at which Lincoln was first elected to public office: 25
 * Number of known natural moons in our solar system: 290

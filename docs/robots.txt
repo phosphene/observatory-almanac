@@ -1,4 +1,4 @@
-# Staging environment — content will migrate to observatory.wiki
-# Disallow all crawlers until production migration is complete.
+# Observatory Almanac — GitHub Pages staging
+# No crawl restrictions. De-indexing handled by served
+# <meta name="robots" content="noindex, nofollow"> in page head.
 User-agent: *
-Disallow: /

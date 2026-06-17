@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "Footprint Record of Upper Paleolithic Caves in NW Eurasia",
+  "name": "Footprint Record of Upper Paleolithic Caves in NW Eurasia",
+  "description": "This paper synthesises footprint data from nine naturally sealed caves documented in Pastoors and Lenssen-Erz (2021), supplemented by five post-publication studies. Cave visitors frequently comprised multi-generational groups including small children, with direct evidence of child play at multiple sites. Behavioural patterns are consistent across caves from the Aurignacian through the Mesolithic: small groups, children in deep zones, spatially structured activity, and rare visitation. At sites with estimable recording windows, evidence records one to four visits across 700 to 15,000 years. A preservation asymmetry is identified: footprints survive preferentially in deep, undisturbed zones where transient activity occurred, while sustained occupation zones tend to destroy footprint evidence.",
+  "abstract": "This paper synthesises footprint data from nine naturally sealed caves documented in Pastoors and Lenssen-Erz (2021), supplemented by five post-publication studies. The footprint record shows that cave visitors frequently comprised multi-generational groups including small children, with direct evidence of child play at multiple sites. Behavioural patterns are consistent across caves spanning from the Aurignacian through the Mesolithic: small groups, children present in deep zones, spatially structured activity, and rare visitation. At sites where recording windows can be estimated, the evidence records between one and four visits across periods ranging from 700 to 15,000 years — with Ojo Guareña returning four visits across ~15,000 years of continuous accessibility. A preservation asymmetry is identified: footprints survive preferentially in deep, undisturbed zones where transient and exploratory activity occurred, while zones of sustained occupation tend to destroy footprint evidence.",
+  "author": {
+    "@type": "Person",
+    "name": "Jan Ritch-Frel",
+    "sameAs": "https://orcid.org/0009-0006-1206-6084",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Independent Media Institute",
+      "url": "https://independentmediainstitute.org"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Independent Media Institute",
+    "url": "https://independentmediainstitute.org"
+  },
+  "datePublished": "2026-06-16T00:00:00+00:00",
+  "dateModified": "2026-06-17T00:00:00+00:00",
+  "url": "https://independentmediainstitute.org/registry/imi-2026-001/",
+  "identifier": "https://doi.org/10.59888/imi.2026.001",
+  "sameAs": [
+    "https://doi.org/10.59888/imi.2026.001",
+    "https://observatory.wiki/Footprint_Record_of_Upper_Paleolithic_Caves_in_NW_Eurasia"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "inLanguage": "en",
+  "keywords": "cave ichnology; Upper Palaeolithic; prehistoric footprints; behavioral archaeology; preservation asymmetry; indigenous tracking"
+}

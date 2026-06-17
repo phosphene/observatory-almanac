@@ -1,0 +1,588 @@
+[
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Cultural",
+    "row": 19,
+    "site": "Head-Smashed-In Buffalo Jump",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.9,
+    "text_a": "Kooyman, Brian P. (2000). Understanding Stone Tools and Archaeological Sites. University of Calgary Press. https://doi.org/10.2307/j.ctv6gqs13",
+    "text_b": "Kooyman, Brian P. (2000). \"Understanding Stone Tools and Archaeological Sites.\" University of Calgary Press. https://doi.org/10.1515/9781552384688"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Cultural",
+    "row": 21,
+    "site": "Writing-on-Stone / \u00c1\u00eds\u00ednai\u2019pi",
+    "cit_a": 1,
+    "cit_b": 3,
+    "ratio": 0.95,
+    "text_a": "Keyser, James D. (1979). \"The Plains Indian War Complex and the Rock Art of Writing-On-Stone, Alberta, Canada.\" Journal of Field Archaeology Vol. 6, N",
+    "text_b": "Keyser, James D. (1979). \"The Plains Indian War Complex and the Rock Art of Writing-On-Stone, Alberta, Canada.\" Journal of Field Archaeology Vol. 6, N"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Cultural",
+    "row": 49,
+    "site": "Archaeological Site of Olympia",
+    "cit_a": 1,
+    "cit_b": 4,
+    "ratio": 1.0,
+    "text_a": "Vlahakis, Vassilios, Karigiannis, John, Tsotros, Manolis, et al. (2001). \"Archeoguide.\" Proceedings of the 2001 conference on Virtual reality, archeol",
+    "text_b": "Vlahakis, Vassilios, Karigiannis, John, Tsotros, Manolis, et al. (2001). \"Archeoguide.\" Proceedings of the 2001 conference on Virtual reality, archeol"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Cultural",
+    "row": 59,
+    "site": "Hortob\u00e1gy National Park - the Puszta",
+    "cit_a": 2,
+    "cit_b": 4,
+    "ratio": 0.9,
+    "text_a": "Szil\u00e1gyi, G\u00e1bor, Guly\u00e1s, S\u00e1ndor, V\u00e1ri, Tam\u00e1s Zsolt, et al. (2023). \"Late Quaternary Paleoecology and Environmental History of the Hortob\u00e1gy, an Alkali",
+    "text_b": "Szil\u00e1gyi, G\u00e1bor, Guly\u00e1s, S\u00e1ndor, V\u00e1ri, Tam\u00e1s Zsolt, et al. (2024). \"Late Quaternary Paleoecology and Environmental History of the Hortob\u00e1gy, an Alkali"
+  },
+  {
+    "type": "MISSING",
+    "sheet": "Cultural",
+    "row": 119,
+    "site": "Deer Stone Monuments and Related Bronze Age Sites",
+    "cit": 1,
+    "existing": {
+      "2": "Taylor, William Timothy Treal, Clark, Julia, Bayarsaikhan, Jamsranjav, et al. (2020). \"Early Pastoral Economies and Herd",
+      "3": "Verhagen, Philip and Whitley, Thomas G. (2012). \"Integrating Archaeological Theory and Predictive Modeling: a Live Repor",
+      "4": "Lambers, Karsten, Verschoof-van der Vaart, Wouter, and Bourgeois, Quentin (2019). \"Integrating Remote Sensing, Machine L",
+      "5": "Clarke, Joanne, Brooks, Nick, Banning, Edward B., et al. (2016). \"Climatic changes and social transformations in the Nea"
+    }
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Cultural",
+    "row": 169,
+    "site": "G\u00f6bekli Tepe",
+    "cit_a": 4,
+    "cit_b": 5,
+    "ratio": 1.0,
+    "text_a": "Zavalii, Oleksandr (2025). \"Cosmological Aspects of the Stelae of G\u00f6bekli Tepe and Their Parallels with the Religious Symbolism of the Trypillia Cultu",
+    "text_b": "Zavalii, Oleksandr (2025). \"Cosmological Aspects of the Stelae of G\u00f6bekli Tepe and Their Parallels with the Religious Symbolism of the Trypillia Cultu"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Mixed",
+    "row": 27,
+    "site": "Papah\u0101naumoku\u0101kea",
+    "cit_a": 2,
+    "cit_b": 5,
+    "ratio": 1.0,
+    "text_a": "Kikiloi, Kekuewa, Friedlander, Alan M., Wilhelm, 'Aulani, et al. (2017). \"Papah\u0101naumoku\u0101kea: Integrating Culture in the Design and Management of one o",
+    "text_b": "Kikiloi, Kekuewa, Friedlander, Alan M., Wilhelm, 'Aulani, et al. (2017). \"Papah\u0101naumoku\u0101kea: Integrating Culture in the Design and Management of one o"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Mixed",
+    "row": 30,
+    "site": "Maloti-Drakensberg Park",
+    "cit_a": 3,
+    "cit_b": 4,
+    "ratio": 0.93,
+    "text_a": "Stewart, Brian A., and Challis, Sam (2023). \"Becoming elands\u2019 people: Neoglacial subsistence and spiritual transformations in the Maloti-Drakensberg M",
+    "text_b": "Stewart, Brian A. Challis, Sam. (2023). Becoming elands\u2019 people: Neoglacial subsistence and spiritual transformations in the Maloti-Drakensberg Mounta"
+  },
+  {
+    "type": "EXACT-DUP",
+    "sheet": "Natural",
+    "row": 3,
+    "site": "Pen\u00ednsula Vald\u00e9s",
+    "cit_a": 1,
+    "cit_b": 5,
+    "text": "D\u2019Agostino, Valeria C., Heredia, Federico M., et al. (2023). \"Long-term monitoring of southern right whale feeding behavior indicates that Pen\u00ednsula V"
+  },
+  {
+    "type": "EXACT-DUP",
+    "sheet": "Natural",
+    "row": 10,
+    "site": "Heard and McDonald Islands",
+    "cit_a": 1,
+    "cit_b": 2,
+    "text": "Brooks, Cassandra M., Epstein, Graham, and Ban, Natalie C. (2019). \"Managing Marine Protected Areas in Remote Areas: The Case of the Subantarctic Hear"
+  },
+  {
+    "type": "EXACT-DUP",
+    "sheet": "Natural",
+    "row": 26,
+    "site": "Central Amazon Conservation Complex",
+    "cit_a": 2,
+    "cit_b": 5,
+    "text": "Rockstr\u00f6m, Johan, Steffen, Will, et al. (2009). \"Planetary Boundaries:  Exploring the Safe Operating Space for Humanity.\" Ecology and Society. Vol. 14"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 53,
+    "site": "China Danxia",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.93,
+    "text_a": "Peng, H. (2001). Danxia geomorphology of China: A review. Chinese Science Bulletin, 46(S1), 38\u201344. https://doi.org/10.1007/BF03187234",
+    "text_b": "Peng, H. (2000). \"Danxia geomorphology of China: A review.\" Chinese Science Bulletin, 45(21), 1923\u20131928. https://doi.org/10.1007/BF03187234"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 57,
+    "site": "Qinghai Hoh Xil",
+    "cit_a": 2,
+    "cit_b": 4,
+    "ratio": 0.89,
+    "text_a": "Xia, L., Yang, Q., Li, Z., Wu, Y., & Feng, Z. (2007). The effect of the Qinghai-Tibet railway on the migration of Tibetan antelope Pantholops hodgsoni",
+    "text_b": "Xia, Lin, Yang, Qisen, Li, Zengchao, et al. (2007). \"The effect of the Qinghai-Tibet railway on the migration of Tibetan antelope Pantholops hodgsonii"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 60,
+    "site": "Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf of China (Phase I)",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 1.0,
+    "text_a": "Studds, C. E., Kendall, B. E., Murray, N. J., Wilson, H. B., Rogers, D. I., Clemens, R. S., Gosbell, K., Hassell, C. J., Jessop, R., Melville, D. S., ",
+    "text_b": "Studds, C. E., Kendall, B. E., Murray, N. J., Wilson, H. B., Rogers, D. I., Clemens, R. S., Gosbell, K., Hassell, C. J., Jessop, R., Melville, D. S., "
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 62,
+    "site": "Malpelo Fauna and Flora Sanctuary",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Bessudo, S., Soler, G. A., Klimley, A. P., Ketchum, J. T., Hearn, A., & Arauz, R. (2011). \"Residency of the scalloped hammerhead shark (Sphyrna lewini",
+    "text_b": "Bessudo, S., Soler, G. A., Klimley, A. P., Ketchum, J. T., Hearn, A., & Arauz, R. (2011). Residency of the scalloped hammerhead shark (Sphyrna lewini)"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 63,
+    "site": "Forest Massif of Odzala-Kokoua",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Bermejo, M., Rodr\u00edguez-Teijeiro, J. D., Illera, G., Barroso, A., Vil\u00e0, C., & Walsh, P. D. (2006). \"Ebola outbreak killed 5000 gorillas.\" Science, 314(",
+    "text_b": "Bermejo, M., Rodr\u00edguez-Teijeiro, J. D., Illera, G., Barroso, A., Vil\u00e0, C., & Walsh, P. D. (2006). Ebola outbreak killed 5000 gorillas. Science, 314(58"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 66,
+    "site": "Ta\u00ef National Park",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Boesch, C., & Boesch, H. (1989). \"Hunting behavior of wild chimpanzees in the Ta\u00ef National Park.\" American Journal of Physical Anthropology, 78(4), 54",
+    "text_b": "Boesch, C., & Boesch, H. (1989). Hunting behavior of wild chimpanzees in the Ta\u00ef National Park. American Journal of Physical Anthropology, 78(4), 547\u2013"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 69,
+    "site": "Alejandro de Humboldt National Park",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.92,
+    "text_a": "Borhidi, A. (1996). Phytogeography and vegetation ecology of Cuba. Akad\u00e9miai Kiad\u00f3.",
+    "text_b": "Borhidi, A. (1996). Phytogeography and Vegetation Ecology of Cuba (2nd ed.). Akad\u00e9miai Kiad\u00f3."
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 76,
+    "site": "Ilulissat Icefjord",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.96,
+    "text_a": "Holland, D. M., Thomas, R. H., de Young, B., Ribergaard, M. H., & Lyberth, B. (2008). \"Acceleration of Jakobshavn Isbr\u00e6 triggered by warm subsurface o",
+    "text_b": "Holland, D. M., Thomas, R. H., De Young, B., Ribergaard, M. H., & Lyberth, B. (2008). Acceleration of Jakobshavn Isbr\u00e6 triggered by warm subsurface oc"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 85,
+    "site": "Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.98,
+    "text_a": "Payri, C. E., Allain, V., Aucan, J., David, C., David, V., Dutheil, C., Loubersac, L., Menkes, C., Pelletier, B., Pestana, G., & Samadi, S. (2019). \"N",
+    "text_b": "Payri, C. E., Allain, V., Aucan, J., David, C., David, V., Dutheil, C., Loubersac, L., Menkes, C., Pelletier, B., Pestana, G., & Samadi, S. (2019). Ne"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 88,
+    "site": "French Austral Lands and Seas",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Weimerskirch, H., Zotier, R., & Jouventin, P. (1989). \"The avifauna of the Kerguelen Islands.\" Emu, 89(1), 15\u201329. https://doi.org/10.1071/MU9890015",
+    "text_b": "Weimerskirch, H., Zotier, R., & Jouventin, P. (1989). The avifauna of the Kerguelen Islands. Emu, 89(1), 15\u201329. https://doi.org/10.1071/MU9890015"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 97,
+    "site": "Kaziranga National Park",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.96,
+    "text_a": "Talukdar, B. K., Emslie, R., Bist, S. S., Choudhury, A., Ellis, S., Bonal, B. S., Malakar, M. C., Talukdar, B. N., & Barua, M. (2008). \"Rhinoceros uni",
+    "text_b": "Talukdar, B. K., Emslie, R., Bist, S. S., Choudhury, A., Ellis, S., Bonal, B. S., Malakar, M. C., Talukdar, B. N., & Barua, M. (2008). Rhinoceros unic"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 98,
+    "site": "Manas Wildlife Sanctuary",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Lahkar, B. P., Talukdar, B. K., & Sarma, P. (2011). Invasive species in grassland habitat: An ecological threat to the greater one-horned rhino (Rhino",
+    "text_b": "Lahkar, B. P., Talukdar, B. K., & Sarma, P. (2011). \"Invasive species in grassland habitat: An ecological threat to the greater one-horned rhino (Rhin"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 100,
+    "site": "Sundarbans National Park",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.98,
+    "text_a": "Gopal, B., & Chauhan, M. (2006). \"Biodiversity and its conservation in the Sundarban Mangrove Ecosystem.\" Aquatic Sciences, 68(3), 338\u2013354. https://do",
+    "text_b": "Gopal, B., & Chauhan, M. (2006). Biodiversity and its conservation in the Sundarban mangrove ecosystem. Aquatic Sciences, 68(3), 338\u2013354. https://doi."
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 101,
+    "site": "Western Ghats",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Myers, N., Mittermeier, R. A., Mittermeier, C. G., da Fonseca, G. A. B., & Kent, J. (2000). \"Biodiversity hotspots for conservation priorities.\" Natur",
+    "text_b": "Myers, N., Mittermeier, R. A., Mittermeier, C. G., da Fonseca, G. A. B., & Kent, J. (2000). Biodiversity hotspots for conservation priorities. Nature,"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 102,
+    "site": "Great Himalayan National Park Conservation Area",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Pandey, S. (2008). Linking ecodevelopment and biodiversity conservation at the Great Himalayan National Park, India: Lessons learned. Biodiversity and",
+    "text_b": "Pandey, S. (2008). \"Linking ecodevelopment and biodiversity conservation at the Great Himalayan National Park, India: Lessons learned.\" Biodiversity a"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 105,
+    "site": "Lorentz National Park",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Beehler, B. M. (2007). \"Introduction to Papua.\" In A. J. Marshall & B. M. Beehler (Eds.), The Ecology of Papua (pp. 3\u201313). Periplus Editions.",
+    "text_b": "Beehler, B. M. (2007). Introduction to Papua. In A. J. Marshall & B. M. Beehler (Eds.), The ecology of Papua (pp. 3\u201313). Periplus Editions."
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 107,
+    "site": "Kerinci Seblat National Park",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Wich, S. A., Singleton, I., Nowak, M. G., Utami-Atmoko, S. S., Nisam, G., Arif, S. M., Putra, R. H., Ardi, R., Fredriksson, G., Usher, G., Gaveau, D. ",
+    "text_b": "Wich, S. A., Singleton, I., Nowak, M. G., Utami Atmoko, S. S., Nisam, G., Arif, S. M., Putra, R. H., Ardi, R., Fredriksson, G., Usher, G., Gaveau, D. "
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 109,
+    "site": "Lut Desert",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Mildrexler, D. J., Zhao, M., & Running, S. W. (2011). \"Satellite finds highest land skin temperatures on Earth.\" Bulletin of the American Meteorologic",
+    "text_b": "Mildrexler, D. J., Zhao, M., & Running, S. W. (2011). Satellite finds highest land skin temperatures on Earth. Bulletin of the American Meteorological"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 112,
+    "site": "Mount Etna",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Branca, S., Coltelli, M., Groppelli, G., & Lentini, F. (2011). \"Geological map of Etna volcano, 1:50,000 scale.\" Italian Journal of Geosciences, 130(3",
+    "text_b": "Branca, S., Coltelli, M., Groppelli, G., & Lentini, F. (2011). Geological map of Etna volcano, 1:50,000 scale. Italian Journal of Geosciences, 130(3),"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 123,
+    "site": "Lake Nakuru",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Tuite, C. H. (2000). \"The distribution and density of lesser flamingos in East Africa in relation to food availability and productivity.\" Waterbirds, ",
+    "text_b": "Tuite, C. H. (2000). The distribution and density of lesser flamingos in East Africa in relation to food availability and productivity. Waterbirds, 23"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 126,
+    "site": "Andrefana Dry Forests",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Wilm\u00e9, L., Goodman, S. M., & Ganzhorn, J. U. (2006). \"Biogeographic evolution of Madagascar's microendemic biota.\" Science, 312(5776), 1063\u20131065. http",
+    "text_b": "Wilm\u00e9, L., Goodman, S. M., & Ganzhorn, J. U. (2006). Biogeographic evolution of Madagascar's microendemic biota. Science, 312(5776), 1063\u20131065. https:"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 127,
+    "site": "Rainforests of the Atsinanana",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.98,
+    "text_a": "Goodman, S. M., & Benstead, J. P. (Eds.). (2003). The Natural History of Madagascar. University of Chicago Press.",
+    "text_b": "Goodman, S. M., & Benstead, J. P. (Eds.). (2003). The natural history of Madagascar. University of Chicago Press."
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 128,
+    "site": "Lake Malawi National Park",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Malinsky, M., Svardal, H., Tyers, A. M., Miska, E. A., Genner, M. J., Turner, G. F., & Durbin, R. (2018). \"Whole-genome sequences of Malawi cichlids r",
+    "text_b": "Malinsky, M., Svardal, H., Tyers, A. M., Miska, E. A., Genner, M. J., Turner, G. F., & Durbin, R. (2018). Whole-genome sequences of Malawi cichlids re"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 135,
+    "site": "Monarch Butterfly Biosphere Reserve",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.98,
+    "text_a": "Brower, L. P., Taylor, O. R., Williams, E. H., Slayback, D. A., Zubieta, R. R., & Ram\u00edrez, M. I. (2012). \"Decline of monarch butterflies overwintering",
+    "text_b": "Brower, L. P., Taylor, O. R., Williams, E. H., Slayback, D. A., Zubieta, R. R., & Ram\u00edrez, M. I. (2012). Decline of monarch butterflies overwintering "
+  },
+  {
+    "type": "MISSING",
+    "sheet": "Natural",
+    "row": 140,
+    "site": "Sagarmatha National Park",
+    "cit": 3,
+    "existing": {
+      "1": "Byers, A. (2005). \"Contemporary human impacts on alpine ecosystems in the Sagarmatha (Mt. Everest) National Park, Khumbu",
+      "2": "Salerno, F., Viviano, G., Manfredi, E. C., Caroli, P., Thakuri, S., & Tartari, G. (2013). Multiple carrying capacities f",
+      "4": "Palomo, Ignacio (2017). \"Climate Change Impacts on Ecosystem Services in High Mountain Areas: A Literature Review.\" Moun",
+      "5": "Lundmark, Cathy (2001). \"BioBriefs.\" BioScience Vol. 51, No. 10, pp. 896. https://doi.org/10.1641/0006-3568(2001)051[089"
+    }
+  },
+  {
+    "type": "EXACT-DUP",
+    "sheet": "Natural",
+    "row": 142,
+    "site": "Te Wahipounamu \u2013 South West New Zealand",
+    "cit_a": 1,
+    "cit_b": 2,
+    "text": "Wardle, P. (1991). Vegetation of New Zealand. Cambridge University Press."
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 145,
+    "site": "West Norwegian Fjords \u2013 Geirangerfjord and N\u00e6r\u00f8yfjord",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.91,
+    "text_a": "Holtedahl, H. (1967). Notes on the formation of fjords and fjord-valleys. Geografiska Annaler: Series A, Physical Geography, 49(2\u20134), 188\u2013203. https:/",
+    "text_b": "Holtedahl, H. (1967). \"Notes on the formation of fjords and fjord valleys.\" Geografiska Annaler: Series A, Physical Geography, 49(2\u20134), 188\u2013203. https"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 155,
+    "site": "Getbol, Korean Tidal Flats",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Murray, N. J., Phinn, S. R., DeWitt, M., Ferrari, R., Johnston, R., Lyons, M. B., Clinton, N., Thau, D., & Fuller, R. A. (2019). The global distributi",
+    "text_b": "Murray, N. J., Phinn, S. R., DeWitt, M., Ferrari, R., Johnston, R., Lyons, M. B., Clinton, N., Thau, D., & Fuller, R. A. (2019). \"The global distribut"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 158,
+    "site": "Lake Baikal",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Kozhova, O. M., & Izmest'eva, L. R. (Eds.). (1998). Lake Baikal: Evolution and Biodiversity. Backhuys Publishers.",
+    "text_b": "Kozhova, O. M., & Izmest'eva, L. R. (Eds.). (1998). Lake Baikal: Evolution and biodiversity. Backhuys Publishers."
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 162,
+    "site": "Western Caucasus",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.96,
+    "text_a": "Zazanashvili, N., Sanadiradze, G., Bukhnikashvili, A., Kandaurov, A., & Tarkhnishvili, D. (2004). \"Caucasus.\" In R. A. Mittermeier, P. Robles Gil, M. ",
+    "text_b": "Zazanashvili, N., Sanadiradze, G., Bukhnikashvili, A., Kandaurov, A., & Tarkhnishvili, D. (2004). Caucasus. In R. A. Mittermeier, P. R. Gil, M. Hoffma"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 163,
+    "site": "Natural System of Wrangel Island Reserve",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Vartanyan, S. L., Garutt, V. E., & Sher, A. V. (1993). \"Holocene dwarf mammoths from Wrangel Island in the Siberian Arctic.\" Nature, 362(6418), 337\u201334",
+    "text_b": "Vartanyan, S. L., Garutt, V. E., & Sher, A. V. (1993). Holocene dwarf mammoths from Wrangel Island in the Siberian Arctic. Nature, 362(6418), 337\u2013340."
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 166,
+    "site": "Nyungwe National Park",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.94,
+    "text_a": "Plumptre, A. J., Masozera, M., Fashing, P. J., McNeilage, A., Ewango, C., Kaplin, B. A., & Liengola, I. (2002). Biodiversity Surveys of the Nyungwe Fo",
+    "text_b": "Plumptre, A. J., Masozera, M., Fashing, P. J., McNeilage, A., Ewango, C., Kaplin, B. A., & Liengola, I. (2002). Biodiversity surveys of the Nyungwe Fo"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 168,
+    "site": "\u2018Uruq Bani Ma\u2019arid",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.98,
+    "text_a": "Ostrowski, S., Bedin, E., Lenain, D. M., & Abuzinada, A. H. (1998). Ten years of Arabian oryx conservation breeding in Saudi Arabia\u2014Achievements and r",
+    "text_b": "Ostrowski, S., Bedin, E., Lenain, D. M., & Abuzinada, A. H. (1998). \"Ten years of Arabian oryx conservation breeding in Saudi Arabia: Achievements and"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 172,
+    "site": "Vall\u00e9e de Mai Nature Reserve",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Fleischer-Dogley, F., Kettle, C. J., Edwards, P. J., Ghazoul, J., M\u00e4\u00e4tt\u00e4nen, K., & Kaiser-Bunbury, C. N. (2011). Morphological and genetic differentia",
+    "text_b": "Fleischer-Dogley, F., Kettle, C. J., Edwards, P. J., Ghazoul, J., M\u00e4\u00e4tt\u00e4nen, K., & Kaiser-Bunbury, C. N. (2011). \"Morphological and genetic differenti"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 176,
+    "site": "Cape Floral Region Protected Areas",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Linder, H. P. (2003). \"The radiation of the Cape flora, southern Africa.\" Biological Reviews, 78(4), 597\u2013638. https://doi.org/10.1017/S146479310300617",
+    "text_b": "Linder, H. P. (2003). The radiation of the Cape flora, southern Africa. Biological Reviews, 78(4), 597\u2013638. https://doi.org/10.1017/S1464793103006171"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 186,
+    "site": "Swiss Alps Jungfrau-Aletsch",
+    "cit_a": 3,
+    "cit_b": 5,
+    "ratio": 0.94,
+    "text_a": "Bussard, Jonathan and Reynard, Emmanuel (2023). \"Conservation of World Heritage glacial landscapes in a changing climate: The Swiss Alps Jungfrau-Alet",
+    "text_b": "Bussard, Jonathan, Emmanuel Reynard (2023). \"Conservation of World Heritage glacial landscapes in a changing climate: The Swiss Alps Jungfrau-Aletsch "
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 205,
+    "site": "Serengeti National Park",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Holdo, R. M., Holt, R. D., & Fryxell, J. M. (2009). \"Opposing rainfall and plant nutritional gradients best explain the wildebeest migration in the Se",
+    "text_b": "Holdo, R. M., Holt, R. D., & Fryxell, J. M. (2009). Opposing rainfall and plant nutritional gradients best explain the wildebeest migration in the Ser"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 218,
+    "site": "Canaima National Park",
+    "cit_a": 1,
+    "cit_b": 2,
+    "ratio": 0.99,
+    "text_a": "Rull, V. (2005). \"Biotic diversification in the Guayana Highlands: A proposal.\" Journal of Biogeography, 32(6), 921\u2013927. https://doi.org/10.1111/j.136",
+    "text_b": "Rull, V. (2005). Biotic diversification in the Guayana Highlands: A proposal. Journal of Biogeography, 32(6), 921\u2013927. https://doi.org/10.1111/j.1365-"
+  },
+  {
+    "type": "NEAR-DUP",
+    "sheet": "Natural",
+    "row": 224,
+    "site": "Hyrcanian Forests",
+    "cit_a": 3,
+    "cit_b": 4,
+    "ratio": 1.0,
+    "text_a": "Karimi Baghmaleki, Majid (2025). \"Biodiversity and Conservation Ecology of the Hyrcanian Forests, Northern Iran: Patterns, Threats, and Management Per",
+    "text_b": "Karimi Baghmaleki, Majid (2025). \"Biodiversity and Conservation Ecology of the Hyrcanian Forests, Northern Iran: Patterns, Threats, and Management Per"
+  },
+  {
+    "type": "MISSING",
+    "sheet": "Natural",
+    "row": 225,
+    "site": "Bia\u0142owie\u017ca Forest",
+    "cit": 3,
+    "existing": {
+      "1": "Jaroszewicz, Bogdan, Olga Cholewi\u0144ska, Jerzy M. Gutowski, Tomasz Samojlik, Marcelina Zimny, and Ma\u0142gorzata Lata\u0142owa. (20",
+      "2": "Tomia\u0142oj\u0107, Ludwik, and Tomasz Weso\u0142owski. (2004). Diversity of the Bia\u0142owie\u017ca Forest Avifauna in Space and Time. Journal",
+      "4": "Samojlik, Tomasz, Ian D. Rotherham, and Bogumi\u0142a J\u0119drzejewska. (2013). Quantifying Historic Human Impacts on Forest Envi",
+      "5": "Jaroszewicz, Bogdan, Cholewi\u0144ska, Olga, et al. (2019). \"Bia\u0142owie\u017ca Forest\u2014A Relic of the High Naturalness of European Fo"
+    }
+  },
+  {
+    "type": "MISSING",
+    "sheet": "Natural",
+    "row": 5,
+    "site": "Los Alerces National Park",
+    "cit": 3,
+    "existing": {
+      "1": "Solari et al. 2007",
+      "2": "Butt & Turner 2012"
+    }
+  },
+  {
+    "type": "MISSING",
+    "sheet": "Natural",
+    "row": 5,
+    "site": "Los Alerces National Park",
+    "cit": 4,
+    "existing": {}
+  },
+  {
+    "type": "MISSING",
+    "sheet": "Natural",
+    "row": 5,
+    "site": "Los Alerces National Park",
+    "cit": 5,
+    "existing": {}
+  }
+]

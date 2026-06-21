@@ -1,5 +1,5 @@
 ---
-title: "\"You Can't Teach an Old Dog New Tricks\": A Snopes+ Review"
+title: "\"You Can't Teach an Old Dog New Tricks\""
 area: media
 type: article
 author: Observatory Editorial
@@ -8,121 +8,115 @@ source: Observatory Almanac
 source_url: https://observatory.wiki
 license: CC BY-NC-SA 4.0
 published: 2026-06-15
-updated: 2026-06-15
-series: Snopes+ Library
-earc_mode: C
+updated: 2026-06-18
+series: The Truth Vault
+earc_mode: R
 gap_category: distorted-but-grounded
 snopes_url: "not-addressed"
 snopes_verdict: "not-addressed"
 summary: >
-  The proverb "you can't teach an old dog new tricks" contradicts both veterinary and neuroscience evidence about learning capacity in aging. Both literally and metaphorically, the claim reflects outdated assumptions about aging that modern research has thoroughly debunked.
+  While older dogs learn more slowly than younger ones, they retain significant learning capacity throughout their lives. The proverb originated as a metaphor for human stubbornness rather than a literal claim about canine cognition, and modern research contradicts its implications about age-related learning limitations.
 tags:
-  - snopes-plus
+  - truth-vault
+  - animal-cognition
+  - proverbs
   - aging
-  - neuroscience
-  - animal-behavior
-  - psychology
-  - learning
+  - neuroplasticity
 ---
 
-# "You Can't Teach an Old Dog New Tricks": A Snopes+ Review
 
-## 1. Claim Statement
+# "You Can't Teach an Old Dog New Tricks"
 
-The proverb "you can't teach an old dog new tricks" asserts that aging fundamentally impairs learning capacity, making it impossible or impractical to acquire new skills, habits, or behaviors later in life. The saying operates on two levels: literally claiming that elderly dogs cannot learn new behaviors, and metaphorically extending this supposed limitation to aging humans in general.
 
-The folk wisdom implies that learning ability peaks early in life and then declines irreversibly, creating a threshold beyond which new skill acquisition becomes futile. This view treats aging as a process of inevitable cognitive decline that closes off possibilities for growth, adaptation, and change.
+## 1. The Claim
 
-## 2. Snopes Assessment
+This widely recognized proverb suggests that older individuals—whether dogs or humans—lose their capacity to learn new behaviors, skills, or habits as they age. When applied literally to dogs, the claim implies that senior canines cannot acquire new commands, behaviors, or responses to training. When used metaphorically about humans, it suggests that people become increasingly rigid and unteachable as they age, unable to adapt to new circumstances, technologies, or ways of thinking.
 
-Snopes has not systematically addressed this specific proverb, likely because it straddles the boundary between factual claims about animal behavior and metaphorical statements about human potential. The literal version about canine learning makes testable predictions about animal cognition, while the metaphorical usage ventures into psychology and gerontology.
+The proverb typically carries deterministic implications about aging, suggesting that learning capacity diminishes to near-zero in older individuals. It often serves as a justification for not attempting to teach new skills to older people or animals, or as an excuse for older individuals to avoid challenging themselves with new learning opportunities.
 
-The absence of direct fact-checking coverage may reflect the claim's position as "common sense" folk wisdom rather than a specific factual assertion requiring verification. However, both the literal and metaphorical versions make empirical claims that can be evaluated against scientific evidence.
+In contemporary contexts, the saying frequently appears in discussions about workplace training, technology adoption, educational programs for older adults, and pet training advice. It has become embedded in cultural assumptions about aging and learning capacity across many English-speaking societies.
 
-## 3. Claim Fidelity Audit
 
-The proverb demonstrates how observational limitations in pre-scientific contexts can create persistent misconceptions about natural processes. Before systematic study of animal behavior and human cognition, casual observation of aging patterns provided the primary evidence for beliefs about learning capacity across the lifespan.
+## 2. What's Actually True
 
-**Historical context**: The phrase appears in English literature as early as the 16th century, originating in an era when formal education was rare and most skill acquisition occurred during childhood apprenticeships. In this context, adults who hadn't learned particular skills by youth might indeed struggle to acquire them later, but this reflected social and economic constraints rather than biological limitations.
+**Historical Documentation**: The proverb appears in John Fitzherbert's "The Book of Husbandry" (1523) as "The dogge must lerne it, whan he is a whelpe, or els it wyll not be: for it is harde to make an olde dogge to stoupe." This early formulation explicitly concerns dog training rather than human behavior, suggesting the metaphorical application developed later.
 
-**Observational bias**: The apparent validity of the proverb may have stemmed from selective observation. Older animals and humans who successfully learned new behaviors might have been less visible or noteworthy than those who struggled, creating a confirmation bias that reinforced beliefs about age-related learning limitations.
+The modern form "You can't teach an old dog new tricks" was established by the 17th century and appeared in various collections of English proverbs. The saying gained widespread currency in American English by the 18th century and became a standard element of folk wisdom about aging and learning.
 
-**Economic and social factors**: In historical contexts, older individuals often faced practical barriers to learning new skills—lack of time due to work and family responsibilities, absence of educational opportunities, or social expectations that discouraged continued learning past a certain age. These environmental factors could easily be mistaken for inherent cognitive limitations.
+**Linguistic Evolution**: The proverb's evolution from specific dog-training advice to general metaphor about human learning reflects broader cultural assumptions about aging that developed before scientific understanding of neuroplasticity and lifelong learning capacity. The metaphorical extension assumes parallel learning limitations between dogs and humans that modern research does not support.
 
-## 4. Review Epistemology
+**Cultural Applications**: The proverb has been used to justify age discrimination in employment, to discourage educational opportunities for older adults, and to promote resignation about cognitive changes in aging. These applications often exceed what the evidence about age-related learning changes actually supports.
 
-Modern research on aging and learning capacity has fundamentally transformed our understanding of cognitive development across the lifespan. Both veterinary science and human neuroscience provide extensive evidence contradicting the proverb's basic assumptions.
 
-**Canine learning in senior dogs**: Lisa Wallis and colleagues (2014) conducted systematic studies of learning capacity in aging dogs, comparing younger (2-5 years) and senior (over 10 years) subjects on various cognitive tasks. While senior dogs showed slower learning rates and made more errors initially, they successfully acquired new behaviors and retained them over time. The research demonstrated that canine neuroplasticity persists into advanced age, though the speed and efficiency of learning may decline.
+**Canine Learning Studies**: Multiple controlled studies contradict the literal interpretation of the proverb. Milgram et al. (2005) demonstrated that cognitive enrichment programs improve learning performance in aged dogs, suggesting that disuse rather than inherent incapacity may explain some age-related learning difficulties. The research employed standardized cognitive batteries and longitudinal designs to track learning changes over time.
 
-**Neuroplasticity across the lifespan**: Neuroscience research has revolutionized understanding of brain plasticity in aging. Studies by Boyke et al. (2008) using magnetic resonance imaging showed gray matter increases in older adults learning to juggle, demonstrating that new skill acquisition actually triggers structural brain changes even in elderly subjects. This neuroplasticity research directly contradicts the folk assumption that aging brains become fixed and unchangeable.
+Studzinski et al. (2006) found that aged beagles could learn complex discrimination tasks when provided with appropriate environmental enrichment and modified training protocols. The study controlled for sensory changes and health status, isolating the effects of age on cognitive capacity rather than confounding variables.
 
-**Cognitive reserve and learning**: The concept of cognitive reserve, developed through longitudinal studies of aging, reveals that continued learning and mental stimulation actually protect against age-related cognitive decline. Denise Park and colleagues (2014) found that older adults who engaged in demanding, sustained activities like learning photography or quilting showed improved episodic memory compared to control groups engaging in less demanding activities.
+**Neurobiological Mechanisms**: Research on adult neurogenesis—the formation of new neurons in adult brains—demonstrates continued brain plasticity throughout life. Kempermann et al. (2018) reviewed extensive evidence for neurogenesis in the adult hippocampus of mammals, including both humans and dogs. While neurogenesis rates decline with age, they do not cease entirely, providing a biological foundation for continued learning capacity.
 
-**Age-related changes versus deficits**: While aging does involve changes in cognitive processing—typically slower processing speed and reduced working memory capacity—these changes don't prevent new learning. Research distinguishes between normal age-related changes and pathological cognitive decline, showing that healthy aging is compatible with continued skill acquisition throughout life.
+**Human Aging Research**: Gerontological research consistently demonstrates that healthy older adults retain substantial learning capacity, though they may benefit from modified instructional approaches. Park et al. (2014) showed that older adults could successfully learn complex new skills like digital photography and quilting, with learning curves that paralleled younger adults albeit at slower rates.
 
-**Motivation and learning context**: Studies of adult learning reveal that motivation, relevance, and instructional approach often matter more than chronological age. Older learners may require different pedagogical approaches—more time, clearer connections to existing knowledge, reduced time pressure—but these adaptations facilitate successful learning rather than revealing fundamental incapacity.
+**Motivational and Health Factors**: Age-related learning differences often reflect changes in motivation, health status, or sensory capacity rather than fundamental cognitive limitations. When these factors are controlled or accommodated through modified training approaches, age-related learning differences often diminish substantially.
 
-## 5. Conclusion Epistemology
 
-The persistence of the "old dog" proverb despite contradicting evidence reflects deeper cultural attitudes about aging, potential, and the nature of human development. The epistemological challenge involves separating observed limitations from assumed limitations.
+## 3. Why People Believe This
 
-**Fixed versus growth mindset**: Carol Dweck's research on mindset theory reveals how beliefs about learning capacity become self-fulfilling prophecies. Individuals who believe their abilities are fixed tend to avoid challenges and give up more easily, while those who view abilities as developable persist longer and achieve better outcomes. The "old dog" proverb embodies and reinforces a fixed mindset about aging.
+**Veterinary Behavioral Science**: Contemporary research on canine cognition demonstrates that dogs retain learning capacity throughout their lives, though with some age-related modifications. Chapagain et al. (2018) studied 95 Border Collies aged 5 months to 13 years, finding that while older dogs showed slower initial learning rates, they successfully acquired new tasks across all age groups. The study used standardized cognitive assessments and controlled for health status, demonstrating that age alone does not eliminate learning capacity in dogs.
 
-**Ageism and expectation effects**: Societal expectations about aging can create artificial barriers to learning. When older individuals internalize messages about cognitive decline, they may avoid learning opportunities or approach them with reduced confidence, creating apparent confirmation of age-related limitations that actually stem from social rather than biological factors.
+**Neuroplasticity Research**: Modern neuroscience has revised understanding of brain plasticity across the lifespan. Neuroplasticity—the brain's ability to form new neural connections and adapt—continues throughout life in both humans and other mammals. While the rate and efficiency of neuroplastic changes may decline with age, the capacity itself persists. This applies to both human and canine brains, contradicting the proverb's implications about categorical learning limitations in older individuals.
 
-**Lifespan development theory**: Modern developmental psychology views human development as a lifelong process rather than something that ends in early adulthood. Erik Erikson's stages of psychosocial development, Paul Baltes' model of successful aging, and other frameworks emphasize continued growth potential throughout the lifespan, directly contradicting the proverb's implicit developmental model.
+**Methodological Considerations**: Proper evaluation of age-related learning changes requires controlling for multiple variables including health status, motivation, sensory capacity, prior learning experience, and testing methodology. Early research that seemed to support age-related learning deficits often failed to control adequately for these factors, leading to conclusions that overstated age-related limitations.
 
-**Methodological considerations**: Early research on aging and cognition often suffered from cross-sectional designs that compared different generations rather than tracking individuals over time. These studies conflated cohort effects (differences in education, health, technology exposure) with age effects, leading to overestimation of age-related decline. Longitudinal studies provide a more accurate picture of aging's impact on learning capacity.
+**Comparative Cognition**: Research across multiple mammalian species demonstrates that learning capacity persists into advanced age, though it may require modified training approaches. Studies of aged laboratory mice, rats, primates, and domestic animals consistently show retained ability to acquire new behaviors, solve novel problems, and adapt to environmental changes.
 
-## 6. The Wider Field
 
-The "old dog" proverb operates within broader cultural narratives about aging, productivity, and human potential that shape both individual behavior and social policy.
+## 4. Verdict
 
-**Retirement and productivity assumptions**: The proverb aligns with industrial-age assumptions about human productivity that justify mandatory retirement and age-based employment discrimination. If learning capacity truly declined dramatically with age, these policies might be economically rational. However, evidence of continued learning ability challenges the economic logic of age-based workforce exclusion.
+**REJECTED**: The claim that "you can't teach an old dog new tricks" is false when interpreted literally and misleading when applied metaphorically. Scientific research demonstrates that both dogs and humans retain significant learning capacity throughout their lives, though learning may become slower or require modified approaches with age.
 
-**Lifelong learning movements**: Educational initiatives promoting lifelong learning directly counter the proverb's message. Programs like university courses for seniors, technology training for older adults, and career change support services demonstrate both demand for and success of learning opportunities across the lifespan.
+**Corrected Understanding**: Older dogs can and do learn new behaviors, commands, and adaptations to changed circumstances when provided with appropriate training methods that accommodate age-related changes in sensory capacity, physical mobility, and attention span. Similarly, older humans retain substantial learning capacity throughout life, though they may benefit from instructional approaches tailored to their needs and preferences.
 
-**Technology adoption patterns**: Rapid technological change provides natural experiments in adult learning capacity. While older adults may initially adopt new technologies more slowly than younger users, longitudinal studies show successful adaptation when appropriate support and motivation are present. The digital divide reflects access and training issues rather than fundamental learning incapacity.
+**Neurobiological Basis**: Neuroplasticity—the brain's capacity to form new connections and adapt—continues throughout life in mammals, providing the biological foundation for continued learning. While neuroplastic efficiency may decline with age, the capacity itself persists, contradicting the proverb's deterministic implications.
 
-**Healthcare and rehabilitation**: Medical rehabilitation after stroke, injury, or illness routinely involves teaching new skills to older patients. Physical therapy, occupational therapy, and speech therapy all depend on the brain's ability to form new neural pathways and acquire new behaviors, regardless of age. Success rates in rehabilitation contexts demonstrate practical applications of neuroplasticity throughout the lifespan.
+**Historical Context**: The proverb originated in 16th-century agricultural contexts where dog training methods were less sophisticated and understanding of animal cognition was limited. Its persistence reflects cultural assumptions about aging that predate scientific understanding of lifelong learning capacity and neuroplasticity.
 
-**Cognitive training interventions**: Commercial "brain training" programs and scientific cognitive interventions test whether targeted practice can improve specific cognitive abilities in older adults. While results are mixed regarding transfer to everyday functioning, studies consistently show that older adults can improve performance on trained tasks, again contradicting absolute statements about learning limitations.
+**Practical Implications**: The proverb can contribute to self-limiting beliefs and ageist attitudes that prevent both humans and animals from reaching their continued learning potential. Recognizing its inaccuracy can encourage more effective approaches to education and training across the lifespan.
 
-**Cultural variations in aging attitudes**: Cross-cultural research reveals significant variation in attitudes toward aging and learning capacity. Cultures that emphasize respect for elders and continued growth often show better cognitive outcomes in aging populations, suggesting that cultural expectations influence actual performance.
+**Research-Based Alternatives**: Evidence-based approaches to learning in later life emphasize adaptation rather than limitation. For dogs, this means adjusting training methods to accommodate sensory and mobility changes while maintaining cognitive challenge and engagement. For humans, it means designing educational experiences that build on accumulated knowledge while introducing new skills and perspectives.
 
-**Evolutionary perspectives**: From an evolutionary standpoint, the human capacity for lifelong learning likely provided adaptive advantages in changing environments. The extended human lifespan, particularly the post-reproductive years, may have evolved partly to allow continued knowledge acquisition and cultural transmission. This perspective challenges views of aging as purely degenerative.
+The "old dog" proverb represents a "distorted-but-grounded" myth because it contains observable elements (learning may become slower or more challenging with age) but extrapolates beyond what evidence supports (complete loss of learning capacity). Modern research reveals that learning capacity persists throughout life while acknowledging that effective learning strategies may need to evolve with age.
 
-**Economic implications**: The aging workforce in developed countries makes beliefs about learning capacity increasingly consequential for economic policy. If the proverb were true, population aging would necessarily reduce economic productivity and innovation. Evidence for continued learning ability suggests that age-diverse workforces may offer advantages rather than just challenges.
+**Educational Recommendation**: Training programs and educational interventions should focus on optimizing learning approaches for different life stages rather than assuming age-related limitations. This includes recognizing that older learners often bring valuable experience and different learning preferences that can enhance rather than hinder the acquisition of new skills and knowledge.
 
-**Intergenerational relationships**: The proverb can damage relationships between age groups by creating expectations of intellectual stagnation in older individuals. When younger people assume older adults can't learn new things, they may avoid sharing knowledge or involving elders in new activities, creating artificial barriers to continued growth.
+## 5. The Wider Picture
 
-**Animal cognition research**: Studies of learning in aging animals across species provide comparative context for human aging. Research on everything from laboratory rats to wild primates reveals species-specific patterns of cognitive aging, with some abilities declining while others remain stable or even improve. This comparative work helps distinguish universal aging patterns from human-specific cultural factors.
+**Ageism and Self-Limiting Beliefs**: The "old dog" proverb contributes to ageist attitudes that can become self-fulfilling prophecies. When older individuals internalize expectations about learning limitations, they may avoid challenging themselves with new skills, leading to cognitive decline through disuse rather than inherent aging processes. This phenomenon, known as "stereotype embodiment," has been documented extensively in gerontological research.
 
-## 7. Snopes+ Verdict
+**Educational Gerontology**: The field of educational gerontology has developed comprehensive models for effective learning in later life that contradict the proverb's implications. Programs like Osher Lifelong Learning Institutes demonstrate that older adults can successfully engage with complex academic material, new technologies, and novel skill domains when provided with appropriate instructional design.
 
-**Contrasted Analysis**: The proverb "you can't teach an old dog new tricks" is empirically false both literally and metaphorically. Scientific evidence from veterinary behavior research and human neuroscience demonstrates that learning capacity persists throughout the lifespan in both dogs and humans, though the rate and style of learning may change with age.
+**Veterinary Behavioral Medicine**: Modern veterinary practice emphasizes that senior dogs benefit from continued mental stimulation and can learn new behaviors throughout their lives. Veterinary behaviorists routinely work with aged dogs to modify problem behaviors, teach new commands, and adapt to changed circumstances. The key is adjusting training methods to accommodate age-related changes in sensory capacity, physical mobility, and attention span rather than assuming learning incapacity.
 
-**Literal Falsification**: Veterinary research definitively refutes the literal claim about canine learning. Lisa Wallis et al. (2014) showed that senior dogs (over 10 years) successfully learned new behaviors, retained training, and demonstrated cognitive flexibility. While older dogs learned more slowly and made more initial errors than younger subjects, they achieved successful outcomes across various tasks. Canine neuroplasticity research reveals that dog brains remain adaptable into advanced age.
+**Technology Adoption Research**: Studies of technology adoption among older adults reveal that resistance to new technologies often reflects design problems, inadequate training, or negative stereotypes rather than inherent learning limitations. When technologies are designed with older users in mind and training is appropriately structured, adoption rates among older adults can be substantial.
 
-**Neuroplasticity Evidence**: Human neuroscience provides overwhelming evidence against age-based learning limitations. Boyke et al. (2008) used MRI to document gray matter increases in older adults learning to juggle, proving that new skill acquisition triggers structural brain changes regardless of age. Park et al. (2014) found that sustained engagement in demanding activities like learning photography improved episodic memory in older adults compared to less challenging activities.
+**Cognitive Reserve Theory**: Research on cognitive reserve suggests that continued learning and mental stimulation throughout life may provide protection against age-related cognitive decline. This creates a positive feedback loop where continued learning maintains learning capacity, directly contradicting the proverb's fatalistic implications about aging and mental flexibility.
 
-**Methodological Insights**: The proverb's apparent validity likely stemmed from confounding factors in pre-scientific observation. Historical limitations in educational access, social expectations about aging, and economic constraints on older learners could create apparent confirmation of age-related incapacity that actually reflected environmental rather than biological barriers.
+**Cross-Species Cognitive Aging**: Comparative studies of cognitive aging across mammalian species reveal common patterns of preserved learning capacity alongside specific age-related changes. Dogs, like humans, show selective cognitive changes with aging—some capacities decline while others remain stable or even improve. This nuanced picture contradicts simple narratives about categorical age-related learning loss.
 
-**Age-Related Changes versus Deficits**: While aging does involve changes in cognitive processing—typically slower processing speed, reduced working memory, and different learning preferences—these changes represent adaptation rather than deterioration. Older learners often compensate for processing changes through superior strategy use, deeper knowledge bases, and better emotional regulation.
+**Training Methodology Evolution**: Modern animal training has evolved beyond traditional correction-based methods to embrace positive reinforcement techniques that work effectively across all age groups. Clicker training, food lure methods, and environmental management strategies can be successfully applied to senior dogs, often achieving better results than traditional "dominance-based" approaches.
 
-**Mindset Effects**: Research on growth versus fixed mindsets reveals that beliefs about learning capacity become self-fulfilling prophecies. The proverb embodies a fixed mindset about aging that can actually impair learning outcomes by reducing motivation, persistence, and risk-taking in educational contexts.
+**Neuroplasticity Interventions**: Research on cognitive training programs demonstrates that targeted interventions can maintain or even improve cognitive function in both aged humans and animals. Brain training games, physical exercise programs, and environmental enrichment can stimulate neuroplasticity and maintain learning capacity throughout life.
 
-**Cultural and Economic Context**: The proverb emerged in historical contexts where most learning occurred during childhood apprenticeships and formal education was rare. These social arrangements could create apparent age limits on learning that reflected institutional rather than cognitive constraints. Modern educational opportunities reveal learning potential that was previously masked by social barriers.
+**Successful Aging Paradigms**: The field of successful aging emphasizes maintaining engagement, learning, and adaptation throughout the lifespan rather than accepting decline as inevitable. This research framework directly challenges proverbs and cultural narratives that promote resignation about age-related limitations.
 
-**Rehabilitation Evidence**: Medical rehabilitation provides compelling real-world evidence of learning capacity in aging. Stroke recovery, physical therapy, and occupational therapy routinely involve teaching new motor and cognitive skills to older adults. Success rates in these contexts demonstrate practical applications of neuroplasticity across the lifespan.
+**Intergenerational Learning**: Studies of intergenerational learning programs demonstrate that older adults can effectively learn from younger instructors and peers, while also contributing their own knowledge and experience. These programs contradict stereotypes about older learners being rigid or unteachable.
 
-**Cross-Cultural Variation**: Societies with more positive aging attitudes often show better cognitive outcomes in older populations, suggesting that cultural expectations influence actual performance. The proverb may function as a self-limiting belief that creates artificial barriers to continued growth and development.
+**Workplace Age Discrimination**: The "old dog" proverb has been used to justify age discrimination in hiring, training opportunities, and technology implementation in workplace settings. Legal and ethical challenges to such discrimination increasingly rely on research demonstrating continued learning capacity in older workers.
 
-**Evolutionary Perspective**: The extended human lifespan, particularly post-reproductive longevity, likely evolved partly to enable continued learning and cultural transmission. From this perspective, lifelong learning capacity represents an adaptive advantage rather than an unfortunate accident.
+**Pet Industry Evolution**: The pet industry has increasingly recognized the importance of continued mental stimulation for senior dogs. Products like puzzle toys for older dogs, senior dog training classes, and cognitive enrichment programs reflect growing understanding that mental engagement remains important throughout a dog's lifespan.
 
-**Contemporary Relevance**: In an era of rapid technological change and population aging, beliefs about learning capacity have significant economic and social consequences. Evidence for continued learning ability suggests that age-diverse workforces and lifelong education represent opportunities rather than just challenges.
 
-**Educational Implications**: Understanding age-related changes in learning style rather than capacity enables better educational design for older learners. Appropriate pacing, connection to existing knowledge, and relevant contexts facilitate successful learning across the lifespan.
+## 6. How Fact-Checkers Handle It
 
-The contrasted analysis reveals that "you can't teach an old dog new tricks" represents one of the most thoroughly debunked pieces of folk wisdom in contemporary science. Both canine and human research demonstrate robust learning capacity that persists throughout life, though it may require different approaches and accommodations as learners age. The proverb's persistence despite contradicting evidence illustrates how cultural beliefs about aging can create self-limiting expectations that have real consequences for individual and societal development.
+While Snopes has not specifically fact-checked this proverb, the claim intersects with verifiable questions about animal cognition and human learning that can be evaluated through scientific evidence. The literal interpretation of the proverb—that older dogs cannot learn new behaviors—conflicts with established research in veterinary behavioral science and comparative cognition.
+
+The metaphorical interpretation—that older humans cannot learn effectively—also contradicts substantial research in gerontology, neuroscience, and educational psychology that demonstrates continued learning capacity throughout the human lifespan, albeit with some age-related changes in learning speed and efficiency.

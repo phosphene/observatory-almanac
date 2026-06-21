@@ -1,5 +1,5 @@
 ---
-title: "\"Humans Are Inherently Selfish / Altruism Is Really Self-Interest\": A Snopes+ Review"
+title: "\"Humans Are Inherently Selfish / Altruism Is Just Disguised Self-Interest\""
 area: media
 type: article
 author: Observatory Editorial
@@ -8,101 +8,121 @@ source: Observatory Almanac
 source_url: https://observatory.wiki
 license: CC BY-NC-SA 4.0
 published: 2026-06-15
-updated: 2026-06-15
-series: Snopes+ Library
-earc_mode: C
+updated: 2026-06-17
+series: The Truth Vault
+earc_mode: A
 gap_category: epistemologically-loaded
-snopes_url: "not-addressed"
-snopes_verdict: "not-addressed"
+snopes_url: not-addressed
+snopes_verdict: not-addressed
 summary: >
-  The claim that humans are inherently selfish and all altruism reduces to self-interest represents an unfalsifiable tautology rather than a scientific hypothesis, contradicted by extensive evidence for genuine altruistic motivation from developmental psychology, neuroscience, and evolutionary biology.
+  The claim that humans are inherently selfish reflects widespread misinterpretation of evolutionary theory and ignores extensive evidence for genuine altruism, serving ideological narratives rather than scientific accuracy.
 tags:
-  - snopes-plus
-  - human-nature
-  - altruism
-  - psychological-egoism
+  - truth-vault
   - evolutionary-psychology
-  - political-implications
+  - altruism
+  - human-nature
+  - political-ideology
 ---
 
-# "Humans Are Inherently Selfish / Altruism Is Really Self-Interest": A Snopes+ Review
 
-## 1. Claim Statement
+# "Humans Are Inherently Selfish / Altruism Is Just Disguised Self-Interest"
 
-The assertion that humans are fundamentally selfish beings whose apparent altruism always reduces to disguised self-interest represents one of the most persistent and consequential claims about human nature in contemporary discourse. This position, formally known as "psychological egoism," maintains that all human actions, regardless of appearance, ultimately serve the actor's self-interest through mechanisms like reputation enhancement, reciprocity expectations, genetic advantage, or simply the psychological pleasure derived from helping others.
 
-The claim typically manifests in several variations: that people help others only to feel good about themselves, that charitable giving is motivated by social status or tax benefits, that parental sacrifice serves genetic self-interest, that heroic actions reflect impulsive self-preservation or social conditioning rather than genuine concern for others, and that any behavior that appears altruistic can be reframed as serving hidden selfish motives upon deeper analysis. This perspective often positions itself as hard-headed realism that strips away comforting illusions about human nobility to reveal the calculating organism beneath.
+## 1. The Claim
 
-The philosophical and political implications are enormous, as this view of human nature provides justification for market-based social organization, skepticism toward collective action, and policies that assume individuals will only contribute to society when properly incentivized by self-interest. The claim shapes everything from economic theory to parenting advice to foreign policy, making its empirical accuracy a matter of substantial practical consequence beyond academic interest.
+The assertion that "humans are inherently selfish" or that "altruism is just disguised self-interest" represents one of the most pervasive and consequential beliefs about human nature in contemporary discourse. This claim maintains that all human behavior, when properly analyzed, ultimately serves self-interested motives, even when it appears altruistic on the surface. Proponents argue that evolution necessarily selected for selfish traits, making genuine concern for others impossible or illusory.
 
-## 2. Snopes Assessment
+This perspective typically cites evolutionary theory, particularly interpretations of "selfish gene" theory, to argue that cooperation and helping behavior only evolved when they provided indirect benefits to the helper. According to this view, apparent altruism can always be reduced to kin selection (helping relatives who share genes), reciprocal altruism (helping others who might help back), or reputation management (helping to appear virtuous for future advantage).
 
-Snopes has not directly fact-checked the broad claim about inherent human selfishness, likely because it presents as a philosophical position about human nature rather than a specific factual assertion amenable to traditional fact-checking methods. The claim's scope encompasses psychology, evolutionary biology, neuroscience, and philosophy in ways that make it seem beyond the typical purview of political and current events fact-checking that forms Snopes' primary focus.
+The claim extends beyond academic evolutionary psychology into everyday moral reasoning, political philosophy, and policy design. It suggests that social institutions should be built around the assumption of universal selfishness rather than attempting to cultivate or rely on genuine prosocial motivation. This "realist" approach to human nature has profoundly influenced economic theory, political science, and public policy for decades.
 
-However, the absence of coverage represents a significant gap given the claim's influence on public policy debates and social attitudes. The assertion makes specific empirical predictions about human behavior and motivation that can be tested experimentally, yet these testable components have not received systematic fact-checking attention despite their relevance to political arguments about taxation, social programs, and the role of government in addressing collective action problems.
+However, this characterization of human nature faces substantial challenges from experimental psychology, developmental research, neuroscience, and careful analysis of evolutionary theory itself. The claim represents a significant misinterpretation of evolutionary principles while ignoring robust evidence for genuine other-regarding behavior that cannot be reduced to disguised self-interest.
 
-The lack of Snopes engagement may also reflect the claim's status as "common sense" among certain ideological perspectives, making it seem like an opinion rather than a factual assertion. Yet the psychological egoism hypothesis makes specific claims about the non-existence of genuinely altruistic motivation that can be empirically evaluated through controlled studies of helping behavior, developmental psychology, and neuroscientific investigation of moral decision-making processes.
 
-## 3. Claim Fidelity Audit
+## 2. What's Actually True
 
-The psychological egoism claim suffers from fundamental logical and empirical problems that undermine its status as a scientific hypothesis about human motivation. Most critically, the position is structured as an unfalsifiable tautology: any apparent example of genuine altruism can be redefined as serving self-interest through increasingly creative post-hoc explanations. If someone helps a stranger, they must have done it to feel good; if they help anonymously, they must be satisfying unconscious psychological needs; if they sacrifice their lives for others, they must be serving genetic or social programming.
+The claim demonstrates poor fidelity to both evolutionary theory and empirical research on human behavior. The most fundamental error lies in the widespread misinterpretation of Richard Dawkins' "selfish gene" metaphor from his influential 1976 book. Dawkins used "selfish" to describe gene replication strategies, not organism behavior. A gene that promotes altruistic behavior in organisms can be "selfish" from the gene's perspective if such behavior increases the gene's likelihood of being passed to future generations.
 
-This unfalsifiability makes psychological egoism scientifically meaningless because it cannot be distinguished from genuine altruism through any possible evidence. A truly scientific claim about human motivation must specify what kinds of observations would prove it wrong, yet psychological egoism is constructed to accommodate any conceivable behavior pattern through redefinition rather than falsification.
+This crucial distinction has been systematically misunderstood in popular discourse, where "selfish genes" became interpreted as evidence that organisms, including humans, must be selfish. Dawkins himself has repeatedly clarified this misinterpretation, noting that his gene-level analysis was never intended to imply that altruistic behavior is impossible or illusory at the organism level.
 
-The empirical problems begin with developmental evidence that contradicts the assumption that altruistic behavior requires sophisticated understanding of self-interest. Warneken and Tomasello's landmark 2006 study demonstrated that 18-month-old infants spontaneously help strangers in laboratory settings without reward, praise, or social pressure. These children are too young to understand reputation, reciprocity, or most forms of delayed gratification, yet they consistently engage in helping behavior that provides no obvious benefit to themselves.
+The claim's fidelity is further compromised by selective attention to certain evolutionary mechanisms while ignoring others. While kin selection and reciprocal altruism can explain some cooperative behavior, they represent only a subset of evolutionary pathways to prosocial behavior. Group selection, cultural evolution, and gene-culture coevolution provide additional mechanisms through which genuine altruistic tendencies could evolve.
 
-The claim also misrepresents evolutionary biology by assuming that genetic influences necessarily produce selfish individual behavior. While Richard Dawkins' "selfish gene" metaphor suggested that genes promote their own replication, this process can favor genuinely altruistic individual behavior when it benefits genetically related group members (kin selection) or when it promotes group survival in inter-group competition (group selection). Hamilton's rule demonstrates mathematical conditions under which truly self-sacrificial behavior enhances genetic fitness, contradicting the assumption that genetic influence equals individual selfishness.
+Moreover, the claim typically fails to engage seriously with the distinction between ultimate evolutionary explanations (why traits evolved) and proximate psychological mechanisms (how individuals actually experience and express motivations). Even if altruistic behavior originally evolved for ultimately "selfish" genetic reasons, this doesn't determine whether individuals experience genuine concern for others in their actual decision-making processes.
 
-Neuroscientific evidence further challenges the egoism hypothesis. Harbaugh et al.'s 2007 fMRI study found that charitable giving activates reward centers in the brain, but this finding is often misinterpreted to support egoism claims. The fact that the brain rewards prosocial behavior doesn't prove that prosocial behavior is performed for the reward—it may indicate that evolution has shaped neural systems to motivate genuinely other-regarding behavior by making it psychologically satisfying.
 
-## 4. Review Epistemology
+Game theory and evolutionary modeling have demonstrated that cooperation and altruism can be evolutionarily stable strategies, contrary to simplistic interpretations suggesting that evolution must produce universal selfishness. Robert Axelrod's seminal work "The Evolution of Cooperation" showed that cooperative strategies can outperform purely selfish ones in repeated interactions, even when individuals are assumed to be rational self-maximizers.
 
-The scientific evidence regarding human altruistic capacity comes from converging research across multiple disciplines that consistently challenges pure egoism accounts of human motivation. Experimental psychology has developed sophisticated methodologies for distinguishing genuine other-regarding preferences from disguised self-interest, including studies that eliminate reputation concerns, reciprocity expectations, and direct self-benefit while maintaining opportunities for helping behavior.
+More sophisticated evolutionary models incorporating group selection, cultural transmission, and multi-level selection have shown how genuine altruistic tendencies could evolve under realistic conditions. Samuel Bowles and Herbert Gintis's research on "strong reciprocity" demonstrates that humans often cooperate and punish non-cooperators even when doing so is costly and provides no direct benefits.
 
-Daniel Batson's decades of empathy-altruism research employed elegant experimental designs to test whether empathic concern produces genuinely altruistic motivation. His studies manipulated participants' emotional responses to others in need while controlling for self-interest factors, consistently finding that empathic concern produces helping behavior that persists even when self-interested alternatives are available. Critics have proposed alternative explanations for these findings, but subsequent research has systematically eliminated plausible egoistic alternatives while replicating the basic empathy-altruism effect.
+The emergence of large-scale cooperation in human societies provides additional evidence against universal selfishness. Humans routinely engage in costly behaviors that benefit distant strangers, contribute to public goods, and make sacrifices for abstract moral principles. While some of this behavior might reflect reputation management or reciprocal benefits, the scale and consistency of human cooperation exceeds what would be predicted by purely self-interested models.
 
-Economic experiments using ultimatum games, dictator games, and public goods scenarios provide additional evidence for other-regarding preferences that cannot be reduced to self-interest. These studies consistently find that substantial portions of participants make choices that benefit others at personal cost, even in anonymous one-shot interactions where reputation and reciprocity concerns are eliminated. While individual variation is substantial, the consistent finding of non-trivial other-regarding behavior across cultures and experimental contexts contradicts strong egoism claims.
+Cross-cultural research reveals universal tendencies toward fairness, cooperation, and concern for others' welfare, though expressed through culturally variable mechanisms. The universality of moral systems across cultures, while differing in specific content, suggests deep-seated prosocial motivations that transcend simple self-interest.
 
-Developmental psychology provides particularly compelling evidence because it examines helping behavior before sophisticated social learning or self-interest calculation becomes possible. Studies of toddler helping, sharing, and comforting behaviors consistently find spontaneous prosocial responses that appear before children understand social rewards or long-term consequences. The early emergence of these behaviors suggests biological rather than purely cultural origins for altruistic motivation.
+Experimental economics has documented consistent patterns of behavior in ultimatum games, dictator games, and public goods games that violate predictions of rational self-interest theory. People regularly sacrifice personal gain to help others, punish unfairness, and contribute to collective welfare even in anonymous one-shot interactions where reputation and reciprocity are impossible.
 
-Cross-cultural research reveals both universal tendencies toward prosocial behavior and significant cultural variation in its expression, suggesting that while capacity for genuine altruism may be universal, its development and manifestation depend on social and cultural factors. This pattern contradicts both strong egoism claims (which would predict universal selfishness) and naive altruism claims (which would ignore cultural variation in prosocial behavior).
 
-## 5. Conclusion Epistemology
+## 3. Why People Believe This
 
-The scientific consensus emerging from multiple research disciplines suggests that humans possess genuine capacity for both selfish and altruistic motivation, with individual and situational factors determining which motivational systems are activated in particular circumstances. This mixed-motive model contradicts both extreme egoism and extreme altruism positions by recognizing the complexity and context-dependence of human moral psychology.
+The epistemological foundation challenging the "inherent selfishness" claim rests on several decades of rigorous experimental research, most notably the extensive program conducted by C. Daniel Batson and colleagues between 1981 and 2011. Batson's empathy-altruism hypothesis proposed that empathic concern for another person's welfare creates genuinely altruistic motivation to help that person.
 
-The persistence of psychological egoism despite contrary evidence reflects several non-empirical factors that maintain belief independent of scientific findings. First, the position provides psychological comfort to individuals who engage in selfish behavior by suggesting that everyone is fundamentally similar, reducing guilt or social pressure to behave more prosocially. Second, it supports political ideologies that favor market-based solutions and individual responsibility by suggesting that appeals to altruism or collective concern are naive or manipulative.
+Batson's experiments employed sophisticated designs to distinguish genuine altruism from various forms of disguised self-interest. In typical studies, participants were given opportunities to help someone in distress under conditions where escape was easy (ruling out distress reduction), anonymity was ensured (ruling out reputation concerns), and no reciprocal benefits were possible (ruling out reciprocal altruism).
 
-The epistemological challenge lies in distinguishing between legitimate scientific skepticism about human motivation and ideologically motivated rejection of inconvenient evidence. Healthy scientific skepticism would examine potential alternative explanations for apparent altruism while remaining open to genuine other-regarding motivation if evidence supports it. Ideological skepticism, by contrast, maintains egoism assumptions regardless of evidence by continuously moving definitional goalposts or invoking unfalsifiable explanations.
+The results consistently supported the existence of genuine altruistic motivation. When participants experienced high empathic concern for a person in need, they helped even when escape was easy and no self-benefits were possible. Critically, these studies included careful controls for various forms of subtle self-interest, including mood management, adherence to internalized moral standards, and anticipated guilt or pride.
 
-The commercial and political interests that promote egoistic assumptions about human nature also influence epistemological assessment. Industries that profit from individual consumption rather than collective action, political movements that oppose social programs or environmental regulations, and intellectual traditions that emphasize individual achievement over social cooperation all have incentives to maintain beliefs about inherent human selfishness regardless of empirical evidence.
+Developmental research provides additional compelling evidence against inherent selfishness. Michael Tomasello's research program at the Max Planck Institute has demonstrated that human infants engage in spontaneous helping behavior before extensive socialization could have shaped such responses. In studies by Felix Warneken and Tomasello, 18-month-old children helped adult experimenters retrieve dropped objects, open doors, or reach desired items without being asked, prompted, or rewarded.
 
-The practical implications of these epistemological choices extend far beyond academic psychology to shape social policies, institutional designs, and individual behavior. Societies that assume humans are purely selfish design different institutions and social programs than societies that recognize genuine altruistic capacity, creating self-fulfilling prophecies where institutional assumptions shape the very behaviors they claim to describe.
+These findings are because they occur before children have developed sophisticated theory of mind capabilities or internalized complex moral rules. The spontaneous nature of infant helping suggests an early-emerging motivation to assist others that cannot easily be attributed to learned self-interested strategies.
 
-## 6. The Wider Field
+Neuroscientific research has identified distinct neural systems associated with empathic concern and altruistic decision-making. Neuroimaging studies show that altruistic choices activate brain regions associated with reward and attachment, suggesting that helping others can be intrinsically rewarding rather than merely instrumentally valuable.
 
-The debate over inherent human selfishness reflects deeper philosophical and political disagreements about the proper organization of society, the role of government, and the possibility of collective action to address shared problems. The psychological egoism claim serves as crucial support for libertarian and market fundamentalist positions by suggesting that policies appealing to altruism or social solidarity are doomed to fail because they contradict fundamental human nature.
 
-The historical context reveals how assumptions about human nature have shifted in response to political and economic changes rather than purely scientific discoveries. The rise of market economics in the 18th and 19th centuries coincided with increased emphasis on self-interested motivation in both economic theory and popular culture. Adam Smith's "invisible hand" metaphor suggested that self-interested behavior could serve collective good through market mechanisms, making selfishness seem not just inevitable but socially beneficial.
+## 4. Verdict
 
-The 20th century witnessed competing narratives about human nature corresponding to different political systems: communist societies emphasized cooperative capacity and collective solidarity, while capitalist societies emphasized individual achievement and competitive motivation. These different emphases shaped both social institutions and research priorities in ways that influenced scientific conclusions about fundamental human nature.
+**Assumption: Widespread Misinterpretation Serving Ideological Functions**
 
-Contemporary neuroscience and evolutionary psychology have complicated simple narratives about human nature by revealing the biological bases of both competitive and cooperative tendencies. Mirror neurons, oxytocin systems, and empathy networks demonstrate neural mechanisms that support other-regarding behavior, while reward systems and status competition reflect mechanisms that support self-interested behavior. The human brain appears designed for both selfish and altruistic motivation depending on social and environmental contexts.
+The claim that humans are inherently selfish or that altruism is merely disguised self-interest represents a fundamental mischaracterization of both evolutionary theory and empirical evidence about human behavior. This assessment reflects not a contested scientific consensus but rather a systematic misinterpretation of research findings combined with selective attention to evidence that supports predetermined ideological positions.
 
-The gender dimensions of altruism research also deserve attention, as assumptions about male competitive nature and female nurturing tendencies have influenced both research design and interpretation of findings about prosocial behavior. The recognition that both men and women possess capacity for competitive and cooperative behavior has challenged essentialist assumptions about gender-specific moral psychology while revealing how cultural expectations shape the expression of underlying capacities.
+The evidence overwhelmingly demonstrates several key conclusions:
 
-The environmental crisis provides a contemporary test case for theories about human nature and collective action capacity. Climate change, biodiversity loss, and resource depletion represent collective action problems that require individuals to make sacrifices for long-term collective benefit. The extent to which societies can mobilize altruistic motivation and collective concern for these challenges provides real-world evidence about human nature that goes beyond laboratory experiments or philosophical arguments.
+**Evolutionary Misconception**: The "selfish gene" metaphor has been systematically misunderstood in ways that Dawkins himself has repeatedly corrected. Gene-level selection can produce altruistic behavior at the organism level, and multiple evolutionary pathways exist for the development of genuine prosocial motivation.
 
-## 7. Snopes+ Verdict
+**Experimental Refutation**: Decades of carefully controlled psychological experiments have documented genuine altruistic behavior that cannot be reduced to disguised self-interest. Batson's empathy-altruism research program provides particularly compelling evidence for other-regarding motivation.
 
-**Rating: FALSE - The claim that humans are inherently selfish and all altruism reduces to self-interest is contradicted by extensive evidence from developmental psychology, neuroscience, and evolutionary biology demonstrating genuine capacity for other-regarding motivation.**
+**Developmental Evidence**: Research on infant helping behavior demonstrates spontaneous prosocial responses that occur before extensive socialization could have shaped such behavior. This early-emerging altruism suggests deep-seated prosocial motivations rather than learned self-interested strategies.
 
-The psychological egoism hypothesis fails as a scientific claim because it is structured as an unfalsifiable tautology that can accommodate any conceivable evidence through post-hoc redefinition rather than empirical testing. The extensive research demonstrating altruistic behavior in infants too young to understand self-interest, neurological evidence for empathy and other-regarding neural systems, and evolutionary models showing how genuine altruism can emerge through natural selection all contradict strong egoism claims about human nature.
+**Neurobiological Substrates**: Neuroscientific research has identified distinct brain systems associated with empathic concern and altruistic decision-making, providing biological evidence for the reality of other-regarding motivations.
 
-The persistence of beliefs about inherent human selfishness despite contrary evidence reflects ideological and psychological needs rather than scientific assessment. The position provides comfort to individuals engaging in selfish behavior while supporting political philosophies that oppose collective action and social programs. However, these motivational factors do not constitute scientific evidence for the underlying claims about human psychology.
+**Cooperative Success**: Large-scale human cooperation in diverse contexts demonstrates the evolutionary and practical viability of prosocial behavior. Societies have successfully designed institutions that cultivate and rely on genuine cooperative motivation.
 
-The practical implications are substantial: assumptions about inherent selfishness become self-fulfilling prophecies that shape institutional design, social policies, and individual behavior in ways that can either encourage or discourage prosocial motivation. Societies that recognize genuine altruistic capacity can design institutions that activate and channel this capacity for collective benefit, while societies that assume pure selfishness may inadvertently suppress cooperative tendencies through institutional structures that reward only competitive behavior.
+**Ideological Function**: The persistence of "inherent selfishness" beliefs despite contrary evidence suggests they serve ideological rather than scientific functions, providing justification for social arrangements that assume the worst about human motivation.
 
-For individuals evaluating claims about human nature, the scientific evidence supports a complex, context-dependent model where humans possess capacity for both selfish and altruistic motivation. The expression of these different motivational systems depends on individual development, social circumstances, cultural values, and institutional structures rather than fixed inherent programming toward either pure selfishness or pure altruism.
+This assessment categorizes this as an "assumption" because the claim operates as a background belief that shapes interpretation of evidence rather than a hypothesis that could be definitively refuted by any single study. The assumption is so deeply embedded in certain theoretical traditions and political philosophies that contrary evidence is often reinterpreted to preserve the core belief.
 
-The broader lesson concerns the evaluation of sweeping claims about human nature: such claims often serve political and ideological functions beyond their empirical content, requiring careful separation of scientific evidence from motivated reasoning. In the case of psychological egoism, the scientific evidence clearly contradicts extreme claims about inherent selfishness while supporting more nuanced understanding of human motivational complexity that includes genuine capacity for other-regarding behavior under appropriate circumstances.
+The real scientific consensus supports a more complex view of human nature that includes both self-interested and genuinely altruistic motivations, with the balance between them influenced by context, culture, and institutional design. Humans possess evolved psychological capacities for both competition and cooperation, with the expression of these capacities significantly shaped by social environment and cultural learning.
+
+Understanding human nature as inherently social rather than inherently selfish provides a more accurate foundation for both scientific research and social policy. This recognition opens possibilities for institutional designs that cultivate prosocial motivation rather than assuming its impossibility, potentially creating more effective and humane approaches to collective challenges.
+
+## 5. The Wider Picture
+
+The "inherent selfishness" claim intersects with broader debates in political philosophy, economic theory, and social policy. The assumption of universal selfishness has been central to rational choice theory in economics, realist approaches to international relations, and libertarian political philosophy. These applications extend the claim's influence far beyond academic psychology into concrete policy decisions about institutional design and social regulation.
+
+The claim serves particular ideological functions by providing scientific-sounding justification for policies that assume the worst about human motivation. If humans are inherently selfish, then social welfare programs are futile, environmental cooperation is impossible without strong incentives, and inequality is natural and inevitable. The claim thus becomes part of a broader narrative that normalizes competitive, individualistic social arrangements while delegitimizing more cooperative alternatives.
+
+However, alternative research traditions have demonstrated the possibility and effectiveness of institutional designs that cultivate and rely on prosocial motivation. Elinor Ostrom's work on common pool resource management showed that communities can successfully manage shared resources through collaborative governance structures that appeal to and strengthen cooperative norms rather than relying solely on external enforcement or market mechanisms.
+
+The behavioral economics revolution has challenged rational choice assumptions by documenting systematic patterns of other-regarding behavior that persist even when people are given opportunities to learn and adjust their strategies. This research suggests that prosocial motivations represent robust features of human psychology rather than easily eliminated anomalies.
+
+Contemporary research on moral psychology reveals the complexity of human moral motivation, with multiple psychological systems governing behavior in different contexts. Jonathan Haidt's moral foundations theory and Joshua Greene's dual-process model suggest that humans possess evolved psychological machinery specifically designed to navigate moral dilemmas and coordinate social cooperation.
+
+The "inherent selfishness" debate also connects to broader questions about human nature and social construction. Critics argue that beliefs about inherent selfishness can become self-fulfilling prophecies, where institutional arrangements based on assumptions of selfishness actually encourage selfish behavior by crowding out intrinsic prosocial motivations.
+
+Research on motivation crowding demonstrates that external incentives designed to manage supposedly selfish behavior can sometimes undermine intrinsic prosocial motivation. When people are paid to donate blood or recycle, participation sometimes decreases rather than increases, suggesting that assuming selfishness can actually create the very behavior it seeks to control.
+
+
+## 6. How Fact-Checkers Handle It
+
+Snopes has not systematically addressed claims about fundamental human nature or the existence of genuine altruism, likely because these represent complex philosophical and scientific questions rather than discrete factual claims suitable for traditional fact-checking. The platform typically focuses on verifiable statements about specific events or policies rather than broad theoretical claims about human psychology or evolutionary biology.
+
+This absence reflects the challenge of fact-checking claims that operate at the intersection of empirical research and philosophical interpretation. While specific studies can be evaluated for methodological rigor, the broader question of whether humans are "inherently selfish" requires interpretation of extensive research across multiple disciplines and careful analysis of what constitutes "genuine" versus "disguised" altruism.
+
+The claim's prevalence in popular discourse, academic writing, and policy debates occurs largely without systematic public scrutiny of its evidential basis or theoretical assumptions. This creates a significant gap where influential beliefs about human nature propagate without rigorous evaluation of their scientific accuracy or philosophical coherence.

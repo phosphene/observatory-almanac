@@ -84,6 +84,8 @@ The five-sense myth matters beyond biology education for several reasons.
 
 The broader lesson: the number of human senses is not a fact about the world so much as it is a fact about how we choose to classify sensory systems. The choice of classification framework is both a scientific and a philosophical question — and Aristotle's answer, influential as it has been, was a particular philosophical choice, not the last word.
 
+There is a practical consequence that extends into medicine. Patients who report sensory experiences that fall outside the classical five — chronic pain that cannot be localized, interoceptive signals experienced as anxiety, vestibular disturbances interpreted as psychological instability — are sometimes under-served by clinical frameworks that still implicitly organize sensory reports around the five-sense model. When the inventory is incomplete, the map cannot account for the territory. Expanding sensory literacy in both clinical training and public education is not an academic refinement; it is a prerequisite for interpreting a significant portion of the human experience of the body.
+
 ## 6. How Fact-Checkers Handle It
 
 The five-sense claim has received popular science coverage but not formal fact-checking attention from the major organizations. This is partly because it is not a political claim and not a viral claim in the acute sense that triggers formal adjudication — it is simply a curriculum standard that happens to be incomplete.

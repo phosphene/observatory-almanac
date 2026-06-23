@@ -141,6 +141,12 @@ The misconception reveals fundamental gaps in statistical education:
 - **Technological determinism:** Attribution of longevity to modern interventions
 - **Cultural superiority:** Validation of contemporary arrangements through contrast with "brutal" historical conditions
 
+**Survivorship Bias in Reverse:** The misconception also illustrates an unusual inversion of survivorship bias. Normally, survivorship bias leads people to overestimate success rates by focusing only on survivors. Here, the opposite occurs: by collapsing an entire bimodal mortality distribution into a single mean, the statistic makes it appear that *no one* survived to old age—erasing the substantial population of elderly individuals who demonstrably existed. The very concept of an "average" lifespan becomes a cognitive trap, encouraging people to imagine a typical individual dying at 33 rather than recognizing two distinct mortality peaks: one in infancy and one in late adulthood.
+
+The claim also persists because it dovetails with a broader "nasty, brutish, and short" narrative about pre-modern life inherited from Thomas Hobbes's *Leviathan* (1651). Hobbes's characterization of life without sovereign authority has been repurposed—often unconsciously—as a general description of pre-modern existence. This philosophical framing gives the demographic claim an intellectual pedigree that makes it feel authoritative even when the underlying data tell a different story. The Hobbesian lens predisposes audiences to accept short lifespans as natural consequences of "primitive" conditions, reinforcing the misconception through narrative coherence rather than evidence.
+
+The pharmaceutical and healthcare industries have also inadvertently reinforced the myth by using historical life expectancy figures to dramatize the value of modern medicine. Marketing materials, public health campaigns, and popular science writing frequently cite "life expectancy was only 35" as a baseline against which to measure contemporary medical achievements. While modern medicine has indeed achieved extraordinary reductions in infant and childhood mortality, the rhetorical framing implies that adults themselves were dying decades earlier than they actually were—conflating the genuine achievement of saving children's lives with the false implication that adult biology has been fundamentally transformed.
+
 
 ## 4. Verdict
 
@@ -194,9 +200,23 @@ The claim represents fundamental misunderstanding of demographic statistics rath
 
 **Teacher Training:** Addressing the misconception requires ensuring history educators have sufficient statistical background, creating interdisciplinary collaboration opportunities, and developing accurate curriculum resources with proper statistical context.
 
+### The Grandmother Hypothesis and Evolutionary Longevity
+
+The misconception directly undermines understanding of one of the most significant theories in human evolutionary biology: the grandmother hypothesis. Proposed by Kristen Hawkes and colleagues based on studies of Hadza foragers, this framework argues that post-menopausal women's provisioning of grandchildren was a key selective pressure extending human lifespan well beyond reproductive years. If humans routinely died at 30-35, the grandmother hypothesis would be incoherent—there would be no grandmothers. The archaeological and ethnographic evidence for substantial post-reproductive lifespans is not merely a demographic curiosity but a window into the evolutionary forces that shaped *Homo sapiens* as a uniquely long-lived primate.
+
+The existence of menopause itself—shared among mammals only with humans, some whale species, and possibly elephants—constitutes biological evidence against short adult lifespans. Natural selection would not have produced a complex physiological transition occurring around age 50 if the vast majority of individuals died two decades earlier. The hormonal architecture of menopause, including the gradual decline in follicular reserve beginning in the mid-30s, presupposes a life history in which decades of post-reproductive life are the norm, not the exception.
+
+### Implications for Contemporary Policy Debates
+
+The misunderstanding has tangible policy consequences. Arguments that aging populations represent an unprecedented "demographic crisis" often implicitly assume that large elderly populations are historically novel. In fact, societies with substantial proportions of elderly members have been the norm throughout human history—what is genuinely new is the near-elimination of infant and childhood mortality, which changes the population *structure* without fundamentally altering the biological parameters of adult aging. Policy discussions grounded in accurate demographic history would focus on dependency ratios and healthcare infrastructure rather than treating elderly populations as an aberration requiring crisis-level intervention.
+
+The misconception also distorts discussions about retirement age and pension sustainability. When politicians argue that retirement systems designed for an era "when people only lived to 65" must be reformed because "now people live to 80," they implicitly invoke the myth of dramatically shorter historical lifespans. In reality, those who survived to working age have always had a reasonable probability of reaching their 60s and 70s—what has changed is the *proportion* of each birth cohort reaching retirement age, not the biological ceiling of human longevity.
+
 
 ## 6. How Fact-Checkers Handle It
 
 Snopes has not directly addressed this demographic claim despite its frequency in educational contexts and policy discussions. This gap reflects the statistical complexity requiring detailed explanation rather than simple true/false categorization, educational embedding giving it apparent scholarly authority, and technical expertise requirements outside typical fact-checking workflows.
 
 The absence creates information environments where statistically sophisticated corrections compete poorly with dramatic, easily remembered numerical claims that align with intuitive assumptions about historical hardship. Without authoritative fact-checking, the misconception continues circulating through textbooks, curricula, media representations, and policy discussions that reference historical demographic patterns without understanding their complexity.
+
+The challenge for fact-checkers is compounded by the claim's seductive simplicity. "People used to die at 30" is a single number that fits in a headline, a tweet, or a textbook sidebar. The correction—"life expectancy at birth was 30-35 due to catastrophic infant mortality, but conditional life expectancy at age 15 was an additional 45-50 years, and archaeological evidence consistently shows substantial elderly populations"—requires statistical literacy, tolerance for nuance, and willingness to abandon a clean narrative. In the economy of attention, the myth has an enormous structural advantage: it is short, memorable, and dramatic, while the truth is long, qualified, and complex. This asymmetry between the compressibility of myths and the irreducible complexity of corrections is one of the deepest challenges in science communication and fact-checking alike.

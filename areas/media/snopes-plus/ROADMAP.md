@@ -160,6 +160,29 @@ Provides:
 
 ---
 
+## Reporting Protocol
+
+> **War story:** `truth_vault/drafts/war-story-phantom-accounting.md` — four weeks of
+> reporting counts from memory instead of disk. The 3,969 figure was off by 2,639.
+
+**Rule: Every progress report must include a ground-truth filesystem count.**
+
+```bash
+# Before reporting ANY library number:
+cd lib/python/truth_vault && uv run python -c "
+from src.phosphene.truth_vault.verify_count import count_entries
+result = count_entries()
+print(f'TRUTH_VAULT_COUNT={result[\"count\"]}')
+"
+```
+
+- The number from this command is the only number that gets reported.
+- Never carry forward a count from a previous session.
+- After every production run: count disk, count manifest, compare, then report.
+- If the two numbers diverge, investigate before reporting. Report both.
+
+---
+
 ## Publication Path
 
 ```

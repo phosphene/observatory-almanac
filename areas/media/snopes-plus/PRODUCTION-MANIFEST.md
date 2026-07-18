@@ -12,8 +12,9 @@ total_batches: 307
 **Total candidates:** 4,601  
 **Batch size:** 15  
 **Total batches:** 307  
-**Current library:** 1,333 entries  
+**Current library:** 1,348 entries (1,333 + 15 Batch 001)  
 **Projected library:** ~5,934 entries  
+**Last batch completed:** Batch 001 — 2026-07-18  
 
 ## Sources
 
@@ -35,23 +36,27 @@ total_batches: 307
 
 ---
 
-## Batch 001 (entries 1–15)
+## Batch 001 (entries 1–15) ✅ COMPLETE — 2026-07-18
 
-1. 📋 [Can a Bite From a Brazilian Wandering Spider Cause a Four-Hour Erection?](https://www.snopes.com/fact-check/brazilian-wandering-spider/)
-2. 🔬 [A parasitic isopod replaces a fish's tongue and lives in the fish's mouth](https://www.snopes.com/fact-check/parasite-fish-tongue-mouth)
-3. 🔬 [A photograph shows a small fish trapped inside a jellyfish](https://www.snopes.com/fact-check/fish-trapped-jellyfish)
-4. 🔬 [The so-called "penis snake" is a real animal](https://www.snopes.com/fact-check/is-penis-snake-a-real-animal)
-5. 🌿 [Benjamin Franklin wanted the turkey to be the national bird of the United States](https://www.snopes.com/fact-check/benjamin-franklin-turkey)
-6. 🌿 ["It is not the strongest of the species that survives, but the most adaptable" is a Charles Darwin quote](https://www.snopes.com/fact-check/darwin-strongest-species-survives-adaptable)
-7. 🔬 [A massive megalodon shark still alive in the ocean today](https://www.snopes.com/fact-check/megalodon-the-monster-shark-lives)
-8. 🔬 [Photographs show a real one-eyed (cyclops) shark fetus](https://www.snopes.com/fact-check/cyclops-shark)
-9. 🌿 [Touching a baby bird causes its mother to abandon it due to human scent](not-addressed)
-10. 🔬 [Evolution represents progressive improvement toward more advanced organisms](not-addressed)
-11. 🌿 [Wolf packs operate on alpha/beta dominance hierarchies](not-addressed)
-12. 🔬 [If you touch a baby bird, its mother will reject it because of human scent](not-addressed)
-13. 📋 [Does Tidy Cat Litter Cause Breathing Problems in Cats?](https://www.snopes.com/fact-check/tidy-cats-breathing-problems/)
-14. 📋 [If a Service Dog Approaches Without  Owner, Does It Need Help?](https://www.snopes.com/fact-check/service-dog-owner-help/)
-15. 📋 [Will a Bee Sting Cause Permanent Penis Enlargement?](https://www.snopes.com/fact-check/bee-sting-penis-enlargement/)
+| # | File | Words | EARC | Gap |
+|---|------|-------|------|-----|
+| 1 | `brazilian-wandering-spider.md` | 3,681 | E | distorted-but-grounded |
+| 2 | `tongue-eating-louse-parasite.md` | 4,042 | E | epistemologically-loaded |
+| 3 | `fish-trapped-inside-jellyfish.md` | 4,561 | E | epistemologically-loaded |
+| 4 | `penis-snake-real-caecilian.md` | 3,736 | E | epistemologically-loaded |
+| 5 | `franklin-wanted-turkey-national-bird.md` | 3,726 | A | distorted-but-grounded |
+| 6 | `darwin-adaptable-species-misquote.md` | 4,294 | A | distorted-but-grounded |
+| 7 | `megalodon-still-alive.md` | 3,786 | R | epistemologically-loaded |
+| 8 | `cyclops-shark-real.md` | 3,535 | E | epistemologically-loaded |
+| 9 | `touching-baby-birds-causes-abandonment.md` | 4,292 | R | distorted-but-grounded |
+| 10 | `evolution-is-progressive-improvement.md` | 4,166 | E | epistemologically-loaded |
+| 11 | `alpha-wolf-pack-dominance.md` | 3,270 | A | distorted-but-grounded |
+| 12 | `touching-baby-birds-mother-rejection.md` | 4,042 | C | contested-consensus |
+| 13 | `tidy-cats-breathing-problems.md` | 3,973 | E | distorted-but-grounded |
+| 14 | `service-dog-owner-help.md` | 4,244 | E | distorted-but-grounded |
+| 15 | `bee-sting-penis-enlargement.md` | 4,158 | E | epistemologically-loaded |
+
+**Batch 001 totals:** 15 entries, 59,505 words, avg 3,967w/entry
 
 ---
 

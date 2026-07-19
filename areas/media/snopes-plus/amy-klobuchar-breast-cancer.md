@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "https://www.snopes.com/fact-check/amy-klobuchar-breast-cancer/"
+snopes_verdict: "not-addressed"
 summary: >
   Senator Amy Klobuchar disclosed her breast cancer diagnosis and successful treatment publicly and voluntarily in September 2021. Claims that she hid or covered up a cancer diagnosis distort a transparent disclosure; the factual record shows she publicly reported her experience and called on others to pursue preventive screening.
 tags:

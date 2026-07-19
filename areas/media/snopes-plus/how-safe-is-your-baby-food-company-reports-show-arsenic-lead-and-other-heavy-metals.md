@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: E
 gap_category: verified-institutional-failure
 snopes_url: "https://www.snopes.com/news/2021/02/05/how-safe-is-your-baby-food/"
+snopes_verdict: "not-addressed"
 summary: >
   A February 2021 congressional investigation found that multiple major commercial baby food brands—including Gerber, Hain Celestial (Earth's Best Organic), Beech-Nut, and Nurture (HappyBABY)—contained measurable levels of inorganic arsenic, lead, cadmium, and mercury. Some products contained levels significantly exceeding what regulators allow in drinking water or what the companies' own internal standards permitted. The finding reflects documented regulatory gaps in the U.S. commercial baby food oversight system and represents a genuine, verified institutional failure rather than a manufactured health scare. The danger is real but complex: context, dose, and age-appropriate eating patterns matter, and panic-driven dietary elimination of whole food categories carries its own risks.
 tags:

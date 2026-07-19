@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "R"
 gap_category: "false-but-persistent"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   The claim that childhood vaccines overwhelm or suppress the developing immune system
   inverts basic immunological reality. The immune system handles millions of simultaneous

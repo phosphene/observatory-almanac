@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   Viral food myths — from detox diets to sugar causing cancer to alkaline water curing disease — exploit legitimate anxieties about industrial food systems to spread misinformation at scale. While real concerns about food processing, labeling, and corporate transparency exist, most popular food panics distort or invent the science entirely.
 tags:

@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   Observational studies genuinely showed that people who ate more beta-carotene-rich foods had lower cancer rates, but clinical trials testing beta-carotene supplements found the opposite — in smokers, supplements significantly increased lung cancer risk and were stopped early. The leap from dietary patterns to isolated pills was the fatal error.
 tags:

@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: E
 gap_category: health-risk-contested
 snopes_url: "https://www.snopes.com/news/2022/10/24/lye-hair-relaxers-breast-cancer/"
+snopes_verdict: "not-addressed"
 summary: >
   Multiple large prospective cohort studies, including the NIH Sister Study and the Black Women's Health Study, have found a statistically significant association between heavy or long-term use of lye-based chemical hair relaxers and an elevated risk of breast cancer, particularly estrogen receptor-positive (ER+) breast cancer in Black women. The evidence is observational—no causal mechanism has been definitively established in human trials—but the signal has been replicated across independent datasets and is supported by plausible endocrine-disruption biology. This is not a simple hoax or conspiracy: the evidence warrants genuine concern and continued regulatory scrutiny, even as researchers continue to refine estimates of magnitude and population-specific risk.
 tags:

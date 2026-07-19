@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   Vitamin D deficiency is real and clinically significant, but the claim that most people
   need high-dose supplementation to reach arbitrarily defined "optimal" blood levels

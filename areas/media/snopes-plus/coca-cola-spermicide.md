@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "https://www.snopes.com/fact-check/coca-cola-spermicide/"
+snopes_verdict: "not-addressed"
 summary: >
   The claim that Coca-Cola can serve as a post-coital spermicidal douche was widespread in American folk contraceptive practice from the 1950s onward and was partially supported by a 1985 laboratory study before subsequent research overturned those findings. The method is both ineffective as contraception and potentially harmful, making this a case of a myth that has a real — but badly distorted — scientific basis.
 tags:

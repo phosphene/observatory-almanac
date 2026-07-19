@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   Claims that popular corn snacks like Doritos and Cheetos are manufactured from industrial waste material, or that they contain uniquely dangerous chemical additives, blend genuine origin facts with significant distortion. The real picture involves food upcycling, not hazardous industrial byproducts, and real but qualified health concerns about specific ingredients.
 tags:

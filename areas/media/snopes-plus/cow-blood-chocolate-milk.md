@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "https://www.snopes.com/fact-check/cow-blood-chocolate-milk/"
+snopes_verdict: "not-addressed"
 summary: >
   The claim that chocolate milk is made from rejected blood-contaminated milk exploits real phenomena — milk containing blood does occasionally occur and must be discarded — but inverts the regulatory truth entirely: such milk cannot be sold. The myth belongs to a durable genre of childhood food horror stories about dark-colored liquids concealing disgusting ingredients.
 tags:

@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   The Type A personality concept was developed by cardiologists who found genuine links between certain behavioural patterns and heart disease, but decades of subsequent research have dissolved the original construct — what actually seems to matter is hostility and anger specifically, not time-pressure or competitiveness. The pop-psychology version of "Type A causes heart attacks" dramatically overextends a legitimate but more nuanced finding.
 tags:

@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   Wet hair does not cause the common cold. Colds are caused by viruses — primarily rhinoviruses — that require exposure to an infected person or contaminated surface. Cold, damp conditions may have subtle effects on immune vulnerability, but being wet outdoors is not a meaningful independent risk factor for infection.
 tags:

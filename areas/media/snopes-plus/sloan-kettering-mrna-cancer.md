@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: E
 gap_category: scientific-misrepresentation
 snopes_url: "https://www.snopes.com/fact-check/sloan-kettering-mrna-cancer/"
+snopes_verdict: "not-addressed"
 summary: >
   A 2018 Sloan Kettering Institute study on mRNA transcription errors in chronic lymphocytic leukemia was misappropriated by the conspiracy and supplement-sales website Natural News in March 2021 to claim that mRNA COVID-19 vaccines promote cancer. The claim is false in every dimension: the Sloan Kettering research studied cellular transcription errors during DNA-to-protein synthesis—a process entirely bypassed by mRNA vaccines, which use synthetically produced, pre-completed mRNA that never interacts with the cell nucleus. The researchers themselves issued a public disclaimer rejecting the misuse of their work. Snopes rated the claim False.
 tags:

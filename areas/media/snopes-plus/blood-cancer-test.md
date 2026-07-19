@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "https://www.snopes.com/fact-check/blood-cancer-test/"
+snopes_verdict: "not-addressed"
 summary: >
   A blood test capable of detecting signals for more than 50 types of cancer was real and entered large-scale trials in the UK in 2021, but calling it a test that detects "all" cancers or works as a simple standalone diagnostic is a significant overstatement. The Galleri test is a real scientific advance at an early stage of validation — not a hidden cure and not yet a routine screening tool.
 tags:

@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: R
 gap_category: distorted-but-grounded
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   No credible evidence exists that Barbra Streisand has been diagnosed with brain cancer. The claim is a recurring celebrity health rumor spread through clickbait advertising networks, tabloid-adjacent websites, and social media posts, with no corroboration from the artist, her representatives, or any credible journalistic source.
 tags:

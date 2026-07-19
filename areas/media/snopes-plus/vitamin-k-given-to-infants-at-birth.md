@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "false-premise"
 snopes_url: "https://www.snopes.com/fact-check/vitamin-k-given-to-infants-at-birth/"
+snopes_verdict: "not-addressed"
 summary: >
   The claim that vitamin K "does not exist" or that the newborn injection is unnecessary rests on a confusion between the vitamin and the chemical symbol for potassium. Vitamin K is a well-established, fat-soluble nutrient whose deficiency in newborns causes potentially fatal bleeding; the injection has been standard of care for over sixty years.
 tags:

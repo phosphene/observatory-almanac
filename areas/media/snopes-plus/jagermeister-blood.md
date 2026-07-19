@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "https://www.snopes.com/fact-check/jagermeister-blood/"
+snopes_verdict: "not-addressed"
 summary: >
   The claim that Jägermeister contains deer or elk blood is false. The German herbal liqueur is made from 56 herbs, spices, fruits, and roots, contains no animal blood, and was confirmed in 2018 to be entirely vegan. The myth persists because of the brand's hunting-themed iconography, dark colour, and opaque ingredient secrecy.
 tags:

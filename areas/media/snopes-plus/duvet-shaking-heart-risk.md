@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   The claim that vigorously shaking a duvet or making a bed can trigger a heart attack is a persistent piece of domestic health folklore. It is not supported by clinical evidence, but it contains a kernel of biological plausibility: sudden physical exertion in a vulnerable individual can, in rare circumstances, precipitate a cardiac event — though the exertion involved in bedmaking is far below the threshold of concern.
 tags:

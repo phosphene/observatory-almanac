@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "https://www.snopes.com/fact-check/breast-cancer-vaccine/"
+snopes_verdict: "not-addressed"
 summary: >
   A breast cancer vaccine does not currently exist as an approved treatment or prevention tool, but legitimate early-stage research is underway. The claim of "suppression" misrepresents a slow and methodical scientific process that is, in fact, being publicised and funded — not hidden.
 tags:

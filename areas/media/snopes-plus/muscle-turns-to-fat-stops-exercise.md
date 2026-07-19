@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   The popular belief that muscle "turns into fat" when a person stops exercising
   conflates two distinct biological processes — muscle atrophy and fat accumulation —

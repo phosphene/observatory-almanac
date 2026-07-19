@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   Claims that Evolution Fresh and premium cold-pressed juice brands contain harmful, misleading, or deceptive ingredients are not addressed in the formal Snopes record, but they reflect a real and documented tension in the premium wellness-drink market: between what "natural," "cold-pressed," and "raw" labelling implies and what those products actually deliver. The evidence does not support claims of specific harm, but does support meaningful concern about marketing accuracy, added sugar content, and pasteurisation exemptions.
 tags:

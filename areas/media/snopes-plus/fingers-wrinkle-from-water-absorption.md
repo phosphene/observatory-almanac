@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   The intuitive explanation — that fingertip skin absorbs water like a sponge and swells unevenly — was standard textbook biology for decades but has been largely displaced by a more remarkable discovery: the wrinkling is an active neurological response, controlled by the sympathetic nervous system, that almost certainly evolved to improve grip on wet or submerged objects, much like the tread on a tyre. The old explanation is wrong in mechanism even if the phenomenon is real enough.
 tags:

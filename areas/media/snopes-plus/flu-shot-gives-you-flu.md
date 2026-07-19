@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   The injectable flu vaccine contains no live replicable virus and cannot cause influenza. Mild post-vaccination symptoms — arm soreness, brief fatigue, low-grade fever — are signs of immune activation, not infection. The belief persists because vaccination coincides with peak flu season, and the difference between immune-system priming and actual illness is poorly understood by most people.
 tags:

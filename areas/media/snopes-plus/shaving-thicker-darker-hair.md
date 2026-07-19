@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   The idea that shaving makes hair grow back thicker, darker, or faster is one of
   the most persistent personal-care myths in circulation. It is empirically false:

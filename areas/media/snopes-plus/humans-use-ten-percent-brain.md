@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "fabricated"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   The claim that humans use only 10 percent of their brain is one of the most
   durable neuroscience myths in popular culture, inspiring self-help industries,

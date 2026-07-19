@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "R"
 gap_category: "fabricated-mechanism"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   The claim that detox diets and juice cleanses "remove toxins" from the body conflates a real physiological process — the liver and kidneys' continuous detoxification of metabolic waste and environmental chemicals — with a commercial concept that has no scientific definition, no proven mechanism, and no clinical evidence of efficacy. When proponents cannot name the toxins being removed or demonstrate that a cleanse removes them, the claim collapses on its own terms.
 tags:

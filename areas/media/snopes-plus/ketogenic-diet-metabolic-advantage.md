@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   The ketogenic diet does produce real metabolic adaptations — appetite suppression, elevated thermic effect from high protein, and possibly modest increases in energy expenditure — but controlled feeding studies consistently demonstrate that the dramatic "metabolic advantage" claimed by popular accounts does not exist at the magnitude promised. A calorie deficit explains most of keto's weight-loss effect; what the diet does reliably is make sustaining that deficit behaviorally easier for many people.
 tags:

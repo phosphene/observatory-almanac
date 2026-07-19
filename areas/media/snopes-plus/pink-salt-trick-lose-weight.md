@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: A
 gap_category: distorted-but-grounded
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   The "pink salt trick" — consuming Himalayan pink salt dissolved in water to trigger rapid weight loss — lacks any credible scientific basis. While pink salt does contain trace minerals, none are present in quantities sufficient to meaningfully affect metabolism, and the sodium content actively works against weight loss by promoting water retention.
 tags:

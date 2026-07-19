@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "https://www.snopes.com/fact-check/mountain-dew-contain-chemical-known-bvo/"
+snopes_verdict: "not-addressed"
 summary: >
   Mountain Dew did historically contain brominated vegetable oil (BVO), a controversial food additive, but PepsiCo removed it by 2020 following consumer pressure. While BVO is classified by Snopes as a "Mixture"—true that it existed, false that it has been proven dangerous at the levels found in soft drinks—the episode reveals a great deal about how food safety information travels online, how regulatory systems struggle to keep pace with chemistry, and why "banned in Europe" is not a reliable shorthand for "dangerous."
 tags:

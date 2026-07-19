@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "https://www.snopes.com/fact-check/childrens-snacks-petroleum/"
+snopes_verdict: "not-addressed"
 summary: >
   Claims that children's snacks are laced with dangerous petroleum-based, cancer-causing ingredients originate largely from a 2016 viral post by David Avocado Wolfe and are rated "Mostly False" by Snopes. While some snack additives are technically petrochemical derivatives, the viral framing strips out dose context, cherry-picks worst-case animal studies, and misrepresents regulatory conclusions, producing a picture of childhood snack foods as actively carcinogenic that is not supported by the scientific record.
 tags:

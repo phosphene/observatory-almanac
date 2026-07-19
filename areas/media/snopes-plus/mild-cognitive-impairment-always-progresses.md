@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   Mild cognitive impairment (MCI) raises the statistical risk of Alzheimer's disease,
   but it is not a one-way door. Substantial proportions of people diagnosed with MCI

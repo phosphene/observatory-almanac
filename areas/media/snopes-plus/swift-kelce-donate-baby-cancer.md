@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: R
 gap_category: distorted-but-grounded
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   Claims that Taylor Swift and Travis Kelce made large personal donations to a specific baby with cancer are unverified and typically originate from engagement-bait social media posts, fabricated news articles, or charity scam infrastructure. While both celebrities have verifiable philanthropic histories, the specific claim has no credible corroboration and follows a recognizable pattern of fabricated celebrity generosity stories used to generate clicks or solicit fraudulent donations.
 tags:

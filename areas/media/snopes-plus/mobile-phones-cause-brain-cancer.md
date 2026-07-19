@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   Decades of epidemiological evidence and rigorous biological studies have not found that mobile phone use causes brain cancer in humans. Phones emit non-ionising radiation incapable of directly damaging DNA. Population-level brain tumour rates have not risen alongside the vast increase in phone use since the 1990s. While ongoing research continues to monitor long-term exposure, current evidence does not support causation.
 tags:

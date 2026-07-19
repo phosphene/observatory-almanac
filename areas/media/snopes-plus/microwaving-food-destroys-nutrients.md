@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   All cooking methods destroy some nutrients, and microwaving is not uniquely destructive — by most comparative measures it preserves nutrients as well as or better than conventional methods because it typically cooks faster at lower temperatures with less added water. The anxiety about microwaves is largely attributable to confusion between ionising and non-ionising radiation, unfamiliarity with a then-new technology, and a recurring pattern in wellness culture of treating any industrial-era technology with presumptive suspicion.
 tags:

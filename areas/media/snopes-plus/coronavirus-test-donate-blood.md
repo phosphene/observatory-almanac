@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "https://www.snopes.com/fact-check/coronavirus-test-donate-blood/"
+snopes_verdict: "not-addressed"
 summary: >
   Early in the pandemic, the claim that donating blood would yield a free COVID-19 test was false — no diagnostic testing was performed on donors. It later became partially true in a narrow sense: from June 2020, several major blood banks began conducting antibody tests on donor blood as a public service, but these tests measured past exposure, not current infection, and could not confirm immunity.
 tags:

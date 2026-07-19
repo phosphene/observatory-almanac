@@ -13,6 +13,7 @@ series: The Truth Vault
 earc_mode: "E"
 gap_category: "distorted-but-grounded"
 snopes_url: "not-addressed"
+snopes_verdict: "not-addressed"
 summary: >
   The Shirley Temple mocktail is one of the most mythologized drinks in American pop culture, with competing creation stories, disputed authorship, and the surprising fact that the actress herself despised it. The real history is more complicated — and more interesting — than the legend.
 tags:

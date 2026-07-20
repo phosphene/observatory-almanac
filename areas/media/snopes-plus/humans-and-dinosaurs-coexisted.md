@@ -7,8 +7,8 @@ author_slug: observatory-editorial
 source: Observatory Almanac
 source_url: https://observatory.wiki
 license: CC BY-NC-SA 4.0
-published: 2026-06-15
-updated: 2026-06-20
+published: 2026-07-20
+updated: 2026-07-20
 series: The Truth Vault
 earc_mode: R
 gap_category: epistemologically-loaded

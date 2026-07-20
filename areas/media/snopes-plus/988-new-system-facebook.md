@@ -13,7 +13,7 @@ series: The Truth Vault
 earc_mode: A
 gap_category: confirmed-with-context
 snopes_url: https://www.snopes.com/fact-check/988-new-system-facebook/
-snopes_verdict: True
+snopes_verdict: "true"
 summary: >
   Snopes confirms that 988 is a real U.S. mental health crisis number, but the fact-check leaves unexplored the deeper questions about how accurate health information travels through social networks, what the "copypasta" format reveals about organic public health communication, and the substantial infrastructure and equity gaps that remain in the 988 system.
 tags:

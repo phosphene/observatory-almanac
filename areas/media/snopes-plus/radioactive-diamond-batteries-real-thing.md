@@ -13,7 +13,7 @@ series: The Truth Vault
 earc_mode: E
 gap_category: partially-validated
 snopes_url: https://www.snopes.com/fact-check/radioactive-diamond-batteries-real-thing/
-snopes_verdict: Mixture
+snopes_verdict: "mixture"
 summary: >
   Snopes correctly identifies diamond batteries as a theoretically grounded but practically unrealized concept, but stops short of examining the betavoltaic physics in depth, the genuine challenges of scaling nuclear waste conversion, and what this technology reveals about the gap between scientific plausibility and engineering feasibility.
 tags:

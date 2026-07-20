@@ -13,7 +13,7 @@ series: The Truth Vault
 earc_mode: A
 gap_category: confirmed-with-context
 snopes_url: https://www.snopes.com/fact-check/medical-expert-flawed-research-can-harm-your-health/
-snopes_verdict: N/A
+snopes_verdict: "not-applicable"
 summary: >
   This Snopes item is not a fact-check but an academic commentary republished from The Conversation, reporting original research on research integrity detection. The article identifies mechanisms by which flawed or fabricated studies enter the medical literature and proposes screening tools, with implications for how systematic review processes and the public can filter evidence quality.
 tags:

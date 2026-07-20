@@ -13,7 +13,7 @@ series: The Truth Vault
 earc_mode: R
 gap_category: context-dependent-true
 snopes_url: https://www.snopes.com/fact-check/dangers-dihydrogen-monoxide/
-snopes_verdict: False
+snopes_verdict: "false"
 summary: >
   Snopes correctly rates the DHMO hoax as False, but the case is far more epistemically rich than simple debunking suggests: the DHMO narrative is technically accurate in every individual factual claim, making it a canonical demonstration of how selective framing and decontextualization can produce false impressions without uttering any literal falsehood. The deeper lesson is about the architecture of misleading-but-true information.
 tags:

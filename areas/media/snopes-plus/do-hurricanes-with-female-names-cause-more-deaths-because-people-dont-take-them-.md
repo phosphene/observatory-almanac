@@ -125,7 +125,7 @@ The extraordinary media coverage of Jung et al. (2014) was not entirely organic.
 
 This is not a malevolent conspiracy. It is a structural outcome of misaligned incentives between scientific epistemology and institutional reputation management. The solutions — more conservative PR practices, greater scientist involvement in science communication, journalist training in interpreting statistical findings, and media organizational policies privileging accuracy over novelty — are well-understood but implemented unevenly across the ecosystem.
 
-### What Fact-Checking Gets Right and Wrong About Replication
+## How Fact-Checkers Handle It
 
 The gender-hurricane case represents one of the more challenging categories for contemporary fact-checking: the claim was published in a peer-reviewed journal and was subsequently undermined by published critique, but neither publication nor critique produced a clean resolution of the type that "True/False" verdicts require. Snopes' "Unproven" rating is appropriate and epistemically honest — it reflects the genuine uncertainty in the scientific literature rather than forcing a binary verdict.
 

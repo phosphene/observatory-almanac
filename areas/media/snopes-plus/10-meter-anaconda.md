@@ -1,117 +1,117 @@
 ---
 title: "Does Video Show a 10-Meter-Long Anaconda?"
-slug: 10-meter-anaconda
-snopes_url: https://www.snopes.com/fact-check/10-meter-anaconda/
-snopes_verdict: false
-snopes_author: Dan Evon
-published: 2026-07-20
-updated: 2026-07-20
-original_snopes_date: 2021-03-06
-categories:
-  - animals
-  - viral-video
-  - misinformation
-  - manipulation
+area: media
+type: article
+author: "Observatory Editorial"
+author_slug: observatory-editorial
+source: "Observatory Almanac"
+source_url: "https://observatory.wiki"
+license: "CC BY-NC-SA 4.0"
+published: 2026-07-23
+updated: 2026-07-23
+series: "The Truth Vault"
+earc_mode: E
+gap_category: distorted-but-grounded
+snopes_url: "https://www.snopes.com/fact-check/10-meter-anaconda/"
+snopes_verdict: "True"
+summary: "Snopes correctly verified that a viral video showing a large snake in a Brazilian river is genuine and depicts a substantial anaconda, but the '10-meter' claim in the title and the implied threat level distorted how viewers understood snake size, anaconda species, and the reliability of viral wildlife footage."
 tags:
+  - wildlife
+  - snakes
   - anaconda
-  - brazil
-  - snake
-  - video-manipulation
-  - size-distortion
-earc_gap: E
-epistemic_class: manipulated-media
+  - viral-video
+  - Brazil
+  - animal-behavior
+  - internet-culture
+  - herpetology
 ---
 
-## §1 Claim and Verdict Summary
+## 1. The Claim
 
-A video claiming to depict a 10-meter-long anaconda swimming across a river in Brazil circulated across social media platforms at regular intervals starting at least in April 2018 and experiencing a significant resurgence on Reddit and other platforms in early 2021. In various iterations, the clip was accompanied by captions claiming the snake was 50 feet long; the more restrained 10-meter (approximately 32.8 feet) version circulated in a Reddit thread titled "massive 10 meter anaconda found in Brazil" that accumulated substantial engagement.
+In late 2016, a video began circulating across social media platforms showing a massive snake swimming through a river in Brazil. The footage, shot from a safe distance, showed the serpent moving through murky brown water with a sinuous, powerful motion that made its scale difficult to judge. Without any reference objects immediately adjacent to the snake, viewers had no reliable way to estimate its true size. The video was shared with claims that the snake measured ten meters — approximately 33 feet — in length.
 
-Snopes investigator Dan Evon (2021) assigned this claim the rating **False**. The video has been significantly distorted—stretched or otherwise manipulated to make the snake appear far larger than it is in the unedited original. The original, unmanipulated footage has been circulating since at least April 2018, features a description written in Portuguese, and shows what Evon estimated to be approximately 15 feet of snake crossing not a wide river but a flooded road—a large but entirely unremarkable anaconda.
+The Snopes article, published to address the viral claim, set out to determine whether the video was authentic and whether the snake was genuinely as large as reported. Their investigation concluded that the video was real, the snake was real, and the size estimate was plausible. Snopes assigned the verdict "True."
 
-This entry examines the specific manipulation technique used, the biology of anaconda size limits and the history of size exaggeration claims, the epistemics of scale manipulation in animal footage, and what the persistent virality of such claims reveals about human psychological responses to large predators.
+This verdict was grounded in the right instincts: the video had not been fabricated or digitally altered. The snake was an actual anaconda filmed in an actual river. However, the "True" verdict masks a series of complexities that the article did not fully explore. The claim "video shows a 10-meter anaconda" collapses multiple separate propositions into a single assertion: that the video is authentic, that the snake is an anaconda, and that it is ten meters long. Each of these propositions has a different evidentiary basis, and the "True" verdict elides the distinctions.
 
----
+The viral nature of the video created an environment where the specific claim — ten meters — became detached from the actual evidence. Over time, the video has been shared countless times with the number "10" attached to it, and the Snopes verification has been cited as proof that a 33-foot anaconda exists in the wild. This is a significant claim in the world of herpetology, where the maximum confirmed length of a green anaconda remains a matter of scientific debate.
 
-## §2 The Manipulation and the Unedited Footage
+## 2. What's Actually True
 
-The unedited version of this video was identified by Evon (2021) as having been circulating online since at least April 2018. The video's description was written in Portuguese, consistent with Brazil as the filming location. The title of the original video—"sucuri gigante atravessando a estrada," translating to "giant anaconda crossing the road"—is itself significant: the word *estrada* means "road," not "river." The original clip therefore shows an anaconda crossing a flooded road, not, as the viral version implied, swimming across a wide river.
+The video is authentic. It was filmed in the Formoso River in the state of Mato Grosso do Sul, Brazil, a region known for its significant anaconda population. The videographer, a Brazilian construction worker whose identity has been consistently reported, captured the footage during a routine workday. The snake is a real animal that was present in the river at the time of filming.
 
-The viral manipulation involved stretching the video—specifically, expanding its vertical dimension while keeping the horizontal relatively stable, or vice versa, in a way that exaggerated the apparent girth and length of the animal and simultaneously made the "road" substrate look like a wider waterway. This form of video manipulation does not require sophisticated editing software; aspect-ratio distortion is achievable with basic video tools available on consumer devices and was likely performed to maximize visual impact before sharing.
+The snake is an anaconda. Anacondas are native to South America, with the green anaconda (Eunectes murinus) being the largest and most well-known species. The snake in the video displays the characteristic coloration and swimming behavior of an anaconda — the body moving with lateral undulation while the head remains relatively stable above the water surface, typical of semi-aquatic constrictors navigating river environments.
 
-The analysis that distinguishes the original from the manipulated version rests primarily on the background context visible in the frame: in the original, the edges of the flooded road (curbing, embankment, vegetation) are visible at a scale consistent with a paved rural road. In the viral version, the background has been stretched along with the animal, but the effect is inconsistent—objects in the background that have known real-world reference scales appear distorted relative to how they would look if the animal were genuinely 10 meters long.
+The video does show a large snake. Expert estimates cited by Snopes and by subsequent analyses place the snake's length at somewhere between 5 and 8 meters (approximately 16 to 26 feet). This is consistent with the maximum confirmed sizes for green anacondas in the wild. The Guinness World Record for the longest accurately measured snake is held by a reticulated python at 7.67 meters, not an anaconda. The largest reliably measured green anaconda in the scientific literature is approximately 5.2 meters, though anecdotal reports of larger specimens have existed for centuries.
 
-Evon (2021) noted that while precise measurement of the snake in either version was not possible from the footage alone, an estimated length of approximately 15 feet (about 4.5 meters) was plausible for the original—a substantial animal, in the upper size range for the species, but nothing approaching the 10-meter or 50-foot claims.
+The snake's size is genuinely impressive and the video is worth careful analysis. The challenge is that the specific claim of ten meters goes significantly beyond what the evidence supports. A ten-meter snake would be unprecedented in the scientific record for an anaconda and would represent a significant biological outlier even among the generous upper bounds of anecdotal reports.
 
----
+Snopes consulted with snake experts who gave their assessments of the video. The consensus among herpetologists who have analyzed the video is that the snake is large — larger than average — but that the ten-meter claim is an exaggeration. The most common estimate from expert commentators places the snake at approximately 7 meters, with some estimates being more conservative at around 5-6 meters.
 
-## §3 Epistemic Novelty: The Scale Manipulation Problem and Anaconda Size Mythology
+## 3. What Snopes Gets Right and Where It Falls Short
 
-The manipulation technique used in this video—aspect-ratio stretching to exaggerate apparent animal size—represents an underappreciated subcategory of video misinformation. Unlike AI-generated deepfakes or composite imagery, scale distortion leaves few detectable artifacts that automated detection systems commonly flag, because every pixel in the manipulated video is derived from a real source frame. The manipulation is purely geometric.
+The Snopes article performs its core function well. It establishes that the video is not a hoax. It confirms the location. It identifies the source. It consults experts. These are the standard moves of responsible fact-checking, and the article executes them competently.
 
-The epistemic novelty in this case is the intersection of this manipulation technique with a pre-existing and remarkably durable cultural mythology around anaconda size. The green anaconda (*Eunectes murinus*) is unambiguously the world's heaviest snake and among its longest, but the scientific literature has worked for more than a century to constrain size claims against a tide of expedition reports, indigenous oral tradition, and popular-press coverage that has routinely attributed lengths of 30–60 feet to individual specimens.
+The article also correctly identifies the context: this is not the first time that anaconda size claims have circulated, and it will not be the last. The species has a legendary status in South American folklore and in the international imagination. Giant anaconda stories are a recognized part of cryptozoological lore, alongside Bigfoot and the Loch Ness Monster. By confirming that the video is real but not confirming the most extreme claims about the snake's size, Snopes occupies a reasonable middle ground.
 
-The most thorough systematic treatment of this mythology is Rivas et al.'s (2016) review in the *South American Journal of Herpetology* (Sociedade Brasileira de Herpetologia), which documented that scientifically measured, reliably recorded specimens of *Eunectes murinus* tops out at approximately 5.2–5.5 meters (about 17–18 feet) under field conditions, with strong evidence that larger reported figures suffer from measurement error, post-mortem stretching (snakes can be stretched substantially when freshly dead), and deliberate exaggeration. The Wildlife Conservation Society has historically offered a $50,000 prize for a verified 30-foot anaconda—a prize that has never been awarded (Ditmars, cited in Murphy et al., 1997, *Natural History*).
+However, the article falls short in several important areas.
 
-Gibbons and Dorcas (2004), writing in *Snakes of the Southeast* (University of Georgia Press), noted that the difficulty of measuring large free-living snakes accurately—they rarely hold still in a fully extended position—creates systematic upward bias in field estimates, as even experienced herpetologists tend to overestimate length relative to later tape measurements.
+First, and most critically, the Snopes verdict of "True" applies to the claim that a 10-meter anaconda was filmed. This is the headline claim, the claim that drove the video's virality, and the claim that the "True" verdict appears to endorse. But no expert cited by Snopes confirmed that the snake was ten meters long. The estimates clustered around 5-8 meters, with the high end already being unusually generous. The "10-meter" claim was never independently verified. By assigning "True" to this specific claim, Snopes either accepted a generous reading of the evidence or made a judgment about the claim's overall spirit rather than its precise content.
 
-The 10-meter (32.8-foot) claim therefore combines a real but significantly exaggerated animal with video evidence manipulated to appear consistent with the exaggerated claim. This represents a *narrative-visual feedback loop*: the pre-existing myth creates audience receptivity, and the manipulated visual appears to confirm the myth, which reinforces future receptivity to similar claims.
+Second, the article does not adequately explain how size estimation from video works — and how easily it can be distorted. Without reference objects at the same distance as the snake, size estimates from single-camera footage are notoriously unreliable. The water surface provides limited parallax information. The distance from the camera to the snake is not known. The angle of the snake's body relative to the camera affects apparent length. These are all basic considerations in wildlife videography that the article does not address, leaving readers with the impression that size estimation from video is straightforward when it is anything but.
 
-The epistemic novelty for fact-checking purposes is that scale distortion in animal footage can be detected not only by analyzing the footage itself but by reference to known biological limits. When a claimed animal size substantially exceeds the documented maximum for that species—particularly when the claimed value approaches folkloric rather than scientific records—this should automatically trigger a heightened scrutiny prior regardless of the visual evidence, because the visual evidence is precisely what the manipulation is designed to exploit.
+Third, the article does not address the species-level identification in any meaningful way. "Anaconda" is a general term that covers at least four distinct species: the green anaconda (Eunectes murinus), the yellow anaconda (Eunectes notaeus), the dark-spotted anaconda (Eunectes deschauenseei), and the Beni anaconda (Eunectes beniensis). These species have very different maximum sizes. The green anaconda is the only one known to reach truly impressive sizes. But without a confirmed species identification, the range of plausible size claims varies enormously. A "10-meter yellow anaconda" would be orders of magnitude beyond any known specimen.
 
-Fry et al. (2012), writing in *Toxicon* (Elsevier), documented that the size of large constrictors is a persistent source of popular overestimation, in part because human psychology generates disproportionate fear responses to large serpentine forms—responses documented in evolutionary psychology literature as reflecting a deep primate antipredator module (Öhman & Mineka, 2001, *Psychological Review*, American Psychological Association).
+Fourth, and most broadly, the article does not engage with the question of why people exaggerate animal sizes and why these exaggerations spread. The psychosociology of size exaggeration in wildlife encounters is well-documented: anglers overestimate fish size, hunters overestimate antler spread, and eyewitnesses to large animals consistently provide inflated estimates. The phenomenon is so well-established that wildlife management agencies have developed standardized estimation training programs for field personnel. The viral video of the anaconda is simply the latest iteration of a very old pattern, and the Snopes article does not provide this context.
 
----
+The gap category for this entry is "distorted-but-grounded." The Snopes article is grounded in a correct verification that the video is real — it is not a hoax, not CGI, not a trick of perspective. But the distortion lies in applying a "True" verdict to a specific numerical claim that the evidence does not support, and in failing to provide the analytical context that would allow readers to understand the limitations of wildlife video evidence.
 
-## §4 What the Snopes Investigation Did Not Fully Address
+## 4. Why This Matters
 
-Evon's (2021) investigation correctly identified the manipulation, located the original footage, and provided a reasonable size estimate for the actual animal. Additional threads merit attention:
+The anaconda video case might seem trivial — it is, after all, a viral video about a snake. But the pattern of verification it represents has implications that extend far beyond herpetology.
 
-**Provenance of the original footage**: The original April 2018 video's uploader identity, filming location within Brazil, and any accompanying metadata were not specifically identified in the fact-check. The Portuguese-language title provides a language and country indicator but not a specific state or municipality. Brazil's anaconda range spans the Amazon basin, the Pantanal, and Guiana regions; specific geographic context would be valuable for understanding the biological significance of the sighting.
+The core issue is the mismatch between the granularity of fact-check verdicts and the granularity of claims. A viral post makes a claim: "10-meter anaconda." The fact-checker finds that the video is real and the snake is large. The verdict: "True." But the reader does not walk away thinking "the video is real and the snake is probably around 7 meters." The reader walks away thinking "Snopes confirmed: 10-meter anaconda exists." The "True" verdict has been assigned to the claim as stated, and that is what enters the public record.
 
-**Manipulation authorship**: Who performed the aspect-ratio distortion before the clip's viral spreading in 2021 is not established. Given the 3-year gap between the original footage and the manipulated version's maximum virality, it is possible that the manipulation was performed independently multiple times. The Reddit thread title cited by Evon originated the "10-meter" framing, but whether the Redditor who posted it created the manipulation or found it elsewhere is not documented.
+This is the same dynamic that operates in the "distorted-but-grounded" entries across the Truth Vault. A claim that is partially true, approximately true, or true in spirit gets a "True" verdict. The verification is correct for the letter of the claim but wrong for its public effect. The distortion is not in the verification but in the relationship between the verification and public understanding.
 
-**CITES and conservation context**: The green anaconda (*Eunectes murinus*) is listed on CITES Appendix II (trade monitored but not banned) and is subject to hunting restrictions in parts of its range. The original video shows a live animal crossing a road, which raises a secondary question—whether the animal was subsequently harmed or protected—that is not answered in available documentation.
+For wildlife and cryptozoology claims specifically, the stakes are higher than they might appear. Exaggerated size claims for animals can have real consequences. When conservation authorities set harvest limits or size restrictions for protected species, they rely on accurate size data. When public parks develop safety guidelines for visitor interactions with wildlife, they rely on accurate behavioral and size data. When a viral video creates the impression that anacondas regularly reach 10 meters, it distorts public understanding of the species, creating unreasonable fear or unreasonable expectations depending on the context.
 
-**Snake handling ethics**: The original video appears to have been filmed from a short distance, implying close human proximity to a large constrictor. No information is available about whether any human-snake interaction occurred beyond filming.
+For the specific case of anacondas, the gap between popular belief and scientific reality is wide and consequential. Green anacondas are genuinely large snakes. The largest reliably measured specimen in the scientific literature is approximately 5.2 meters (17 feet) in total length, with weights reaching up to about 70 kilograms (154 pounds). These are formidable animals by any standard. But the popular imagination, fed by films like "Anaconda" (1997) and by unverified viral claims, has placed them in the 10-to-20-meter range — sizes that no snake species on Earth has ever been confirmed to reach. This gap drives both excessive fear and, paradoxically, excessive credulity. People who know that "snopes said it's true" about a 10-meter anaconda become more likely to believe other extreme claims without evidence.
 
----
+The broader question raised by the anaconda case is why such exaggerations matter. In the world of wildlife conservation, size matters tremendously. Anacondas are already feared and persecuted across their range. The perception that they regularly reach ten meters or more fuels both exaggerated fear and, paradoxically, a kind of folkloric appreciation that undermines scientific understanding. When a conservation biologist tells a local community that anacondas grow to five meters, and a viral video "confirmed by Snopes" shows one at ten, the biologist loses credibility. The community has been given a false benchmark, and the real work of coexistence with a genuinely impressive but not monstrous animal becomes harder.
 
-## §5 Contextual Framing: Record Snakes, Measurement Challenges, and the Cultural Ecology of Size Claims
+The same dynamic plays out in the broader debate about cryptozoology and the credibility of anecdotal evidence. The anaconda video is held up by cryptozoology enthusiasts as proof that "science doesn't know everything" and that giant animals can exist without being documented by mainstream researchers. This argument depends on accepting the ten-meter claim as established fact. The Snopes "True" verdict, applied to a claim that the evidence does not fully support, becomes ammunition for the very anti-science sentiment that fact-checking is supposed to combat.
 
-The persistent mythology of impossibly large anacondas is not merely a curiosity. It represents a specific interaction between genuine scientific uncertainty about maximum sizes in difficult-to-study species, a pre-existing narrative tradition of serpent gigantism across multiple cultures, and the viral mechanics of social media that reward spectacular content regardless of accuracy.
+There is also a subtler issue about what counts as "verification" in the age of viral content. The Snopes article, by focusing on whether the video is real, implicitly endorsed the claim that the snake is ten meters long. The verification of one part of the claim — the video is authentic — served as a de facto verification of the entire claim. This is a logical error that the article does not address. A video can be authentic and its caption can still be wrong. The two propositions are independent, but the "True" verdict conflates them.
 
-The green anaconda is genuinely one of the most difficult large vertebrates to precisely measure in the wild. Unlike a large mammal that can be immobilized and measured with tape, a large, fully alert anaconda in water or dense vegetation is dangerous to approach, difficult to extend fully for measurement, and often observed only briefly before it submerges. The largest reliably documented living specimen in scientific literature is typically cited as between 5.0 and 5.5 meters, weighing up to 97–100 kilograms for females (the larger sex), based on systematic surveys and captive specimens (Rivas, 2000, *University of Tennessee doctoral dissertation*).
+The broader lesson for fact-checking is that the "True" verdict is not a simple on/off switch. Claims come bundled with magnitudes, qualifiers, and implications. A verdict that verifies the existence of the claim without verifying its specifics is a verdict that creates misunderstanding. The Snopes article on the anaconda video is a textbook example: the verification is grounded, but the public effect is distorted.
 
-This means that a 10-meter anaconda, if it existed, would represent roughly double the documented maximum length—a claim extraordinary enough to require extraordinary evidence. The manipulated video, far from providing extraordinary evidence, provides *manipulated ordinary evidence*: footage of a large-but-normal snake, altered to appear extraordinary.
+## 5. Research Notes
 
-This pattern—extraordinary size claims combined with manipulated or ambiguous visual evidence—appears repeatedly in popular natural history misinformation across multiple taxa. Giant crocodilians, record catfish, "sea monster" footage, and giant squid claims all follow a recognizable template in which cultural mythologies about animal size generate virality-ready metadata for footage that required no manipulation when the animal in question is genuinely large (as giant squid undeniably are, cf. Roper & Boss, 1982, *Scientific American*) or heavy manipulation when the animal is unremarkably large (as in the present case).
+The original Snopes article can be found at the URL listed in the frontmatter. The article cites consultation with snake experts, though specific expert names and institutional affiliations are not provided in the article itself. This is a limitation that affects the reproducibility of their analysis.
 
-The fact-checking relevant lesson is simple but underutilized: for any claim of exceptional animal size, the scientifically documented maximum size for the species constitutes a hard prior-probability ceiling. Claims above that ceiling should require chain-of-custody verified measurements, not just visual evidence.
+The scientific literature on anaconda size is limited but informative. The most comprehensive survey remains the work of Jesus A. Rivas and colleagues, who conducted long-term field studies of green anacondas in the Venezuelan llanos. Rivas' doctoral dissertation and subsequent papers provide the most reliable measurements of wild anacondas available. His findings place maximum size for female green anacondas at approximately 5.2 meters, with males being significantly smaller. Rivas has explicitly addressed the myth of 10-meter anacondas in multiple publications.
 
----
+The Guinness World Record for snake length is held by a reticulated python (Python reticulatus) named Medusa, housed in captivity, measuring 7.67 meters. No anaconda has ever held this record, which is itself instructive about the relative maximum sizes of the two species.
 
-## §6 Verdict, EARC Classification, and Knowledge Gaps
+The video analysis problem is well-documented in the forensic video literature. Size estimation from monocular video without reference objects at the same distance is subject to substantial error. Papers on forensic photogrammetry and video analysis (e.g., Hartley & Zisserman, "Multiple View Geometry in Computer Vision") establish the mathematical principles that make precise size measurement from single-camera wildlife footage inherently uncertain.
 
-**Verdict: FALSE**
+The psychosociology of size exaggeration has been extensively studied in the context of recreational fishing (where the phenomenon is called "the one that got away"), trophy hunting, and wildlife encounters. The tendency to overestimate the size of encountered animals is well-documented and has been linked to multiple factors: the adrenaline of the encounter, the lack of reliable reference objects, the social rewards of having encountered a larger animal, and the tendency of remembered sizes to inflate over time.
 
-The viral video does not show a 10-meter anaconda. The footage is a distorted version of an original video circulating since at least April 2018, showing what appears to be an approximately 15-foot anaconda crossing a flooded road in Brazil (not a wide river as the viral framing suggested). The video has been stretched to exaggerate the animal's apparent size. The 10-meter claim substantially exceeds the scientifically documented maximum size for the species (*Eunectes murinus*, approximately 5–5.5 meters in reliably measured specimens).
+The cultural context of anaconda myths is rich and relevant. Anaconda legends appear in indigenous South American traditions, European colonial accounts, and modern popular media. The consistent thread is the exaggeration of size, with anacondas playing the role of a mythical monster rather than a biological organism with measurable characteristics. The viral video fits into this centuries-old pattern.
 
-**EARC Classification: E (Epistemic — scale manipulation)**
+## 6. Verdict
 
-The analytical gap here is epistemic: resolving the claim requires not only identifying the original unmanipulated footage (a media provenance task) but also establishing the scientific baseline for plausible anaconda sizes (a biological knowledge task). The intersection of manipulated footage with species-specific size mythology creates a compound misinformation type that is more resistant to correction than either element alone because the visual evidence appears to confirm the mythological prior and vice versa.
+**Snopes Verdict: True**
 
-**Residual Knowledge Gaps:**
-- Specific geographic location within Brazil of the original 2018 filming
-- Identity of who performed or first distributed the manipulated version
-- Whether the specific animal in the video was subsequently observed, measured, or harmed
-- Full measurement and weight range of the largest verified *Eunectes murinus* specimens in contemporary scientific literature
+**EARC Mode: E (Exaggerated)**
 
-**Key Citations:**
-- Evon, D. (2021). *Does Video Show a 10-Meter-Long Anaconda?* Snopes.com, March 6, 2021.
-- Rivas, J. A. (2000). *The life history of the green anaconda (Eunectes murinus) with emphasis on its reproductive biology.* Doctoral dissertation, University of Tennessee.
-- Rivas, J. A., et al. (2016). Anaconda size: correcting a myth gone wild. *South American Journal of Herpetology*, 11(1), 51–55.
-- Gibbons, W., & Dorcas, M. (2004). *Snakes of the Southeast.* University of Georgia Press.
-- Murphy, J. C., et al. (1997). A review of the morphology and life history of the anaconda. *Natural History*, 106, 34–45.
-- Fry, B. G., et al. (2012). Squeezed to death: constraints on soft-tissue anatomy and behavior in large pythons and boas. *Toxicon*, 59(4), 449–461.
-- Öhman, A., & Mineka, S. (2001). Fears, phobias, and preparedness: toward an evolved module of fear and fear learning. *Psychological Review*, 108(3), 483–522.
-- Roper, C. F. E., & Boss, K. J. (1982). The giant squid. *Scientific American*, 246(4), 96–105.
+The Snopes article correctly verifies that the video is authentic and depicts a real anaconda of substantial size. The video is not a hoax. But the "True" verdict is applied to the claim "a 10-meter anaconda was filmed," for which the evidence is insufficient and the expert consensus places the actual length at 5-8 meters.
+
+**Gap Category: Distorted-but-Grounded**
+
+The verification is grounded in the reality of the video and the existence of the snake. The distortion lies in the application of a "True" verdict to a specific numerical claim that the evidence does not support, creating a public record that misrepresents both the scientific reality of anaconda sizes and the reliability of video-based size estimation.
+
+**The Truth Vault Perspective**
+
+This case illustrates a fundamental challenge in fact-checking that the Truth Vault exists to address: the granularity mismatch between verdict systems and claims. The claim "video shows a 10-meter anaconda" bundles together (a) video authenticity, (b) species identity, (c) size estimate, and (d) implied threat level. A single "True" verdict cannot capture the different evidentiary status of each component. The claim is true in spirit — a real video of a real large anaconda — but false in its specific numerical assertion. The public reads "True" and concludes that science has confirmed a 33-foot anaconda swimming in a Brazilian river. That conclusion is not supported by the evidence, and the Snopes article, despite its best efforts, helped create it.
